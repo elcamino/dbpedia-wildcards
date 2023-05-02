@@ -1,0 +1,4741 @@
+1,000 Guineas Stakes
+1,000 Guineas Trial Stakes
+1000 Guineas Stakes
+1000 Guineas Trial Stakes
+100 Welsh Heroes
+1200 Guineas Stakes
+1400 Guineas Stakes
+1780 Epsom Derby
+1781 Epsom Derby
+1809 Epsom Derby
+1836 Grand Liverpool Steeplechase
+1837 Grand Liverpool Steeplechase
+1838 Grand Liverpool Steeplechase
+1839 Grand National
+1840 Grand National
+1841 Grand National
+1842 Grand National
+1843 Grand National
+1844 Grand National
+1845 Grand National
+1846 Grand National
+1847 Grand National
+1848 Grand National
+1849 Grand National
+1850 Grand National
+1851 Grand National
+1852 Grand National
+1853 Grand National
+1854 Grand National
+1855 Grand National
+1856 Grand National
+1857 Grand National
+1858 Grand National
+1859 Grand National
+1860 Grand National
+1861 Grand National
+1861 Melbourne Cup
+1862 Grand National
+1862 Melbourne Cup
+1863 Grand National
+1863 Melbourne Cup
+1864 Grand National
+1864 Melbourne Cup
+1865 Grand National
+1865 Melbourne Cup
+1866 Grand National
+1866 Melbourne Cup
+1867 Belmont Stakes
+1867 Grand National
+1867 Melbourne Cup
+1868 Grand National
+1868 Melbourne Cup
+1869 Grand National
+1869 Melbourne Cup
+1870 Grand National
+1870 Melbourne Cup
+1871 Grand National
+1871 Melbourne Cup
+1872 Grand National
+1872 Melbourne Cup
+1873 Grand National
+1873 Melbourne Cup
+1874 Grand National
+1874 Melbourne Cup
+1875 Grand National
+1875 Kentucky Derby
+1875 Melbourne Cup
+1876 Grand National
+1876 Kentucky Derby
+1876 Melbourne Cup
+1877 Grand National
+1877 Kentucky Derby
+1877 Melbourne Cup
+1878 Grand National
+1878 Kentucky Derby
+1878 Melbourne Cup
+1879 Grand National
+1879 Kentucky Derby
+1879 Melbourne Cup
+1880 Grand National
+1880 Kentucky Derby
+1880 Melbourne Cup
+1881 Grand National
+1881 Kentucky Derby
+1881 Melbourne Cup
+1882 Belmont Stakes
+1882 Epsom Derby
+1882 Grand National
+1882 Kentucky Derby
+1882 Melbourne Cup
+1883 Grand National
+1883 Kentucky Derby
+1883 Melbourne Cup
+1884 Grand National
+1884 Kentucky Derby
+1884 Melbourne Cup
+1885 Belmont Stakes
+1885 Grand National
+1885 Kentucky Derby
+1885 Melbourne Cup
+1886 Epsom Derby
+1886 Grand National
+1886 Kentucky Derby
+1886 Melbourne Cup
+1887 Grand National
+1887 Kentucky Derby
+1887 Melbourne Cup
+1888 Belmont Stakes
+1888 Grand National
+1888 Kentucky Derby
+1888 Melbourne Cup
+1889 Grand National
+1889 Kentucky Derby
+1889 Melbourne Cup
+1890 Epsom Derby
+1890 Grand National
+1890 Kentucky Derby
+1890 Melbourne Cup
+1891 Grand National
+1891 Kentucky Derby
+1891 Melbourne Cup
+1892 Epsom Derby
+1892 Grand National
+1892 Kentucky Derby
+1892 Melbourne Cup
+1893 Epsom Derby
+1893 Grand National
+1893 Kentucky Derby
+1893 Melbourne Cup
+1894 Grand National
+1894 Kentucky Derby
+1894 Melbourne Cup
+1895 Grand National
+1895 Kentucky Derby
+1895 Melbourne Cup
+1895 Preakness Stakes
+1896 Grand National
+1896 Kentucky Derby
+1896 Melbourne Cup
+1897 Grand National
+1897 Kentucky Derby
+1897 Melbourne Cup
+1898 Grand National
+1898 Kentucky Derby
+1898 Melbourne Cup
+1899 Belmont Stakes
+1899 Grand National
+1899 Kentucky Derby
+1899 Melbourne Cup
+1899 Preakness Stakes
+1900 Grand National
+1900 Kentucky Derby
+1901 Belmont Stakes
+1901 Grand National
+1901 Kentucky Derby
+1901 Preakness Stakes
+1902 Grand National
+1902 Kentucky Derby
+1903 Grand National
+1903 Kentucky Derby
+1904 Grand National
+1904 Kentucky Derby
+1904 Melbourne Cup
+1905 Grand National
+1905 Kentucky Derby
+1906 Grand National
+1906 Kentucky Derby
+1906 Vanderbilt Elimination Race
+1907 Grand National
+1907 Kentucky Derby
+1908 Grand National
+1908 Kentucky Derby
+1909 Grand National
+1909 Kentucky Derby
+1910 Belmont Stakes
+1910 Grand National
+1910 Kentucky Derby
+1911 Grand National
+1911 Kentucky Derby
+1912 Grand National
+1912 Kentucky Derby
+1913 Grand National
+1913 Kentucky Derby
+1914 Grand National
+1914 Kentucky Derby
+1915 Grand National
+1915 Kentucky Derby
+1916 Kentucky Derby
+1917 Kentucky Derby
+1917 War Steeplechase
+1918 Kentucky Derby
+1918 War Steeplechase
+1919 Belmont Stakes
+1919 Grand National
+1919 Kentucky Derby
+1919 Preakness Stakes
+1920 Belmont Stakes
+1920 Epsom Derby
+1920 Grand National
+1920 Kentucky Derby
+1921 Grand National
+1921 Kentucky Derby
+1921 Melbourne Cup
+1922 Grand National
+1922 Kentucky Derby
+1923 Grand National
+1923 Kentucky Derby
+1924 Grand National
+1924 Kentucky Derby
+1925 Grand National
+1925 Kentucky Derby
+1925 Preakness Stakes
+1926 Grand National
+1926 Kentucky Derby
+1926 Preakness Stakes
+1927 Grand National
+1927 Kentucky Derby
+1927 Preakness Stakes
+1928 Grand National
+1928 Italian Grand Prix
+1928 Kentucky Derby
+1928 Preakness Stakes
+1929 Grand National
+1929 Kentucky Derby
+1929 Melbourne Cup
+1929 Preakness Stakes
+1930 Belmont Stakes
+1930 Grand National
+1930 Kentucky Derby
+1930 Melbourne Cup
+1931 Grand National
+1931 Kentucky Derby
+1932 Grand National
+1932 Kentucky Derby
+1933 Grand National
+1933 Kentucky Derby
+1934 Grand National
+1934 Kentucky Derby
+1934 Swiss Grand Prix
+1935 Belmont Stakes
+1935 Grand National
+1935 Kentucky Derby
+1936 Grand National
+1936 Kentucky Derby
+1937 Belmont Stakes
+1937 Flatenloppet
+1937 Grand National
+1937 Kentucky Derby
+1938 Grand National
+1938 Kentucky Derby
+1939 Grand National
+1939 Kentucky Derby
+1940 Grand National
+1940 Kentucky Derby
+1941 Belmont Stakes
+1941 Kentucky Derby
+1942 Kentucky Derby
+1943 Belmont Stakes
+1943 Kentucky Derby
+1944 Kentucky Derby
+1945 Kentucky Derby
+1946 Belmont Stakes
+1946 Grand National
+1946 Kentucky Derby
+1947 Grand National
+1947 Kentucky Derby
+1947 Melbourne Cup
+1947 Preakness Stakes
+1948 Belmont Stakes
+1948 Grand National
+1948 Kentucky Derby
+1949 Belmont Stakes
+1949 Grand National
+1949 Kentucky Derby
+1950 Grand National
+1950 Kentucky Derby
+1951 Grand National
+1951 Kentucky Derby
+1951 Preakness Stakes
+1952 Grand National
+1952 Kentucky Derby
+1953 Grand National
+1953 Kentucky Derby
+1954 Grand National
+1954 Kentucky Derby
+1954 Melbourne Cup
+1955 Grand National
+1955 Kentucky Derby
+1955 Preakness Stakes
+1956 Grand National
+1956 Kentucky Derby
+1956 Preakness Stakes
+1957 Grand National
+1957 Kentucky Derby
+1957 Preakness Stakes
+1958 Grand National
+1958 Kentucky Derby
+1958 Preakness Stakes
+1959 Grand National
+1959 Kentucky Derby
+1959 Preakness Stakes
+1960 Grand National
+1960 Kentucky Derby
+1960 Preakness Stakes
+1961 Grand National
+1961 Kentucky Derby
+1961 Preakness Stakes
+1962 Brussels Grand Prix
+1962 Grand National
+1962 Kentucky Derby
+1962 Preakness Stakes
+1963 Grand National
+1963 Kentucky Derby
+1963 Preakness Stakes
+1964 Grand National
+1964 Kentucky Derby
+1964 Preakness Stakes
+1965 Chase
+1965 Grand National
+1965 Kentucky Derby
+1965 Melbourne Cup
+1965 Preakness Stakes
+1966 Grand National
+1966 Kentucky Derby
+1966 Preakness Stakes
+1967 Grand National
+1967 Kentucky Derby
+1967 Preakness Stakes
+1968 Grand National
+1968 Kentucky Derby
+1968 Preakness Stakes
+1969 Grand National
+1969 Kentucky Derby
+1969 Preakness Stakes
+1970 Grand National
+1970 Kentucky Derby
+1970 Preakness Stakes
+1971 Grand National
+1971 Kentucky Derby
+1971 Preakness Stakes
+1971 Prix de l'Arc de Triomphe
+1972 Grand National
+1972 Kentucky Derby
+1972 Preakness Stakes
+1973 Belmont Stakes
+1973 Grand National
+1973 Kentucky Derby
+1973 Preakness Stakes
+1974 Grand National
+1974 Kentucky Derby
+1974 Preakness Stakes
+1975 Grand National
+1975 Kentucky Derby
+1975 Preakness Stakes
+1976 Grand National
+1976 Kentucky Derby
+1976 Preakness Stakes
+1977 Belmont Stakes
+1977 Grand National
+1977 Kentucky Derby
+1977 Preakness Stakes
+1978 Belmont Stakes
+1978 Grand National
+1978 Kentucky Derby
+1978 Preakness Stakes
+1978 Prix de l'Arc de Triomphe
+1979 Epsom Derby
+1979 Grand National
+1979 Kentucky Derby
+1979 Preakness Stakes
+1980 Epsom Derby
+1980 Grand National
+1980 Kentucky Derby
+1980 Preakness Stakes
+1981 Epsom Derby
+1981 Grand National
+1981 Kentucky Derby
+1981 Preakness Stakes
+1982 Epsom Derby
+1982 Grand National
+1982 Kentucky Derby
+1982 Melbourne Cup
+1982 Preakness Stakes
+1983 Epsom Derby
+1983 Grand National
+1983 Kentucky Derby
+1983 Melbourne Cup
+1983 Preakness Stakes
+1984 Epsom Derby
+1984 Grand National
+1984 Kentucky Derby
+1984 Preakness Stakes
+1985 Epsom Derby
+1985 Grand National
+1985 Kentucky Derby
+1985 Preakness Stakes
+1986 Epsom Derby
+1986 Grand National
+1986 Kentucky Derby
+1986 Preakness Stakes
+1987 Epsom Derby
+1987 Grand National
+1987 Kentucky Derby
+1987 Preakness Stakes
+1988 Epsom Derby
+1988 Grand National
+1988 Kentucky Derby
+1988 Melbourne Cup
+1988 Preakness Stakes
+1989 Epsom Derby
+1989 Grand National
+1989 Kentucky Derby
+1989 Preakness Stakes
+1990 Epsom Derby
+1990 Grand National
+1990 Kentucky Derby
+1990 Preakness Stakes
+1991 Belmont Stakes
+1991 Epsom Derby
+1991 Grand National
+1991 Kentucky Derby
+1991 Preakness Stakes
+1992 Epsom Derby
+1992 Grand National
+1992 Kentucky Derby
+1992 Preakness Stakes
+1993 Epsom Derby
+1993 Grand National
+1993 Kentucky Derby
+1993 Melbourne Cup
+1993 Preakness Stakes
+1994 Epsom Derby
+1994 Grand National
+1994 Kentucky Derby
+1994 Preakness Stakes
+1995 Epsom Derby
+1995 Grand National
+1995 Kentucky Derby
+1995 Preakness Stakes
+1996 Epsom Derby
+1996 Grand National
+1996 Kentucky Derby
+1996 Preakness Stakes
+1997 Belmont Stakes
+1997 Epsom Derby
+1997 Grand National
+1997 Kentucky Derby
+1997 Melbourne Cup
+1997 Preakness Stakes
+1998 Belmont Stakes
+1998 Epsom Derby
+1998 Grand National
+1998 Kentucky Derby
+1998 Melbourne Cup
+1998 Preakness Stakes
+1999 Belmont Stakes
+1999 Epsom Derby
+1999 Grand National
+1999 Kentucky Derby
+1999 Melbourne Cup
+1999 Preakness Stakes
+2,000 Guineas Stakes
+2,000 Guineas Trial Stakes
+2000 Belmont Stakes
+2000 Epsom Derby
+2000 Grand National
+2000 Guineas Stakes
+2000 Guineas Trial Stakes
+2000 Kentucky Derby
+2000 Melbourne Cup
+2000 Preakness Stakes
+2001 Belmont Stakes
+2001 Epsom Derby
+2001 Grand National
+2001 Kentucky Derby
+2001 Melbourne Cup
+2001 Preakness Stakes
+2002 Belmont Stakes
+2002 Epsom Derby
+2002 Grand National
+2002 Kentucky Derby
+2002 Melbourne Cup
+2002 Preakness Stakes
+2002 Winter Olympics torch relay
+2003 1000 km of Le Mans
+2003 Bathurst 24 Hour
+2003 Belmont Stakes
+2003 Epsom Derby
+2003 Grand National
+2003 Kentucky Derby
+2003 Melbourne Cup
+2003 Myanmar banking crisis
+2003 Preakness Stakes
+2004 Belmont Stakes
+2004 Epsom Derby
+2004 Grand National
+2004 Kentucky Derby
+2004 Melbourne Cup
+2004 Preakness Stakes
+2005 Belmont Stakes
+2005 Black-Eyed Susan Stakes
+2005 Breeders' Cup
+2005 Breeders' Cup Classic
+2005 Epsom Derby
+2005 Grand National
+2005 Isle of Man TT
+2005 Kentucky Derby
+2005 Melbourne Cup
+2005 Preakness Stakes
+2006 Belmont Stakes
+2006 Black-Eyed Susan Stakes
+2006 Breeders' Cup Classic
+2006 Epsom Derby
+2006 Grand National
+2006 Kentucky Derby
+2006 Melbourne Cup
+2006 Preakness Stakes
+2007 Belmont Stakes
+2007 Black-Eyed Susan Stakes
+2007 Breeders' Cup Classic
+2007 Epsom Derby
+2007 Grand National
+2007 Kentucky Derby
+2007 Melbourne Cup
+2007 Preakness Stakes
+2008 Belmont Stakes
+2008 Black-Eyed Susan Stakes
+2008 Breeders' Cup Classic
+2008 Epsom Derby
+2008 Grand National
+2008 Kentucky Derby
+2008 Major League Baseball Home Run Derby
+2008 Melbourne Cup
+2008 Preakness Stakes
+2009 Belmont Stakes
+2009 Black-Eyed Susan Stakes
+2009 Breeders' Cup
+2009 Breeders' Cup Classic
+2009 Epsom Derby
+2009 Grand National
+2009 Kentucky Derby
+2009 Major League Baseball Home Run Derby
+2009 Melbourne Cup
+2009 Preakness Stakes
+2009 World Amateur Boxing Championships – Featherweight
+2009 World Amateur Boxing Championships – Flyweight
+2009 World Amateur Boxing Championships – Lightweight
+2010 Belmont Stakes
+2010 Black-Eyed Susan Stakes
+2010 Breeders' Cup Classic
+2010 Epsom Derby
+2010 Grand National
+2010 Kentucky Derby
+2010 Major League Baseball Home Run Derby
+2010 Melbourne Cup
+2010 Preakness Stakes
+2010 Scottish Rally Championship season
+2010 Winter Olympics torch relay
+2011 2000 Guineas Stakes
+2011 Belmont Stakes
+2011 Black-Eyed Susan Stakes
+2011 Breeders' Cup Classic
+2011 Epsom Derby
+2011 Grand National
+2011 Kentucky Derby
+2011 Major League Baseball Home Run Derby
+2011 Melbourne Cup
+2011 Pan American Games torch relay
+2011 Preakness Stakes
+2011 Scottish Rally Championship season
+2012 2000 Guineas Stakes
+2012 Belmont Stakes
+2012 Black-Eyed Susan Stakes
+2012 Breeders' Cup Classic
+2012 Champion Stakes
+2012 Cheltenham Gold Cup
+2012 Epsom Derby
+2012 Grand National
+2012 Kentucky Derby
+2012 Major League Baseball Home Run Derby
+2012 Melbourne Cup
+2012 Preakness Stakes
+2012 Scottish Rally Championship season
+2012 World Thoroughbred Rankings
+2013 2000 Guineas Stakes
+2013 Belmont Stakes
+2013 Black-Eyed Susan Stakes
+2013 Breeders' Cup Classic
+2013 Champion Stakes
+2013 Cheltenham Gold Cup
+2013 Epsom Derby
+2013 Grand National
+2013 Kentucky Derby
+2013 Major League Baseball Home Run Derby
+2013 Melbourne Cup
+2013 Preakness Stakes
+2013 Scottish Rally Championship season
+2013–14 South American Beach Volleyball Circuit
+2013–14 South American Beach Volleyball Circuit
+2013–14 South American Beach Volleyball Circuit
+2014 2000 Guineas Stakes
+2014 Aaron's 499
+2014 Belmont Stakes
+2014 Black-Eyed Susan Stakes
+2014 Breeders' Cup Classic
+2014 Cheltenham Gold Cup
+2014 Epsom Derby
+2014 Grand National
+2014 Kentucky Derby
+2014 Major League Baseball Home Run Derby
+2014 Melbourne Cup
+2014 Preakness Stakes
+2014 Prix de l'Arc de Triomphe
+2014 Scottish Rally Championship season
+2015 2000 Guineas Stakes
+2015 Belmont Stakes
+2015 Black-Eyed Susan Stakes
+2015 Breeders' Cup
+2015 Breeders' Cup Classic
+2015 Cheltenham Gold Cup
+2015 Epsom Derby
+2015 Grand National
+2015 Kentucky Derby
+2015 Major League Baseball Home Run Derby
+2015 Melbourne Cup
+2015 NNSW FFA Cup Qualifying Rounds
+2015 Pan American Games torch relay
+2015 Preakness Stakes
+2016 Belmont Stakes
+2016 Black-Eyed Susan Stakes
+2016 Breeders' Cup
+2016 Breeders' Cup Classic
+2016 Cheltenham Gold Cup
+2016 Epsom Derby
+2016 Grand National
+2016 Kentucky Derby
+2016 Melbourne Cup
+2016 Preakness Stakes
+2016 Scottish Rally Championship
+2017 Belmont Stakes
+2017 Black-Eyed Susan Stakes
+2017 Breeders' Cup
+2017 Breeders' Cup Classic
+2017 Cheltenham Gold Cup
+2017 Epsom Derby
+2017 Grand National
+2017 Kentucky Derby
+2017 Melbourne Cup
+2017 Preakness Stakes
+2018 2000 Guineas Stakes
+2018 Belmont Stakes
+2018 Black-Eyed Susan Stakes
+2018 Breeders' Cup
+2018 Breeders' Cup Classic
+2018 Cheltenham Gold Cup
+2018 Epsom Derby
+2018 Grand National
+2018 Kentucky Derby
+2018 King George VI and Queen Elizabeth Stakes
+2018 Melbourne Cup
+2018 Preakness Stakes
+2019 Belmont Stakes
+2019 Black-Eyed Susan Stakes
+2019 Breeders' Cup
+2019 Breeders' Cup Classic
+2019 Cheltenham Gold Cup
+2019 Dubai World Cup
+2019 Epsom Derby
+2019 Grand National
+2019 Kentucky Derby
+2019 King George VI and Queen Elizabeth Stakes
+2019 Melbourne Cup
+2019 Preakness Stakes
+2020 Belmont Stakes
+2020 Black-Eyed Susan Stakes
+2020 Breeders' Cup
+2020 Breeders' Cup Classic
+2020 Cheltenham Gold Cup
+2020 Epsom Derby
+2020 Kentucky Derby
+2020 King George VI and Queen Elizabeth Stakes
+2020 Melbourne Cup
+2020 Preakness Stakes
+2021 Belmont Stakes
+2021 Breeders' Cup
+2021 Breeders' Cup Classic
+2021 Cheltenham Gold Cup
+2021 Dubai World Cup
+2021 Epsom Derby
+2021 Grand National
+2021 Kentucky Derby
+2021 Melbourne Cup
+2021 Preakness Stakes
+2022 Belmont Stakes
+2022 Cheltenham Gold Cup
+2022 Dubai World Cup
+2022 Epsom Derby
+2022 Grand National
+2022 Kentucky Derby
+2022 King George VI and Queen Elizabeth Stakes
+2022 Preakness Stakes
+2022 Saudi Cup
+3000 metres steeplechase world record progression
+5-year-old European Championship
+A.V. Kewney Stakes
+AAMI Vase
+AJC Metropolitan Handicap
+AJC St Leger
+ASW Handicap Chase
+A D Hollindale Stakes
+A Gleam Handicap
+A J Moir Stakes
+A J Scahill Stakes
+Aberdeen Stakes
+Abernant Stakes
+Abu Dhabi Championship
+Abuse
+Achievement Stakes
+Achilles Stakes
+Ack Ack Handicap
+Ack Ack Handicap
+Ack Ack Stakes
+Acomb Stakes
+Acorn Stakes
+Adelaide Cup
+Adhesive weight
+Adios Pace
+Adirondack Stakes
+Adonis Juvenile Novices' Hurdle
+Adoration Stakes
+Adrian Knox Stakes
+Advance Stakes
+Aegon Turf Sprint Stakes
+Affectionately Handicap
+Affirmed Handicap
+Affirmed Stakes
+Affirmed Stakes
+Affirmed Stakes
+African Rally Championship
+Agua Caliente Handicap
+Aichi Hai
+Aintree Hurdle
+Aircraft gross weight
+Ajax Stakes
+Al Fahidi Fort
+Al Maktoum Challenge, Round 1
+Al Maktoum Challenge, Round 2
+Al Maktoum Challenge, Round 3
+Al Quoz Sprint
+Al Rashidiya
+Al Shindagha Sprint
+Alabama Stakes
+Alanna Homes Champion Novice Hurdle
+Albany Stakes
+Albany Stakes
+Alcibiades Stakes
+Alexandra Stakes
+Alfred G. Vanderbilt Handicap
+Algoma Stakes
+Alien Soldier
+Alien Syndrome
+Alister Clark Stakes
+All Aged Stakes
+All Along Stakes
+All American Futurity
+All American Stakes
+All Brandy Stakes
+All England Cup
+Allaire duPont Distaff Stakes
+Allaire duPont Stakes
+Altcar Novices' Chase
+Alydar Stakes
+Alysheba Stakes
+Alywow Stakes
+Amalgamated Sugar Company
+American 1000 Guineas Stakes
+American Classic Races
+American Derby
+American Handicap
+American Jockey Club Cup
+American Legion Handicap
+American Oaks
+American Pacing Classic
+American Pharoah Stakes
+American St. Leger Stakes
+American Stakes
+American Trotting Classic
+American Turf Stakes
+American triple crown
+Amethyst Stakes
+Amlin 1965 Chase
+Amsterdam Stakes
+An Riocht Chase
+Anaglog's Daughter Mares Novice Chase
+Ancient Title Stakes
+Angels Flight Stakes
+Anglesey Stakes
+Angst Stakes
+Angus Armanasco Stakes
+Annapolis Subscription Plate
+Anne Arundel Stakes
+Anniversary 4-Y-O Novices' Hurdle
+Annual Champion Stakes
+Antares Stakes
+Anthony Mildmay, Peter Cazalet Memorial Chase
+Aoba Sho
+Aphrodite Stakes
+Apollo Stakes
+Appalachian Stakes
+Apple Blossom Handicap
+Appleton Stakes
+Arabian World Cup
+Arc
+Arc Trial
+Arcadia Handicap
+Arcadia Stakes
+Arena Racing Company Grand Prix
+Argonaut Handicap
+Arima Kinen
+Aristides Stakes
+Arkansas Derby
+Arkle Challenge Trophy
+Arkle Novice Chase
+Arlesey Bomb
+Arlington-Washington Futurity Stakes
+Arlington-Washington Lassie Stakes
+Arlington Classic
+Arlington Cup
+Arlington Handicap
+Arlington Matron Handicap
+Arlington Matron Stakes
+Arlington Million
+Arlington Oaks
+Arlington Sprint Handicap
+Arlington Stakes
+Arran Scottish Fillies' Sprint Stakes
+Arrowfield 3YO Sprint
+Arroyo Seco Mile Stakes
+Art Rooney Pace
+Artemis Stakes
+Asahi Hai Futurity Stakes
+Ascendant Stakes
+Ascot Chase
+Ascot Gold Cup
+Ascot Hurdle
+Ascot Silver Cup
+Ashland Oaks
+Ashland Stakes
+Ashley T. Cole Handicap
+Asian Beau Stakes
+Asian Mile Challenge
+Aspiration Quality
+Astarita Stakes
+Aston Park Stakes
+Astoria Stakes
+Astra Stakes
+Astro cảm xúc
+Atalanta Stakes
+Athasi Stakes
+Athenia Stakes
+Athletics at the 1896 Summer Olympics – Men's 100 metres
+Athletics at the 1964 Summer Olympics – Men's 3000 metres steeplechase
+Auckland Cup
+Auckland Pacing Cup
+August Stakes
+Auraria Stakes
+Aurie's Star Handicap
+Australasian Oaks
+Australia Live TV
+Australia Stakes
+Australian Cup
+Australian Cup
+Australian Derby
+Australian Guineas
+Australian Oaks
+Autumn Miss Stakes
+Autumn Stakes
+Autumn Stakes
+Autumn Stakes
+Autumn Stakes
+Awapuni Gold Cup
+Awesome Again Stakes
+Fred "Cappy" Capossela Stakes
+Fred Best Classic
+Fred Darling Stakes
+Fred W. Hooper Handicap
+Fred W. Hooper Stakes
+Fred Winter Juvenile Novices' Handicap Hurdle
+Frederick County Public Schools
+Freebets.com Trophy Chase
+Freehold Stakes
+Freeston Academy
+French Classic Races
+French Senate election, 2004
+Friedensau Adventist University
+Frizette Stakes
+FrontRunner Stakes
+Front Line
+Frost King Stakes
+Frühjahrs-Meile
+Frühjahrs Dreijährigen-Preis
+Fuchu Himba Stakes
+Fuji Stakes
+Fukuryu Stakes
+Fukushima Himba Stakes
+Fukushima Kinen
+Fulke Walwyn Kim Muir Challenge Cup
+Funny Cide Stakes
+Furious Stakes
+Fury Stakes
+Hendrie Stakes
+Henlow Derby
+Hennessy Gold Cup
+Hennessy Gold Cup
+Henry II Stakes
+Henry S. Clark Stakes
+Henry VIII Novices' Chase
+Hobart Cup
+Hobartville Stakes
+Imperial Call Chase
+Imperial Cup
+In Reality Stakes
+Indiana Derby
+Indiana Oaks
+Indie Game Challenge
+International Stakes
+International Stakes
+International Topkapi Trophy
+International Trot
+Investec Derby Trial
+Invitation Stakes
+Iowa Derby
+Iowa Oaks
+Iowa Oaks
+Iran B national football team
+Irish 1,000 Guineas
+Irish 1,000 Guineas Trial
+Irish 1000 Guineas
+Irish 2,000 Guineas
+Irish 2000 Guineas
+Irish Champion Hurdle
+Irish Champion Stakes
+Irish Classic Races
+Irish Daily Star Chase
+Irish Derby
+Irish Gold Cup
+Irish Grand National
+Irish Greyhound Derby
+Irish Interprovincial Rugby Championship
+Irish Mirror Novice Hurdle
+Irish Oaks
+Irish Sprint Cup
+Irish St. Leger
+Irish St Leger
+Irish St Leger Trial Stakes
+Iroquois Handicap
+Iroquois Stakes
+Iroquois Stakes
+Iroquois Steeplechase
+Isaac Murphy Handicap
+Iskut River
+Islip Handicap
+Joel Stakes
+John A. Nerud Stakes
+John B. Campbell Handicap
+John B. Connally Turf Cup
+John Battaglia Memorial Stakes
+John Bull Chase
+John C. Mabee Handicap
+John C. Mabee Stakes
+John Durkan Memorial Punchestown Chase
+John F. Feehan Stakes
+John Henry Handicap
+John Henry Turf Championship Stakes
+John Meagher Memorial Chase
+John Musker Fillies' Stakes
+John Porter Stakes
+John Smith's Cup
+John Smith's People's Race
+John and Chich Fowler Memorial Mares Chase
+John of Gaunt Stakes
+Johnny Henderson Grand Annual Chase
+Johnstown Novice Hurdle
+Lee Steere Classic
+Lee Steere Stakes
+Left-arm orthodox spin
+Leg bye
+Legacy Cup
+Leisure Stakes
+Lenebane Stakes
+Lennox Stakes
+Lexington Stakes
+Lexington Stakes
+Lexington Stakes
+Lexus Chase
+Lexus Stakes
+Axle load
+Ayr Gold Cup
+Azalea Stakes
+Azeri Stakes
+BBC Big Band
+BC Premier's Handicap
+BRC Sprint
+BTC Cup
+B J McLachlan Stakes
+Babe Ruth's called shot
+Baden-Württemberg-Trophy
+Baden Racing Stuten-Preis
+Badener Meile
+Badener Sprint-Cup
+Badger Ales Trophy
+Bahamas Stakes
+Bahrain Trophy
+Balanchine
+Balanchine Stakes
+Baldwin Stakes
+Ballade Stakes
+Ballerina Stakes
+Ballerina Stakes
+Ballston Spa Handicap
+Ballston Spa Stakes
+Ballybrit Novice Chase
+Ballycorus Stakes
+Ballyogan Stakes
+Ballyroan Stakes
+Ballysax Stakes
+Baltimore Washington International Turf Cup
+Balwadi
+Ban'ei Kinen
+Bangladesh Journals Online
+Bar One Racing Juvenile Hurdle
+Barbados Gold Cup
+Barbados Triple Crown of Thoroughbred Racing
+Barbara Fritchie Handicap
+Barbara Fritchie Stakes
+Barbaro Stakes at Delaware Park
+Barbaro Stakes at Pimlico Race Course
+Barberstown Castle Novice Chase
+Baring Bingham Novices' Hurdle
+Barry Hills Further Flight Stakes
+Bashford Manor Stakes
+Bath Racecourse
+Bauhinia Sprint Trophy
+Bavarian Classic
+Bay Meadows Breeders' Cup Sprint
+Bay Meadows Handicap
+Bay Ridge Handicap
+Bay Shore Handicap
+Bay Shore Stakes
+Bay to Birdwood
+Bayakoa Handicap
+Bayakoa Stakes
+Bayakoa Stakes
+Bayakoa Stakes
+Bayerisches Zuchtrennen
+Beaugay Stakes
+Beaumont Stakes
+Becher Chase
+Beckford Stakes
+Bective Stud Champion Novice Hurdle
+Bed O' Roses Handicap
+Bed O' Roses Invitational Stakes
+Bed o' Roses
+Beeswing Stakes
+Begonia Belle Stakes
+Beholder Mile Stakes
+Bel Air Handicap
+Beldame Stakes
+Belle Mahone Stakes
+Belle of the Turf Stakes
+Belles Stakes
+Belmont Derby
+Belmont Futurity Stakes
+Belmont Gold Cup Stakes
+Belmont Lexington Stakes
+Belmont Oaks
+Belmont Oaks Invitational Stakes
+Belmont Sprint
+Belmont Stakes
+Belmont Turf Sprint Invitational Stakes
+Ben's Cat Stakes
+Ben Ali Handicap
+Ben Ali Stakes
+Ben Franklin Free-For-All Pace
+Ben Marshall Stakes
+Bendigo Cup
+Bengough Stakes
+Beresford Stakes
+Berkeley Handicap
+Berkshire Novices' Chase
+Bernard Baruch Handicap
+Bertram F. Bongard Stakes
+Bessarabian Stakes
+Best Pal Stakes
+Bet365 Gold Cup
+BetBright Chase
+Bet on Black
+Betfair Chase
+Betfair Hurdle
+Betfred Bowl
+Betsy Ross Mares Invitational Pace
+Betway Bowl
+Beverley Bullet Sprint Stakes
+Beverly D. Stakes
+Beverly Handicap
+Beverly Hills Handicap
+Bewitch Stakes
+Bhubaneswar City Bus
+Big Dance
+Bill Hartack Memorial Handicap
+Bill Ritchie Handicap
+Bill Stutt Stakes
+Bing Crosby Stakes
+Birmingham Cup
+Birth weight
+Birthday Card Stakes
+Bison City Stakes
+Black-Eyed Susan Stakes
+Black Caviar Lightning
+Black Gold Stakes
+Black Helen Handicap
+Black Opal Stakes
+Blamey Stakes
+Blandford Stakes
+Blazer Stakes
+Blenheim Stakes
+Bletchingly Stakes
+Bloody Wolf
+Blue Diamond Prelude C&G
+Blue Diamond Prelude Fillies
+Blue Diamond Preview
+Blue Diamond Preview Fillies
+Blue Diamond Stakes
+Blue Grass Stakes
+Blue Hen Stakes
+Blue Norther Stakes
+Blue Riband
+Blue Riband Trial Stakes
+Blue Sapphire Stakes
+Blue Wind Stakes
+Bluegrass Stakes
+Bob
+Bob Hope Stakes
+Bobbie Lewis Quality
+Bobby Lewis Quality
+Bobbyjo Chase
+Boiling Springs Stakes
+Bold Ruckus Stakes
+Bold Ruler Handicap
+Bold Venture Stakes
+Bolder Boulder
+Book rebinding
+Borderland Derby
+Bosra Sham Stakes
+Bougainvillea Handicap
+Bourbon Stakes
+Bourbonette Oaks
+Bournemouth Marathon
+Bow Mistress Trophy
+Bowie Handicap
+Bowling Green Handicap
+Bowling Green Stakes
+Boylesports.com Hurdle
+Boylesports Gold Cup
+Boylesports Hurdle
+Boyne Hurdle
+Brave Raj Stakes
+Breaking Hearts Tour
+Breeder's Cup
+Breeders' Cup
+Breeders' Cup Classic
+Breeders' Cup Dirt Mile
+Breeders' Cup Distaff
+Breeders' Cup Filly & Mare Sprint
+Breeders' Cup Filly & Mare Turf
+Breeders' Cup Grand National Steeplechase
+Breeders' Cup Juvenile
+Breeders' Cup Juvenile Fillies
+Breeders' Cup Juvenile Fillies Turf
+Breeders' Cup Juvenile Sprint
+Breeders' Cup Juvenile Turf
+Breeders' Cup Juvenile Turf Sprint
+Breeders' Cup Juvenile Turf Trial Stakes
+Breeders' Cup Ladies' Classic
+Breeders' Cup Ladies Classic
+Breeders' Cup Marathon
+Breeders' Cup Mile
+Breeders' Cup Sprint
+Breeders' Cup Turf
+Breeders' Cup Turf Sprint
+Breeders' Futurity Stakes
+Breeders' Plate
+Breeders' Stakes
+Breeders' Stakes
+Breeders Classic
+Breeders Crown
+Breeders Crown 2YO Colt & Gelding Pace
+Breeders Crown 2YO Colt & Gelding Trot
+Breeders Crown 2YO Filly Pace
+Breeders Crown 2YO Filly Trot
+Breeders Crown 3YO Colt & Gelding Pace
+Breeders Crown 3YO Colt & Gelding Trot
+Breeders Crown 3YO Filly Pace
+Breeders Crown 3YO Filly Trot
+Breeders Crown Open Mare Pace
+Breeders Crown Open Mare Trot
+Breeders Crown Open Pace
+Breeders Crown Open Trot
+Breeders Cup
+Bridge to Brisbane
+Brigadier Gerard Stakes
+Brighton Belle
+Brighton Derby
+Brighton Handicap
+Brighton Junior Stakes
+Brighton Marathon
+Brighton Mile
+Brighton Oaks
+Brisbane Cup
+Brisbane Marathon
+Bristol Novices' Hurdle
+Britannia Stakes
+British Bred Produce Stakes
+British Breeders Stakes
+British Champions Fillies' and Mares' Stakes
+British Champions Fillies and Mares Stakes
+British Champions Long Distance Cup
+British Champions Series
+British Champions Sprint Stakes
+British Classic Races
+British Columbia Derby
+British International Championships
+British Superkart Championship
+Bro Park Sprint Championship
+Broadway Novices' Chase
+Broadway Stakes
+Brocklesby Stakes
+Broforce
+Brontë Cup
+Brook Farm School
+Brookdale Handicap
+Brooklyn Handicap
+Brooklyn Invitational Stakes
+Brownstown Stakes
+Bryan Station Stakes
+Buck House Novice Chase
+Buckhounds Stakes
+Buckingham Palace Stakes
+Buena Vista Handicap
+Buena Vista Stakes
+Bull Page Stakes
+Bunbury Cup
+Bunty Lawless Stakes
+Burj Nahaar
+Burradon Stakes
+Burrumbeet Cup
+Busanda Stakes
+Busher Stakes
+Butler Handicap
+Bye
+Byrne Group Plate
+Bénazet-Rennen
+C. L. Weld Park Stakes
+CBC Sho
+CB Fisher Plate
+CGA Foxhunter Chase
+CT Special Forces
+CT Special Forces 2: Back in the Trenches
+C B Cox Stakes
+C F Orr Stakes
+C S Hayes Stakes
+Cabrillo Handicap
+Caesar's Wish Stakes
+Calder Derby
+California Breeders' Champion Stakes
+California Cup Classic
+California Cup Juvenile Fillies Stakes
+California Derby
+California Juvenile Stakes
+California Mille
+California Oaks
+Californian Stakes
+Callanan Cup
+Camberwell High School
+Cambridgeshire Handicap
+Cameron Handicap
+Cammidge Trophy
+Canadian Derby
+Canadian International Stakes
+Canadian Maturity Stakes
+Canadian Pacing Derby
+Canadian Stakes
+Canadian Triple Crown of Thoroughbred Racing
+Canadian Trotting Classic
+Canadian Turf Handicap
+Canadian Turf Stakes
+Candy Ass Records
+Cane Pace
+Canonbury Stakes
+Cantala Stakes
+Canterbury Guineas
+Canterbury Stakes
+Cape Metropolitan Stakes
+Cape Verdi
+Capella Stakes
+Captain Cook Stakes
+Capua Leg
+Carbine Club Stakes
+Carbine Club Stakes
+Cardinal Handicap
+Cardinal Stakes
+Cardinal Stakes
+Carel Weight
+Caress Stakes
+Carleton F. Burke Handicap
+Carlingford Stakes
+Carlisle Bell
+Carolina Cup
+Carry Back Stakes
+Carter Handicap
+Castleford Chase
+Gazelle Stakes
+Gazi Race
+Geelong Cup
+Geelong Cup
+Geisha Handicap
+Geisha Stakes
+General George Handicap
+General George Stakes
+Geoffrey Bellmaine Stakes
+Geoffrey Freer Stakes
+Geoffrey Gilbey Handicap Chase
+George Main Stakes
+George Moore Stakes
+George Ryder Stakes
+Gran Criterium
+Gran Premio 25 de Mayo
+Gran Premio Asociación Latinoamericana de Jockey Clubes e Hipódromos
+Gran Premio Carlos Pellegrini
+Gran Premio Jockey Club
+Gran Premio José Pedro Ramírez
+Gran Premio Lotteria
+Gran Premio Merano
+Gran Premio Nacional
+Gran Premio Polla de Potrillos
+Gran Premio Polla de Potrillos
+Gran Premio Polla de Potrillos
+Gran Premio Seleccion
+Gran Premio d'Italia
+Gran Premio del Jockey Club
+Gran Premio di Milano
+Grand Annual
+Grand Military Gold Cup
+Grand National
+Grand National
+Grand National
+Grand National Handicap
+Grand National Hurdle Stakes
+Grand National Trial
+Grand Prix-Aufgalopp
+Grand Prix Prince Rose
+Grand Prix Stakes
+Grand Prix Wrestling
+Grand Prix d'Automne
+Grand Prix de Bruxelles
+Grand Prix de Chantilly
+Grand Prix de Deauville
+Grand Prix de Paris
+Grand Prix de Saint-Cloud
+Grand Prix de Vichy-Auvergne
+Grand Prix de la Ville de Nice
+Grand Sefton Steeplechase
+Grand Steeple-Chase de Paris
+Grand Union Canal 145 mile Race
+Grand Union Hotel Stakes
+Grand slam
+Grande Course de Haies d'Auteuil
+Grande Prêmio Bento Gonçalves
+Grande Prêmio Brasil
+Grande Prêmio Paraná
+Grande Prêmio São Paulo
+Gravesend Handicap
+Great American Stakes
+Great Brook Run
+Great Capital Run
+Great Eastern Handicap
+Great Eastern Steeplechase
+Great Filly Stakes
+Great Lady M. Stakes
+Great Manchester Run
+Great Metropolitan Handicap
+Great Newham London Run
+Great North 10K
+Great Northern Derby
+Great Northern Derby
+Great Northern Foal Stakes
+Great Northern St. Leger
+Great Northern Steeplechase
+Great St. Wilfrid Stakes
+Great Subscription Purse
+Great Trial Stakes
+Great Voltigeur Stakes
+Great Yorkshire Chase
+Greatwood Gold Cup
+Hyde Novices' Hurdle
+Hyde Stakes
+Hyperion Stakes
+ICC World Cup Qualifier
+ICC World Twenty20 Qualifier
+I Survived a Japanese Game Show
+Ian McEwen Trophy
+Ibis Summer Dash
+Lafayette Stakes
+Lake George Stakes
+Lake Placid Stakes
+Lakeshore Lions Arena
+Lamplighter Stakes
+Lanark Silver Bell
+Lancashire Oaks
+Lancashire Plate
+Land O'Burns Fillies' Stakes
+Land Run of 1895
+Landaluce Stakes
+Lane's End Stakes
+Local Colleges and Universities
+Lockinge Stakes
+Locust Grove Handicap
+Locust Grove Stakes
+Lombardstown Mares Novice Chase
+Lone Star Derby
+Lone Star Park Handicap
+Long Branch Stakes
+Long Distance Hurdle
+Long Island Handicap
+Long Island Marathon
+Long Island Stakes
+Long Walk Hurdle
+Longacres Mile Handicap
+Longfellow Stakes
+Lonsdale Cup
+Lord Derby Challenge Trophy
+Lord Mayor's Cup
+Lord Reims Stakes
+Los Alamitos Derby
+Los Alamitos Futurity
+Los Angeles Handicap
+Lost in the Fog Stakes
+Louisiana Derby
+Louisiana Handicap
+Louisiana Stakes
+Louisville Handicap
+Louisville Stakes
+Madison Marathon
+Madison Stakes
+Maghull Novices' Chase
+Magic Millions Classic
+Magic Night Stakes
+Magnolia Stakes
+Mahab Al Shimaal
+Maharashtra Energy Development Agency
+Miss Grillo Stakes
+Miss Preakness Stakes
+Miss Woodford Stakes
+Missile Stakes
+Mister Diz Stakes
+Miyako Stakes
+Musashino Stakes
+Musidora Stakes
+My Charmer Handicap
+My Charmer Stakes
+My Dear Girl Stakes
+My Dear Stakes
+Park Stakes
+Partridge Stakes
+Parx Dash Stakes
+Pasco Stakes
+Pass Plus
+Pat Day Mile Stakes
+Pat Eddery Stakes
+Pat O'Brien Handicap
+Pat O'Brien Stakes
+Punchestown Champion Chase
+Punchestown Champion Hurdle
+Punchestown Champion Novice Hurdle
+Punchestown Gold Cup
+Puppy Classic
+Puppy Derby
+Purple Violet Stakes
+PwC Cool Night Classic
+Python Night – 30 Years of Monty Python
+QTC Cup
+Staffordstown Stud Stakes
+Stage Door Betty Handicap
+Stan Fox Stakes
+Standard Stakes
+Standish Handicap
+Star Kingdom Stakes
+Star Shoot Stakes
+Star Stakes
+Star in My Heart
+Stardom Stakes
+Starlet Stakes
+Stars and Stripes Stakes
+Strensall Stakes
+Strickland Stakes
+Strub Stakes
+Stuyvesant Handicap
+Stymie Handicap
+Stymie Stakes
+Suburban Handicap
+Suburban Stakes
+Sugar Bowl Stakes
+Sugar Swirl Stakes
+Summer Cup
+Summer Handicap Hurdle
+Summer Mile Stakes
+Summer Plate
+Summer Stakes
+Summer Stakes
+Summertime Oaks
+Summoned Stakes
+Sun Chariot Stakes
+Sunbeam Nubian
+Sundsvall Open Trot
+Sunland Derby
+Sunland Park Oaks
+Sunline Stakes
+Sunset Handicap
+Sunshine Coast Guineas
+Sunshine Millions Classic
+Sunshine Millions Dash
+Sunshine Millions Distaff
+Sunshine Millions Turf Stakes
+Super-chicken Model
+Super-server
+Super Contra
+Super Derby
+Super Star Wars: Return of the Jedi
+Super Star Wars: The Empire Strikes Back
+Superior Mile
+Superlative Stakes
+Supreme Novices' Hurdle
+Supreme Stakes
+Surf Stakes
+Surfer Girl Stakes
+Takamatsunomiya Kinen
+Takarazuka Kinen
+Takeyoriwake Sho
+Tampa Bay Derby
+Tampa Bay Stakes
+Tanabata Sho
+Tanforan Racetrack
+Tapster Stakes
+Taranaki Stakes
+Tare weight
+Tarzino Trophy
+Tasmanian Derby
+Tattersall's Cup
+Tattersall's Tiara
+Tattersalls Gold Cup
+Tattersalls Ireland Champion Novice Hurdle
+Tea Rose Stakes
+Temple Stakes
+Tempted Stakes
+Ten Broeck–Mollie McCarty match race
+Ten Up Novice Chase
+Tennessee Derby
+Tenno Sho
+Tercentenary Stakes
+The Shorts
+The Thousand Guineas
+Melling Chase
+Memorial Day Handicap
+Memsie Stakes
+Merchants and Citizens Handicap
+Mercs
+Mercury Stakes
+Mermaid Stakes
+Mermaid Stakes
+Mersey Novices' Hurdle
+Mervin H. Muniz Jr. Memorial Handicap
+Mervyn Leroy Handicap
+Messenger Stakes
+Metal Slug
+Metal Slug
+Metal Slug 2
+Metal Slug 3
+Metal Slug 4
+Metal Slug 5
+Metal Slug 6
+Metal Slug 7
+Metal Slug Advance
+Moccasin Stakes
+Modesty Handicap
+Modesty Stakes
+Molecomb Stakes
+Molly Pitcher Stakes
+Neville Sellwood Stakes
+New England Futurity
+New England Oaks
+New Jersey Classic Pace
+New Labour, New Danger
+New Orleans Classic Stakes
+New Orleans Handicap
+New Orleans Ladies Stakes
+New Providence Stakes
+New Rochelle Handicap
+New South Wales Derby
+New York Breeders' Futurity
+New York Derby
+New York Handicap Triple
+New York Stakes
+New York Stallion Series
+New Zealand 1000 Guineas
+New Zealand 2000 Guineas
+New Zealand Cup
+New Zealand Derby
+New Zealand Derby
+New Zealand Free For All
+New Zealand International Stakes
+New Zealand Messenger Championship
+New Zealand Oaks
+New Zealand Sires Stakes 3yo Final
+New Zealand St. Leger
+New Zealand Stakes
+New Zealand Thoroughbred Breeders Stakes
+New Zealand Trophy
+New Zealand Trotting Cup
+New Zealand Trotting Derby
+Newcastle Gold Cup
+Newcastle Newmarket Handicap
+Newlands Chase
+Newmarket Handicap
+Newmarket Racecourse
+Newmarket Stakes
+Newmarket Town Plate
+Oka Sho
+Oka Sho
+Oklahoma Derby
+Old Hat Stakes
+Old Newton Cup
+Old Roan Chase
+Oleander-Rennen
+Olympiatravet
+Olympic
+Peachtree Road Race
+Pebbles Stakes
+Pegasus Stakes
+Pegasus World Cup Filly and Mare Turf Invitational
+Pegasus World Cup Invitational Stakes
+Pegasus World Cup Turf Invitational
+Pendil Novices' Chase
+Pendulum
+Penn Mile Stakes
+Pennine Ridge Stakes
+Pennsylvania Derby
+Pennsylvania Governor's Cup Stakes
+Pocahontas Stakes
+Poker Stakes
+Polar Cup
+Pontefract Castle Stakes
+Queen's Plate
+Queen's Silver Jubilee Cup
+Queen's Vase
+Queen Alexandra Stakes
+Queen Anne Stakes
+Queen Charlotte Fillies' Stakes
+Queen City Pace
+Queen Elizabeth II Challenge Cup Stakes
+Queen Elizabeth II Commemorative Cup
+Queen Elizabeth II Cup
+Queen Elizabeth II Cup
+Queen Elizabeth II Stakes
+Queen Elizabeth Stakes
+Queen Elizabeth Stakes
+Queen Mary Stakes
+Queen Mother Champion Chase
+Queen Of The Turf Stakes
+Queen Stakes
+Queen of the South Stakes
+Queen of the Turf Stakes
+Queens County Handicap
+Queensland Cup
+Queensland Derby
+Queensland Guineas
+Queensland Oaks
+Queenston Stakes
+Questionnaire Handicap
+Quezette Stakes
+Quick Call Stakes
+R. N. Irwin Stakes
+Richmond Stakes
+Riddlesworth Stakes
+Ride to Work Day
+Ridgewood Pearl Stakes
+Riggs Handicap
+SAJC Coolmore Classic
+SAJC Queen's Cup
+SA Fillies Classic
+SMH half marathon
+SRF 1
+SRF zwei
+Saranac Stakes
+Saratoga Breeders' Cup Handicap
+Saratoga Cup
+Saratoga Derby Invitational Stakes
+Saratoga Dew Stakes
+Saratoga Handicap
+Saratoga Oaks Invitational Stakes
+Saratoga Special Stakes
+Sarpler
+Saskatchewan Highway 754
+Satsuki Sho
+Satsuki Shō
+Saudi Arabia Royal Cup
+Saudi Cup
+Saval Beg Stakes
+Scandinavian Open Championship
+Shine Again Stakes
+Shinzan Kinen
+Shion Stakes
+Shloer Chase
+Shoemaker Mile Stakes
+Show County Quality
+Shuka Sho
+Shuvee Handicap
+Shuvee Stakes
+Shūka Sho
+Solonaway Stakes
+Somerville Tattersall Stakes
+Sorority Stakes
+Sorrento Stakes
+South African Derby
+South African Grand Prix
+Steve Sexton Mile Stakes
+Steventon Stakes
+Stewards' Cup
+Stewards' Cup
+Stirrups Restaurant And Cocktail Bar Evesham Mares' Open National Hunt Flat Race
+Stockholm Cup International
+Stockholms Stora Pris
+Stonehenge Stakes
+Stradbroke Handicap
+Street Sense Stakes
+T.S. Carlyon Cup
+T. A. Morris Memorial Mares Chase
+TJ Smith Stakes
+TV Trophy
+T J Smith Stakes
+T L Baillieu Handicap
+Table Mountain Challenge
+Theo Marks Stakes
+Toorak Handicap
+Top Flight Handicap
+Top Novices' Hurdle
+Topham Chase
+Toronto Cup Stakes
+Torrey Pines Stakes
+Towcester Racecourse
+Towton Novices' Chase
+Toy Show Quality
+Vice Regent Stakes
+Victor Chandler Chase
+Victoria Cup
+Victoria Cup
+Victoria Derby
+Victoria Derby
+Victoria Handicap
+Victoria Mile
+Victoria Park Stakes
+Victoria Racing Club
+Victoria Stakes
+Victoriana Stakes
+Victory Ride Stakes
+Victory Stakes
+Vigil Stakes
+Villiers Stakes
+Vincent O'Brien County Handicap Hurdle
+Vincent O'Brien National Stakes
+Vincent O'Brien Stakes
+Vineland Handicap
+Vinery Madison Stakes
+Vinery Stud Stakes
+Vintage Crop Stakes
+Vintage Stakes
+Vintage Tipple Stakes
+Violet Handicap
+Violet Stakes
+Virginia Derby
+Virginia Gold Cup
+Virginia Oaks
+Virocop
+Virtual tradeshow
+Vo Rogue Plate
+William Penn Stakes
+William R. Haughton Memorial Pace
+William Reid Stakes
+Wilshire Handicap
+Wilshire Stakes
+Wilson Handicap
+Wilson Stakes
+York Racecourse
+York Stakes
+Yorkshire Cup
+Yorkshire Oaks
+Yorkshire Rose Mares' Hurdle
+Yorkshire St Leger
+You can click, but you can't hide
+Young America Stakes
+Youthful Stakes
+Yushun Himba
+ZED.TO
+Zabeel Classic
+Zabeel Mile
+Zawawi Cup
+Zeditave Stakes
+Zenyatta Stakes
+Zephyr Stakes
+Zero-fuel weight
+Zetland Gold Cup
+Zetland Stakes
+Jockey Club Cup
+Joe McGrath Memorial Stakes
+La Habra Stakes
+Rhodes Trail Run
+Sunshine Millions Filly & Mare Sprint
+Sunshine Millions Filly & Mare Turf
+Sunshine Millions Oaks
+Sunshine Millions Sprint
+Feltham Novices' Chase
+Rawson Stakes
+Caulfield Autumn Classic
+Caulfield Classic
+Caulfield Cup
+Caulfield Guineas
+Caulfield Guineas Prelude
+Caulfield Sprint
+Caulfield Stakes
+Cecil B. DeMille Stakes
+Cecil Frail Stakes
+Celebration Chase
+Celebration Cup
+Celebration Mile
+Centaur Stakes
+Centenary Novices' Handicap Chase
+Centenary Sprint Cup
+Centenary Vase
+Century Handicap
+Cesarewitch
+Cesarewitch
+Cesarewitch Handicap
+Chairman's Handicap
+Chairman's Handicap
+Chairman's Sprint Prize
+Chairman's Stakes
+Chairman's Stakes
+Chairman's Trophy
+Chalice Stakes
+Challenge Cup
+Challenge Stakes
+Challenge Stakes
+Challenge Stakes
+Challenger Stakes
+Challow Novices' Hurdle
+Chamera II Hydroelectric Plant
+Champagne Classic
+Champagne Stakes
+Champagne Stakes
+Champagne Stakes
+Champagne Stakes
+Champagne Stakes
+Champion Bumper
+Champion Four Year Old Hurdle
+Champion Hurdle
+Champion Hurdle
+Champion Hurdle Trial
+Champion INH Flat Race
+Champion Stakes
+Champion Stakes
+Champion Stakes
+Champion Stakes
+Champion Standard Open NH Flat Race
+Champion Stayers Hurdle
+Champion of Champions
+Champions Cup
+Champions Mile
+Championship Stakes
+Champlain Handicap
+Chandelier Stakes
+Charles H. Strub
+Charles Town Classic
+Charles Town Invitational Dash
+Charles Town Oaks
+Charles Whittingham Memorial Handicap
+Charles Whittingham Stakes
+Charlie Barley Stakes
+Charlie Hall Chase
+Dixie Stakes
+Dogs of War
+Dogwood Stakes
+Dolphin Stakes
+Dominion
+Dominion Day Stakes
+Doncaster Cup
+Doncaster Handicap
+Doncaster Mares' Hurdle
+Doncaster Mile Stakes
+Doncaster Prelude
+Doncaster Stakes
+Donn Handicap
+Dooley Insurance Group Champion Novice Chase
+Doomben 10,000
+Doomben Cup
+Doomben Roses
+Doonside Cup
+Dorans Pride Novice Hurdle
+Double Event Stakes
+Doubledogdare Stakes
+Dovecote Novices' Hurdle
+Dowager Stakes
+Dr. Busch-Memorial
+Dr. Fager Stakes
+Dr. James Penny Memorial Stakes
+Dr P. J. Moriarty Novice Chase
+Dravet Syndrome Foundation
+Drinmore Novice Chase
+Drottning Silvias Pokal
+Dry weight
+Dubai City of Gold
+Dubai Duty Free Stakes
+Dubai Gold Cup
+Dubai Golden Shaheen
+Dubai Kahayla Classic
+Dubai Millennium Stakes
+Dubai Sheema Classic
+Dubai Turf
+Dubai World Cup
+Dubawi Stakes
+Duchess Stakes
+Duchess of Cambridge Stakes
+Duel on the Downs
+Dueling Grounds Derby
+Duke of Cambridge Stakes
+Duke of Edinburgh Stakes
+Duke of York Handicap
+Duke of York Stakes
+Dunboyne Castle Novice Hurdle
+Dundalk International
+Durban July Handicap
+Durham Cup Stakes
+Guy Walter Stakes
+Guys and Dolls
+Guyson E12
+Gymcrack
+H. Allen Jerkens Memorial Stakes
+H. Allen Jerkens Stakes
+HDF McNeil Stakes
+Inglewood Handicap
+Inside Information Stakes
+Inter-Service Kart Championship
+Interborough Handicap
+Interborough Stakes
+Intercontinental Stakes
+International Bosphorus Cup
+International Community of Women Living with HIV/AIDS
+International Hurdle
+International Polo Cup
+Jebel Ali Mile
+Jebel Hatta
+Jeff Ruby Steaks
+Jefferson Cup Stakes
+Jennings Handicap
+Jenny Wiley Stakes
+Journey to Silius
+Jubileumspokalen
+July Cup
+July Stakes
+Junior Champion Stakes
+Junior Champion Stakes
+Junior Champion Stakes
+Junior Miss Stakes
+Match race
+Matchmaker Stakes
+Mathis Brothers Mile
+Mathis Brothers Mile Stakes
+Matriarch Stakes
+Matriarch Stakes
+Matron Stakes
+Matron Stakes
+Matron Stakes
+Matt Winn Stakes
+Maurice McCarten Stakes
+Miesque Stakes
+Mike Lee Handicap
+Mike Lee Stakes
+Milady Handicap
+Mildmay Novices' Chase
+Mildmay of Flete Challenge Cup
+Mile Championship
+Mile Championship Nambu Hai
+Mill Reef Stakes
+Mill Valley Stakes
+Negishi Stakes
+Nell Gwyn Stakes
+Nellie Morse Stakes
+Nepal national football B team
+Neptune Investment Management Novices' Hurdle
+Next Move Handicap
+Nickel Coin Mares' Standard Open NH Flat Race
+Night Slave
+Nihon TV Hai
+Niigata Daishoten
+Niigata Kinen
+Niigata Nisai Stakes
+Nijinsky Stakes
+Nijinsky Stakes
+Nijinsky Stakes
+Nikkei Shinshun Hai
+Nikkei Sho
+Nine-dart finish
+Oslo Cup
+Oslo Grand Prix
+Osunitas Stakes
+Otaki-Maori Weight for Age
+Ottawa Stakes
+Ouija Board Handicap
+Our Lady of Mount Carmel Learning Center
+Reapers Stakes
+Rebel Stakes
+Red Bank Stakes
+Red Bull Romaniacs Hard Enduro Rallye
+Red Carpet Handicap
+Red Mills Chase
+Red Mills Trial Hurdle
+Red Roses Stakes
+Red Rum Handicap Chase
+Red Smith Handicap
+Red Smith Stakes
+Regency
+Regenerative fuel cell
+Regret Stakes
+Regret Stakes
+Rough Habit Plate
+Round Table Stakes
+Round Tower Stakes
+Rous Memorial Stakes
+Rowe Cup
+Rowe Memorial Handicap
+Rowland Meyrick Handicap Chase
+Royal Artillery Gold Cup
+Royal Bond Novice Hurdle
+Royal Delta Stakes
+Royal Heroine Stakes
+Royal Hunt Cup
+Royal Lodge Stakes
+Royal North Stakes
+Royal Palm Handicap
+Royal Whip Stakes
+Rubiton Stakes
+Ruffian Handicap
+Ruffian Stakes
+Rugby League Four Nations
+Rugby League XIII
+San Antonio Handicap
+San Carlos Handicap
+San Carlos Stakes
+San Clemente Handicap
+San Clemente Stakes
+San Diego Handicap
+San Domenico Stakes
+San Felipe Stakes
+San Fernando Stakes
+San Francisco Mile Stakes
+San Gabriel Handicap
+San Gabriel Stakes
+San Juan Capistrano Handicap
+San Juan Capistrano Stakes
+San Luis Obispo Handicap
+San Luis Rey Handicap
+San Luis Rey Stakes
+San Marcos Stakes
+San Miguel Stakes
+San Pasqual Handicap
+San Rafael Stakes
+San Simeon Handicap
+San Simeon Stakes
+San Vicente Stakes
+Scarbrough Stakes
+Scarsdale Handicap
+Sceptre Stakes
+Schillaci Stakes
+Schurre
+Schuylerville Stakes
+Schwarzgold-Rennen
+Schweppervescence Trophy
+Schweppes Oaks
+Schweppes Stakes
+Science & Entertainment Exchange
+Scilly Isles Novices' Chase
+Scottish Champion Hurdle
+Scottish Derby
+Scottish Grand National
+Scottish Greyhound Derby
+Scottish Rally Championship
+Scurry Gold Cup
+Scurry Stakes
+Sea o'Erin Stakes
+Seabiscuit Handicap
+Seagate Stakes
+Seagram Cup Stakes
+Seaton Delaval Stakes
+Seaway Stakes
+Second Special Stakes
+Secretariat Stakes
+See Change Festival
+Sefton Novices' Hurdle
+Seiran Sho
+Sekiya Kinen
+Shannon Stakes
+Shared Belief Stakes
+Sharp Novices' Hurdle
+Sheepshead Bay Stakes
+Shelbourne 600
+Shelbourne Gold Cup
+Shepperton Stakes
+Sheraco Stakes
+Shevlin Stakes
+The BMW
+The BMW Stakes
+The Bart Cummings
+The Cambridgeshire
+The Chaos Engine
+The Daily Cougar
+Three Steps to Victory
+ThunderJaws
+Thunder Road Handicap
+Thunder Road Stakes
+Thyestes Chase
+Tibbie Stakes
+Tidal Handicap
+Tidal Stakes
+Tied Cottage Chase
+Time Soldiers
+Timeform Chase
+Trafalgar Cup
+Trainers Championship
+Tramway Stakes
+Transylvania Stakes
+Trap run
+Trapezophoron
+Travers Stakes
+Tremont Stakes
+Trentham Stakes
+Trenton Handicap
+International Special
+Lupe Stakes
+Maid of the Mist Stakes
+Quebec Derby
+Queen's Stand Plate
+St. Louis Derby
+Wadsworth Memorial Handicap
+National Stakes
+Dee Stakes
+Del Mar Debutante Stakes
+Del Mar Derby
+Del Mar Futurity
+Del Mar Handicap
+Del Mar Juvenile Turf Stakes
+Del Mar Mile Handicap
+Del Mar Mile Stakes
+Del Mar Oaks
+Delaware Handicap
+Delaware Handicap
+Delaware Oaks
+Deloitte Novice Hurdle
+Delta Jackpot Stakes
+Delta Princess Stakes
+Demoiselle Stakes
+Demon Front
+Denawaka Ganga Mini Hydro Power Project
+Denford Stakes
+Denman Chase
+Denny Cordell Lavarack Fillies Stakes
+Deputed Testamony Stakes
+Deputy Minister Handicap
+Deputy Minister Stakes
+Derby City Distaff Stakes
+Derby Grand Prix
+Derby Italiano
+Derby Nacional
+Derby Trial Stakes
+Derrinstown Stud Derby Trial
+Desert Assault
+Desert Gold Stakes
+Desert Orchid Chase
+Desert Stormer Handicap
+Desert Stormer Stakes
+Desert Vixen Stakes
+Desi Arnaz Stakes
+Desmond Stakes
+Deutsches Derby
+Deutsches St. Leger
+Falcon Stakes
+Fall Handicap
+Fall Highweight Handicap
+Falls City Handicap
+Falmouth Stakes
+Fanfreluche Stakes
+Fantasy Stakes
+Fantasy Stakes
+Far Hills Races
+Fashion Stakes
+Fastest lap
+Fayette Stakes
+February Stakes
+Federico Tesio Stakes
+Feilden Stakes
+Festival Stakes
+Festival Stakes
+Festival Trophy Handicap Chase
+Fighting Fifth Hurdle
+Future Champion Novices' Chase
+Futures League
+Futurity Stakes
+Futurity Stakes
+Futurity Stakes
+Fürstenberg-Rennen
+G.I. Joe
+G A Towton Cup
+Gainsborough Chase
+Gala Stakes
+Gallant Bloom Handicap
+Gallant Bob Stakes
+Gallant Fox Handicap
+Gallinule Stakes
+Gallorette Handicap
+Gallorette Stakes
+Galtres Stakes
+Galway Hurdle
+Galway Plate
+Game-winning RBI
+Game Spirit Chase
+Gamely Stakes
+Gammon
+Gander Stakes
+Garden City Handicap
+Garden State Park Gardenia Stakes
+Garden State Stakes
+Gardenia Stakes
+Gardhab Das
+Garrowby Stakes
+Go For Wand Handicap
+Go for Wand Handicap
+Godolphin Mile
+Godolphin Stakes
+Goffs Million
+Gold Coast Guineas
+Gold Collar
+Gold Cup Invitational Pace
+Gold Cup at Greyville
+Gold Cup at Santa Anita Stakes
+Gold Rush Stakes
+Golden Crest
+Golden Daffodil Stakes
+Golden Eagle
+Golden Easter Egg
+Golden Gate Derby
+Golden Gate Fields Turf
+Golden Gate Fields Turf Stakes
+Golden Jacket
+Golden Miller Novices' Chase
+Golden Pendant
+Golden Rod
+Golden Rod Stakes
+Golden Rod Stakes
+Golden Rose Stakes
+Golden Rose Stakes
+Golden Slipper Stakes
+Golden Sprint
+Golden West Pace
+Golden West Trot
+Goldene Peitsche
+Goldikova Stakes
+Kent Derby
+Kent St Leger
+Kent Stakes
+Kentucky Cup Classic Stakes
+Kentucky Cup Distaff Stakes
+Kentucky Cup Juvenile Fillies Stakes
+Kentucky Cup Juvenile Stakes
+Kentucky Cup Sprint Stakes
+Kentucky Cup Turf Stakes
+Kentucky Derby
+Kentucky Derby Challenge Stakes
+Kentucky Downs Ladies Marathon Stakes
+Kentucky Downs Ladies Sprint Stakes
+Kentucky Downs Ladies Turf Stakes
+Kentucky Downs Turf Sprint Stakes
+Kentucky Futurity
+Kentucky Handicap
+Kentucky Jockey Club Stakes
+Kentucky Juvenile Stakes
+Kentucky Oaks
+Kentucky Stakes
+Kentucky Turf Cup
+Kevin Hayes Stakes
+Kevin Heffernan Stakes
+Khaled Stakes
+Kikuka-shō
+Kikuka Sho
+Kikusui Sho
+Kilbegnet Novice Chase
+Kilboy Estate Stakes
+Kilcock Novice Chase
+Killavullan Stakes
+Killiney Novice Chase
+Kilternan Stakes
+Kilvington Fillies' Stakes
+Kindergarten Stakes
+King's Bishop Stakes
+King's Stand Stakes
+King Charles II Stakes
+King Cotton Stakes
+King Edward Stakes
+King Edward VII Stakes
+King George Stakes
+King George VI Chase
+King George VI and Queen Elizabeth Stakes
+King George V Stakes
+King Richard III Stakes
+Kingarvie Stakes
+Kranji Mile
+Kuninkuusravit
+Kyoto Himba Stakes
+Kyoto Kimpai
+Kyoto Kinen
+Kyoto Nisai Stakes
+Kyoto Shimbun Hai
+Kyōto Daishōten
+Kyōto Kinen
+Kölner Herbst-Stuten-Meile
+L.A. Woman Stakes
+Leopard Stakes
+Leopardstown 1,000 Guineas Trial Stakes
+Leopardstown 2,000 Guineas Trial Stakes
+Leopardstown Challenge Stakes
+Leopardstown Stakes
+Let's Elope Stakes
+Levin Classic
+Maximum landing weight
+Maximum ramp weight
+Maximum takeoff weight
+May Hill Stakes
+Maybe Mahal Stakes
+Mayflower Stakes
+Mazarine Stakes
+McAlevey Gold Cup
+McAlinden Cup
+McCalmont Cup
+McLennan Handicap
+Meadowlands Pace
+Metro Pace
+Metropolitan Handicap
+Meydan Sprint
+Miami Mile Handicap
+Miami Mile Stakes
+Myer Classic
+NHK Mile Cup
+Narragansett Special
+Naruo Kinen
+Nas Na Riogh Novice Chase
+Nashua Stakes
+Nassau County Handicap
+Nassau County Stakes
+Nassau Stakes
+Nassau Stakes
+Natalma Stakes
+National Competition of Horsemen
+National Day Cup
+National Driver Offender Retraining Scheme
+National Hunt Chase Challenge Cup
+National Hunt Handicap Chase
+National Museum of Racing Hall of Fame Stakes
+National Neighborhood Watch Program
+St. James's Palace Stakes
+St. Leger Italiano
+St. Leger Stakes
+St. Simon Stakes
+St George Stakes
+St Hugh's Stakes
+St James's Palace Stakes
+St James's Place Festival Hunter Chase
+St Leger
+St Leger
+St Leger Italiano
+St Leger Stakes
+St Lite Kinen
+St Mary's School, Cambridge
+St Mungo Cup
+Valedictory Stakes
+Valley Stream Stakes
+Valley View Stakes
+Valparaiso Popcorn Festival
+Vamos Stakes
+Vandal Stakes
+Vanity Invitational Handicap
+Vanity Mile
+Warfield Mares' Hurdle
+Warrior Dash
+Warsaw Derby
+Warwick Racecourse
+Warwick Stakes
+Washington, D.C. International Stakes
+Washington County Public Schools
+Washington Handicap
+Washington Park Futurity Stakes
+Washington Park Handicap
+Washington Singer Stakes
+Whimsical Stakes
+Whirlaway Handicap
+Whirlaway Stakes
+White Rose Stakes
+Whitmore Stakes
+Whitney Handicap
+Whitney Stakes
+Whitney Stakes
+Whitsun Cup
+Wickerr Stakes
+Widden Stakes
+Wide Country Stakes
+Widener Handicap
+Wild Flower Stakes
+Wildcat Heir Stakes
+Woodlawn Vase
+Woodrow Wilson Pace
+Woodstock Stakes
+Woodward Stakes
+Woody Stephens Stakes
+Worcester Novices' Chase
+World Hurdle
+World Series Hurdle
+World Sportscar Championship
+World Trophy
+Worldwide Youth in Science and Engineering
+Gumpathon
+Mithqaal
+Cathay Pacific Gold Cup
+Cathcart Challenge Cup
+Cathedral Stakes
+Coaching Club American Oaks
+Cobb Marathon Bowl
+Cock o' the North
+Cocked Hat Stakes
+Colin Stakes
+Colin Stephen Quality Handicap
+Colleen Stakes
+College of St. John-Roxas
+Colonel E.R. Bradley Handicap
+Colonel Reeves Stakes
+Colonial Downs
+Colonial Turf Cup
+Comely Stakes
+Commando: Steel Disaster
+Commando
+Commonwealth Cup
+Commonwealth Handicap
+Commonwealth Oaks
+Commonwealth Stakes
+Commonwealth Turf Cup
+Commonwealth Turf Stakes
+Concorde Stakes
+Concorde Stakes
+Coney Island Derby
+Confederation Cup Pace
+Conical pendulum
+Connaught Cup Stakes
+Conniver Stakes
+Conqueror Stakes
+Contenders Hurdle
+Contra: Hard Corps
+Contra
+Contra III: The Alien Wars
+Coolmore Classic
+Coolmore Stud Stakes
+Coongy Cup
+Coongy Handicap
+Copa Confraternidad del Caribe
+Copa Republica Argentina
+Copenhagen Cup
+Coppa d'Oro di Milano
+Coral Cup
+Coral Distaff
+Corbet's Couloir
+Cork E.B.F. Novice Chase
+Corn Cuchulainn
+Cornhusker Handicap
+Cornwallis Stakes
+Coronation Cup
+Coronation Cup
+Coronation Futurity Stakes
+Coronation Stakes
+Coronation Stakes
+Correction Stakes
+Cotillion Handicap
+Cotswold Chase
+Cougar II Handicap
+Cougar II Stakes
+Count Fleet Sprint Handicap
+Count Fleet Stakes
+County Handicap Hurdle
+Coventry Stakes
+Cowdin Stakes
+Cox Cup
+Cox Plate
+Crack Down
+Craddockstown Novice Chase
+Cradle Stakes
+Craft Irish Whiskey Co. Plate Handicap Chase
+Craven Plate
+Craven Stakes
+Electronic Recording Machine, Accounting
+Elite Hurdle
+Elitloppet
+Elkhorn Stakes
+Ellerslie Sires Produce Stakes
+Ellis Park Derby
+Ellis Park Gardenia Stakes
+Elm Stakes
+Elusive Quality Stakes
+Emancipation Stakes
+Emirates Stakes
+Empire City Derby
+Empire City Gold Cup
+Empire City Handicap
+Empire Rose Stakes
+Empress Stakes
+Empúries Marathon
+Endeavour Stakes
+Endine Stakes
+Endurance Gold Cup Stakes
+Engineering Education Scheme
+England national football B team
+English Greyhound Derby
+English Greyhound Derby Invitation
+Epona Stakes
+Epsom Cup
+Epsom Derby
+Epsom Gold Cup
+Epsom Handicap
+Epsom Oaks
+Equality Stakes
+Forerunner Stakes
+Fort Harrod Stakes
+Fort Lauderdale Stakes
+Fort Leney Novice Chase
+Fort Marcy Handicap
+Fort Marcy Stakes
+Fortid
+Fortria Chase
+Fortune Stakes
+Forward Gal Stakes
+Foundation Stakes
+Fountain of Youth Stakes
+Four on the Fourth Road Race
+Fourstardave Handicap
+Fox Hunters' Chase
+Foxfield Races
+Frances A. Genter Stakes
+Frances Tressady Stakes
+Frank E. Kilroe Mile
+Frank E. Kilroe Mile Handicap
+Frank Gomez Memorial Stakes
+Frank J. De Francis Memorial Dash Stakes
+Frank Packer Plate
+Franklin-Simpson Stakes
+Franklin County Stakes
+Gerald Online
+Gerling-Preis
+German 1,000 Guineas
+Gerry Feilden Hurdle
+Ghosts 'n Goblins
+Ghostzapper Stakes
+Gilgai Stakes
+Gillies Fillies' Stakes
+Gimcrack Stakes
+Gimcrack Stakes
+Gimcrack Stakes
+Give Thanks Stakes
+Gladness Stakes
+Glasgow Stakes
+Glencairn Stakes
+Glenfarclas Cross Country Chase
+Glenlogan Park Stakes
+Glens Falls Handicap
+Glens Falls Stakes
+Gloaming Stakes
+Global RallyCross Championship
+Glorious Song Stakes
+Glorious Stakes
+Goodwood Cup
+Goodwood Handicap
+Goodwood Stakes
+Gordon Richards Stakes
+Gordon Stakes
+Gotham Stakes
+Gottstein Futurity
+Government College of Engineering, Keonjhar
+Government of Nazi Germany
+Governor's Cup Stakes
+Governor Stakes
+Gowran Park Champion Chase
+Grabel Mares Hurdle
+Graded stakes race
+Graduation Stakes
+Iditarod Trail Sled Dog Race
+Illinois Derby
+Just A Game
+Just A Game Stakes
+Just a Game Stakes
+Juvenile
+Juvenile Classic
+Juvenile Stakes
+Juvenile Stakes
+Juvenile Turf Stakes
+Karaka Million
+Kobe Shimbun Hai
+Kokura Daishoten
+Kokura Kinen
+Kokura Nisai Stakes
+Kona Gold Stakes
+Konung Gustaf V:s Pokal
+Laurels
+Laurels
+Lawrence Realization Stakes
+Lazaro Barrera Memorial Stakes
+Lazaro Barrera Stakes
+Leamington Novices' Hurdle
+Lecomte Stakes
+Limerick E.B.F. Mares Novice Hurdle
+Limestone Lad Hurdle
+Lincoln Handicap
+Lincoln Heritage Handicap
+Lingfield Derby Trial
+Lingfield Oaks Trial
+Linlithgow Stakes
+Lion City Cup
+Lion Rock Trophy
+Lismullen Hurdle
+List of Major League Baseball single-game grand slam leaders
+Lukas Classic Stakes
+Mainichi Hai
+Mainichi Ōkan
+Maker's Mark Mile Stakes
+Makybe Diva Stakes
+Malibu Stakes
+Maribyrnong Plate
+Marine Stakes
+Marit Sveaas Minneløp
+Marlboro Cup Invitational Handicap
+Marshua's River Stakes
+Marshua Stakes
+Martha Washington Stakes
+Martin Pipe Conditional Jockeys' Handicap Hurdle
+Megahertz Stakes
+Meguro Kinen
+Mehl-Mülhens-Rennen
+Meilen-Trophy
+Melbourne Cup
+Melbourne Cup
+Melbourne High School Old Boys Association
+Melbourne Racing Club
+Meld Stakes
+Michael Seely Memorial Stakes
+Michigan Mile And One-Eighth Handicap
+Middle East Rally Championship
+Middle Park Stakes
+Middleburg Spring Races
+Middleton Stakes
+Midland Flat
+Midlands Grand National
+Pierrepont Handicap
+Pieter Desmet
+Pilgrim Stakes
+Pimlico Cup
+Pimlico Nursery Stakes
+Pimlico Oaks
+Pimlico Special
+Pimlico Spring Handicap
+Pinnacle Stakes
+Pipalong Stakes
+Settlers, Rails & Trails
+Sha Tin Sprint Trophy
+Sha Tin Trophy
+Shadwell Turf Mile Stakes
+Shady Well Stakes
+Shaftesbury Avenue Handicap
+Shakertown Stakes
+Sham Stakes
+Sibelius
+Silberne Peitsche
+Silk Road Stakes
+Silky Sullivan Handicap
+Silver Deputy Stakes
+Silver Flash Stakes
+Silver Salver
+Silver Shadow Stakes
+Silver Slipper Stakes
+Silver Stakes
+Silver Tankard Stakes
+Silver Trophy Chase
+Silver Trophy Handicap Hurdle
+Silverbulletday Stakes
+Simcoe Stakes
+Singapore Airlines International Cup
+Singapore Derby
+Singapore Gold Cup
+Singspiel Stakes
+Singspiel Stakes
+Sir Barton Stakes
+Sir Barton Stakes
+Sir Barton Stakes
+Sir Henry Cecil Stakes
+Sir John Monash Stakes
+Sir Rupert Clarke Stakes
+Sirenia Stakes
+Sires' Produce Stakes
+Sires' Produce Stakes
+Sires' Produce Stakes
+Sires' Produce Stakes
+Sires' Produce Stakes
+Sirius Stakes
+South Australian Derby
+South End Press
+South Ocean Stakes
+Southern Cross Stakes
+Southwest Stakes
+Sovereign
+Sovereign Stakes
+Spa Novices' Hurdle
+Speakeasy Stakes
+Specific weight
+Spectacular Bid Stakes
+Spend A Buck Handicap
+Spend a Buck Handicap
+Spinaway Stakes
+Spindrift Stakes
+Spinster Stakes
+Spiral Stakes
+Sport Page Handicap
+Spring Champion Stakes
+Spring Classic
+Spring Cup
+Spring Juvenile Hurdle
+Spring Juvenile Stakes
+Spring Stakes
+Spring Stakes
+Spring Stakes
+Spring Stakes
+Spring Trophy
+Springbok
+Sprint Stakes
+Sprintermästaren
+Sprinters Stakes
+Squan Song Stakes
+Stayers' Hurdle
+Stayers Stakes
+Steady Growth Stakes
+Steel City Cup
+Steeplechase
+Stephen Foster Handicap
+Stephen Foster Stakes
+Stepping Stone Purse
+Swinton Handicap Hurdle
+Sword Dancer Invitational Handicap
+Sword Dancer Stakes
+Swynford Stakes
+Sycamore Stakes
+Sydney Cup
+Sydney Stakes
+Sysonby Handicap
+Tokinominoru Kinen
+Tokyo City Cup
+Tokyo City Cup Stakes
+Tokyo Daishōten
+Tokyo Derby
+Tokyo Kinen
+Tokyo Okan Sho
+Tokyo Princess Sho
+Tokyo Shimbun Hai
+Tokyo Sports Hai Nisai Stakes
+Tokyo Yushun
+Tokyo Yūshun
+Tolworth Hurdle
+Tolworth Novices' Hurdle
+Tom Fool Handicap
+Tom Ridge Stakes
+Tommy Whittle Chase
+Yankee Handicap
+Yasuda Kinen
+Yayoi Sho
+Yellow Ribbon Handicap
+Yellow Ribbon Stakes
+Yerba Buena Stakes
+Yomiuri Milers Cup
+Yonkers Trot
+Zipping Classic
+Zombies Ate My Neighbors
+Zukunfts-Rennen
+Zuma Beach Stakes
+Evan Shipman Handicap
+New Stakes
+Sleepy Hollow Stakes
+Whitbread Gold Cup
+Tod
+Chartwell Fillies' Stakes
+Chatham Stakes
+Chelmer Fillies' Stakes
+Chelmsford Stakes
+Cheltenham Gold Cup
+Chepstow Racecourse
+Chernobyl Way
+Chesapeake Stakes
+Chesham Stakes
+Cheshire Oaks
+Cheshire Oaks
+Chester Cup
+Chester Stakes
+Chester Vase
+Cheveley Park Stakes
+Chicago Handicap
+Chicago Stakes
+Chick Lang Stakes
+Chief Bearhart Stakes
+Chillingworth Stakes
+Chilukki Stakes
+Chipchase Stakes
+Chipping Norton Stakes
+Christian school
+Christmas Hurdle
+Christmas Hurdle
+Chukyo Kinen
+Chunichi Shimbun Hai
+Churchill Distaff Turf Mile Stakes
+Churchill Downs Debutante Stakes
+Churchill Downs Distaff Handicap
+Churchill Downs Stakes
+Churchill Stakes
+Cicada Stakes
+Cigar Mile Handicap
+Cinderella Stakes
+Cinema Handicap
+Cinema Stakes
+Citation Handicap
+City Pacific Finance Stakes
+City Walls Stakes
+City and Suburban Handicap
+City of Hope Mile Stakes
+City of York Stakes
+Clarence House Chase
+Clarendon Stakes
+Claret Stakes
+Clark Handicap
+Clark Stakes
+Classic
+Classic Chase
+Classic Novices' Hurdle
+Classy 'N Smart Stakes
+Cleeve Hurdle
+Clement L. Hirsch Stakes
+Clement L. Hirsch Turf Championship Stakes
+Cliff Hanger Stakes
+Clonmel Oil Chase
+Clover Stakes
+Clásico El Ensayo
+Clásico del Caribe
+D.C. McKay Stakes
+DB Draught Classic
+Dahlia Handicap
+Dahlia Stakes
+Dahlia Stakes
+Daily Hai Nisai Stakes
+Daily Hai Queen Cup
+Daily Star Chase
+Daingerfield Handicap
+Daisy Warwick Stakes
+Damon Runyon Stakes
+Dan Smith Will Teach You Guitar
+Dance Smartly Stakes
+Dancing Count Stakes
+Dane Ripper Stakes
+Danehill Stakes
+Dante Stakes
+Dark Jewel Classic
+Darley Classic
+Darley Stakes
+Dartmoor Beast
+Dartmoor Discovery
+Dartmoor Yomp
+Dash Stakes
+Dato Tan Chin Nam Stakes
+David Nicholson Mares' Hurdle
+Davona Dale Stakes
+Dawn Run Mares' Novices' Hurdle
+Dawn Run Mares Novice Chase
+Daytona Handicap
+Daytona Stakes
+Dearly Precious Stakes
+Debutante Stakes
+Deccan Derby
+December Festival Hurdle
+December Gold Cup
+December Novices' Chase
+Developing Lives
+Development in Action
+Dewhurst Stakes
+Diamond Jubilee
+Diamond Jubilee Stakes
+Diamond Stakes
+Diamond Stakes
+Diana-Trial
+Diana Stakes
+Dick Hern Fillies' Stakes
+Dick Poole Fillies' Stakes
+Die Bahnwelt
+Diolite Kinen
+Diomed Stakes
+Dipper Novices' Chase
+Disability Standard
+Discovery Handicap
+Discovery Stakes
+Displacement
+Display Handicap
+Display Stakes
+Distaff Handicap
+Dwyer Stakes
+E. P. Taylor Stakes
+EFT Construction Handicap Hurdle
+E P Taylor Stakes
+Earl of Sefton Stakes
+Earthworm Jim
+Earthworm Jim 2
+East Anglian Derby
+East View Stakes
+Easter Cup
+Easter Cup
+Easter Handicap
+Easter Stakes
+Eastern Shore Stakes
+Eatontown Handicap
+Eatontown Stakes
+Ebor Handicap
+Eclipse
+Eclipse Stakes
+Eclipse Stakes
+Eclipse Stakes
+Eclipse Stakes
+Eddie D Stakes
+Eddie Logan Stakes
+Eddie Read Stakes
+Edgemere Handicap
+Edgewood Stakes
+Edinburgh Cup
+Eduardo the Samurai Toaster
+Edward Manifold Stakes
+Eider Chase
+Eight Belles Stakes
+Eimai To Simera Kai Eisai To Chthes
+El Cajon Stakes
+El Camino Real Derby
+El Conejo Handicap
+El Encino Stakes
+Esher Cup
+Eskimo Prince Stakes
+Essex Handicap
+Essex Vase
+Eternal Stakes
+Ethereal Stakes
+Euclase Stakes
+Euro-Cup
+EuropaChampionat
+European Breeders' Fund Novices' Handicap Hurdle Final
+European Express Tour
+European Free Handicap
+European Trotting Derby
+Evening Attire Stakes
+Evening Herald Champion Novice Hurdle
+Everglades Stakes
+Excel Rally
+Excelsior Stakes
+Excursion train
+Exolon
+Expressway Stakes
+Extra
+Eyrefield Stakes
+FIS Alpine World Ski Championships 1987
+Fair Grounds Handicap
+Fair Grounds Oaks
+Fair Grounds Stakes
+Fairfax Line
+Fairlawne Chase
+Fairlawne Chase
+Fairlawne Handicap Chase
+Fairway Stakes
+Fairy Bridge Stakes
+Fairy Stakes
+Fillies' Mile
+Fillies' Revue
+Fillies' Sprint Stakes
+Fillies' Trial Stakes
+Final approach
+Find Handicap
+Finesse Juvenile Novices' Hurdle
+Finest Hour
+Finlandia-Ajo
+Fire Plug Stakes
+Firebreak Stakes
+Firecracker Handicap
+First Flight Handicap
+First Lady Stakes
+First Special Stakes
+Firth of Clyde Stakes
+Fishing sinker
+Fistball Asian Championships
+Flamingo Stakes
+Flash Stakes
+Flatbush Stakes
+Fleetwing Handicap
+Fleur De Lis Handicap
+Fleur de Lis Handicap
+Fleur de Lis Stakes
+Flieger Trophy
+Flight Stakes
+Flight Stakes
+Floodlit Stakes
+Flora Stakes
+Floral Park Handicap
+Florida Derby
+Florida Oaks
+Florida Pearl Novice Chase
+Florida Stallion Stakes
+Flower Bowl Invitational Stakes
+Flower Bowl Stakes
+Flower Cup
+Flying Childers Stakes
+Flying Fillies' Stakes
+Flying Five Stakes
+Flying Handicap
+Flying Scotsman Stakes
+Flyingbolt Novice Chase
+Foam Stakes
+Forbidden Apple Stakes
+Forego Handicap
+Forego Stakes
+Hudson Stakes
+Hugh McMahon Memorial Novice Chase
+Hugo Abergs Memorial
+Hugo Åbergs Memorial
+Humana Distaff Handicap
+Humboldt State University Marching Lumberjacks
+Hungerford Stakes
+Hurdling
+Huron Handicap
+Hurricane Bertie Stakes
+Hurst Park Novices' Chase
+Hutcheson Stakes
+Huxley Stakes
+Hwa Chong Institution High School Band
+J J's Dream Stakes
+Jacques Cartier Stakes
+Jaipur Stakes
+Jaipur leg
+Jamaica Handicap
+Jameela Stakes
+James H B Carr Stakes
+Janss Investment Company
+January Cup
+Japan Breeding farm's Cup Ladies' Classic
+Japan Breeding farms' Cup Classic
+Japan Breeding farms' Cup Sprint
+Japan Cup
+Japan Cup Dirt
+Japan Dirt Derby
+Japan Racing Association Plate
+Japan Turf Cup Stakes
+Japanese Classic Races
+Jayco Crystal Mile
+Jerome Stakes
+Jersey Derby
+Jersey Shore Breeders' Cup Stakes
+Jersey Shore Stakes
+Jersey Stakes
+Jessamine Stakes
+Jewson Click and Collect Handicap Chase
+Jewson Novices' Chase
+Jim Dandy Stakes
+Jim Ford Challenge Cup
+Jim McKay Turf Sprint
+Jim Murray Memorial Handicap
+Jimmy Durante Stakes
+Jimmy Winkfield Stakes
+Jockey Club Cup
+Jockey Club Derby Invitational Stakes
+Jockey Club Gold Cup
+Jockey Club Mile
+Jockey Club Oaks Invitational Stakes
+Jockey Club Rose Bowl
+Jockey Club Sprint
+Jockey Club Stakes
+Joe Hernandez Stakes
+Joe Hirsch Turf Classic Invitational Stakes
+Joe Hirsch Turf Classic Stakes
+Keene Memorial Stakes
+Keeneland Cup
+Keeneland Turf Mile Stakes
+Keian Hai
+Keihan Hai
+Keio Hai Nisai Stakes
+Keio Hai Spring Cup
+Keisei Hai Autumn Handicap
+Keisei Stakes
+Kelso Handicap
+Kelso Stakes
+Kembla Grange Classic
+Kempf vanishing theorem
+Kempton Mares' Hurdle
+Ken Russell Memorial Classic
+Kennedy Oaks
+Kennedy Road Stakes
+Kennel Gate Novices' Hurdle
+Kenner Stakes
+Kenny Noe, Jr. Handicap
+Kenny Noe Jr. Handicap
+Millie Fox Stakes
+Mineshaft Handicap
+Mineshaft Stakes
+Ming Dynasty Quality Handicap
+Minimum weight
+Minstrel Stakes
+Mint Julep Handicap
+Mint Julep Stakes
+Mint Million
+Miracle Mile
+Miracle Mile Pace
+Miracle Wood Stakes
+Monmouth Beach Stakes
+Monmouth Cup
+Monmouth Cup
+Monmouth Cup Stakes
+Monmouth Oaks
+Monmouth Regret Stakes
+Monmouth Stakes
+Monrovia Handicap
+Monrovia Stakes
+Montrose Stakes
+Monumental Marathon
+Moonee Valley Fillies Classic
+Moonee Valley Gold Cup
+Moonee Valley Vase
+Moonga Stakes
+Mooresbridge Stakes
+More Maths Grads
+More Songs ... Acoustic
+Moreton Cup
+Morgantown Marathon
+Morgiana Hurdle
+Morven Stakes
+Morvich Handicap
+Moscow Chamber Orchestra
+Moscow Flyer Novice Hurdle
+Mother Goose Stakes
+Mount Vernon Stakes
+Mount of piety
+Proud Miss Stakes
+Providence Stakes
+Providencia Stakes
+Pucker Up Stakes
+RIT Ambulance
+RSA Chase
+R J Peters Stakes
+Race of Champions
+Racecourse Association Steeple Chase
+Rachel Alexandra Stakes
+Racing Post Novice Chase
+Racing Post Trophy
+Radio Nikkei Sho
+Raffles Cup
+Rage Limited
+Ranvet Stakes
+Rapid Reload
+Raven Run Stakes
+Razorback Handicap
+Reading Masters
+Saint Mary's Academy of San Nicolas, Cebu City
+Salinger Stakes
+Salisbury Racecourse
+Salt Lake City Marathon
+Salvator Mile Handicap
+Salvator Mile Stakes
+Sam F. Davis Stakes
+Sam F Davis Stakes
+Sam Houston Futurity
+The Derby
+The Everest
+The Four Voices
+The Galaxy
+The Galaxy
+The Goodwood
+The Grand Prix
+The Great Russian Race
+The Hawkesbury Crown
+The Heath 1100
+The Intelligence Summit
+The International
+The Killing Game Show
+The Metropolitan
+Two Year Old Produce Stakes
+Typhoon Tracy Stakes
+Tyro Stakes
+Tyros Stakes
+Täby Open Sprint Championship
+Tōkyō Yūshun
+UAE 1000 Guineas
+UAE 2000 Guineas
+UAE Derby
+UAE Oaks
+UHTREX
+Championship Chase
+Henckel-Rennen
+Run London
+Lightning Stakes
+Criterion Stakes
+Criterium International
+Criterium Stakes
+Criterium de Maisons-Laffitte
+Criterium de Saint-Cloud
+Criterium des Pouliches
+Critérium International
+Critérium de Maisons-Laffitte
+Critérium de Saint-Cloud
+Crocus Stakes
+Crown Oaks
+Crystal Mile
+Cumberland Lodge Stakes
+Cup and Saucer Stakes
+Cuphead
+Curb weight
+Curragh Cup
+Curragh Stakes
+Cybernator
+Kachy Stakes
+Kalahari Augrabies Extreme Marathon
+LKS MacKinnon Stakes
+LKS Mackinnon Stakes
+La Brea Stakes
+La Canada Stakes
+La Cañada Stakes
+La Coupe
+La Coupe de Maisons-Laffitte
+La Jolla Handicap
+La Lorgnette Stakes
+La Prevoyante Handicap
+La Prevoyante Stakes
+La Prevoyante Stakes
+La Prevoyante Stakes
+La Trice Classic
+La Troienne Stakes
+La tarde de los paraguas felices
+Ladbrokes Champion Chase
+Ladbrokes Gold Cup
+Ladbrokes Puppy Derby
+Ladbrokes Summer Stayers Classic
+Ladbrokes Trophy
+Ladies Day Vase
+Ladies Handicap
+Ladies Stakes
+Lady Angela Stakes
+Lanzarote Hurdle
+Laois All-County Football League
+Las Cienegas Handicap
+Las Cienegas Stakes
+Las Flores Handicap
+Las Flores Stakes
+Las Palmas Handicap
+Las Virgenes Stakes
+Laser Inertial Fusion Energy
+Last Tycoon Stakes
+Latonia Derby
+Launceston Cup
+Laureate Stakes
+Laurel Dash Stakes
+Laurel Futurity Stakes
+Laurel Turf Cup Stakes
+Lowther Stakes
+Mac Diarmida Handicap
+Mac Diarmida Stakes
+Malvern Chase
+Man O' War Stakes
+Man o' War Stakes
+Manawatu Sires Produce Stakes
+Manchester Book Award
+Mandarin Handicap Chase
+Manfred Stakes
+Manhattan Handicap
+Manifesto Novices' Chase
+Manikato Stakes
+Manitoba Derby
+Manitoba Marathon
+Mannerism Stakes
+Mantelli Parma
+Manufacturer's empty weight
+Marygate Fillies' Stakes
+Maryland Hunt Cup
+Maryland Million Classic
+Maryland Million Day
+Maryland Million Distaff Handicap
+Maryland Million Ladies
+Maryland Million Ladies Stakes
+Maryland Million Lassie
+Maryland Million Nursery
+Maryland Million Nursery Stakes
+Maryland Million Oaks
+Maryland Million Sprint Handicap
+Maryland Million Turf
+Maryland Million Turf Sprint Handicap
+Maryland Racing Media Stakes
+Maryland Sprint Handicap
+Maryland Sprint Stakes
+Massachusetts Handicap
+North Texas Premier Soccer Association
+Northam Stakes
+Northerly Stakes
+Northern Dancer Stakes
+Northern Dancer Turf Stakes
+Northern Democratic Party
+Northern Flat
+Northern Ireland national football B team
+Northern Irish Derby
+Northern Puppy Derby
+Northern Rivers Regional Rugby League
+Northumberland Plate
+Northwood Plume Stakes
+Nottinghamshire Oaks
+November Handicap
+November Novices' Chase
+Overskate Stakes
+Overthrow
+Oxfordshire Gold Cup
+Oxfordshire Stakes
+Oyster Stakes
+P.J. O'Shea Stakes
+P B Lawrence Stakes
+P J Bell Stakes
+Pace of the Century
+Pacific Classic Stakes
+Pacific Forum Line
+Pacific Salmon Commission
+Select Stakes
+Select Stakes
+Select Stakes
+Select Stakes
+Select Stakes
+Selene Stakes
+Selima Stakes
+Seminole Handicap
+Senator Ken Maddy Handicap
+Senator Ken Maddy Stakes
+Senorita Stakes
+September Stakes
+September Stakes
+Sixty Sails Handicap
+Skip Away Stakes
+Skipat Stakes
+Sky Classic Stakes
+Sky High Stakes
+Skyline Stakes
+Skymas Chase
+Slaney Novice Hurdle
+Smart Cities Mission
+Smarty Jones Stakes
+Smarty Jones Stakes
+Smarty Jones Stakes
+Smile Sprint Handicap
+Smile Sprint Stakes
+Tingle Creek Chase
+Tipperary Cup
+Tipperary Hurdle
+Tiznow Handicap
+Tiznow Stakes
+Toboggan Handicap
+Toboggan Stakes
+Todman Stakes
+Tokai Derby
+Tokai Stakes
+Will Rogers Stakes
+Willard L. Proctor Memorial Stakes
+William Donald Schaefer Handicap
+William Donald Schaefer Memorial Stakes
+William Hill Trophy Handicap Chase
+Windsor Castle Stakes
+Windsor Park Plate
+Wing loading
+Winged Foot Handicap
+Winkfield Stakes
+Winning Colors Stakes
+Winstar Oaks
+Winter Bumper
+Winter Derby
+Winter Derby Trial
+Winter Hill Stakes
+Winter Novices' Hurdle
+Winterbottom Stakes
+Winx Stakes
+Wise Dan Handicap
+Wise Dan Stakes
+Wishing Well Stakes
+With Anticipation Stakes
+Withers Stakes
+Wokingham Stakes
+Wolf Fang
+Wolferton Stakes
+Wonder Again Stakes
+Wonder Where Stakes
+Wood Memorial Stakes
+Woodbine Mile
+Woodbine Oaks
+Woodcote Stakes
+Woodford Reserve
+Woodford Stakes
+Woodlands Park 100 Club Novice Chase
+Woodlands Stakes
+Aral-Pokal
+Prix Boiard
+Prix de La Jonchere
+Prix des Coteaux
+Prix des Sablons
+Prix du Rond Point
+INIT II
+Oak Tree Invitational Stakes
+Oak Tree Mile Stakes
+Rothmans 100,000
+Sydney Turf Club
+Golden Slipper
+UCTV
+VRC Oaks
+Excelsior Handicap
+Athenia Handicap
+Jerome Breeders' Cup Handicap
+Pimlico Futurity
+Northern Dancer Breeders' Cup Turf
+Triple Bend Handicap
+Longacres Mile
+Remington Park Derby
+WinStar Galaxy Stakes
+Jack Goodman Stakes
+La Jolla Mile
+San Gorgonio Handicap
+Santa Catalina Stakes
+QTC Sires Produce Stakes
+Haydock Park Sprint Cup
+American Oaks Stakes
+Premio Umbria
+QTC Grand Prix Stakes
+Argent Dixie Stakes
+MacKinnon Stakes
+Future Champions Novice Hurdle
+MCR Hurdle
+The Stymie
+Green Flash Handicap
+Greenall Whitley Gold Cup
+Greenham Stakes
+Greenlands Stakes
+Greenmount Park Novice Chase
+Greenwich Cup
+Greenwood Cup Stakes
+Grey Horse Handicap
+Grey Lag Handicap
+Grey Stakes
+Greyhound Trainer of the Year
+Grimthorpe Handicap Chase
+Grosse Europa-Meile
+Grosser Preis der Badischen Unternehmen
+Grosser Preis der Badischen Wirtschaft
+Grosser Preis der Freien Hansestadt Bremen
+Grosser Preis der Landeshauptstadt Düsseldorf
+Grosser Preis der Wirtschaft
+Grosser Preis von Baden
+Grosser Preis von Bayern
+Grosser Preis von Berlin
+Grosser Preis von LOTTO Hamburg
+Groupie Doll Stakes
+Growise Champion Novice Chase
+Guerrilla War
+Guinea
+Guineas
+Gulfstream Oaks
+Gulfstream Park Handicap
+Gulfstream Park Mile Stakes
+Gulfstream Park Oaks
+Gulfstream Park Sprint Championship
+Gulfstream Park Sprint Stakes
+Gulfstream Park Turf Handicap
+Gulfstream Park Turf Sprint Stakes
+Gunstar Heroes
+Gunsynd Classic
+H E Tancred Stakes
+Hackwood Stakes
+Haggin Stakes
+Hakodate Kinen
+Hakodate Nisai Stakes
+Hakodate Sprint Stakes
+Hal's Hope Stakes
+Haldon Gold Cup
+Hall Mark Stakes
+Hambletonian Oaks
+Hambletonian Stakes
+Hamburger Meile
+Hamburger Stuten-Preis
+Hamburger Stutenmeile
+Hamilton Derby
+Hampton Court Stakes
+Haneda Hai
+Hankyu Hai
+Holiday Inaugural Stakes
+Hollie Hughes Handicap
+Hollie Hughes Stakes
+Hollywood Derby
+Hollywood Futurity
+Hollywood Gold Cup
+Hollywood Gold Cup Stakes
+Hollywood Juvenile Championship Stakes
+Hollywood Oaks
+Hollywood Prevue Stakes
+Hollywood Turf Cup Stakes
+Hollywood Turf Express Handicap
+Holy Bull Stakes
+Home Run Derby
+Honey Fox Stakes
+Honeybee Stakes
+Honeymoon Handicap
+Honeymoon Stakes
+Hong Kong Champions & Chater Cup
+Hong Kong Classic Cup
+Hong Kong Classic Mile
+Hong Kong Cup
+Hong Kong Derby
+Hong Kong Gold Cup
+Hong Kong Mile
+Hong Kong Sprint
+Hong Kong Stewards' Cup
+Hong Kong Vase
+Honorable Miss Handicap
+Hopeful Stakes
+Hopeful Stakes
+Hopeful Stakes
+Horatius Stakes
+Horris Hill Stakes
+Houghton Mares' Chase
+Houston Ladies Classic Stakes
+How Now Stakes
+James Seymour Stakes
+James W. Murphy Stakes
+Jammed Lovely Stakes
+Jane Seymour Mares' Novices' Hurdle
+Jonathan Sheppard Stakes
+Karrakatta Plate
+Kashiwa Kinen
+Kauto Star Novices' Chase
+Kawasaki Kinen
+Kingmaker Novices' Chase
+Kings Point Handicap
+Kingsford-Smith Cup
+Kingston Stakes
+Kingston Town Classic
+Kingston Town Stakes
+Kingwell Hurdle
+Kinko Sho
+Kinloch Brae Chase
+Kinpai
+Kira Kira Killer
+Kirby Memorial Stakes
+Kisaragi Sho
+Kitakyushu Kinen
+Kitten's Joy Stakes
+Klairon Davis Novice Chase
+Knee Knackering North Shore Trail Run
+Knickerbocker Handicap
+Knickerbocker Stakes
+Knockout Cup
+Knoxville Marathon
+Little Brown Jug
+Little Brown Jug
+Little Brown Jugette
+Liverpool City Cup
+Liverpool Hurdle
+Moyglare Stud Stakes
+Mr. Prospector Stakes
+Mrs. Revere Stakes
+Municipal Handicap
+Muniz Memorial Classic Stakes
+Munster Oaks
+N E Manion Cup
+Nad Al Sheba Trophy
+Nakayama Grand Jump
+Nakayama Himba Stakes
+Nakayama Kimpai
+Nakayama Kinen
+Nandi Stakes
+National Produce Stakes
+National Spirit Hurdle
+National Sprint
+National Stakes
+National Stakes
+National Stallion Stakes
+National Stallion Stakes
+National Youth League
+Native Dancer Stakes
+Native Diver Handicap
+Native Diver Stakes
+Naturalism Stakes
+Navan Novice Hurdle
+Navy Ten Nautical Miler
+Nearctic Stakes
+Rodeo Drive Stakes
+Roger Award
+Roger Williams Handicap
+Rolling Thunder 2
+Rolling Thunder 3
+Roma Cup
+Roman Consul Stakes
+Rumson Stakes
+Run4Fun
+Run to the Tower
+Runhappy Stakes
+Rushaway Stakes
+Russet Stakes
+Ruthless Stakes
+Ryanair Chase
+Ryanair Gold Cup
+Ryanair Novice Chase
+Ryman Stationery Handicap Chase
+Snow Fairy Stakes
+Snowdrop Fillies' Stakes
+Soaring Softly Stakes
+Sodexo Gold Cup
+Solario Stakes
+Surrey Stakes
+Surround Stakes
+Susan's Girl Stakes
+Sussex Cup
+Sussex Stakes
+Suwannee River Stakes
+Swale Stakes
+Swan Stakes
+Swaps Stakes
+Swedish Trotting Criterium
+Swedish Trotting Derby
+Swedish Trotting Oaks
+Sweet Embrace Stakes
+Sweet Life Stakes
+Sweet Mimosa Stakes
+Sweet Solera Stakes
+Sweetest Chant Stakes
+Ted Van Heemst Stakes
+Teio Sho
+Tejano Run Stakes
+Telegraph Handicap
+Telstra Phonewords Stakes
+The Nivison
+The Oxford college of Pharmacy
+The Philosophical Library
+The Puppy Derby
+The Run To The Rose
+The Run to the Rose
+Thomas Jefferson Education Foundation
+Thorndon Mile
+Thoroughbred Aftercare Alliance Stakes
+Thoroughbred Breeders Stakes
+Thoroughbred Club Stakes
+Thoroughbred Club of America Stakes
+Thoroughbred Stakes
+Thousand Guineas Prelude
+VRC Queen Elizabeth Stakes
+VRC Queens Plate
+VRC Sires Produce Stakes
+VRC Sprint Classic
+VRC St Leger
+Vadodara Marathon
+Vagrancy Handicap
+Vain Stakes
+Åby Stora Pris
+Ōsaka Hai
+Ballymoss Stakes
+Bay Meadows Derby
+Genuine Risk Handicap
+Aristides Breeders' Cup Stakes
+Generous Stakes
+1000 Guineas
+2000 Guineas
+A Gleam Invitational Handicap
+Mid-West Cup
+Arlington Classic Stakes
+Commonwealth Breeders' Cup Stakes
+Lake Placid Handicap
+Meadowlands Cup
+Philip H. Iselin Handicap
+San Bernardino Handicap
+Prix Royal Oak
+United Nations Handicap
+Wood Memorial
+Premio Tevere
+Santa Susana Stakes
+St Leger
+Gamely Breeders' Cup Handicap
+Lady's Secret Breeders' Cup Handicap
+Saab Quality
+San Francisco Breeders' Cup Mile
+Asahi Hai Sansai Stakes
+Cheltenham Trial Hurdle
+Hal's Hope Handicap
+Kentucky Cup Classic Handicap
+Razorback Breeders' Cup Handicap
+Ascot Derby
+AJC Queen Elizabeth Stakes
+Prix du Jockey-Club
+Excelsior Breeders' Cup Handicap
+Garden City Breeders' Cup Handicap
+Poker Handicap
+AJC Oaks
+Ballymore Properties Novices' Hurdle
+Mackeson Gold Cup
+Hansa-Preis
+Hanshin Cup
+Hanshin Cup Handicap
+Hanshin Cup Stakes
+Hanshin Daishōten
+Hanshin Himba Stakes
+Hanshin Juvenile Fillies
+Hard Corps: Uprising
+Hardwicke Stakes
+Harlan's Holiday Stakes
+Harold C. Ramser Sr. Handicap
+Harrison E. Johnson Memorial Handicap
+Harry Henson Stakes
+Harry Potter Alliance
+Harry Rosebery Stakes
+Harz Mountain Run
+Harz Run
+Haskell Invitational Stakes
+Haskell Stakes
+Hatton's Grace Hurdle
+Hausmeister Thomas D. '92
+Havre de Grace Handicap
+Hawke's Bay Guineas
+Hawkesbury Gold Cup
+Hawkesbury Guineas
+Hawthorne Derby
+Hawthorne Gold Cup Handicap
+Hawthorne Handicap
+Hawthorne Juvenile Stakes
+Haydock Sprint Cup
+Haynes, Hanson and Clark Conditions Stakes
+Heavy Barrel
+Heian Stakes
+Height of Fashion Stakes
+Herald Champion Novice Hurdle
+Herbert Power Stakes
+Herbst Stutenpreis
+Herecomesthebride Stakes
+Heritage Stakes
+Heroes Handicap Hurdle
+Heron Stakes
+Herzog von Ratibor-Rennen
+Hessen-Pokal
+Hever Sprint Stakes
+Hialeah Turf Cup Handicap
+Hibiscus Stakes
+Highlander Stakes
+Hill 'n' Dale Stakes
+Hill Prince Stakes
+Hill Stakes
+Hillsborough Stakes
+Hilltop Stakes
+Hilly Way Chase
+Hippodrome de la Côte d'Azur
+J. J. Atkins
+JLT Novices' Chase
+JNwine.com Champion Chase
+JRA Cup
+JSLA
+Patton Stakes
+Paumonok Handicap
+Pavilion Stakes
+People's Hospital, Pragathi Nagar
+Perak Coronation Cup
+Percy Sykes Stakes
+Perryville Stakes
+Persian War Novices' Hurdle
+Personal Ensign Stakes
+Pertemps Final
+Perth City Link
+Perth Cup
+Peter Marsh Chase
+Peter Pan Stakes
+Peter Young Stakes
+Peterborough Chase
+Phar Lap Stakes
+Philadelphia Handicap
+Philip H. Iselin Stakes
+Philippines–Australia Community Assistance Program
+Phoenix Sprint Stakes
+Phoenix Stakes
+Phoenix Stakes
+Railbird Stakes
+Railton Road
+Railway Stakes
+Railway Stakes
+Railway Stakes
+Railway Stakes
+Rajasthan Institute of Engineering and Technology
+Rajasthan pharmacy college
+Rampart Stakes
+Rancho Bernardo Handicap
+Rancho Del Paso Stakes
+Randwick City Stakes
+Randwick Guineas
+Watt balance
+Way Too Cool 50 Kilometer
+Waya Stakes
+Wayward Lad Novices' Chase
+Weatherbys Chase
+Weatherbys Super Sprint
+Webster Cup Chase
+Weld Park Stakes
+Wellington Cup
+Alycidon Stakes
+Benson and Hedges Gold Cup
+Bentinck Stakes
+California Cup Distaff
+California Cup Distance Handicap
+California Cup Juvenile Stakes
+California Cup Matron
+California Cup Mile
+California Cup Sprint
+De La Rose Stakes
+Dewhurst Plate
+Diadem Stakes
+Empire Classic Handicap
+KrisFlyer International Sprint
+Schweppes Gold Trophy
+Royal Heroine Mile Stakes
+Liberthine Mares' Chase
+Light Fingers Stakes
+Lightning Novices' Chase
+Like A Butterfly Novice Chase
+Lillie Langtry Stakes
+Manx Derby
+Manx Trophy
+Many Clouds Chase
+Maple Leaf Stakes
+Maple Leaf Trot
+March Stakes
+March Stakes
+Mardi Gras Stakes
+Mares Champion Hurdle
+Mares Novice Hurdle Championship Final
+Marguerite Stakes
+Nunthorpe Stakes
+Nursery Handicap
+Nursery Stakes
+Omnium Handicap
+Ondati Girls Secondary School
+Ontario Colleen Stakes
+Ontario Damsel Stakes
+Ontario Debutante Stakes
+Ontario Derby
+Ontario Fashion Stakes
+Ontario Lassie Stakes
+Ontario Matron Stakes
+Opening Verse Handicap
+Opening Verse Stakes
+Operating empty weight
+Operating weight
+Operation C
+Orchid Stakes
+Original Friends Dolls
+Ormonde Stakes
+Paddy Power Dial-A-Bet Chase
+Paddy Power Gold Cup
+Paddypower.com Future Champions Novice Hurdle
+Pago Pago Stakes
+Palace House Stakes
+Pall Mall Stakes
+Palm Beach Handicap
+Palm Beach Stakes
+Palomar Handicap
+Palos Verdes Handicap
+Palos Verdes Stakes
+Pan American Stakes
+Pan Zareta Stakes
+Pansy Stakes
+Paradise Stakes
+Park Express Stakes
+Park Hill Stakes
+Reisling Stakes
+Relkeel Hurdle
+Remington Park Oaks
+Remington Springboard Mile Stakes
+Remise
+Remsen Stakes
+Renaissance Stakes
+Rendlesham Hurdle
+Ripon Champion Two Years Old Trophy
+Risen Star Stakes
+Rising Stars Novices' Chase
+River City Handicap
+River City Stakes
+River Don Novices' Hurdle
+Rivière des Prairies generating station
+Roamer Handicap
+Robert A. Lee Stakes
+Robert B. Lewis Stakes
+Robert F. Carey Memorial Handicap
+Robert G. Dick Memorial Stakes
+Robert J. Frankel Stakes
+Robert Sangster Stakes
+Robot leg
+Rock 'n' Roll Las Vegas Marathon
+Rock Scorpion Books
+Rockfel Stakes
+Rockingham Stakes
+Yaddo Handicap
+Heath Stakes
+Lincolnshire Handicap
+Australian Jockey Club
+King Edward Breeders' Cup Stakes
+Royal & SunAlliance Novices' Hurdle
+Bernard Van Cutsem Stakes
+Lanson Champagne Vintage Stakes
+Maskette Handicap
+Champagne Stakes
+Lawrence Realization
+Philip H. Iselin Breeders' Cup Handicap
+Marlboro Cup
+Futurity Stakes
+Delta Downs Jackpot Stakes
+Frederick Clissold Stakes
+Arlington-Washington Breeders' Cup Lassie Stakes
+W.L. McKnight Handicap
+Arrowfield Stakes
+Mudgway Stakes
+Nestle Peters Classic
+The Age Classic
+Great Metropolitan
+Kingston Handicap
+Scottish Classic
+Greatwood Handicap Hurdle
+Merchants' and Citizens' Handicap
+San Vicente Handicap
+Warwickshire Oaks
+Martell Cup
+Noble Damsel Handicap
+Noble Damsel Stakes
+Noel J Taylor Memorial Mile
+Noel Murless Stakes
+Noel Novices' Chase
+Nojigiku Sho
+Norfolk Stakes
+Norman Carlyon Stakes
+Normans Grove Chase
+North America Cup
+Oak Tree Derby
+Oak Tree Stakes
+Oakdale Handicap
+Oaklawn Handicap
+Oaklawn Mile Stakes
+Oakleigh Plate
+Oaks
+Oaks
+Oaks d'Italia
+Obeah Stakes
+Occidental Handicap
+Ocean Handicap
+Ocean Stakes
+Oceanport Stakes
+Oceanside Stakes
+Oettingen-Rennen
+Ogden Phipps Handicap
+Ogden Phipps Stakes
+Oh So Sharp Stakes
+Ohio Derby
+Ohnsorg-Theater
+Piste
+Plate Trial Stakes
+Platinum Jubilee Stakes
+Play the King Stakes
+Plumb bob
+Plus Magazine
+Poplar Square Chase
+Popular Science Predictions Exchange
+Port Adelaide Cup
+Port Alfred High School
+Port Stakes
+Portland Handicap
+Potomac Handicap
+Potrero Grande Handicap
+Poule d'Essai des Poulains
+Poule d'Essai des Pouliches
+Powers Gold Cup
+Prairie Bayou Stakes
+Prairie Meadows Cornhusker Handicap
+Pramms Memorial
+Preakness Stakes
+Precisionist Stakes
+Preis der Deutschen Einheit
+Preis der Diana
+Preis der Sparkassen-Finanzgruppe
+Preis der Winterkönigin
+Preis des Winterfavoriten
+Preis von Europa
+Prelude Handicap Chase
+Prelude Handicap Hurdle
+Premier's Cup
+Premier's Cup
+Premier Bowl
+Premier Plate
+Premiere Stakes
+Premio Ambrosiano
+Premio Carlo Chiesa
+Premio Carlo Vittadini
+Premio Carlo d'Alessio
+Premio Carlo e Francesco Aloisi
+Premio Chiusura
+Premio Dormello
+Premio Elena e Sergio Cumani
+Premio Federico Tesio
+Premio Guido Berardelli
+Premio Lydia Tesio
+Premio Mario Incisa della Rocchetta
+Premio Omenoni
+Premio Parioli
+Premio Presidente della Repubblica
+Premio Presidente della Repubblica
+Premio Primi Passi
+Premio Regina Elena
+Premio Ribot
+Premio Roma
+Premio Tudini
+Premio Verziere
+Premio Vittorio di Capua
+Premio del Giubileo
+Premio del Piazzale
+Presque Isle Downs Masters Stakes
+Prestbury Juvenile Novices' Hurdle
+Prestige
+Prestige Novices' Hurdle
+Prestige Stakes
+Pretty Polly Stakes
+Pretty Polly Stakes
+Pride Stakes
+Primonetta Stakes
+Prince of Wales's Stakes
+Prince of Wales Stakes
+Prince of Wales Stakes
+Princess Elizabeth Stakes
+Princess Elizabeth Stakes
+Princess Margaret Stakes
+Princess Pat Stakes
+Princess Rooney Handicap
+Princess Rooney Stakes
+Princess Royal Stakes
+Princess Stakes
+Princess of Wales's Stakes
+Principal Pulse Stakes
+Prioress Stakes
+Private Terms Stakes
+Prix Allez France
+Prix André Baboin
+Prix Belle de Nuit
+Prix Berteux
+Prix Bertrand de Tarragon
+Prix Bertrand du Breuil
+Prix Chaudenay
+Prix Chloé
+Prix Cleopatre
+Prix Cléopâtre
+Prix Corrida
+Prix Daniel Wildenstein
+Prix Daphnis
+Prix Daru
+Prix Djebel
+Prix Dollar
+Prix Eclipse
+Prix Edmond Blanc
+Prix Eugene Adam
+Prix Eugène Adam
+Prix Exbury
+Prix Ferdinand Dufaure
+Prix Fille de l'Air
+Prix Foy
+Prix Ganay
+Prix Gladiateur
+Prix Gontaut-Biron
+Prix Greffulhe
+Prix Guillaume d'Ornano
+Prix Herod
+Prix Hocquart
+Prix Imprudence
+Prix Isonomy
+Prix Jacques Le Marois
+Prix Jacques le Marois
+Prix Jean-Luc Lagardere
+Prix Jean-Luc Lagardère
+Prix Jean Prat
+Prix Jean Romanet
+Prix Jean de Chaudenay
+Prix Juigne
+Prix Juigné
+Prix Kergorlay
+Prix La Fleche
+Prix La Flèche
+Prix La Force
+Prix La Haye Jousselin
+Prix La Rochette
+Prix Lupin
+Prix Marcel Boussac
+Prix Matchem
+Prix Maurice Gillois
+Prix Maurice de Gheest
+Prix Maurice de Nieuil
+Prix Messidor
+Prix Miesque
+Prix Minerve
+Prix Morny
+Prix Niel
+Prix Noailles
+Prix Omnium II
+Prix Paul de Moussac
+Prix Penelope
+Prix Perth
+Prix Quincey
+Prix Robert Papin
+Prix Rothschild
+Prix Royal-Oak
+Prix Saint-Alary
+Prix Saint-Roman
+Prix Sigy
+Prix Six Perfections
+Prix Texanita
+Prix Thomas Bryon
+Prix Vanteaux
+Prix Vermeille
+Prix Vicomtesse Vigier
+Prix Yacowlef
+Prix d'Amérique
+Prix d'Arenberg
+Prix d'Aumale
+Prix d'Harcourt
+Prix d'Hedouville
+Prix d'Hédouville
+Prix d'Ispahan
+Prix d'Été
+Prix de Barbeville
+Prix de Cabourg
+Prix de Conde
+Prix de Condé
+Prix de Diane
+Prix de Flore
+Prix de Fontainebleau
+Prix de Guiche
+Prix de Lieurey
+Prix de Lutèce
+Prix de Malleret
+Prix de Meautry
+Prix de Pomone
+Prix de Psyche
+Prix de Psyché
+Prix de Reux
+Prix de Ris-Orangis
+Prix de Royallieu
+Prix de Royaumont
+Prix de Saint-Georges
+Prix de Sandringham
+Prix de Seine-et-Oise
+Prix de l'Abbaye de Longchamp
+Prix de l'Arc de Triomphe
+Prix de l'Opera
+Prix de l'Opéra
+Prix de la Foret
+Prix de la Forêt
+Prix de la Grotte
+Prix de la Nonette
+Prix de la Porte Maillot
+Prix de la Salamandre
+Prix des Chenes
+Prix des Chênes
+Prix des Réservoirs
+Prix du Bois
+Prix du Cadran
+Prix du Calvados
+Prix du Chemin de Fer du Nord
+Prix du Conseil de Paris
+Prix du Gros Chene
+Prix du Gros Chêne
+Prix du Jockey Club
+Prix du Lys
+Prix du Moulin de Longchamp
+Prix du Muguet
+Prix du Palais-Royal
+Prix du Petit Couvert
+Prix du Pin
+Prix du Prince d'Orange
+Procyon Stakes
+Produce Stakes
+Produce Stakes
+Profit maximization
+Program Assessment Rating Tool
+Project MoDEL
+Reynoldstown Novices' Chase
+Rheinland-Pokal
+Rhode Island Handicap
+Ribblesdale Stakes
+Romford Puppy Cup
+Roparun
+Rose Bowl Stakes
+Rose Stakes
+Rose of Lancaster Stakes
+Roseben Handicap
+Rosehill Guineas
+Roses Stakes
+Rossington Main Novices' Hurdle
+Rothesay Stakes
+Sabin Stakes
+Safely Kept Stakes
+Sagaro Stakes
+Sainik Awasiya Mahavidyalaya Teghari Kailali
+Sandown Classic
+Sandown Classic Trial
+Sandown Guineas
+Sandown Mile
+Sandown Stakes
+Sandringham Handicap
+Sands Point Stakes
+Sandy Lane Stakes
+Sanford Stakes
+Sankei Sho All Comers
+Santa Ana Stakes
+Santa Anita Derby
+Santa Anita Handicap
+Santa Anita Oaks
+Santa Anita Sprint Championship
+Santa Barbara Handicap
+Santa Barbara Stakes
+Santa Margarita Invitational Handicap
+Santa Margarita Stakes
+Santa Maria Handicap
+Santa Maria Stakes
+Santa Monica Stakes
+Santa Paula Stakes
+Santa Ynez Stakes
+Santa Ysabel Stakes
+Sapling Stakes
+Sapphire Stakes
+Sapphire Stakes
+Sapphire Stakes
+Sapporo Kinen
+Sapporo Nisai Stakes
+Terry Biddlecombe Challenge Trophy
+Tesio Stakes
+Test
+Test Handicap
+Test Stakes
+Tetrarch Stakes
+Texas Mile Stakes
+Trigo Cup
+Trillium Stakes
+Triple Bend Invitational Handicap
+Triple Bend Stakes
+Triple Crown of Thoroughbred Racing
+Triple Crown of Thoroughbred Racing
+Triscay Stakes
+Tristarc Stakes
+Triumph Hurdle
+Tropical Park Derby
+Tropical Park Handicap
+Tropical Park Oaks
+Tropical Turf Handicap
+Tropical Turf Stakes
+Troy Stakes
+True North Handicap
+True North Stakes
+County Hurdle
+Grand Annual Chase
+Grand Prix d'Evry
+Grand Prix de Vichy
+Hack trapper
+Windy Sands Handicap
+Saber Rider and the Star Sheriffs - The Game
+Adirondack Breeders' Cup Stakes
+Ballycullen Stakes
+Futurity Stakes
+Matron Stakes
+New York Breeders' Cup Handicap
+Noble Damsel Breeders' Cup Handicap
+San Fernando Breeders' Cup Stakes
+Frank J. De Francis Memorial Dash
+Palomar Breeders' Cup Handicap
+Ramona Handicap
+VRC Derby
+Cork and Orrery Stakes
+Irish Derby Stakes
+Santa Paula Handicap
+Sequoia Handicap
+Mervin Muniz Jr. Memorial Handicap
+Enterprise Stakes
+Kentucky Breeders' Cup Stakes
+Tom Ridge Labor Day Stakes
+Windsor Forest Stakes
+Sunny Slope Stakes
+Woody Stephens Breeders' Cup Stakes
+Azalea Breeders' Cup Stakes
+Yorktown Handicap
+Hempstead Handicap
+Yalumba Stakes
+Molson Million
+Leonard Richards Stakes
+Hoover Fillies' Mile
+NYRA Mile
+2,000 Guineas
+Washington D C International
+Winter Stakes
+The Vanity
+The Very One Stakes
+The Very One Stakes
+The Very One Stakes
+Tulip Sho
+Tulloch Stakes
+Turf Classic Stakes
+Turf Monster Stakes
+Turf Paradise Derby
+Turfway Park Fall Championship Stakes
+Turkey trot
+Turnback The Alarm Handicap
+Turnback the Alarm Handicap
+Turnbull Stakes
+Turquoise Stakes
+Tuzla Handicap
+Twilight Derby
+Twin City Handicap
+Twin Spires Turf Sprint Stakes
+Twixt Stakes
+Two-Year-Old Trophy
+Ulster Derby
+Underwood Stakes
+Unicorn Stakes
+Union-Rennen
+Union Avenue Stakes
+United Nations Stakes
+United States Hotel Stakes
+United States Triple Crown of Thoroughbred Racing
+Up and Coming Stakes
+Upavon Fillies' Stakes
+Vauxhall Trial Stakes
+Vedant Institute of Management & Technology
+Velká pardubická
+Vernal Stakes
+Vernon O. Underwood Stakes
+Vertem Futurity Trophy
+Vosburgh Stakes
+W. L. McKnight Handicap
+W. L. McKnight Stakes
+W. S. Cox Plate
+WATC Derby
+WA Champion Fillies Stakes
+WA Guineas
+WA Oaks
+WEBN Stakes
+WJ & JE Cearns Invitation
+WKD Hurdle
+WRPI
+WRVS-FM
+W H Stocks Stakes
+W J Healy Stakes
+W W Cockram Stakes
+Waikato Sprint
+Wakeful Stakes
+Walden Stakes
+Waldorf Stakes
+Walk-off home run
+Wall magazine
+Welsh Champion Hurdle
+Welsh Grand National
+Welsh Greyhound Derby
+Welsh National
+Wembley Spring Cup
+Wenona Girl Quality
+Wentworth Stakes
+West Virginia Breeders' Classic
+West Virginia Derby
+West Virginia Governor's Stakes
+West Yorkshire Hurdle
+Westchester Handicap
+Westchester Stakes
+Westow Stakes
+Wetherby Mares' Hurdle
+What A Summer Stakes
+What a Pleasure Stakes
+Predominate Stakes
+Pride Stakes
+Real Quiet Stakes
+Valdoe Stakes
+Appleton Handicap
+Coolmore Lexington Stakes
+Kent Breeders' Cup Stakes
+Tropical Handicap
+San Marcos Handicap
+Sword Dancer Invitational Stakes
+Swordlestown Cup Novice Chase
+Cornhusker Breeders' Cup Handicap
+Equipoise Mile Handicap
+Hollywood Starlet Stakes
+Gardenia Handicap
+Bing Crosby Handicap
+Norfolk Stakes
+Santa Monica Handicap
+National Breeders' Produce Stakes
+Child Stakes
+Deutschland-Preis
+Joe Hirsch Turf Classic Invitational Handicap
+Osaka Hai
+William Hill Futurity
+Furstenberg Rennen
+Flower Bowl Invitational Handicap
+Middle Park Plate
+Dixie Handicap
+Endurance Handicap
+Latonia Championship Stakes
+Mardi Gras Handicap
+Moonee Valley Stakes
+Ascot Vale Stakes
+Long Branch Handicap
+Kyoto Daishoten
+Niagara Handicap
+Sankei Osaka Hai
+J J Liston Stakes
+Premio Melton
+William Hill Trophy
+Endine Handicap
+Fort Lauderdale Handicap
+Punchestown Stayers Hurdle
+American Grand National
+James Rowe Memorial Handicap
+Joe Hirsch Turf Classic Invitational
+Goodwood Breeders' Cup Handicap
+Lamplighter Handicap
+Skip Away Handicap
+Pimlico Futurity Stakes
+Arlington Futurity
+Peter Pan Handicap
+Phoenix Breeders' Cup Stakes
+Swift Stakes
+Bay Meadows Breeders' Cup Handicap
+Hanshin Daishoten
+Kikuka Shō
+Osunitas Handicap
+Tennō Shō
+King Edward Gold Cup
+Oceanside Handicap
+Clement L. Hirsch Memorial Turf Championship Stakes
+Highlander Handicap
+Remsen Handicap
+Frank J. DeFrancis Memorial Dash Stakes
+Gran Premio Internacional José Pedro Ramírez
+San Juan Capistrano Invitational Handicap
+Correction Handicap
+Distaff Breeders' Cup Handicap
+Hopeful Stakes
+Hopeful Stakes
+Jerome Handicap
+Laurel Futurity
+Aon Chase
+Bula Hurdle
+Derby Stakes
+Garden State Futurity
+Moonee Valley Cup
+Joe Hirsch Turf Classic
+Pan American Handicap
+Prix d'Astarte
+Stewards' Cup
+Craiglee Stakes
+VRC St Leger Stakes
+Select Handicap
+Broward Handicap
+CCA Oaks
+Phoenix Handicap
+Santa Anita Maturity
+Westchester Cup
+Gran Premio della Lotteria
+Great Eclipse Stakes
+Hawthorne Gold Cup
+Punchestown Champion Bumper
+Fairmount Derby
+John James McManus Memorial Hurdle
+Breeders' Cup Steeplechase
+Prioress Breeders' Cup Stakes
+Christie's Foxhunter Chase
+The Grand National
+Hirsch Jacobs Stakes
+Shoemaker Breeders' Cup Mile Stakes
+Finlandia Ajo
+Flat racing
+Debonair Stakes
+Prix de l'Abbaye
+Derby Trial
+Pacific Classic
+CashCall Futurity
+Haskell Invitational
+Breeders' Futurity
+Diana Handicap
+Keeneland Race Course
+Mackinnon Stakes
+Prix du Moulin
+AJC Derby
+Arlington Million Stakes
+Stars and Stripes Breeders' Cup Turf Handicap
+Grey Breeders' Cup Stakes
+Stars and Stripes Handicap
+Stars and Stripes Turf Handicap
+Saranac Handicap
+John Durkan Memorial Chase
+Charles H. Strub Stakes
+Honeymoon Breeders' Cup Handicap
+Lady's Secret Stakes
+Gulfstream Park Breeders' Cup Turf Stakes
+Woodford Reserve Turf Classic
+Escondido Handicap
+Santa Catalina Handicap
+Westbury Stakes
+Arlington-Washington Breeders' Cup Futurity
+Monmouth Breeders' Cup Oaks
+Premio Emilio Turati
+Canadian Oaks
+Molson Export Million
+Breeders' Cup Filly and Mare Turf
+The Toboggan
+Cotillion Stakes
+Dominion Day Handicap
+Richter Scale Sprint Handicap
+San Antonio Stakes
+Chirnside Stakes
+Garden City Stakes
+Flying Five
+American Invitational Handicap
+Prix Saint Alary
+St Simon Stakes
+Melbourne Stakes
+Cliff Hanger Handicap
+Ashford Castle Stakes
+Ballston Spa Breeders' Cup Handicap
+Zukunfts Rennen
+Churchill Downs Handicap
+Fayette Handicap
+Just a Game Handicap
+American Oaks Invitational Stakes
+Punchestown Champion Four Year Old Hurdle
+Royal & SunAlliance Chase
+Long Beach Handicap
+Laurel Turf Cup Handicap
+Budweiser Million
+Hennessy Cognac Gold Cup
+Leicestershire Stakes
+Maurice Lacroix-Trophy
+Ancient Title Breeders' Cup Handicap
+European 5-year-old Championship
+Jockey Club Gold Cup Stakes
+Canadian Classic Races
+Washington, D.C. International
+Blue Square Gold Cup
+Dr P J Moriarty Memorial Novice Chase
+Golden Gate Handicap
+Hopemont Stakes
+Washington Park Futurity
+Turf Classic
+Golden Jubilee Stakes
+Sheepshead Bay Handicap
+Woodlawn Stakes
+Cherry Hinton Stakes
+Clement L. Hirsch Handicap
+Hollywood Lassie Stakes
+Milady Breeders' Cup Handicap
+Oak Leaf Stakes
+Vanity Handicap
+Air New Zealand Stakes
+Kelt Capital Stakes
+King George VI & Queen Elizabeth Stakes
+P J O'Shea Stakes
+Bonnie Miss Stakes
+Rampart Handicap
+Santa Margarita Handicap
+Lane's End Breeders' Futurity
+Stonerside Beaumont Stakes
+Beaugay Handicap
+Breeders' Cup Turf Mile
+Brooklyn Derby
+CashCall Mile Invitational Stakes
+Clasico del Caribe
+Del Mar Breeders' Cup Mile
+Gulfstream Park Breeders' Cup Handicap
+Orchid Handicap
+Riva Ridge Stakes
+Sir Beaufort Stakes
+Sunshine Millions Fillies & Mares Sprint
+Sunshine Millions Turf
+Suwannee River Handicap
+Adirondack Handicap
+German 1000 Guineas
+Meadowlands Handicap
+Play The King Stakes
+The T J Smith
+Ballerina Handicap
+Tote Gold Trophy
+Premiere Handicap
+Woodbine Oaks Stakes
+Belmont Futurity
+Nassau County Breeders' Cup Stakes
+Beldame Handicap
+Molly Pitcher Handicap
+San Felipe Handicap
+Aintree Grand National
+Leopardstown 2,000 Guineas Trial
+Shirley Jones Handicap
+Arlington Lassie Stakes
+Copenhagen Cup
+Hollywood Express Handicap
+Melaleuca Stakes
+Stoneybridge Stakes
+Prairie Meadows Cornhusker Breeders' Cup Handicap
+California Cup Juvenile
+Golden Gate Fields Handicap
+Safely Kept Breeders' Cup Stakes
+Totesport Trophy
+Clive Graham Stakes
+Creme Fraiche Handicap
+Louisville Breeders' Cup Handicap
+MVRC
+Meadowlands Breeders' Cup Stakes
+Mainichi Okan
+Bed O' Roses Breeders' Cup Handicap
+Hollywood Breeders' Cup Oaks
+The Saratoga Dew
+W S Cox Plate
+AJC Sires Produce Stakes
+C.B.Fisher Plate
+National Hunt
+Oaks Stakes
+Vernons Sprint Cup
+William Hill Sprint Championship
+Eddie Read Handicap
+Personal Ensign Handicap
+Del Mar Breeders' Cup Handicap
+Hollywood Turf Cup
+Aqueduct Handicap
+Gazelle Handicap
+Cadbury Guineas
+Haskell Invitational Handicap
+Observer Gold Cup
+Summit Junior Hurdle
+Santa Ana Handicap
+Racing Post Chase
+Totesport Bowl
+Endeavour Breeders' Cup Stakes
+Indiana Breeders' Cup Oaks
+Just A Game Handicap
+Kelso Breeders' Cup Handicap
+Sword Dancer Handicap
+Tiffany Lass Stakes
+Hollywood Invitational Turf Handicap
+Salvator Mile
+Sport Page Breeders' Cup Handicap
+Hansa Preis
+Turfway Breeders' Cup Stakes
+Cash Call Mile
+Woodford Reserve Turf Classic Stakes
+Firenze Handicap
+Lonsdale Stakes
+Oak Tree Breeders' Cup Mile Stakes
+Valedictory Handicap
+Toronto Cup Handicap
+AJC Challenge Stakes
+American Classic Race
+Betfair Bowl
+Bord na Mona with Nature Novice Chase
+Boylesports.com Gold Cup
+Boylesports.com International Hurdle
+Hochi Hai Yayoi Sho
+Jubilee Cup
+Lexington Handicap
+LvRC Classic
+Maskette Stakes
+Vosburgh Handicap
+Jim Beam Stakes
+Longfellow Handicap
+Waterford Crystal Mile
+Monmouth Handicap
+Ladbroke Sprint Cup
+George C. Hendrie Stakes
+WinStar Derby
+SAJC Breeders' Stakes
+AJC Australian Derby
+AJC Chairmans Handicap
+AJC Kings Cup
+Chilukki Handicap
+Grand Criterium
+Grand Prix de l'UET
+Nursery Handicap
+Paddypowerpoker.com Future Champions Novice Hurdle
+Pennsylvania Governor's Cup Handicap
+Coronation Futurity
+Westerner Stakes
+Kyodo News Service Hai
+Firecracker Breeders' Cup Handicap
+Autumn Days Handicap
+Gamely Handicap
+Bing Crosby Breeders' Cup Handicap
+Saoire Stakes
+Mercedes Classic
+Land Rover Champion Novice Hurdle
+Irish Sweeps Hurdle
+Cesarewitch
+Oceanport Handicap
+Tropical Park Handicap
+Aristides Handicap
+Grosser Bugatti Preis
+Heineken Gold Cup
+Knight Frank Novice Chase
+Massey Ferguson Gold Cup
+1,000 Guineas
+Excelsior Breeders’ Cup Handicap
+Television New Zealand Stakes
+Prix Chloe
+Prix de la Cote Normande
+Two Thousand Guineas Stakes

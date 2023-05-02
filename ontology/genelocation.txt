@@ -1,0 +1,7 @@
+HumanGeneLocation
+MouseGeneLocation
+Gene Location
+gene location end
+gene location start
+Genome DB
+on chromosome

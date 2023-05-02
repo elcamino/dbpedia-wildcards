@@ -1,0 +1,3163 @@
+*Lisp
+.NET
+.NET Framework
+.QL
+.net
+1-bit architecture
+2,3-Wittig rearrangement
+2016 Tasmanian energy crisis
+2 mm scale
+37 mm flare
+4th Dimension
+7.62mm Thumper
+A++
+A+
+A-13
+A-normal form
+ABAP
+ABC
+ABC ALGOL
+ABSET
+ACC
+ACE
+ACL2
+ADMB
+AIMACO
+AIMMS
+AIXI
+AJAX
+ALCOR
+ALFA
+ALGO
+ALGOL
+ALGOL 58
+ALGOL 60
+ALGOL 68
+ALGOL 68S
+ALGOL N
+ALGOL W
+ALGOL X
+ALGOL Y
+ALTO
+ALTRAN
+AM/FM/GIS
+AMBIT
+AMOS
+AMPL
+AN/UYQ-70
+ANPA-1312
+ANSI/ISO C Specification Language
+ANSI C
+APLX
+APL
+APSE
+APT
+ARINC 653
+ARITH-MATIC
+ARexx
+AS1
+AS2
+AS5678
+ASTM A500
+ASTM F 883
+ATOLL
+ATS
+ATX
+AVT Statistical filtering algorithm
+AWK
+A Language for Process Specification
+A Manufacturing Language
+A Sharp
+A Treatise on the Astrolabe
+Aaron School
+Abbreviated Test Language for All Systems
+Abortive transformation
+Absorbing set
+Abstract-Type and Scheme-Definition Language
+Abstract State Machine Language
+Abstract Syntax Notation One
+Abstract syntax
+Absys
+Accent reduction
+Access query language
+Accessible publishing
+Account-based marketing
+Achaemenid Persian Lion Rhyton
+Achmatowicz reaction
+Acoustic harassment device
+ActionScript
+ActionScript 3
+Action learning
+Action programming language
+Actionscript
+Activating function
+ActiveVFP
+Active Oberon
+Active and passive transformation
+Active mobility
+Activity-centered design
+Activity Streams
+Actor–network theory
+Ada
+Ada programming language
+Adaptive collaborative control
+Additive Architecture
+Adobe Flex
+Adobe Integrated Runtime
+AdvPL
+Advanced Continuous Simulation Language
+Advanced Encryption Standard
+Advanced Multimedia Supplements
+Advanced RISC Computing
+Advanced capitalism
+Adventure learning
+Advisory speed limit
+Affiliative conflict theory
+African Consensus
+Agent-oriented programming
+Agent-oriented software engineering
+AgentCubes
+AgentSheets
+AgentSpeak
+Air Force Instruction
+Ajax
+Aldor
+Alef
+Alexandrov theorem
+Algebra of Communicating Processes
+Algebraic Logic Functional programming language
+Algoid
+Algorithm
+Alice
+All-white jury
+Allegro Common Lisp
+Alma-0
+Alpha-2 blocker
+Alpha
+Alphard
+AltaRica
+Alternating occlusion training
+Alternative set theory
+AmbientTalk
+Amiga E
+Ana
+Anaerobic glycolysis
+Anaphoric macro
+Android epistemology
+AngelScript
+Anglican Papalism
+Animal style
+Annular tropical cyclone
+Anti-bias curriculum
+Anti-individualism
+Anti-proverb
+Antichain
+Antoni Karwowski
+Apache Groovy
+Aperture grille
+Apis papyrus
+AppleScript
+Apple Dylan
+Application Programming Interface for Windows
+Application enablement
+Applied academics
+Appreciative inquiry in education
+Approximate computing
+Aqua Lung America
+Arakelov theory
+Architecture of Integrated Information Systems
+Argus
+Armchair theorizing
+Array-access analysis
+Art commune
+Artelys Knitro
+Artifact
+Artificial grammar learning
+Arts integration
+As-if rule
+Asano contraction
+Asm.js
+Aspect-oriented programming
+AspectJ
+AssemblyScript
+Assembly Language
+Assembly language
+Assertion definition language
+Asset-Centricity
+Astronomical Data Query Language
+Asymptote
+Asynchronous module definition
+Atari BASIC
+Atari Pascal
+Ateji PX
+Atlas Autocode
+Atom
+Attention economy
+Attorney–client matching
+Attribute
+Attribute clash
+Audiovisual education
+Auditory moving-window
+Australian Performing Arts Grammar School
+Authentic leadership
+Auto-lead Data Format
+AutoIt
+AutoLISP
+Autognostics
+Automata-based programming
+Automatic mutual exclusion
+Averest
+Avoided burden
+Awarded goal
+Awk
+Axe of Perun
+Axe of the Dwarvish Lords
+Axiom schema of replacement
+Axiom schema of specification
+Axiomatic semantics
+Free-form language
+FreeBASIC
+FreeBasic
+Free jazz
+Free recall
+Frenetic
+Freshwater ecosystem
+FriCAS
+Friedman translation
+Fril
+Frink
+Frontal solver
+Frozen conflict
+Fréchet filter
+Fudgets
+Full-spectrum photography
+Full configuration interaction
+Functional analytic psychotherapy
+Functional design
+Functional logic programming
+Functional reactive programming
+Funerary cone
+Hit by pitch
+Immigrant-host model
+Immiserizing growth
+Imperative programming
+Impromptu
+Impulse C
+In vivo bioreactor
+Incident Command System
+Incr Tcl
+Incremental funding methodology
+Index arbitrage
+Index of humanism articles
+India’s ‘Connect Central Asia’ Policy
+Indicator of compromise
+Indirect branch
+Internet Community Ports Act
+Internet Protocol Device Control
+Internet Standard
+Internet presence management
+Internetwork protocol
+Interpretative phenomenological analysis
+Intestinal metaplasia
+Intruder state
+Intrusion tolerance
+Intuitionism
+Invulnerable Coat of Arnd
+Inward-rectifier potassium ion channel
+Io
+Iota and Jot
+Iron Flask of Tuerny the Merciless
+Irrigation statistics
+John Rojas, Jr.
+Johydee's Mask
+Join-pattern
+Join Java
+Join point
+Joint Probabilistic Data Association Filter
+Jolie
+Legal burden of proof
+Legalism
+Lexicostatistics
+Axum
+A♯
+B2MML
+BANCStar programming language
+BASIC
+BASIC-8
+BASIC-PLUS
+BASIC09
+BBC BASIC
+BBN LISP
+BCPL
+BD-J
+BETA
+BLISS
+BLISS
+BNR Prolog
+BORO
+BSI PAS 2060
+BYOA
+B
+Baba Yaga's Hut
+Babbage
+Babelfy
+Baby Modula-3
+Baby modula-3
+Babylonian law
+Bahing
+Balinese massage
+Ballerina
+Bamberger triazine synthesis
+Banded forbearance
+Banff Classification
+Bank of English
+Bare king
+Basic4GL
+Basic4ppc
+BasicX
+Basic For Qt
+Basic Linear Algebra Subprograms
+Basic hanja for educational use
+Basic sediment and water
+Bath Profile
+Bayesian linear regression
+Bayesian multivariate linear regression
+Bayesian programming
+Bcheck
+BeanShell
+Beatnik
+Befunge
+Behavior-based robotics
+Behavioral analytics
+Behavioral geography
+Behavioralism
+Behaviorism
+Belinski–Zakharov transform
+Bent metallocene
+Bernstein set
+Bertrand
+Betting strategy
+Bi
+Biblical theology
+Bidirectional cell
+Big Design Up Front
+Bigloo
+Binary Format Description language
+Biodemography of human longevity
+Biological functionalism
+Biological psychiatry
+Biomining
+Bipartisanship
+Bisj pole
+Bispectral index
+Bitfrost
+Black sermonic tradition
+Blue toe syndrome
+Blue water thesis
+Bluespec
+Bobath concept
+Bodymind
+Boger pyridine synthesis
+Bogoliubov transformation
+Bogus
+Bolinao Skull
+Boo
+Boomerang
+Born–Haber cycle
+Bosque
+Bourne Shell
+Bourne shell
+Bowel management
+Brace position
+Braille ASCII
+Brainfuck
+Branch
+Branch and bound
+Brazilian mythology
+Breadwinner model
+Breakaway
+Brisker method
+British Museum algorithm
+Brokered convention
+Brown University Interactive Language
+Bs
+Buddhist economics
+Build to order
+Build to stock
+Building performance
+Business-oriented architecture
+Business Intelligence Markup Language
+Business application language
+Business process improvement
+Business relationship management
+Bx-tree
+C
+C*
+C++
+C++/CLI
+C++03
+C++11
+C--
+C-HTML
+C/AL
+C17
+C99
+CA-Realizer
+CAL Actor Language
+CBASIC
+CCTRL
+CEEMAC
+CEPAS
+CGOL
+CHILL
+CHIP
+CLACL
+CLIST
+CLP(R)
+CLU
+CMS-2
+CMS Pipelines
+COBOL
+COFF
+COMAL
+COMIT
+COMTRAN
+CORAL
+CORAL 66
+COWSEL
+CPL
+CPUID
+CRLX101
+CS-4
+CSIX
+CSS
+CSS3
+CTL*
+C
+C
+C Object Processor
+C POSIX library
+C Programming Language
+C Sharp
+C Sharp programming language
+C programming language
+C sharp
+CaPSL
+Caché ObjectScript
+Cadence SKILL
+California electricity crisis
+Call site
+Cameleon
+Camera Serial Interface
+Caml
+Canine cancer detection
+Cannula transfer
+Cantor space
+Capability management in business
+Capacity building
+Capital accumulation
+Capital deepening
+Capturing race
+Carbon
+Carbon capture and storage in Australia
+Carbonate clumped-isotope
+Carrier-grade NAT
+Cascading Style Sheets
+Case method
+Casio BASIC
+Castle Greyhawk
+Casual vacancy
+Catalan independence referendum, 2009
+Catch-22
+Gate array
+Gemstone
+Gene trapping
+General MIDI
+General MIDI Level 2
+General disequilibrium
+General purpose technology
+Generalized context-free grammar
+Generating set of a group
+Generative systems
+Genetic editing
+Genie
+Genomic convergence
+Genomic phylostratigraphy
+Genre studies
+GeoSMS
+GeoSciML
+Geoarchaeology
+Geology of the United States
+Geometrothermodynamics
+Granular computing
+Granulometry
+Graph Modelling Language
+Graphical system design
+Grassfire transform
+Grasshopper 3D
+Grassroots Support Organization
+Great Commission
+Hy
+HyTime
+Hybodontiformes
+Hydrogen technologies
+Hydroponics
+HyperTalk
+Hypertensive urgency
+I2O
+IBM 1401 Symbolic Programming System
+IBM 4680 BASIC
+IBM ALP
+IBM BASIC
+IBM HAScript
+IBM High Level Assembler
+IBM LU6.2
+IBM Open Class
+IBM POWER Instruction Set Architecture
+IBM RPG
+IBM RPG II
+IBM System/36 BASIC
+IDL specification language
+IEC 62700
+IEEE 802.20
+IF-MAP
+IFPS
+IITRAN
+IJVM
+IMP
+IMS Learning Design
+INEK
+INT
+IPS Supported Employment
+IPTC 7901
+IPTSCRAE
+IPv6-to-IPv6 Network Prefix Translation
+ISLISP
+ISO/IEC 8652
+ISO/TS 16949
+ISO 10668
+ISO 15398
+ISO 2921
+ISO 50001
+ISO 6943
+ISWIM
+ITU G.992.5 Annex M
+ITU T.61
+IT Operations Analytics
+Lake Winnipesaukee mystery stone
+Laker Band
+Lamfalussy process
+Local Notice to Mariners
+Local economic development
+Locale
+Localizer type directional aid
+Location hypotheses of Atlantis
+Locks-and-keys
+Locomotive BASIC
+Logic programming
+Logical partition
+Logistics support analysis
+Logo
+Logtalk
+Lola
+Lolcat
+LongRun
+Long squeeze
+Lotion play
+Lough Lene Boat
+Macintosh Common Lisp
+Maclisp
+MacroML
+Macrocosm and microcosm
+Macrosociology
+Magicians of Xanth
+Magnetic confinement fusion
+Magnetic mirror
+Mirah
+Miranda
+Misattributed paternity
+Misdemeanor murder
+Missing market
+Mission-based learning
+Mizar system
+Mob programming
+Muscle Tissue Engineering
+Music Markup Language
+Music lesson
+Parser
+Partial-order planning
+Participatory action research
+Participatory art
+Participatory design
+Participatory evaluation
+Participatory impact pathways analysis
+Participatory modeling
+Participatory planning
+Participatory rural appraisal
+Partition of Belgium
+Partition table
+Partner development
+Party-directed mediation
+PascalABC.NET
+Pascal
+Pascal Script
+Passive cooling
+Patch dynamics
+Patent law of the European Union
+Punie
+PureBasic
+PureScript
+Pure
+Purposive approach
+PyQt4
+Pyomo
+Python
+Python
+Python for S60
+Python programming language
+P′′
+Q-Bus
+QB64
+QBasic
+QML
+QUEL query languages
+QUIKSCRIPT
+QUIKTRAN
+Qal
+Qalb
+Stagflation
+Stalemate
+Stalin
+Standard ML
+Standard ML of New Jersey
+Standard addition
+Standard swap
+Standing order
+StarLogo
+Start Input/Output
+State within a state
+Statistical machine translation
+Status dynamic psychotherapy
+Status inconsistency
+Strengthening Families
+String field theory
+Strong gravity
+Strong measure zero set
+Strongtalk
+Structural Marxism
+Structural linguistics
+Structural mechanics
+Structuralist economics
+Structured Audio Orchestra Language
+Structured programming
+Style investing
+Styled Layer Descriptor
+Stylus
+Subalgebra
+Subject-oriented programming
+Subresource Integrity
+Subring
+Subset
+Subspace Gaussian Mixture Model
+Subsurface engineer
+Suffix tree clustering
+Suicide crisis
+Sun Java Studio Creator
+SuperPascal
+Super 2000
+Superdistribution
+Superfluid vacuum theory
+Superinsulation
+Superplan
+Supersymmetry algebra
+Supervisor Call instruction
+Supply reduction
+Supportive psychotherapy
+Suppressor-inducer T cell
+Surface combatant
+Surrealist cinema
+Talcher Autonomous College
+Talent supply chain management
+Tamil input methods
+Tangible common equity
+Taxila copper plate
+Tcl
+TclX
+Tea
+Teaching games for understanding
+Terminal mode
+Memory T cell
+Memory barrier
+Mentat
+Mesa
+Meta-reference
+MetaPost
+Meta Content Framework
+Metacharacter
+Metacompilation
+Metadata Authority Description Schema
+Metadata Object Description Schema
+Metadata facility for Java
+Mobile 3D Graphics API
+Mobile BASIC
+Mobile Information Device Profile
+Mobile Service Architecture
+Mobile sales enablement
+Mobilities
+Mocl
+Mod parrot
+Mode deactivation therapy
+Model-based specification
+Model-driven architecture
+Model-driven integration
+Model 204
+Modelica
+Modelling of General Systems
+Modern evolutionary synthesis
+Modern history
+Modified aldol tandem reaction
+Modula
+Modula-2
+Modula-2+
+Modula-3
+Modula 2
+Modular design
+Moment-generating function
+Mondrian
+Neural machine translation
+Neuro-linguistic programming
+NeuroML
+Neurodiversity
+Neuroepistemology
+Neuroethology
+Neurohistory
+Neuromuscular therapy
+NewLISP
+New Harvest
+Newa cuisine
+Oligoastrocytoma
+Oligonucleotide synthesis
+Olivera–Tanzi effect
+Pay-by-plate parking
+Peacemaking
+Pechmann condensation
+Pedagogical grammar
+Peer education
+Penmesterol
+Pocket PC
+Poincaré complex
+Pointless topology
+Polak Model
+Policy-based design
+Policy Coherence for Development
+Political economy of climate change
+Political opportunity
+Pollution-induced community tolerance
+Polygonal modeling
+Polymeal
+Polymorphic Programming Language
+Polymorphic recursion
+Polyphonic C Sharp
+Polyphthalamide
+Polytheistic reconstructionism
+Qin bronze chariot
+Qore
+Qt
+Qt
+Qt Meta Language
+Quadrant dentistry
+QuakeC
+Qualification principle
+Quality, cost, delivery
+Quantitative Descriptive Analysis
+Quantitative history
+Quantitative pharmacology
+Quantum Zeno effect
+Quantum instrument
+Quantum operation
+Quasi-opportunistic supercomputing
+Quechers
+Queen Ehlissa's Marvelous Nightingale
+Question-focused dataset
+Quicken Interchange Format
+Quietism
+Quincy Method
+R++
+RAPID
+Richter's transformation
+Rights-based approach to development
+Rigorous Approach to Industrial Software Engineering
+Ring
+Ring of Gaxx
+Ring of Gyges
+S+core
+S-1 Lisp
+S-BASIC
+S-RAMP
+S-algol
+S1000D
+S2
+S3
+SA-C
+SAC programming language
+SAIL
+SAML 1.1
+SAMPL
+SARS conspiracy theory
+SASL
+SAS language
+SAWSDL
+SCM
+SCSI Pass-Through Direct
+SCSI Pass Through Interface
+SCUMM
+SDS BASIC
+SETL
+SIOD
+SISAL
+SK8
+SKOS
+SLIP
+SMALL
+SMPTE 356M
+SNAP
+SNOBOL
+SOAP
+SOFT audit
+SOPHAEROS
+SP-DEVS
+SP/k
+SPARC
+SPARK
+SPARQL
+SPECint
+SQL
+SQL/PSM
+SQL PL
+SRV record
+SR
+SSE4
+SSE5
+SSSE3
+Sass
+Sather
+Sawzall
+Say cheese
+Scala
+Scaling
+Shooting
+Short Code
+Short Range Devices
+Showdown
+Shrutlekhan-Rajbhasha
+Solution Deployment Descriptor
+Solution focused brief therapy
+Solutions journalism
+Sonata theory
+Sonorism
+Sort Merge Generator
+Sotho deficient verbs
+Source
+Source code virus
+Source tracking
+Stewardship End Result Contracting
+Stochastic semantic analysis
+Stochastic tunneling
+Stochastic vacuum model
+Stone of Terpon
+Strand
+Strategic foresight
+Strategy Markup Language
+Stream processing
+Streaming SIMD Extensions
+Streaming XML
+Street-level bureaucracy
+Street law
+T.120
+T.38
+TACPOL
+TADS
+TECO
+TELCOMP
+TI-BASIC 83
+TI BASIC
+TLA+
+TMG
+TR-069
+TRAC
+TTM
+TUTOR
+TXL
+T
+T helper 17 cell
+Tactile programming language
+The two kinds of righteousness
+Thematic interpretation
+Theoretical ex-rights price
+Theory of constraints
+Therapeutic community
+Thermal infrared spectroscopy
+ThinBasic
+Thin set
+ThingLab
+Thinning
+Third country dumping
+ToonTalk
+Top Tier Detergent Gasoline
+Topic-based authoring
+Topological data analysis
+Topology optimization
+Total Communication
+Total synthesis
+Toxics use reduction
+Trace scheduling
+UPortal
+USB On-The-Go
+USB Type-C
+Ubercode
+Victor's justice
+Video Ad Serving Template
+Video synopsis
+Vilnius BASIC
+Vintage amateur radio
+Viral Marketing Research
+Virtual Control Program Interface
+Virtue epistemology
+VisSim
+Visibility
+Visitability
+Visual Basic
+Visual Basic .NET
+Visual Basic for Applications
+Visual Instruction Set
+Visual Logic
+Visual Objects
+Visual Prolog
+Visual approach
+Visual calculus
+Vitrification
+VoIP recording
+Vocabulary-based transformation
+Vocal jazz
+WinWrap Basic
+Windows Presentation Foundation
+Windows Sound System
+Yorick
+Z++
+Z-Wave
+ZOPL
+ZPE Programming Environment
+ZPL
+Zebra Programming Language
+Zemor's decoding algorithm
+Zeno
+Zero-based budgeting
+Zest
+Identification of Fixed Objects in Public Transport
+Mandated choice
+PyGObject
+Stars proposed in religion
+Rich Media Environment
+Causal dynamical triangulation
+Causal fermion system
+Causal sets
+Cavitation modelling
+Cecil
+Celebrate Recovery
+Celebrity photography
+CellML
+Cellular neural network
+Celtic Reconstructionist Paganism
+Centered set
+Cephalic presentation
+Ceylon
+Challenge-based learning
+Chandelier cell
+Chapel
+Distributed cognition
+Distributed leadership
+Distribution
+Ditkin set
+Diversity marketing
+Divide and conquer algorithms
+Divinatory, esoteric and occult tarot
+Divinylcyclopropane-cycloheptadiene rearrangement
+Do-it-yourself investing
+DoJa
+Document Style Semantics and Specification Language
+Document Update Markup Language
+Document engineering
+Document type declaration
+Doing It Right
+Dolittle
+Domain-driven design
+Domain Based Security
+Domestication theory
+Donum Vitae
+Dot pitch
+Double-negation translation
+Draco
+Dragon protocol
+Drilling engineering
+Droitwich Canal
+Drug interaction
+Dual-career commuter couples
+Dual control
+Dual relationship
+Duo-Art
+Duopoly
+Durand Stone
+Gödel
+Gδ set
+H.241
+H.320
+H.323
+H.324
+HLSL
+HLT
+Industry Foundation Classes
+Inertial inflation
+Inferential role semantics
+Infinite broom
+Infinitesimal strain theory
+Information-centric networking
+Information Processing Language
+Information retrieval query language
+Information rights management
+Informative modelling
+Infrared divergence
+Infrastructure for Peace
+Input/output Buffer Information Specification
+InstantGo
+Institutionalism in political parties
+Instruction list
+Integer BASIC
+Integrated Management of Childhood Illness
+Integrated catchment management
+Integrated chain management
+Integrated circuit design
+Integrated computational materials engineering
+Integrated design
+Integrated pest management
+Integrated topside design
+Integrational linguistics
+Integrationism
+Intel 8080
+Intel 8086
+Intel Parallel Building Blocks
+Intelligent workload management
+Intensional logic
+Intensive interaction
+Intensive pig farming
+Intention economy
+Intentional programming
+Inter-Access Point Protocol
+Interaction nets
+Interaction theory
+Interactional linguistics
+Interactive Learning
+Interactive children's book
+Intercultural philosophy
+Interlisp
+Internal Family Systems Model
+International Political Sociology
+Jehoash Inscription
+Joule
+Joy
+Joyce
+Jruby
+Jsish
+JuMP
+Judgmental language
+Judoscript
+Julia
+Julia Child's kitchen
+Math library
+Mathai–Quillen formalism
+Mathematical psychology
+Matlab
+Matrix of Leadership
+Matrix of domination
+Mighty Servant of Leuk-o
+Military order
+Military supply chain management
+Milk
+Negotiated order
+Nemerle
+Neo-orthodoxy
+NesC
+Nested sampling algorithm
+Net.Data
+NetLogo
+NetRexx
+Network Access Control
+Network Computer Reference Profile
+Network Computing System
+Network Description Language
+News Industry Text Format
+Newspeak
+Newsqueak
+NewtonScript
+Next-best-action marketing
+Nial
+Niche market
+Nil per os
+Nim
+Other-Centred Therapy
+Out-of-order execution
+Reality therapy
+Reason
+Reason maintenance
+Rebeca
+Rebol
+Receivership
+Recognizable set
+Recorder of Ye'Cind
+Recursive Bayesian estimation
+Recursive language
+Red
+Red tourism
+Refal
+Reference scenario
+Refinement calculus
+Reform mathematics
+Refrigerate after opening
+Regge calculus
+Region of interest
+Register-transfer level
+Regular Language description for XML
+Regulatory taking
+Rubin causal model
+Ruby
+Ruby
+Ruby Document format
+Ruby programming language
+Sampo
+Scheduling Open Service Interface Definition
+Scheme
+Scheme 48
+Scheme Requests for Implementation
+School-Based Family Counseling
+Schreiber theory
+Schrieffer–Wolff transformation
+Schwarz–Christoffel mapping
+Science 2.0
+Scientific Vector Language
+Scientific programming language
+Scientific teaching
+Scratch
+Scratch programming language
+Screen-door effect
+Screen tearing
+Script.NET
+Scripting for the Java Platform
+Scriptlet
+Scriptol
+Seasonal affective disorder
+Second quantization
+Secretomics
+Sector-Wide Approach
+Secular equilibrium
+Secularization
+Secure messaging
+Sed
+Seed7
+Seismic analysis
+Shaping
+Shared decision-making
+Shared reading
+Shared space
+Sheffield school
+Shell script
+Sheltered instruction
+Shift left testing
+Shiftability theory
+Shilov boundary
+The Boston process approach
+Three-state solution
+Three schema approach
+Throne of the Gods
+Throughput accounting
+Throw away paradox
+Thue
+Tiger-BASIC
+Tight binding
+Tikunani Prism
+Tile Map Service
+Time-driven programming
+Time standard
+Time trouble
+Trade-off
+Trade Space Visualizer
+Train meet
+Training Center XML
+Trait theory
+Traité de Zoologie
+TransXChange
+Transaction-level modeling
+Transaction Application Language
+Transformation Priority Premise
+Transformation geometry
+Transformation language
+Transformational syntax
+Transformed social interaction
+Transient equilibrium
+Transitive set
+Translabyrinthine approach
+Translation Memory eXchange
+Transnational feminism
+Transportation management system
+Trapped ion quantum computer
+Travel incentive
+Tree-adjoining grammar
+Tree of Knowledge System
+Triad
+Trial as an adult
+Triangulation
+Composite Capability/Preference Profiles
+Delépine reaction
+Differential accumulation
+GQM
+Positive Development
+Quantile regression averaging
+WS-Policy
+WS-Reliability
+New Home Economics
+Experimental travel
+Decision field theory
+Dedication Stone
+Deflected slipstream
+Deforestation
+Deformation
+Defun
+Degressive proportionality
+Delay-tolerant networking
+Delphi
+Delphi
+Delta consistency
+Delta model
+Demythologization
+Denotational semantics
+Dependent ML
+Design-focused evaluation
+Design By Numbers
+Design Exchange Format
+Design by contract
+Design for the Environment
+Design rule for Camera File system
+Deterministic context-free grammar
+Deterministic context-free language
+Fantom
+Farmer Research Committee
+Fasm
+Fear conditioning
+Feature-oriented programming
+Feeding order
+Feminine psychology
+Feminist anthropology
+Feminist biology
+Feminist ethics
+Feminist geography
+Fiduciary management
+Field specification
+Futhark
+FutureBASIC
+Future interests
+FuzzyCLIPS
+Fuzzy Control Language
+G-code
+G.114
+G.811
+G.992.3 Annex J
+G.992.3 Annex L
+G.9970
+G.9972
+G.hn
+GASP
+GENDEX
+GGobi
+GLSL
+GNOWSYS
+GNU Guile
+GOLOG
+GPS Exchange Format
+GRML
+GW-BASIC
+Gadget
+Gain scheduling
+Galaxies in fiction
+Gambas
+Gambit
+Gambling for resurrection
+Game Oriented Assembly Lisp
+Game art design
+Game semantics
+Gamification of learning
+Gamut
+Gang bang
+Go!
+Go
+God's Seat
+Golden Idol
+Golden Sun Bird
+Golo
+Kent Recursive Calculator
+Kepner Income Tax
+Kerala Brethren
+Key-value database
+Kindergarten
+Kinetic logic
+Kotlin
+Krohn–Rhodes theory
+Kuroth's Quill
+Kuznetsov NK-32
+Kylix
+L-reduction
+Less
+Let Evening Come
+Levee breach
+Level I BASIC
+Leverage-point modeling
+Lex
+Maya Embedded Language
+Metapost
+Method of levels
+Method of matched asymptotic expansions
+Method of undetermined coefficients
+Methodical culturalism
+Metro 2 format
+Metropolitan Reticular Matrix Planning
+MexScript
+Meyers synthesis
+NAPLPS
+NATO Codification System
+NCAR Command Language
+NELIAC
+NEPOMUK
+NESL
+NEWP
+NIL
+NOP
+NPL
+Napier88
+Narrative ethics
+Narrative medicine
+StaDyn
+Vala
+Value investing
+Vascular occlusion training
+Wang BASIC
+Warring States crystal glass
+Whig history
+Whiley
+WiLL
+Widom insertion method
+Wild branch
+Wilderness therapy
+WordBASIC
+Workflow Open Service Interface Definition
+Workforce development
+World's View, Nyanga
+Wound bed preparation
+Write once, compile anywhere
+WxWidgets
+Wǔ Xíng painting
+Danishefsky Taxol total synthesis
+Divisi
+Dynamic Data Driven Applications Systems
+Governance Interoperability Framework
+Harmonious set
+Over-the-counter data
+Syndetic set
+TR-196
+Territorialist School
+CFML
+Category management
+Catrobat
+Coarray Fortran
+Cobra
+Code-talker paradox
+Code morphing
+Code scaling, applicability, and uncertainty
+CoffeeScript
+Coffeescript
+Cofiniteness
+Cognitive acceleration
+Cognitive anthropology
+Cognitive grammar
+Cohort analysis
+Col legno
+ColdFusion Markup Language
+Cold Fusion
+Cold vapour atomic fluorescence spectroscopy
+Collaborative Application Markup Language
+Collaborative language systems
+Collaborative learning
+Collision
+Collision
+Colony Framework
+ColorForth
+Color BASIC
+Color Light Output
+Combat service support
+Combined arms
+Command language
+Commercial Product Assurance
+Commodification
+Commodore BASIC
+CommonLoops
+Common Algebraic Specification Language
+Common Compiler Feedback Format
+Common Intermediate Language
+Common Language Infrastructure
+Common Language Runtime
+Common Lisp
+Common Lisp HyperSpec
+Common Lisp Music
+Commonly misspelled words in French
+Communications Specification for Fitness Equipment
+Communicative language teaching
+Communio et Progressio
+Community-based participatory research
+Community-led total sanitation
+Community Therapeutic Care
+Community capitalism
+Community reinforcement approach and family training
+Comparative cultural studies
+Compare-and-swap
+Compatible system of ℓ-adic representations
+Competency-based learning
+Competitive Tax Plan
+Compiled language
+Comply or explain
+Component-based usability testing
+Component Pascal
+Composer-Tron
+Computer-aided industrial design
+Computer-based mathematics education
+Computer-integrated manufacturing
+Computer-supported collaborative learning
+Computer science
+Concept programming
+Conceptual graph
+Concrete security
+Concurrent Euclid
+Concurrent ML
+Concurrent Pascal
+Concurrent object-oriented programming
+Conditional budgeting
+Condoms, needles, and negotiation
+Cone
+Configuration Menu Language
+Confined space rescue
+Conflict of interest
+Conflict thesis
+Connected Device Configuration
+Connected Limited Device Configuration
+Connective tissue proper
+Consignment Store
+Constitutional crisis
+Constraint Grammar
+Constraint Handling Rules
+Constraint automaton
+Constraint programming
+Constructive set theory
+Contact approach
+Contango
+Contemplative psychotherapy
+Content-based instruction
+Content repository API for Java
+Context-sensitive solutions
+Contextual documentation
+Continuity of Care Record
+Continuous-flow manufacturing
+Continuous availability
+Continuous cover forestry
+Continuous delivery
+Continuous linear operator
+Contraceptive security
+Contrastive linguistics
+Control Language
+Control reconfiguration
+Controlled-environment agriculture
+Convention over Code
+Convention over configuration
+Convergent Functional Genomics
+Conversation analysis
+Convex cone
+Cook–Craigie plan
+Cool
+Cooperative learning
+Coprocess
+CorVision
+CorbaScript
+Core Component Technical Specification
+Coregency
+Corporate sustainability
+Correlation
+Cost–benefit analysis
+Cotransformation
+Cotrel–Dubousset instrumentation
+Coupled mode theory
+Covenantal theology
+Covert conditioning
+Cradle-to-cradle design
+Election of remedies
+Electrologica X8
+Electron counting
+Electronic paper
+Electrosynthesis
+Elixir
+Elliott ALGOL
+Elliptic curve cryptography
+Elm
+Emacs Lisp
+Email spam
+Embarcadero Delphi
+Embeddable Common Lisp
+Embedded C
+Embedded Compact Extended
+Embedded style language
+Emerald
+Emerald Program
+Emergency
+Emerging technologies
+Emissions trading
+Emmanuel Movement
+Empathic design
+Employeeship
+Empowerment evaluation
+Enantioselective synthesis
+Encoded Archival Context
+Encoded Archival Description
+Encrypted Media Extensions
+Energy Logic
+Enforce In-order Execution of I/O
+Engine failure on take-off
+Engineer to order
+Engineering economics
+Enterprise Privacy Authorization Language
+Entity Bean
+Environmental accounting
+Enzybiotics
+Ephod
+Epigram
+Equality feminism
+Erlang
+Form
+Formal sociology
+Formatting Output Specification Instance
+Formula Atlantic
+Forth
+Fortran
+FortranM
+Fortran 90
+Fortress
+Forward genetics
+Four Tantum ergo, WAB 41
+FpgaC
+Fragment
+Frame-based editor
+Frame-based terminology
+Framework-oriented design
+Framework for Intervention
+Franz Lisp
+German declension
+German income approach
+Getting It Right for Every Child
+Gift Basket Diplomacy
+Gifted pull-out
+Ginga
+Girl's court
+Global Arrays
+Global Implementation Plan to End Violence against Women and Girls
+Global Namespace
+Globally Executable MHP
+Glomerular hyperfiltration
+Gosu
+Gould–Jacobs reaction
+Government Open Systems Interconnection Profile
+GrGen
+Grading Open Service Interface Definition
+Graffiti Markup Language
+Icon
+Id
+Ideal
+Ideal
+Identity-based security
+Identity transform
+Ideokinesis
+Idris
+IgniteFusion
+Ikarus
+Illegal opcode
+Image
+Image-guided surgery
+Image
+K-set
+KDE Platform
+KL0
+KL1
+KOMPILER
+Kaminari
+Kanade–Lucas–Tomasi feature tracker
+Kaohsiung Prison riot
+Karel
+Kodály method
+Kojo
+Koli Christians
+Law school rankings in the United States
+Le Lisp
+Leader–member exchange theory
+Leaf class
+Leaky abstraction
+LeanCMMI
+Lean product development
+Leaning toothpick syndrome
+Least squares
+Linda
+Lindeman-Sobel approach to artistic wind performance
+Lindley's paradox
+Linear Unit Grammar
+Linear optical quantum computing
+Linear regression
+Linguistic boundary of Moselle
+Link contract
+Link encryption
+Linked Data Platform
+Linked set
+Linotte
+Linux Unified Key Setup
+Liquidity trap
+LispWorks
+Lisp
+Lisp Machine Lisp
+Lisp programming language
+List of SDN controller software
+List of chorale harmonisations by Johann Sebastian Bach
+List of command-line interpreters
+List of highest church naves
+Lymphokine
+Lynx
+Make
+Making Room
+Malbolge
+Marine fuel management
+Market failure
+Market reduction approach
+Market saturation
+Media Process Outsourcing
+Media Source Extensions
+Mediacracy
+Medical Device Radiocommunications Service
+Medical education agency
+Medical nutrition therapy
+Mediterranean diet
+Megamax C
+Meisner technique
+Microbial biogeography
+Microdata
+Microformat
+Micropower radio
+Microsecond Bus
+Microsoft BASIC
+Microsoft Interface Definition Language
+Microsoft Power Fx
+Microsoft Small Basic
+Microsoft Visual Basic
+Microsoft Visual Programming Language
+Microtraining
+Microwave Scanning Beam Landing System
+Middle-class squeeze
+Middle income trap
+Middle range theory
+Pico-ITXe
+PicoJava
+PicoLisp
+Pico
+Pict
+Pidgin code
+Pin
+Service-learning
+Service-orientation
+Service-oriented programming
+Service
+Service integration and management
+Service provider interface
+Service recovery paradox
+Set theoretic programming
+Settings in The Adventures of Tintin
+Seventh Edition Unix terminal interface
+Sex education
+ShEx
+Shadow mask
+Shambhala Training
+Sibernetic
+Siegel domain
+Sierpiński set
+Signaling game
+Signed and Encrypted Email Over The Internet
+Silt out
+SimpleXML
+Simple Soap Binding Profile
+Simple learning design 2.0
+Simple precedence grammar
+Simple precedence parser
+Simple random sample
+Simple rational approximation
+Simplified directional facility
+Simplified molecular-input line-entry system
+Simula
+Simulation language
+Simulator sickness
+Simultaneously extracted metals and Acid-volatile sulfide
+Sinclair BASIC
+Single Wire Protocol
+Soviet montage theory
+Space of flows
+Space tribology
+Spanish proverbs
+Spastic quadriplegia
+Specially designed academic instruction in English
+Specification by example
+Spectral modeling synthesis
+Speech Application Language Tags
+Speedcoding
+Spice Lisp
+Spiritual test
+Splicing rule
+Split-C
+Split
+Spoofing attack
+SpreadsheetML
+Squeak
+Squirrel
+Staudinger synthesis
+Steady state
+Steelman language requirements
+StepTalk
+Step therapy
+Swing Application Framework
+Swiss cheese
+Sword of Goujian
+Symbolic Optimal Assembly Program
+Symbolic programming
+Symbolic simulation
+Symmetric convolution
+Symmetric digital subscriber line
+Synergistic catalysis
+Syntactic ambiguity
+Synthesis Toolkit
+SystemVerilog
+System Independent Data Format
+System dynamics
+System identifier
+Systemic functional linguistics
+Systems Programming Language
+Systems theory in anthropology
+Tombstone
+Tongan music notation
+Yates analysis
+Yhc
+Yoix
+Zig
+Zonnon
+Zope
+Zugzwang
+Charm++
+Charm
+Charmed academia
+Chavrusa
+Chemical Markup Language
+Chemoproteomics
+Chez Scheme
+Children's palliative care
+Chinese alchemy
+Chipmunk Basic
+Chisel
+Christian mission to Jews
+Chromaticity
+Chua K'a
+ChucK
+Chunking
+Church
+Ciao
+Cilk
+Circular reporting
+Cirq
+Citrine
+City parish
+Cladistics
+Claire
+Clarion
+Clascal
+Classical Christian education
+Classification Markup Language
+Clean
+Climate stabilization wedge
+Clinical governance
+Clinically isolated syndrome
+Clipper
+Clipper architecture
+Clique
+Clique percolation method
+Clojure
+Cloud Application Management for Platforms
+Cloud Infrastructure Management Interface
+Cloud manufacturing
+Club set
+Cluster-weighted modeling
+Cython
+Céu
+Cω
+D-book
+DARSIMCO
+DATATRIEVE
+DBase
+DEC Prism
+DEC Text Processing Utility
+DEVS
+DG/L
+DIANA
+DIBOL
+DIGITAL Command Language
+DIN 43700
+DLV
+DOCSIS Set-top Gateway
+DOORS Extension Language
+DOPE
+DOS Protected Mode Interface
+DRAKON
+DRMAA
+DUP programming language
+DVD-RAM
+DW-link
+DYNAMO
+D
+D electron count
+Dafny
+Daily fantasy sports
+Daplex
+Dart
+Dartmouth ALGOL 30
+Dartmouth BASIC
+Darwin
+Darzens halogenation
+Daseinsanalysis
+Data, context and interaction
+Data-centric security
+Data-driven learning
+Data-driven programming
+Data Integrity Field
+Data defined storage
+Data dependency
+Data reduction
+DatabaseSpy
+Dataflow programming
+Datalog
+Dataparallel-C
+Datapoint's Advanced Systems Language
+Dataspaces
+Datatrieve
+Davati stele
+Day school
+Deadlock
+Debt settlement
+Debt wall
+Developmental Needs Meeting Strategy
+Dexterity
+Dhammakaya meditation
+Dialect awareness
+Dialogue education
+Dialogue principle
+Diapason d'Or
+Dictionary of American Regional English
+Differentiation therapy
+Digital dark age
+Digital obsolescence
+Digital rights management
+Diophantine geometry
+DirectX Video Acceleration
+Direct–quadrature–zero transformation
+Disaster risk reduction
+Discontinuous-constituent phrase structure grammar
+Discriminator
+Disk Extended Color BASIC
+Display Serial Interface
+Dispute
+Dylan
+Dynamic Airways Flight 405
+Dynamic Resolution Adaptation
+Dynamic efficiency
+Dynamic enterprise modeling
+Dynamic financial analysis
+Dynamic infrastructure
+Dynamicism
+E-LOTOS
+E.123
+E.161
+E.164
+EASA CS-VLA
+ECL
+ECMAScript
+EC
+EGL
+ELAN
+ELI
+EM intermediate language
+ENGLISH
+EN 417
+EPSILON
+Early Algebra
+Early California artists
+Early intervention in psychosis
+Ease
+EasyLanguage
+Easy Programming Language
+Echo chamber
+Eclecticism
+EcoProfit
+Ecodesign
+Ecological interface design
+Ecological sanitation
+Ecological triage
+Ecomechatronics
+Economic puzzle
+Economics of scientific knowledge
+Economy of Scotland in the High Middle Ages
+Ecosystem-based management
+Edinburgh IMP
+Eff
+Efficient Taxation of Income
+Ego-state therapy
+Eiffel
+Escher
+Espionage organizations
+Essential spectrum
+Eternalism
+Ethical dilemma
+Ethogenics
+Etoys
+EuLisp
+Euclid
+Euhemerism
+Euler
+Euphoria
+European Charter for Researchers
+Evangelienmotetten
+Event-driven programming
+Evidence-based Scheduling
+Evidence-based education
+Evidence-based medicine
+Evidence-based nursing
+Evidence-based policing
+Evidence-based practice
+Evidential apologetics
+Evidential reasoning approach
+Evolutionary algorithm
+Evolutionary phonology
+Evolutionary psychology
+Example-Centric Programming
+Excess supply
+Exclusive Brethren
+Executive Systems Problem Oriented Language
+Exercise bulimia
+Exogenous DNA
+Expense and Cost Recovery System
+Experience API
+Experience Focused Counselling
+Experimental archaeometallurgy
+Experimental mathematics
+Expert elicitation
+Explicit data graph execution
+Explicit multi-threading
+Exploratory data analysis
+Exploratory testing
+Extempore
+ExtendScript
+Extended Affix Grammar
+Extended ML
+Extended System Configuration Data
+Extensible Application Markup Language
+Extensible Embeddable Language
+Extensible Host Controller Interface
+Extensible Stylesheet Language
+Extension Language Kit
+Extension mechanisms for DNS
+Extensive-form game
+Exterior space
+Ezana Stone
+Ezhil
+F*
+F-Script
+FACT
+FILECOMP
+FLACC
+FLOW-MATIC
+FLOW
+FLWOR
+FL
+FOCAL
+FOIL
+FORMAC
+FORTRAN
+FORTRAN 77
+FOSD origami
+FP
+FX-87
+FXG
+Fabrik
+Facebook Query Language
+Factor
+Failure of issue
+File shadowing
+Finite & Deterministic Discrete Event System Specification
+Finite state machine with datapath
+Finnicization of Helsinki
+Firefly
+Fireworks Algorithm
+First Chicago Method
+Fischer oxazole synthesis
+Fitzpatrick scale
+Fixed pixel display
+Fjölnir
+Flapjax
+Flat
+Flat network
+FleXML
+Flex
+Flix
+Floating licensing
+Floodgate effect
+Florence Nightingale effect
+Flow-based programming
+Flow chart language
+Flow injection analysis
+Flowgorithm
+Fltk
+Fluid construction grammar
+Flying ice cube
+Focus on form
+Food processing
+For All Practical Purposes
+Force play
+Forced compliance theory
+Human Markup Language
+Human security
+Humanistic education
+JScript
+JScript .NET
+JShell
+JUDO
+JXTA
+J
+J operator
+Jade
+Jakarta Persistence Query Language
+Jakarta Standard Tag Library
+Janus
+Janus
+Jaql
+JavaFX Script
+JavaScript
+JavaServer Faces
+JavaServer Pages
+Java
+Java
+Java APIs for Bluetooth
+Java Bindings for OpenGL
+Java Business Integration
+Java Card
+Java Cryptography Extension
+Java Data Mining
+Java Data Objects
+Java EE
+Java Interface Definition Language
+Java Metadata Interface
+Java Mobile Media API
+Java Model Railroad Interface
+Java Optimized Processor
+Java Persistence API
+Java Research License
+Java backporting tools
+Java programming language
+Java transaction service
+Javascript
+Jeroo
+Jewish medical ethics
+Job Submission Description Language
+Job design
+Joe-E
+Kenneth Boulding's evolutionary perspective
+List of U.S. Highways in Alabama
+List of Unix utilities
+List of accidents and incidents involving airliners in the United Kingdom
+List of accidents and incidents involving airliners in the United States
+List of auxiliary Interstate Highways
+MiniGLX
+Minimally disruptive medicine
+Minimum energy performance standard
+Minnesota State Highway 62
+Monocoque
+Montague grammar
+Monte Carlo methods for electron transport
+Montessori education
+Moral treatment
+Mortran
+Mosaic theory
+Motion graphic design
+Motorola 6809
+Motorola 88000
+Protide
+Prototype Verification System
+ProvideX
+Provisional application
+Pseudodominance
+Pseudoreflection
+Psilanthropism
+Psychic cost
+Psychoanalytic infant observation
+Psychodynamics
+Psychogeography
+Psychomotor education
+Psychomotor patterning
+Psychosynthesis
+Psychotherapy and social action model
+Public Insight Network
+RDFa
+REALbasic
+REBOL
+RETRIEVE
+REXX
+RIAA equalization
+RIF-CS
+RISC-V
+RPL
+RTL/2
+R
+Racket
+Rademacher's theorem
+Radio-frequency engineering
+Rank
+Rapid construction
+Rapira
+Raptor
+Ratfor
+Rational choice institutionalism
+Rational herding
+Ravenscar profile
+Rc
+RdRand
+Reaction progress kinetic analysis
+Real-time Programming Language
+Salvador Option
+The Lighthouse Project
+TypeParameter
+TypeScript
+Typed assembly language
+UCBLogo
+UIML
+UK Profile of MHEG-5
+UML-based Web Engineering
+UML-based web engineering
+UOP Instruction Number 0015/92
+ARINC 708
+FOSD metamodels
+Repository Open Service Interface Definition
+Crime prevention through environmental design
+Critical applied linguistics
+Critical discourse analysis
+Critical literacy
+Critical realism
+Critical regionalism
+Crook of Rao
+Cross-validation
+Cryptic unstable transcript
+Crystal
+Crystal of the Ebon Flame
+Cultural Institutions Studies
+Cultural competency training
+Cultural criminology
+Cultural icon
+Cultural tourism
+Culture of Kerala
+Cum Sanctissimus
+Cuneiform
+Curl
+Curly Girl Method
+Current conveyor
+Currere
+Curry
+Curses
+Custodial interrogation
+Customer relationship management
+Cybernetics
+Cybil
+CycL
+Cyclone
+Cymatics
+KRL
+KUKA Robot Language
+K
+K virtual machine
+Kaleidoscope
+LDAP Application Program Interface
+LEAP
+LFE
+LIDO
+LINGO
+LISA
+LISP
+LISP 2
+LOGML
+LOLCODE
+LOOM
+LYaPAS
+LaSalle Street Cable Car Powerhouse
+Laboratory phonology
+Language-independent specification
+Language H
+Language Integrated Query
+Language Of Temporal Ordering Specification
+Language binding
+Language construct
+Language for Systems Development
+Lapped transform
+Larch family
+Laser engraving
+Lasso
+Last stand
+Latent typing
+Lattice QCD
+Lower of cost or market
+Loyalty marketing
+LuaJIT
+Lua
+Lucee
+Lucid
+M.2
+M2001
+M32R
+M4
+M68k
+MACRO-10
+MACRO-11
+MAD
+MATH-MATIC
+MATLAB
+MBASIC
+MCAPI
+MDL
+MIFARE4Mobile
+MIIS
+MIL-PRF-32171
+MIL-S-901
+MIL-STD-130
+MIL-W-46374
+MIOS
+MIPS instruction set
+MIRC scripting language
+MIT/GNU Scheme
+MIVA Script
+ML
+MLton
+MML
+MMX
+MOF Model to Text Transformation Language
+MOL-360
+MOS Technology 6502
+MOVAPD
+MPD
+MSX BASIC
+MUMPS
+MYCIN
+MYSQL
+M Sharp
+Mace of Cuthbert
+Machine of Lum the Mad
+Man overboard
+Manifest expression
+Manifest typing
+Mantle of the expert
+Martingale pricing
+Mary
+Maryland Scroll
+Mask of Agamemnon
+Mask of la Roche-Cotard
+Mass call event
+Mass for Four Voices
+North Star BASIC
+Northampton Sekhemka statue
+Not Quite C
+Nouvelle AI
+Nouvelle cuisine
+Over Time Limit
+Overconsumption
+Overcurrent
+Overhead environment
+Overscan
+Oxygene
+Oz
+P*
+P-code machine
+P4
+PA-RISC
+PALASM
+PALcode
+PATR-II
+PC/SC
+PCASTL
+PDA Optional Packages for the J2ME Platform
+PDF/X
+PDP-11 architecture
+PDP-8
+PEARL
+PHP
+PHP 5
+PHP Standard Recommendation
+PHP accelerator
+PICMG 1.0
+PICMG 1.1
+PICMG 1.2
+PICMG 1.3
+PICMG 2.10
+PICMG 2.11
+PICMG 2.12
+PICMG 2.14
+PICMG 2.15
+PICMG 2.2
+PICMG 2.3
+PICMG 2.4
+PICMG 2.5
+PICMG 2.9
+PL-11
+PL-6
+PL/C
+PL/I
+PL/M
+PL/P
+PL/SQL
+PL/pgSQL
+PL360
+PLANC
+PLEXIL
+PLEX
+POSIX terminal interface
+PQL
+PRIME
+PROMAL
+PS-algol
+PTQL
+PV-Wave
+PWCT
+P
+Pacbase
+Selective disclosure
+Self-contained Systems
+Self-deportation
+Self-documenting code
+Self-dual Palatini action
+Self
+Sell your cloak and buy a sword
+Semantic Web Services Language
+Semantic discord
+Semantic grid
+Semiotic literary criticism
+Semisynthesis
+SenseTalk
+Sense
+SequenceL
+Serial Peripheral Interface Bus
+Site-based conservation
+Site and services
+Situation calculus
+Six operations
+Skeleton
+Slow gardening
+Slum networking
+Small-numbers game
+SmallBASIC
+Small group learning
+Smalltalk
+Smalltalk MT
+Smart Battery System
+Smart Mobility Architecture
+Smart villages in Asia
+Tin pest
+TinyScheme
+Tiny BASIC
+Tip-enhanced Raman spectroscopy
+Titan
+Tk
+Winsock
+Winsorising
+Wireless Home Digital Interface
+Wolfram Language
+Women in development
+ΛProlog
+Π01 class
+Аналитик
+Эль-76
+Problem-oriented development
+Pseudoideal
+Turbo C
+Nu Cool
+LibSDL
+Green Building XML
+Green Dot Bystander Intervention
+Green conservatism
+Gremlin
+Grid Security Infrastructure
+Grid code
+Grid method multiplication
+Grinding slab
+Groovy
+Group RGT
+Group action
+Group action
+Group by
+Group decision-making
+Grow the Army
+Guidelines for the Definition of Managed Objects
+HOL
+HPM.1
+HPRTL
+HP Pascal
+HP Time-Shared BASIC
+HTML
+HTML5
+Hail spike
+Halide
+Haml
+Handel-C
+Handle System
+Hanover bars
+Holism in science
+Holly Oak gorget
+Holton Taxol total synthesis
+HomeRF
+Homeosis
+Hop
+Horizontal translation
+Horizontalism
+Horn of Change
+Hospital-acquired condition
+Hot Soup Processor
+Householder transformation
+Housing society
+Html
+Jordan–Wigner transformation
+Kawa
+Kingmaker scenario
+Klibc
+Knowledge ecosystem
+Knowledge management software
+Lite-C
+Literal movement grammar
+Literal pool
+Literary nominalism
+Literate programming
+Lithic core
+Litigation risk analysis
+Little Smalltalk
+Little b
+Liturgiam authenticam
+LiveScript
+Liver of Piacenza
+Movie Genome
+Moving horizon estimation
+Mugshot
+Multi-barrier approach
+Multi-level governance
+Multi-task learning
+Multi-user BASIC
+MultiLisp
+MultiNet
+MultiSpeak
+Multidimensional Digital Pre-distortion
+Multifactor dimensionality reduction
+Multimedia Acceleration eXtensions
+Multimedia Broadcast Multicast Service
+Multimedia Container Format
+Multimodal therapy
+Multiperspectivalism
+Multiple audience dilemma
+Multiple patterning
+Multiscale decision-making
+Multistage testing
+Multitheoretical psychotherapy
+Multitrait-multimethod matrix
+Multivariate optical computing
+NVM Express
+NWScript
+Naive semantics
+Name collision
+Nanosyntax
+National Security Council
+Natural design
+Natural farming
+Near-far problem
+Rocky Mountain BASIC
+Roland TR-606
+Role-based access control
+Role-based collaboration
+Rule Interchange Format
+Run-up
+Run BASIC
+Rust
+Snack mix
+Snap!
+Snek
+Snowball
+Social commerce
+Social dilemma
+Social finance
+Social trap
+Socially Relevant Computing
+SocioBranding
+Sociotechnical system
+Socket 7
+Soft reference
+Soft systems methodology
+Soft updates
+Software-defined mobile network
+Software-defined networking
+Software Defined Perimeter
+Software craftsmanship
+Software framework
+Software rejuvenation
+Soil resilience
+Solidity
+Surveillance radar approach
+Sustainable community energy system
+Sustainable planting
+Suzerainty
+Swarm robotics
+Swift, Certain, and Fair
+Swift
+Swift
+Swift water rescue
+Teletex
+Television lines
+Tempest
+Thou shalt not kill
+Threat and error management
+Threat of force
+Ur
+Ural-Siberian method
+Urban anthropology
+Urban seismic risk
+Urbiscript
+Usage-centered design
+User-subjective approach
+User pays
+Uses and gratifications theory
+V.92
+VATS lobectomy
+VAX
+VAX MACRO
+VAX Macro
+VBScript
+VCal
+VHDL
+VIPLE
+VML
+VSI BASIC for OpenVMS
+VTML
+Vadalog
+Behavioral modeling in hydrology
+Finite pointset method
+Lean CFP driven
+Business process outsourcing
+Business service management
+Computer form factor
+AQUA Markets
+Self-service software vendors
+Chaos theory in organizational development
+Dental tourism
+WORD Magazine
+Harbour
+Hard systems
+Hardware-assisted virtualization
+Hardware Platform Interface
+Hardware verification language
+Harmonic wavelet transform
+Haskell
+Haskell
+Haxe
+Hazard
+Hazard analysis and critical control points
+Hazard pointer
+Health crisis
+Health marketing
+Health realization
+Heap pollution
+Heaviside cover-up method
+Heavy tank
+Hermes
+Herschel 400 Catalogue
+Heward's Mystical Organ
+Hidden profile
+Hierarchical Dirichlet process
+Hierarchical and recursive queries in SQL
+Hierarchical task network
+Hierarchy Open Service Interface Definition
+High-level emulation
+High-redundancy actuation
+High-speed steel
+Hilbert–Pólya conjecture
+Histogram matching
+Historical materialism
+Historical school of economics
+Historically informed performance
+Item response theory
+Iteratee
+Itk
+Ivory pomegranate
+JAD
+JDK Enhancement Proposal
+JHTML
+JOSS
+JOVIAL
+JR-BASIC
+JS++
+JSON
+JSONiq
+List of C-based programming languages
+List of CLI languages
+Patronage in astronomy
+Pattern-oriented modeling
+Pattern theory
+Pavlov's typology
+People-centered development
+PeopleCode
+Percutaneous hepatic perfusion
+Performance-based building design
+Performance-based regulation
+Perl
+Perl
+Perl Data Language
+Perl Programming Documentation
+Perl package manager
+Permaforestry
+Perpetual check
+Person-centered ethnography
+PersonalJava
+Personal identifier
+Personal selling
+Petroleum production engineering
+Phantom reference
+Pharo
+Phase conjugation
+Phase correlation
+Phase stretch transform
+Phase transition
+Phenomenal concept strategy
+Phoenix Object Basic
+Phonemic awareness
+Photochromism
+Photon diffusion
+Php
+Php4delphi
+Physician Orders for Life-Sustaining Treatment
+Phytoremediation
+Rails with trails
+Raku
+Rand formula
+Range concatenation grammars
+Watchful waiting
+Waveshaper
+WebAssembly
+Web
+Web Ontology Language
+Web Rule Language
+Web Server Gateway Interface
+Web Services Flow Language
+Web Services Inspection Language
+Web Services Metadata for Java
+Web search query
+Weddell Sea Bottom Water
+Wedge
+Weight management
+Weil–Brezin Map
+Weird machine
+Welch's method
+Binomial transform
+ISO/IEC 20248
+Evolutionary developmental psychopathology
+Verifiability
+Information engineering
+Non-regression testing
+Group 1 CD1
+OMA BCAST
+Codex of the Infinite Planes
+Liberation psychology
+Liberty BASIC
+Library Exchange Format
+Lid lag
+Lieber Code
+Life Cycle Engineering
+Life Cycle Thinking
+Light cone gauge
+Lightweight Imaging Device Interface Language
+Lightweight programming language
+Limbo
+Many-task computing
+Map projection
+Marcato
+Marcy Group
+Nu
+Nuclear artillery
+Nuclear fuel bank
+Nursery habitat
+Nutritionism
+Nyquist
+O-Matrix
+O:XML
+OBJ
+OCSP stapling
+OCaml
+OIOXML
+OMS Video
+ONIOM
+OOCSS
+OOHDM
+OPEN LOOK
+OPS5
+OTA bitmap
+OTcl
+Omphalos
+Online analytical processing
+Ontology Definition MetaModel
+Opa
+Opal
+Open-source architecture
+OpenAPI Specification
+OpenDRIVE
+OpenEHR
+OpenGL ES
+OpenGL SC
+OpenGL Shading Language
+OpenLisp
+OpenMusic
+OpenMx
+OpenOffice Basic
+OpenSocial
+OpenStep
+Open Architecture Computing Environment
+Open Dots
+Open Programming Language
+Open Roberta
+Open Shading Language
+Open Space Technology
+Open XML Paper Specification
+Open business
+Open format
+Open specifications
+Operational Requirement F.155
+Opposition
+OptimJ
+Orbital-free density functional theory
+Orc
+Order
+Order by
+Ordo Coronandi Imaginem Beatae Mariae Virginis
+Organic engineering systems
+Organizational ecology
+Oriel
+Original position
+Orthodox Judaism
+Orthogonal instruction set
+Orwell
+Pacification theory
+Packetized elementary stream
+Painted pebbles
+Palliative care
+Pan
+Panbiogeography
+Panchronic phonology
+Pandora's box
+Pangboche Hand
+Panty line
+PapiNet
+Papier-mâché binding
+Papuan languages
+Papyrus Golénischeff
+ParaSail
+Paradox psychology
+Parallel computing
+Parallel importing in video games
+Parallel programming model
+Parameterized macro
+Rejected takeoff
+Relapse prevention
+Relational model
+Relatively compact subspace
+Reliable byte stream
+Renvoi
+Resettlement
+Residual income valuation
+Resource-based learning
+Resource-based relative value scale
+Resource Directory Description Language
+Response to intervention
+Restorative justice
+Ripple effect
+RiscLua
+Risk parity
+Robic
+Robust fuzzy programming
+X-Machine Testing
+X-parameters
+X.21
+X/Open Transport Interface
+X/Open XA
+X10
+X86 assembly language
+X87
+XACML
+XBEL
+XBL
+XBLite
+XBRL GL
+XBasic
+XCES
+XCode
+XDXF
+XGMML
+XHTML
+XLNT
+XL
+XML
+XMLTV
+XML Encryption
+XML Information Set
+XML Literals
+XML Professional Publisher
+XML Resource
+XML Script
+XML Telemetric and Command Exchange
+XMTC
+XOD
+XOTcl
+XPIDL
+XPath
+XProc
+XQuery
+XSB
+XSIL
+XSLT
+XUL
+XUpdate
+X tax
+Xar
+Xerox Escape Sequence
+XidML
+Xtend
+Y.156sam
+Y.W.C.A. Hioe Tjo Yoeng College
+YAML
+Yacc
+Yamaha DX7
+Coefficient diagram method
+Contextual image classification
+Environmental isotopes
+Perl 5
+List of stylesheet languages
+Nodejs
+Non-smooth mechanics
+Non Violent Resistance
+Non liquet
+Nonprocedural language
+Noop
+Nord Programming Language
+Oaklisp
+Oberon-2
+Oberon
+ObjVlisp
+Object-Oriented Fortran
+Object-Z
+Object-oriented analysis and design
+Object-oriented modeling
+Object-oriented programming
+ObjectCenter
+Object Description Language
+Object Lisp
+Object Oberon
+Object Pascal
+Object Query Language
+Object REXX
+Object binding
+Objective-C
+Objective C
+Objlog
+Obliq
+Occam-π
+Ocean zoning
+Octave
+Offshore aquaculture
+Pizza
+Placemaking
+Plain Old XML
+Plain old CLR object
+Plain text
+Plan for Completion of Combined Bomber Offensive
+Planar projection
+Plankalkül
+Planner
+Planner programming language
+Plant evolution
+Platform Initialization Specification
+Platform for Internet Content Selection
+Platonic idealism
+Pluralistic ignorance
+Pluriculturalism
+Plurilingualism
+Plus
+Pnuts
+Population, health, and the environment
+Portable Standard Lisp
+Positional good
+Positive Criminology
+Positive deviance
+Positive education
+Post-materialism
+PostScript
+Post growth
+Postmodern feminism
+Postmodern psychology
+Postmodernism
+Postpartisan
+Poultry show
+PowerBASIC
+PowerPC
+PowerShell
+Powersports
+Praspel
+Pre-echo
+Pregroup grammar
+Presenter First
+Primary Care Behavioral health
+Primary production
+Primary source
+Prime ideal
+Privacy by design
+Proactive information delivery
+Probabilistic analysis of algorithms
+Probabilistic data association filter
+Probabilistic logic network
+Problem frames approach
+Procedural programming
+Process-based management
+Process-oriented programming
+Process Specification Language
+Process study
+Procrustes transformation
+Product literature
+Productive efficiency
+Professional negligence in English law
+Profile
+Profile Scripting Language
+Program assurance
+Program slicing
+Program transformation
+Programmable Macro Language
+Programmation Automatique des Formules
+Programming Language for Business
+Programming by permutation
+Programming domain
+Programming language reference
+Programming language specification
+Programming with Big Data in R
+Prograph
+Progressive realism
+Project Verona
+Prolog
+Prolog++
+Pronunciation Lexicon Specification
+Proof-theoretic semantics
+Proportionalism
+Prosopography of ancient Rome
+Protel
+Reverse genetics
+Revolutionary situation
+Rexx
+Rho calculus
+Root element
+Rope rescue
+STANAG 5066
+STELLA
+STOIC
+STOS BASIC
+STRETCH Assembly Program
+STRINGCOMP
+STXIT
+SUPER BASIC
+SVG
+SYBYL line notation
+SYMPL
+Safe conduct
+Saqqara Bird
+Tetrad formalism
+Texas Trail Stone Corral
+Thanjavur Art Plate
+Tritium
+Triton
+Triune continuum paradigm
+True BASIC
+Truncate
+Trundholm sun chariot
+Trust no one
+Trusted Data Format
+Truth-conditional semantics
+H.239
+HPO formalism
+Participatory technology development
+Peer-mediated instruction
+Self-service software
+Monopolistic advantage theory
+Cortical implants
+Predictive inference
+Jacinth of Inestimable Beauty
+DVD Multi
+Java FX
+PAL-8
+Agile Policing Strategy
+Tukey's test of additivity
+Tumor board review
+Tumor hypoxia
+Turco-Mongol
+Turing
+Turtlestitch
+Tweak programming environment
+Two-dimensionalism
+Two-level grammar
+Two-tier healthcare
+Ulen sword
+Ultra-high-molecular-weight polyethylene
+Ultrabook
+Ultraviolet divergence
+Umklapp scattering
+Umple
+Unanimous consent
+Unate function
+Uncertainty
+Unfair competition
+UniDIMM
+Unicode Technical Standard
+Unicode equivalence
+Unicon
+Unicore
+Unified Display Interface
+Unified Extensible Firmware Interface
+Unified Parallel C
+Unitary transformation
+United States fiscal cliff
+Univalent foundations
+Universal Century technology
+Universal Flash Storage
+Unlambda
+Unlucky Mummy
+Unobtrusive JavaScript
+Unorganisation
+Unstabilized approach
+Vector synthesis
+Vectorial synthesis
+Vegetation Index
+Vehicle setup
+Venus of Tan-Tan
+Verilog
+Vertical thinking
+Very high-level programming language
+Vettweiss-Froitzheim Dice Tower
+Vibrations per hour
+Vicarious problem-solving
+Vicarious traumatization
+Volhard–Erdmann cyclization
+Voluntary Collective Licensing
+Voting paradox
+Vowel–consonant synthesis
+WAI-ARIA
+WBXML
+WDDX
+WEB
+WHOIS
+WQL
+WS-Addressing
+WS-Context
+WS-Discovery
+WS-Federation
+WS-MetadataExchange
+WS-SecurityPolicy
+WS-Trust
+WTX
+WYSIWYM
+Wake-on-ring
+Wellsite Information Transfer Specification
+West Bridge
+Associative group analysis
+Test-and-set
+Java Micro Edition
+Document-centric collaboration
+Modem script
+Settings of World of Darkness
+Tcl/Tk
+High Level Shader Language
+X86 assembly
+UBC PLUS
+AIMES
+Continuous integrated triage
+Rod of Seven Parts
+C++ Builder
+Tcl
+Java language
+ANSI C++
+Eye of Vecna
+Public produce
+Dear enemy recognition
+Crown of Horns
+Michigan Algorithm Decoder
+Fiber-optic inter-repeater link
+S-Lang
+Hand of Vecna
+Physical water scarcity
+10/GUI
+Squeezed vacuum
+Objective-C++
+Golang
+System RPL
+Thrift
+Qt
+Tk
+Web apps
+PHP
+Java
+Java Script
+FORTRAN IV
+Java Swing
+Visual Basic 6
+C/C++
+VB.NET
+Javascript
+C Language
+Java Server Pages
+.NET Languages
+GNU bash
+Tk
+Borland Pascal
+CSS style sheets
+C
+Woody River Recreation Site
+Borland Delphi
+HLASM
+Servlets
+4GL
+Boost C++ Libraries
+CodeGear Delphi
+Delphi language
+Delphi programming language
+Developer 2000
+SNOBOL4
+Text Editor and Corrector
+VB.Net
+VB6

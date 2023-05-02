@@ -1,0 +1,854 @@
+!PAUS3
+A. G. Cook
+Aaron Harris
+Aaron Turner
+Active Child
+Adam Deibert
+Adam Forkner
+Adrian Corker
+Agathe Max
+Aidan Baker
+Aidan Knight
+Akira Rabelais
+Alain Souchon
+Alarm Will Sound
+Alec Empire
+Aleksandr Lebedev-Frontov
+Alen Ilijic
+Alex Buess
+Alex Machacek
+Alex Tumay
+Alexander Hacke
+Alexander Rocciasana
+Alexander Tucker
+Alice
+Allison Cameron
+Amber Coffman
+Amerigo Gazaway
+Amon Tobin
+Amyt Datta
+Ana Roxanne
+Anders Brørby
+Andrew Borger
+André Duchesne
+Andy Hawkins
+Andy McCluskey
+Andy Stott
+Angus Tarnawsky
+Anja Garbarek
+Anla Courtis
+Ann-Mari Edvardsen
+Anna Meredith
+Annemarie Roelofs
+Anomie Belle
+Ant-Bee
+Anthony Braxton
+Anthony Moore
+Antoine Chessex
+Anton Newcombe
+Antonio Russolo
+Antye Greie
+Aphex Twin
+Arcane Device
+Ari Joshua Zucker
+Armen Nalbandian
+Arnaldo Baptista
+Arno Suislep
+Arrigo Barnabé
+Aruba Red
+Ash Black Bufflo
+Ashkan Kooshanejad
+Atticus Ross
+Aube
+François Tétaz
+Fred Frith
+Frog Pocket
+Fulano
+Fursaxa
+Henry Vega
+Isaac Brock
+Isabella Summers
+Islaja
+John Blades
+John Bruce Wallace
+John Erik Kaada
+John Farrell
+John French
+John Greaves
+John Lewis
+John Mark Painter
+John Murry
+John Roberts
+John Sellekaers
+John White
+John Zorn
+Jon DeRosa
+Jon Irabagon
+Jon Klein
+Jon Lindsay
+Jon Mueller
+Jonah Parzen-Johnson
+Jonas Baes
+Jonas Kocher
+Leifur James
+Leila Bela
+Leo Setiawan
+Axl Hazarika
+Babe Rainbow
+Bahram Nouraei
+Balázs Pándi
+Barry Donegan
+Bart Maris
+Beau Sorenson
+Beme Seed
+Ben Chatwin
+Ben Frost
+Ben Grossman
+Ben Richter
+Ben Weaver
+Benjamin Shaw
+Benjamin Speed
+Beograd
+Bernd Friedmann
+Big City Orchestra
+Bilal Salaam
+Bill Baird
+Bill Gilonis
+Bill Nace
+Biosphere
+Birchville Cat Motel
+Birdengine
+Black Eyes
+Blackie
+Blood Cultures
+Blue States
+Bob Drake
+Bob Lord
+Bobby Previte
+Boyd Rice
+Bradford Reed
+Brendan Faegre
+Brent Simon
+Brian Chippendale
+Brian Eno
+Brodie West
+Bruce Fowler
+Brunette Models
+Bryant Clifford Meyer
+Bryyn
+Buck 65
+By the Fireside
+CEvin Key
+Capitol K
+Carla Kihlstedt
+Carla Scaletti
+Caroline K
+Carsten Bo Eriksen
+Carsten Dahl
+Carwyn Ellis
+Cat Hope
+Gavin Bryars
+Gavin Harrison
+Gazelle Twin
+Geoff Barrow
+Geoff Leigh
+George E. Lewis
+IIndman
+IVVVO
+Iain Chambers
+Ian William Craig
+Iarla Ó Lionáird
+Lafawndah
+Lobão
+Loren Chasse
+Loren Mazzacane Connors
+Lorenzo Senni
+Loscil
+Loston
+Lou Reed
+Lou Rhodes
+Mahdyar Aghajani
+Mirko Uhlig
+Mister Lies
+Pat Patrick
+Patrick Cowley
+Patrick Higgins
+Stanislav Baretsky
+Starr Parodi
+Submerged
+Sugizo
+Sun Araw
+Sun Ra
+Tamás Kátai
+Tapani Rinne
+Tavito Nanao
+Tay Zonday
+Taylan Susam
+Mohini Dey
+Monexus
+Oliver Chapoy
+Olivia Louvel
+Pearl Thompson
+Pedro INF
+Polly Scattergood
+Quella Vecchia Locanda
+Quilla
+R. Luke DuBois
+R. Stevie Moore
+Richard Maxfield
+Richard Skelton
+Richard Youngs
+Rick Smith
+Ricky Eat Acid
+Rioux
+Sascha Konietzko
+Sasha Belyaeva
+Satanicpornocultshop
+Savant
+Shoes and Socks Off
+Shygirl
+Sonny Sharrock
+Sophie Rimheden
+Soriah
+Steve New
+Steve Parry
+Steve Von Till
+Steve Willaert
+Steven Stapleton
+Stevie Wonder's Superego
+Stijn Van Cauter
+Thea Soti
+Thighpaulsandra
+Tony Royster Jr.
+Vincent Signorelli
+Vinny Miller
+Violeta Parra
+Virgil Moorefield
+Vlada Divljan
+Willis Earl Beal
+Yoo Young-jin
+Yoñlu
+Yuji Ohno
+Yuka Honda
+Yuki Kajiura
+Yves Tumor
+Zach Hill
+Zane Banks
+Zavoloka
+Zbigniew Karkowski
+Zeena Parkins
+Cecil Frena
+Cedrik Fermont
+Chad Taylor
+Charlemagne Palestine
+Charles Curtis
+Dominick Fernow
+Don Joyce
+Don Preston
+Donald Knaack
+Doris Cellar
+Dottie Alexander
+Douglas P.
+Dreamcrusher
+Dredd Foole
+Du Yun
+Duke Garwood
+Guy Pratt
+Jean Derome
+Jeff Caxide
+Jeff Cotton
+Jeff Greinke
+Jeff Irwin
+Jeff Parker
+Jeff Sherman
+Jeff Witscher
+Jefre Cantu-Ledesma
+Jem Finer
+Jowe Head
+Juana Molina
+Julia Marcell
+Julian Wass
+Matana Roberts
+Matt Hsu's Obscure Orchestra
+Matt Walker
+Matthew Bauer
+Matthew Yee-King
+Mattias Bärjed
+Mattias Eklundh
+Miguel Atwood-Ferguson
+Mike Baggetta
+Mike Cooper
+Mike Garson
+Mike Oldfield
+Mikrokolektyw
+Nels Cline
+Nerdkween
+Nero's Day at Disneyland
+Nicholas Vasallo
+Nick Rattigan
+Nico Muhly
+Nicolás Jaar
+Nina C. Young
+Nivek Ogre
+Rebecca Moore
+Reeps One
+Rowdy Superstar
+Rozz Williams
+Rudy Wurlitzer
+Sam Newsome
+Samara Lubelski
+Scheila Gonzalez
+Scott Fields
+Scott Kelly
+Scott Unrein
+Scott Walker
+Scott Xylo
+Scratcha DVA
+Sean Friar
+Sean Lennon
+Seb Rochford
+Sebastian
+Sega Bodega
+Shannon Wright
+Shara Nova
+Sharron Kraus
+Shawn Lee
+Shelly Blake-Plock
+Sherelle
+Shilpa Natarajan
+Thur Deephrey
+Tiki Taane
+Tim Dahl
+Tim Hodgkinson
+Tim Scott
+Trevor Dunn
+Trey Gunn
+Trey Spruance
+Demetrio Stratos
+Derek Piotr
+Fátima Miranda
+Gabriel Vicéns
+Gaelynn Lea
+Gary Wilson
+Gastón Iungman
+Kevin Ayers
+Kevin Barnes
+Kevin Drumm
+Kevin Shea
+Khaysen
+Kid606
+Kim Boekbinder
+Kim Myhr
+Kouhei Matsunaga
+Kuniyuki Takahashi
+Kurt Dahlke
+Kutiman
+Kyo
+Leonel Kaplan
+Leonid Soybelman
+Max Neuhaus
+Max Tannone
+Maya Shenfeld
+MiKKa
+Mia Matsumiya
+Mia Theodoratus
+Michael Andrews
+Michael Begg
+Michael Brook
+Michael Gallagher
+Michael Gungor
+Michael Janisch
+Michael Manring
+Michael O'Shea
+Márcio Cunha
+Napoleon Murphy Brock
+Nariaki Obukuro
+Natalia Contesse
+Nate Blasdell
+Nathan Larson
+Valgeir Sigurðsson
+Vanessa Briscoe Hay
+Vangelis
+Wapstan
+Caterina Barbieri
+Catherine Jauniaux
+Colin Stetson
+Colleen
+Coppé
+Cortney Tidwell
+Craig Walsh
+Electric Djinn
+Eli Keszler
+Elio Martusciello
+Elitsa Todorova
+Elliott Sharp
+Eluvium
+Ely Buendia
+Elysia Crampton
+Emel Mathlouthi
+Emil Schult
+Emil Werstler
+Emily Wells
+Empress Of
+Eraldo Bernocchi
+Erik Rico
+Forest Swords
+Francisco López
+Franck Biyong
+Franco Battiato
+Frank Loverde
+Frankie Emerson
+Georgia Anne Muldrow
+Gianni Mocchetti
+Gil Mellé
+Gitane DeMone
+Giulio Aldinucci
+Giuni Russo
+Glasser
+Goodiepal
+Iglooghost
+Igor Grigoriev
+Igorrr
+Ikue Mori
+Justice Yeldham
+Justin Broadrick
+Justin Trosper
+Kara-Lis Coverdale
+Karin Dreijer
+Kokan Popović
+Laurence Pike
+Laurent Voulzy
+Lauri Porra
+Lawrence Ball
+Lindsay Cooper
+Lukas Simonis
+Luke Stewart
+Lydia Ainsworth
+Maria Alejandra Quintanilla
+Marina Rosenfeld
+Marinko Pavićević
+Mariya Ocher
+Mark Howard
+Mark Kozelek
+Mark Reeder
+Mark Robinson
+Mark Rutherford
+Mark So
+Mark Tinley
+Markus Mehr
+Martin Kuuskmann
+Martin Lohse
+Martin Rev
+MediaBanda
+Medicine Voice
+Mehdi Hosseini
+Michael Schiefel
+Michael Seltenreich
+Michel Lemieux
+Mick Harris
+Mick Kenney
+Mick Reed
+Middle Pillar Presents
+Pieter Nooten
+Serpentwithfeet
+Seth Davis
+Seán Mac Erlaine
+Shackleton
+Shane Gibson
+Sic
+Simon Fisher Turner
+Simone Giuliani
+Space Mandino
+Spencer Radcliffe
+Stephan Mathieu
+Stephan Wittwer
+Stephen
+Stephen Hodges
+Stephen Roessner
+Stephen Thrower
+Sterling Roswell
+Steve Dansiger
+Steve Hauschildt
+Steve Kleisath
+Steve Lawson
+Steve Lehman
+System D-128
+Szkieve
+Toko Yasuda
+Tom Cora
+Tom Ellard
+Tom Fowler
+Tom Hall
+Tom Wilson
+Tom Zé
+Tomasz Pauszek
+Tomo in der Mühlen
+Tomoe Shinohara
+Tomomi Adachi
+Tony Buck
+Yann Tomita
+Yasuhiro Morinaga
+Yasushi Ishii
+Yasutaka Nakata
+Yegor Letov
+Yhaunai Takiyal
+Yitzhak Yedid
+Yoann Feynman
+Zuoxiao Zuzhou
+Charlotte Martin
+Chelsea Wolfe
+Chiara Luzzana
+Chica Paula
+Chino Amobi
+Chris Abrahams
+Chris Brokaw
+Chris Clark
+Chris Cutler
+Chris Douglas
+Chris Lent
+Chris Letcher
+Chris Lightcap
+Chris Murphy
+Chris Thompson
+Chris Xefos
+Christine Ott
+Christoph de Babalon
+Christopher Tignor
+Christopher Willits
+Cindertalk
+Cindy Sharp
+Claes Björklund
+Clayton Counts
+Clinton McKinnon
+Clotilde Rullaud
+D'Eon
+DJ Olive
+Dagmar Krause
+Damián Anache
+Dan Deacon
+Dan Monti
+Dan Webb
+Dan Wool
+Daniel Anderson
+Daniel Bachman
+Daniel Blumberg
+Daniel Buess
+Daniel Clive McCallum
+Daniel Fishkin
+Daniel Liam Glyn
+Daniel Patrick Quinn
+Daniela Carpio
+Danielle Dax
+Danieto
+Danny Hyde
+Danny Ray Thompson
+Dante Boon
+Danz CM
+Daníel Bjarnason
+Daphne Oram
+Dave Schools
+Dave Willey
+David Castell
+David Daniell
+David Earle Johnson
+David Immerglück
+David Kollar
+David LaBruyere
+David Singleton
+David Strother
+David Thrussell
+David Toop
+David Tronzo
+David Van Tieghem
+David Wm. Sims
+David Wrench
+Dax Pierson
+DeForrest Brown Jr.
+Dean De Benedictis
+Dean Rosenthal
+Devin Sarno
+Diarmuid Dalton
+Dieb13
+Dieter Moebius
+Dustin Edge
+Dwayne Goettel
+Dylan Brady
+Dylan Carlson
+Dywane Thomas Jr.
+Ebbot Lundberg
+Ed Tullett
+Edan Everly
+Edith Alonso
+Edward Ka-Spel
+Einar Örn Benediktsson
+Ela Orleans
+Eth Eonel
+Ethan Kath
+Etsuko Yakushimaru
+Eve Libertine
+Extrakd
+Eyvind Kang
+Findlay Brown
+Fingers in the Noise
+Florian-Ayala Fauna
+Flume
+Fluxion
+Foltin
+Foodman
+Hugh Hopper
+Jacaszek
+Jack Callahan
+Jack Hayter
+Jack Rose
+Jacob Bannon
+Jacob Cooper
+Jacques Burtin
+Jacques Greene
+Jaime Brooks
+James Black
+James Ferraro
+James Ilgenfritz
+James Lavino
+Jared Lee Gosselin
+Jason Alder
+Jason Roeder
+Jason Webley
+Jay Bennett
+Jayen Varma
+Jeremy Ward
+Jesca Hoop
+Jessica Pavone
+Jessika Kenney
+Jherek Bischoff
+Jim Guthrie
+Jim Moray
+Jim Wilson
+Joan Miquel Oliver
+Joe Hedges
+Joe Robinson
+Joel Gion
+Keefus Ciancia
+Keiji Haino
+Keith Fullerton Whitman
+Ken Thomas
+Kenneth James Gibson
+Kenneth Newby
+Mindia Khitarishvili
+Mono/Poly
+Monotrona
+Moor Mother
+Moris Tepper
+Mother Superior
+Prototype 909
+Psilodump
+Psychic TV
+Rabit
+Radu Malfatti
+Radwan Ghazi Moumneh
+Raffertie
+Rafiq Bhatia
+Raveena Aurora
+Raymund Marasigan
+The Haxan Cloak
+Tyshawn Sorey
+Crispin Gray
+Crooked Flower
+Larkin Grimm
+Larry LaLonde
+Lau Nau
+Laura Les
+Laurel Halo
+Lucrecia Dalt
+Luigi Russolo
+Luis Gabriel Aguilera
+Lívio Tragtenberg
+MC 900 Ft. Jesus
+MC Opi
+Mani Neumeier
+Manu Delago
+Manuel Göttsching
+Martín Irigoyen
+Marvin "Bugalu" Smith
+Mary Halvorson
+Mary Lattimore
+Maryanne Amacher
+Oöphoi
+Sensational
+Slava KPSS
+Tishma
+Tobacco
+Tobias Wilner
+Toby Driver
+Tocky Vibes
+Wildlife!
+Will Sergeant
+William Basinski
+William Doyle
+Wobbly
+Greg Davis
+Greg Jarvis
+Greg Saunier
+Grice Peters
+Gueorgui Linev
+Guillermo Gonzales
+Gustavo Matamoros
+Hafler Trio
+Halaka
+Hanayo
+Hanne Hukkelberg
+Hans-Joachim Roedelius
+Holland Andrews
+Holly Herndon
+Hoshiko Yamane
+How to Dress Well
+James Plotkin
+James Saunders
+Jameszoo
+Jamie Lidell
+Jana Hunter
+Janet Feder
+Jonathan Kane
+Jonathan Sharp
+Jordan Andrews
+Jordan Dykstra
+Jorge Boehringer
+Jorge Pescara
+Joris Vanvinckenroye
+Joseph Brent
+Joseph Byrd
+Joseph Shabason
+Karl Hyde
+Kasia Glowicka
+Kasun Kalhara
+Kirsti Huke
+Kishi Bashi
+Klaus Nomi
+Klaus Röder
+Klein
+Little Annie
+Mudboy
+Mujeres Encinta
+Nabihah Iqbal
+Nano Stern
+Naut Humon
+Rodrigo Amarante
+Running Touch
+Ruth White
+Ryan Choi
+Ryan Lott
+Ryszard Szeremeta
+Snax
+Soap&Skin
+Soema Montenegro
+Sol Rezza
+Susanne Lewis
+Susie Ibarra
+Susumu Hirasawa
+Suzi Analogue
+Svoy
+Ted Hearne
+Teenage Filmstars
+Telectu
+Thollem McDonas
+Thomas Ankersmit
+Thomas Pridgen
+Thor Harris
+Uppermost
+Uri Frost
+Uwe Schmidt
+V/Vm
+VIRTA
+Vaginal Davis
+Émilie Simon
+Ólafur Arnalds
+Örvar Þóreyjarson Smárason
+Øyvind Storesund
+Harley Gaber
+Harris Newman
+Haruomi Hosono
+Heidi Mortenson
+Helado Negro
+Helena Espvall
+Iva Bittová
+J-Louis
+J.R.
+Patten
+Paul Chavez
+Paul Dixon
+Paul Humphreys
+Paul Masvidal
+Paul Neville
+Pete Wright
+Peter Blegvad
+Peter Christopherson
+Peter Kember
+Peter Missing
+Peter Rehberg
+Phew
+Phil Kline
+Phil Miller
+Phil Western
+Ralf Hütter
+Rana Farhan
+Wayne Coyne
+Weasel Walter
+Marc Canham
+Marc Hollander
+Marc Rebillet
+Marc Ribot
+Marco Benevento
+Marco Oppedisano
+Marco Papiro
+Marcus Adoro
+Noël Akchoté
+Oneohtrix Point Never
+Opus Avantra
+Paolo Angeli
+Renick Bell
+Rent Romus
+René Tinner
+Rob Haigh
+Rob Mazurek
+Rob St. John
+Robbie Basho
+Robert Ashley
+Robert Barry
+Robert Fripp
+Robert Miles
+Xabier Iriondo
+Noah K
+Noe Venable
+Norma Tanega
+Norman Salant
+Norman Westberg
+Oh Land
+Plastic Crimewave
+Post Scriptvm
+Power Pill Fist
+Princess Nokia
+Profili Profili
+Proper Micro NV
+Richard Bishop
+Richard Bone
+Richard Devine
+Romina Daniele
+Romke Kleefstra
+Romvelope
+Roopam Garg
+Saori@destiny
+Sara Caswell
+Sarah Corina
+Terry Scott Taylor
+Thanasis Papakonstantinou
+That 1 Guy
+Trikk
+The Uptown Monotones
+The Vicar
+Unique
+Veda Hille
+Venetian Snares
+Verity Susman
+Vert
+Vows
+Wait what
+Werner "Zappi" Diermaier

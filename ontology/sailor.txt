@@ -1,0 +1,1520 @@
+Aage Høy-Petersen
+Aarón Sarmiento
+Ab Ekels
+Adam Beashel
+Adam Minoprio
+Adam Wolff
+Addy Bucek
+Adil Mohammad
+Adnan Yousoof
+Adrian Stead
+Afonso Domingos
+Agnieszka Skrzypulec
+Agostino Straulino
+Ahmed Habash
+Ai Yoshida
+Aikaterini Divari
+Aileen Bryan
+Aishwarya Nedunchezhiyan
+Aksel Gresvig
+Alain Gautier
+Alain Pointet
+Alain Sign
+Alan Roura
+Albert Batzill
+Albert Duval
+Albert Glandaz
+Albert Grisar
+Albert Michelet
+Albert Weil
+Alberto Llorens
+Alejandro Abascal
+Alejandro Ferreiro
+Alejandro Foglia
+Aleksandr Askerov
+Aleksandr Rodionov
+Aleksandra Blinnikka
+Alessandro Di Benedetto
+Alex Cooper
+Alex Maloney
+Alexandra Verbeek
+Alexandre Paradeda
+Alexandre do Amaral
+Alexey Tokarev
+Alexia Barrier
+Alfons Olszewski
+Alfonso Qua
+Alfredo Vázquez
+Algernon Maudslay
+Ali Enver Adakan
+Ali Kemal Tüfekçi
+Alica Stuhlemmer
+Alison Young
+Allan Julie
+Allan Nørregaard
+Allegra Mertz
+Allison Jolly
+Aloïse Retornaz
+Ambrosio Santos
+Amina Berrichi
+Anastasiya Chernova
+Anat Fabrikant
+Anders Nyholm
+Anders Pedersen
+Andreas Cariolou
+Andreas Hagara
+Andreas Hanakamp
+Andreas Josenhans
+Andreas Papadopoulos
+Andreas Wengert
+Andrew Campbell
+Andrew Palfrey
+Andrey Kirilyuk
+Andriy Shafranyuk
+André Fonseca
+André Guerrier
+André du Pon
+Andrés Robinson
+Andy Beadsworth
+Andy Cassell
+Andy Leung
+Andy Maloney
+Andy Pimental
+Angela Farrell
+Angeliki Skarlatou
+Anika Lorenz
+Anna Burnet
+Anna Khvorikova
+Anna Kjellberg
+Anna Pohlak
+Anna Yamazaki
+Anne-Marie Rindom
+Anne-Sophie Thilo
+Anne Liardet
+Annelies Thies
+Annemieke Bes
+Annette Duetz
+Annie Haeger
+Annika Bochmann
+Antal Székely
+Anthonij Guépin
+Anton Dahlberg
+Anton Huber
+Antonio Cosentino
+Antonio Gorostegui
+Antonio Oliviero
+Antonio Saavedra
+Antonio Tanger
+Antonios Bountouris
+Antonis Tsotras
+António de Herédia
+Aran Hansen
+Arent Van Soelen
+Arie van der Velden
+Armando Bauche
+Armel Tripon
+Arnaud Boissieres
+Arndt Norrgård
+Arne Karlsson
+Arnoud van der Biesen
+Arthur Bloomfeld
+Arthur Sneyers
+Arturo Mas
+Arvid Laurin
+Asenathi Jim
+Athina Frai
+Audrey Yong
+Augie Diaz
+August Olsson
+Auguste Albert
+Auguste Donny
+Auguste Godinet
+Aurelio Dalla Vecchia
+Axel May
+François Gabart
+François Vilamitjana
+Fred Imhoff
+Frederick Morris
+Frederico Burnay
+Frederico Melo
+Fredrik Bergström
+Fredrik Lööf
+Frithjof Kleen
+Frits Mulder
+Frédéric Blanchy
+Henk Kersken
+Henk van Gent
+Henning Wind
+Henny Scholtz
+Henny Vegter
+Henri Fivaz
+Henri Gauthier
+Henri Gilardoni
+Henri Laverne
+Henri Mialaret
+Henri Monnot
+Henri Smulders
+Henrik Robert
+Henrik Østervold
+Henry Allard
+Henry Koning
+Henry Maingot
+Henry Simmonds
+Henryk Blaszka
+Hjalmar Karlsson
+Hjalmar Lönnroth
+Imre Taveter
+Ioannis Mitakis
+Irina Konstantinova
+Irmina Gliszczyńska
+Isabel Swan
+Isabelle Joschke
+Isabelle Kinsolving
+Joeri van Dijk
+Johan Anker
+Johan Barne
+Johan Farber
+Johan Ferner
+Johan Hin
+Johan Tallberg
+Johannes Ahun
+Johannes Polgar
+Johannes van Hoolwerff
+John Albrechtson
+John Anderson
+John Carlsson
+John Dane III
+John Ekels
+John Gerald Driscoll III
+John Gimson
+John Gretton, 1st Baron Gretton
+John Harrysson
+John Howard Taylor
+John Kostecki
+John Leuchars
+John Merricks
+John Robertson
+John Spence
+John Stavenuiter
+John Wallace
+John Westell
+Jolanta Ogar-Hill
+Jonas Jonsson
+Jonas Kældsø Poulsen
+Jonas Warrer
+Jonathan Barbe
+Lee Gentil
+Leif Wikström
+Lenka Mrzílková
+Lennart Persson
+Leo Determan
+Li Ling
+Balázs Hajdú
+Barry Parkin
+Bart Lambriex
+Bart Verschoor
+Bautista Saubidet Birkner
+Begoña Vía Dufresne
+Ben Ainslie
+Ben Austin
+Ben Kouwenhoven
+Ben Lexcen
+Ben Saxton
+Ben Staartjes
+Ben Verhagen
+Ben Weston
+Bengt Palmquist
+Benjamin Barger
+Benjamín Grez
+Benoît Parnaudeau
+Berend Carp
+Bernard Stamm
+Bernard de Pourtalès
+Bernardo Milhas
+Bernd Klenke
+Bernd Knuppel
+Bertel Juslén
+Bertie Reed
+Bertil Bothén
+Bertil Larsson
+Bertrand Pacé
+Bertrand de Broc
+Betsy Alison
+Bettina Honoré
+Betty Foulk
+Bianca Caruso
+Biem Dudok van Heel
+Billy Besson
+Birger Gustafsson
+Björn Alm
+Björn Hansen
+Bjørn Bergvall
+Blair Cochrane
+Blair Tuke
+Blanca Manchón
+Bob Maas
+Bob Wilmot
+Boudewijn Binkhorst
+Bouwe Bekking
+Briana Provancha
+Bruce Banks
+Bruce Goldsmith
+Bruce Savage
+Bruce Schwab
+Bruno Amorim
+Bruno Peyron
+Børre Skui
+Camille Lecointre
+Camillo Gargano
+Carl-Erik Ohlson
+Carl Girsén
+Carl Huisken
+Carl Paul
+Carl Ringvold
+Carl Wentzel
+Carlo Alberto D'Albertis
+Carlo Nasi
+Carlos Eduardo Bleck
+Carlos Julio Flores
+Carlos Sanguinetti
+Carlos Serantes
+Carlos de Cárdenas
+Carlos de Cárdenas Jr.
+Carol Cronin
+Carolijn Brouwer
+Carolina Mendelblatt
+Carolina Werner
+Caroll-Ann Alie
+Casper Bouman
+Gavin Lidlow
+Gavriella Chatzidamianou
+Gašper Vinčec
+Geert Bakker
+Georg Lindahl
+Georg Naue
+Georg Stadler
+George Andreadis
+George Kavas
+George Leonchuk
+George Semichon
+George Szabo III
+Graham Biehl
+Graham Fleury
+Héber Ansorena
+Héctor Campos
+Hélène de Pourtalès
+Iago López
+Iain Jensen
+Iain Murray
+Iakovos Christofides
+Ian Ainslie
+Ian Barker
+Ian Brown
+Ian Harrison
+Ian Ruff
+Ian Walker
+Laia Tutzó
+Lambertus Doedes
+Lo Man Yi
+Lobke Berkhout
+Lockwood Pirie
+Lorne Currie
+Lothar Koepsel
+Lotte Meldgaard Pedersen
+Louis Auguste-Dormeuil
+Louis Burton
+Louis Depière
+Louis Herman
+Louis Pauly
+Maciej Grabowski
+Magnus Grävare
+Magnus Hellström
+Magnus Holmberg
+Magnus Konow
+Magnus Liljedahl
+Magnus Olsson
+Magnus Wassén
+Miranda Merron
+Mitch Booth
+Mitja Nevečny
+Pascal Bidégorry
+Pasquale de Gregorio
+Patrice Carpentier
+Patricia Guerra
+Patrick Follmann
+Stanislas Dripaux
+Stanislaw Zalewski
+Stanisław Stefański
+Stanley Tan
+Stuart Bithell
+Stuart Childerley
+Stuart Flinn
+Stuart McNay
+Stuart Pollard
+Sture Stork
+Stéphane Locas
+Sue Sinclair
+Sune Carlsson
+Takaharu Hirozawa
+Takayoshi Takasawa
+Takumi Fujiwara
+Tanguy de Lamotte
+Tania Elías Calles
+Tara Pacheco
+Taro Ueno
+Tatiana Bazyuk
+Taylor Canfield
+Teodorico Asejo
+Terence Koh
+Terence Neilson
+Merel Witteveen
+Molly Meech
+Molly O'Bryan Vandemoer
+Neus Garriga
+Neville Wittey
+Ok Duck-pil
+Ole Berntsen
+Ole Gunnar Petersen
+Ole Petter Pollen
+Ole Poulsen
+Oleg Khopyorsky
+Oleg Miron
+Oleksandr Tugaryev
+Oliver Bone
+Oliver Szymanski
+Olivier, Baron de Brandois
+Olivier de Kersauson
+Olle Johansson
+Olle Rinman
+Olle Åkerlund
+Peder Lunde Jr.
+Pedro Cisneros
+Pedro Dates
+Pedro Ferrero
+Pedro José de Galíndez
+Pedro Millet
+Pedro Pi
+Pelle Petterson
+Polly Powrie
+Richard Hoad
+Richard Holler
+Richard Moore
+Richard Sydenham
+Richard Tolkien
+Richard Wilson
+Richie Stearns
+Rick Mayhew
+Rickard Sarby
+Ryunosuke Harada
+Sarah Macky
+Sari Multala
+Saskia Clark
+Savannah Siew
+Shimshon Brokman
+Sonia Lo
+Steve White
+Steven Bakker
+Steven Thomas
+Stig Käll
+Sándor Burger
+Sándor Sebők
+Sébastien Simon
+Søren Hancke
+Tadashi Ikeda
+Theo de Lange
+Theodor Sommerschield
+Therese Torgersson
+Thierry Dubois
+Tony Wallin
+Tonči Stipanović
+Torben Grael
+Tore Holm
+Torsten Lord
+Udi Gal
+Victor Vandersleyen
+Victoria Jurczok
+Viktor Markov
+Viktor Potapov
+Vincent Garos
+Vincent Hösch
+Vita Matīse
+Vivien Kussatz
+Vladimir Lurasov
+Vladimir Yelevich
+William Martin
+William Ryan
+Willy Valcke
+Willy Van Rompaey
+Willy van Bladel
+Wim Schouten
+Wim de Vries Lentsch
+Wim van Duyl
+Yoon Cheul
+Yugo Yoshida
+Yuki Sunaga
+Zander Kirkland
+Zbigniew Gutkowski
+Cecil Cooke
+Cecil Goodricke
+Cecil Quentin
+Cecilia Carranza
+Cees Kurpershoek
+Cees van Bladel
+Cencio Massola
+Chang Hao
+Charles Caudrelier
+Charles Currey
+Charles De Bondsridder
+Charles Garner
+Charles Guiraist
+Charles Hugo
+Charles Laverne
+Charles Lyon
+Charles Macleod-Robertson
+Charles McKee
+Charles R. MacIver
+Charlie Dalin
+Charlie Enright
+Charlie Kamps
+Charlie Ogletree
+Diána Detre
+Dolores Moreira
+Dominique Wavre
+Dorian van Rijsselberghe
+Dorien de Vries
+Doug Graham
+Duarte Manuel Bello
+Dubosq
+Dupland
+Durward Knowles
+György Wossala
+Gérard de Piolenc
+Gösta Bengtsson
+Gösta Lundquist
+Ingrid Petitjean
+Ingrid Puusta
+Jean-François Berthet
+Jean-François Corminboeuf
+Jean-Marie Dauris
+Jean-Marie le Guillou
+Jean-Pierre Borro
+Jean-Pierre Dick
+Jean-Yves Terlain
+Jean Braure
+Jean De Chabanne La Palice
+Jean Le Bret
+Jean Peytel
+Jean Pierre Rouanet
+Jean d'Estournelles de Constant
+Jena Hansen
+Jeni Lidgett
+Jennifer French
+Jenny Armstrong
+Jenny Egnot
+Jens-Peter Wrede
+Josh Grace
+José Doreste
+José Luis Ballester
+José Luis Ugarte
+José Manuel Quina
+José Manuel Valadés
+José Pérez
+José van der Ploeg
+João José Bracony
+Joé Seeten
+Juan Carlos Milberg
+Juan Costas
+Juan Ignacio Maegli
+Juan Llort
+Juan Luis Wood
+Juan Manuel Alonso-Allende
+Juan Miguel Torres
+Jules Valton
+Julien Bontemps
+Julien d'Ortoli
+Juliusz Sieradzki
+Mateja Petronijević
+Mathew Belcher
+Matias Collins
+Mats Caap
+Mats Johansson
+Matt Abbott
+Matt Hayes
+Matthew Humphries
+Matthew Percy
+Matthias Schmid
+Matti Jokinen
+Matti Paloheimo
+Maurice Gufflet
+Maurice Monnot
+Maurice Passelecq
+Miguel Bosch
+Mika Aarnikka
+Mikaela Wulff
+Mikalai Zhukavets
+Mike Gebhardt
+Mike Leigh
+Mike Plant
+Mikhail Sheremetyev
+Miklós Tuss
+Miles Bellville
+Neil Kennedy-Cochran-Patrick
+Nelson Falcão
+Nesbit Bentley
+Nicholas Bryan
+Nicholas Heiner
+Nicholas Hekma
+Nick Moloney
+Nick Thompson
+Nick de Jong
+Nicky Souter
+Nico Delle Karth
+Nicola Celon
+Nicolas Charbonnier
+Nicolas Troussel
+Nicole Breault
+Nicole van der Velden
+Nicolás Parodi
+Nicolò Rode
+Niels Jensen
+Niki Birrell
+Niklas Lindgren
+Nikolay Podgornov
+Nikolay Pushnitsky
+Nils Rinman
+Nina Curtis
+Nir Shental
+Oskar Johansson
+Oswald Thomsen
+Otto Aust
+Ottokar Weise
+Reg Dixon
+Reijo Laine
+Roy Heiner
+Rudolf Mayr
+Rudolf Winter
+Rudy den Outer
+Sam Meech
+Sam Merrick
+Sami Tamminen
+Samuel Albrecht
+Scott Steele
+Sebastian Fleischer
+Sebastian Östling
+Sebastien Destremau
+Sebastien Josse
+Sedef Köktentürk
+Shani Kedmi
+Shibuki Iitsuka
+Tibor Heinrich von Omorovicza
+Tim Dorning
+Tim Kelbert
+Trevor Moore
+Dee Caffari
+Demita Vega
+Denis O'Neil
+Dennis Conner
+Derek Hatfield
+Federico Esposito
+Felix Steiger
+Ferdinand Gerz
+Ferdinand Schlatter
+Fernand Carlier
+Fernando Bello
+Fábio Pillar
+Félix Anglada
+Félix Gancedo
+Félix Marcotte
+Félix Picon
+G. Pigeard
+Gabriel Borges
+Gareth Blanckenberg
+Garrett Connolly
+Gary Sheard
+Gaston Cailleux
+Gonzalo Campero
+Kevin Escoffier
+Kevin Lim
+Khairulnizam Afendy
+Kim Chang-ju
+Kim Ho-kon
+Kim Hyeong-tae
+Kim Ji-hoon
+Kimberly Lim
+Kimihiko Imamura
+Kris Stookey
+Kristen Kosmala
+Kristian Nergaard
+Krystal Weir
+Kunio Suzuki
+Kurt Frey
+Kurts Klāsens
+Károly Vezér
+Leopoldo Di Martino
+Leroy
+Leslie Egnot
+Letot
+Max Agnese
+Max Salminen
+Max Sirena
+Maxime Sorel
+Maxl Koch
+Mayan Rafic
+Michael Baker-Harber
+Michael Farthofer
+Michael Hansen
+Michael Luschan
+Michael McIntyre
+Michael Mitakis
+Michael Mottl
+Mário Quina
+Narcisse Pelletier
+Naseem Khan
+Natalia Ivanova
+Natalia Vía Dufresne
+Nathan Outteridge
+Nathan Wilmot
+Valentin Zamotaykin
+Valerio Romano
+Varsha Gautham
+Vasco Vascotto
+Vasilij Žbogar
+Walter Haverhals
+Walter Raudaschl
+Walter Riggs
+Wang Aichen
+Wannes Van Laer
+Władysław Krzyżanowski
+Caterina Banti
+Colin Beashel
+Colin Cheng
+Colin Dunlop
+Colin Philp Jr.
+Colin Philp Sr.
+Con Linton
+Conny van Rietschoten
+Conway Olmstead
+Cor Groot
+Cornelis Hin
+Cornelis van Staveren
+Craig Healy
+Craig Symonette
+Eldad Amir
+Eldad Ronen
+Elena Berta
+Elena Oetling
+Eli Zuckerman
+Elisa Yukie Yokoyama
+Elise Rechichi
+Emanuela Sossi
+Emil Lindh
+Emma Wilson
+Emmanuel Pauwels
+Emmanuelle Rol
+Enda O'Coineen
+Endra Ha-Tiff
+Enrique Conill
+Enrique Dupont
+Enrique Figueroa
+Eri Hatayama
+Eric Bellion
+Eric Mergenthaler
+Eric Tulla
+Eric Wallin
+Erik Anker
+Erik Heil
+Erik Herseth
+Erik Mellbin
+Erik Vollebregt
+Erik Wiik-Hansen
+Erling Landsværk
+Francesca Clapcich
+Francesco Bruni
+Francesco Cameli
+Francesco Giovanelli
+Francesco Marcolini
+Francisco de Andrade
+Franck Cammas
+Franco Cavallo
+Frank Hekma
+Frank Hettinga
+Frank Hübner
+Frank McLaughlin
+Frank Smith
+Frank de Vos
+Frans Bolweg
+Frans Hin
+Georges Cronier
+Georges Mollard
+Georges Pottier
+Georges Warenhorst
+Georgios Perrakis
+Georgios Prekas
+Georgios Spyridis
+Gerard Lautenschutz
+Gerard de Vries Lentsch
+Gerhard Potma
+Germán Frers
+Germán Schacht
+Geylord Coveta
+Giacomo Tarsis Di Brolo
+Giancarlo Pedote
+Gianfranco Oradini
+Gianluca Lamaro
+Gianni Torboli
+Gideon Kliger
+Giedrius Gužys
+Gilbert Gray
+Gildas Morvan
+Giles Scott
+Giles Stanley
+Giorgio Poggi
+Giovanni Reggio
+Giovanni Stampa
+Giulia Conti
+Giuliano Oberti
+Giuseppe Milone
+Giuseppe Volpi
+Glen Dexter
+Glenn Ashby
+Glenn Read
+Gordon Flood
+Gordon Fowler
+Gordon Lindemann
+Govert Brasser
+Graeme Saunders
+Ignacio Berenguer
+Igor Marenić
+Iker Martínez de Lizarduy
+Jyrki Järvi
+János Mihálkovics
+Jérémie Beyou
+Józef Błaszczyk
+Józef Szajba
+Jörgen Sundelin
+Karel Lavický
+Karen Leibovici
+Karianne Eikeland
+Karl-Einar Sjögren
+Karl Haist
+Kobus Vandenberg
+Koh Seng Leong
+Konstantinos Lymberakis
+Koos de Jong
+Laurent Bourgnon
+Lauri Lehtinen
+Lauri Rechardt
+Lecointre
+Linton Hope
+Lisa Darmanin
+Lisa Ericson
+Lisa Westerhof
+Lise Vidal
+Luka Radelić
+Luke Baldauf
+Luke Patience
+Luke Ramsay
+László Kovácsi
+Léon Huybrechts
+Léon Susse
+Léon Tellier
+Léopold Standaert
+Maia Agerup
+Maiko Sato
+Makoto Tomizawa
+Maksim Oberemko
+Maksim Sheremetyev
+Malcolm Page
+Malin Millbourn
+Maria Coleman
+Maria Mollestad
+Mariano Parada
+Mariano Reutemann
+Marina Alabau
+Mario Almario
+Mario Aquilina
+Mario Bruzzone
+Mario Celon
+Mario Uriburu
+Marion Bultman
+Marit Bouwmeester
+Marit Söderström
+Mark Drontmann
+Mark LeBlanc
+Mark Mendelblatt
+Mark Neeleman
+Mark Reynolds
+Marlene Steinherr
+Marlon Singh
+Marshall King
+Martijn van Geemen
+Martin Grävare
+Martin Zeileis
+Melanie Dennison
+Michel Audoin
+Michel Desjoyeaux
+Michel Kermarec
+Michele Paoletti
+Michiel Dudok van Heel
+Pierre-Alexis Ponsot
+Pierre Collura
+Pierre Follenfant
+Pierre Gauthier
+Pierre Gervais
+Pierre Leboucher
+Pierre Moussette
+Pierre Moussié
+Pierre de Boulogne
+Piet Jan van der Giessen
+Piet Wernink
+Pieter-Jan Postma
+Pieter Heerema
+Pieter Keijzer
+Pieter de Zwart
+Pietro Sibello
+Pim Nieuwenhuis
+Pim van Vugt
+Piotr Myszka
+Siew Shaw Her
+Sigrid Rondelez
+Sigurd Kander
+Silja Kanerva
+Silja Lehtinen
+Silvio Treleani
+Simon Hiscocks
+Simon Korver
+Simon Talbot
+Simone Bianchetti
+Siniša Mikuličić
+Siren Sundby
+Siripon Kaewduang-ngam
+Stavros Alevras
+Stavros Psarrakis
+Steen Christensen
+Stefan Knabe
+Stefan Lindner
+Stein Lund Halvorsen
+Sten Abel
+Stephan van den Berg
+Stephane Le Diraison
+Stephanie Roble
+Stephen Calder
+Stephen McConaghy
+Stephen Milne
+Stephen Thomas
+Steve Jarvin
+Steve Marten
+Sylvain Chtounder
+Tom Blackaller
+Tom Burton
+Tom Dickey
+Tom Dodson
+Tom Ramshaw
+Tomas Hornos
+Yann Elies
+Yannick Bestaven
+Yannick Brauchli
+Yasuharu Fujiwara
+Yasuko Kosuge
+Yehuda Maayan
+Yekaterina Skudina
+Yevgeny Kun
+Yevgeny Lomach
+Yngve Holm
+Yngve Lindqvist
+Yngve Pacius
+Yoan Kolev
+Yoav Cohen
+Yoel Sela
+Yoichi Iijima
+Zhang Xiaodong
+Zsombor Berecz
+Zygfryd Perlicki
+Álvaro de Arana
+Ángel Granda
+Áron Gádorfalvi
+Charline Picon
+Chen Peina
+Cho Sung-min
+Chris Draper
+Chris Grube
+Chris Hooijkaas
+Chris Nicholson
+Chris Rashley
+Christian Holler
+Christian Nehammer
+Christian von Bülow
+Christina Bassadone
+Christine Bridge
+Christoffer Sundby
+Christoph Bergmann
+Christoph Bottoni
+Christophe Espagnon
+Christopher Boardman
+Christopher Davies
+Christopher Gundersen
+Claire Leroy
+Clarisse Crémer
+Claude Desouches
+Claude Rossi
+Claudio Celon
+Claus Olesen
+Clynton Lehman
+César Gérico
+Daan Kagchelland
+Dag Usterud
+Dagmar Salén
+Damien Seguin
+Dan Lovrović
+Dan O'Grady
+Dan Torten
+Daniel Adler
+Daniel Birgmark
+Daniel Escalante
+Daniel Flores
+Daniel Glomb
+Daniel Sundén-Cullberg
+Daniel Willcox
+Daniele De Luca
+Daniil Krutskikh
+Dave Curtis
+David Ashby
+David Bond
+David Bowker
+David Edwards
+David Forbes
+David Jones
+David Kelly
+David Philp
+David Staples
+David Ullman
+David Vera
+Dawn Riley
+De Cottignon
+Dean Barker
+Dean Gordon
+Deborah Ong
+Dick Coster
+Dick Holmberg
+Dick Johnson
+Dick Tillman
+Dick Wayboer
+Didac Costa
+Didier Munduteguy
+Diego González
+Dietrich Christensen
+Dimitrios Boukis
+Dimitrios Deligiannis
+Ding Schoonmaker
+Dirk De Bock
+Dirk de Ridder
+Dylan Fletcher
+E. W. Etchells
+Ecem Güzel
+Eckhard Löll
+Ed Adams
+Ed Baird
+Eddy Stutterheim
+Eddy Sulistianto
+Edelf Hosmann
+Edgar Behr
+Edmond Moussié
+Edoardo Bianchi
+Edoardo Moscatelli
+Edson de Araújo, Jr.
+Eduard Bürgmeister
+Eduardo Couto
+Edvart Christensen
+Edward Bryzemejster
+Edward Hore
+Edward Leask
+Edward Trevelyan
+Edward Wright
+Efi Mantzaraki
+Efstathios Papadopoulos
+Egon Beyn
+Eigil Christiansen
+Eilidh McIntyre
+Einar Hvoslef
+Eitan Friedlander
+Eivind Melleby
+Eje Öberg
+Ek Boonsawad
+Eki Heinonen
+Ernest Roney
+Ernesto Mendonça
+Ernst Brasche
+Ernst Laeisz
+Ernst Moltzer
+Ertuğrul İçingir
+Esmond Roney
+Esper Beloselsky
+Esteban Gerard
+Eugène Laverne
+Evert Bastet
+Evi Van Acker
+Eyvin Schiøttz
+Fabian Heidegger
+Fabio Albarelli
+Fabrice Amedeo
+Fabrice Levet
+Flavia Tartaglini
+Flip Keegstra
+Florence Arthaud
+Florencia Cerutti
+Florencia Gutiérrez
+Florian Reichstädter
+Florian Spalteholz
+Floris van de Werken
+Folke Bohlin
+Folke Wassén
+Hugo Johnson
+Humberto Costas
+Huub Lambriex
+Jaap Helder
+Jaap Zielhuis
+Jaap de Zeeuw
+Jack Scholes
+Jack Van Dyke
+Jacob Andersen
+Jacob Saunders
+Jacq van den Berg
+Jacques Baudrier
+Jacques Doucet
+Jacques Le Lavasseur
+Jacques Rambaud
+Jacques d'Estournelles de Constant
+Jaime Monjo
+Jali Mäkilä
+James Fairbank
+Janusz Zalewski
+Jarl Andstén
+Jason Teller
+Jason Waterhouse
+Jasper Blackall
+Javier Sansó
+Jay Glaser
+Jazmín López Becker
+Jean-Baptiste Bernaz
+Jean-Baptiste Dejeanty
+Jeremy Richards
+Jerie Clark
+Jerry Pignolet
+Jerry Wilson
+Jerzy Wujecki
+Jhonny Bilbao
+Jimmy Spithill
+Jo Aleh
+Joan Cardona Méndez
+Joana Pratas
+Joaquim Fiúza
+Joaquín Blanco Roca
+Jochen Schümann
+Kazunori Komatsu
+Kazuo Hanaoka
+Kazuto Doi
+Kazuyuki Hyodo
+Kees Douze
+Kees Jonker
+Kemal Muslubaş
+Ken Berkeley
+Ken Glass
+Ken Read
+Min Dezillie
+Minna Aalto
+Minoru Okita
+Monika Bronicka
+Morgan Adams
+Morgan Lagravière
+Morgan Larson
+Morgan Reeser
+Przemysław Miarczyński
+Rafael Iglesias
+Rafał Szukiel
+Ragna Agerup
+Ragnar Hargreaves
+Ragnar Stenbäck
+Raphael Dinelli
+Rasmus Myrgren
+Raul Uhl
+Raymond Bauwens
+Raymond Pitman
+Raúl Lena
+Raúl Ríos
+Sally Barkow
+Salusbury Mellor
+Támara Echegoyen
+Curt Mattson
+Cy Thompson
+Kaarle Tapper
+Kahena Kunze
+Kalle Coster
+Lara Vadlau
+Lars Thörn
+Lasse Hjortnæs
+Laura Baldwin
+Lowell North
+Loïck Peyron
+Lucas Calabrese
+Lucien Baudrier
+Lucy MacGregor
+Ludovic Franck
+Luis Arana
+Luis Chiapparro
+Luis Martínez
+Luis Miguel Santos
+Maarten de Wit
+Manami Doi
+Mandy Mulder
+Manuel Cousin
+Manuel Gonzalez
+Martine Grael
+Martine van Leeuwen
+Masatoshi Hazama
+Massimo Oberti
+Selwyn Calverley
+Serena Amato
+Serge Kats
+Sergei Desukevich
+Serhiy Khaindrava
+Serhiy Pichuhin
+Sjoerd Vollebregt
+Timothea Larr
+Tina Gramkov
+Tina Lutz
+Tina Mrak
+Tiril Bue
+Tito Nordio
+Titouan Lamazou
+Tobias Etter
+Toh Liying
+Wilfrid Leuchars
+Wilhelm Kuhweide
+Will Howden
+Will Oxley
+Willem Potma
+Willem de Vries Lentsch
+Willem van Walt Meijer
+Willets Outerbridge
+William Allen
+William Bartholomae Jr.
+William Berntsen
+William Davidson
+William Earl Buchan
+William Exshaw
+William Hodder
+Gregor Bornemann
+Guido Alkemade
+Guido Giovanelli
+Gunnar Krantz
+Gunnar Stenbäck
+Gustaf Estlander
+Gustavo Martínez
+Guy Bernardin
+Guy Herpin
+Ha Jee-min
+Hafsteinn Geirsson
+Hagbart Steffens
+Haimar Wedemeyer
+Hakon Reuter
+Hal Haenel
+Halit Haluk Babacan
+Hamza Bouras
+Han Bergsma
+Hannah Mills
+Hannah Stodel
+Hannes Baumann
+Holger Sumelius
+Holger Sundström
+Honoré Louit
+Horacio Carabelli
+Horacio Seeber
+Jan Bartosik
+Jan Bol
+Jan Eli Andersen
+Jan Jongkind
+Jan Kjærulff
+Jan Kouwenhoven
+Jan Maas
+Jan O'Malley
+Jan Vreede
+Jan Willem van den Hondel
+Jane Pegel
+Jonathan McKee
+Jonet-Pastré
+Jonny Malbon
+Joonas Lindgren
+Joop Carp
+Joop van Werkhoven
+Jordi Xammar
+Jordy Walker
+Jorge Lima
+Jorge Linck
+Jorge Rão
+Jorge Vilar
+Jorge Xavier Murrieta
+Jorge Zarif
+Jorge Zvazola
+Jos Schrier
+Jose Augusto Dias
+Jose Paulo Dias
+Joseph Heinrich von Schomacker
+Joseph Jessop
+Karl Lindholm
+Karl Suneson
+Karl Torlén
+Katarzyna Szotyńska
+Katia Belabbas
+Katie McDowell
+Katja Salskov-Iversen
+Katya Ida Coelho
+Kiran Badloe
+Kirk Grybowski
+Kito de Pavant
+Liz Baylis
+Nancy Rios
+Naoko Kamata
+Natthaphong Phonoppharat
+Nazario Sauro
+Rod Davis
+Rodion Luka
+Rodrigo Duarte
+Rodrigo Zuazola
+Roeffie Vermeulen
+Roger-Claude Guignard
+Roger Hudson
+Roger Nilson
+Rokas Milevičius
+Roland Jourdain
+Rolando Aguirre
+Rolf Steffenburg
+Romain Attanasio
+Roman Hagara
+Roman Koch
+Ruggero Tita
+Rune Jacobsen
+Rupert Ellis-Brown
+Russell Coutts
+Rutger van Schaardenburg
+Sofia Bekatorou
+Sofía Toro
+Susana Romero
+Susann Beucke
+Susanne Boidin
+Sven Coster
+Sven Salén
+Sven Thorell
+Sweta Shervegar
+Thom Haaland
+Thomas Andersen
+Thomas Coville
+Thomas Johanson
+Thomas Plößel
+Thomas Riggs
+Thomas Ruyant
+Thomas Schmid
+Thomas Skinner
+Thor Thorvaldsen
+Uwe Steingross
+Vaishnav
+Édgar Diminich
+Édouard Mantois
+Édouard Mézan de Malartic
+Émile Barral
+Émile Billard
+Émile Jean-Fontaine
+Émile Michelet
+Émile Sacré
+Šime Fantela
+Hans Baars-Lindner
+Hans Christiansen
+Hans Dittmar
+Hans Fogh
+Hans Fokker
+Hans Gut
+Hans Lubinus
+Hans Næss
+Hans Paschen
+Hans Pluijgers
+Hans Sleeswijk
+Hans Spitzauer
+Hans Wallén
+Hans Willems
+Harald Wallin
+Harald de Vlaming
+Haris Papadopoulos
+Harold Gaydon
+Harro Bode
+Harry Gale Nye Jr.
+Harry Hanson
+Harry Jefferson
+Harry Van Bergen
+Harry Wylie
+Harshita Tomar
+Hartwell Jordan
+Haylee Outteridge
+Hayley Chan
+Heikki Elomaa
+Heiko Kröger
+Heinrich Peters
+Helena Lucas
+Herbert Dercksen
+Herman Looman
+Herman Whiton
+Herman von Adlerberg
+Hermann de Pourtalès
+Hervé Laurent
+Hideaki Takashiro
+Hilary Lister
+Itzhak Nir
+J. Graham Kenion
+J. J. Isler
+J. Rogers Maxwell
+Patrick Wichmann
+Patrick de Radigues
+Patrik Pollák
+Patryk Piasecki
+Patrícia Freitas
+Paul Cayard
+Paul Coleman
+Paul Couture
+Paul Elvstrøm
+Paul Foerster
+Paul Kohlhoff
+Paul Manuel
+Paul Meilhat
+Paul Perquer
+Paul Snow-Hansen
+Paul Thomson
+Paul Tingley
+Paul Van Halteren
+Paul Wiesner
+Paula Barceló
+Pavel Logunov
+Pavel Pavlov
+Pavlo Kalynchev
+Pavlos Kagialis
+Per-Olof Karlsson
+Peter Allam
+Peter Bromby
+Peter Burggraaff
+Peter Burling
+Peter Coleman
+Peter Commette
+Peter Denzel
+Peter Gerber
+Peter Gilmour
+Peter Hall
+Peter Lang
+Peter Sundelin
+Peter Tallberg
+Peter van Niekerk
+Petronella de Jong
+Petrus Beukers
+Philip Falle
+Philip Gow
+Philip Lawton
+Philip Rogers
+Philippe Battaglia
+Philippe Bergmans
+Philippe Massu
+Philippe Poupon
+Phocion Rossollin
+Rais Galimov
+Rajesh Choudhary
+Ramzi Souli
+Ramón Balcells Comas
+Ramón Balcells Rodón
+Ran Shantal
+Ran Torten
+Marc Bouet
+Marc Guillemot
+Marc Jousset
+Marc Schmit
+Marc Thiercelin
+Marcantonio De Beaumont-Bonelli
+Marcel Meran
+Marcel Moisand
+Marcelien de Koning
+Marcelo Ferreira
+Marcelo Reitz
+Marco Pirinoli
+Marcos Soares
+Margaret Roney
+Margaret Shea
+Margriet Matthijsse
+Noé Delpech
+Nuno Barreto
+Nuraisyah Jamil
+Nándor Fa
+Nélido Manso
+Onán Barreiros
+Paloma Schmidt Gutiérrez
+Pamela Healy
+Panagiotis Alevras
+Panagiotis Kampouridis
+Panagiotis Mantis
+Park Gun-woo
+Renato Cosentino
+Renee Groeneveld
+René Nyman
+Robbie Haines
+Robert Drontmann
+Robert Girardet
+Robert Greenhalgh
+Robert Gufflet
+Robert Haschka
+Robert Johanny
+Robert Linzeler
+Robert Monier
+Robert Perret
+Robert Scheidt
+Robert Stanjek
+Robert Symonette
+Robert van Werkhoven
+Roberto Moscatelli
+Roberto Mottola di Amato
+Roberto Vencato
+Xabier Fernández
+Xavier Phelipon
+Xavier Revil
+Xu Yuan Zhen
+Yair Michaeli
+Noel Robins
+Norbert Sedlacek
+Norm Robertson
+Norman Bingley
+Odile van Aanholt
+Poul Richard Høj Jensen
+Ricardo Batista
+Ricardo Boneo
+Ricardo Fabini
+Ricardo Santos
+Romuald Hausser
+Ron van Teylingen
+Ronald den Arend
+Ronni Pieper
+Ronnie Ramos
+Roope Suomalainen
+Roosevelt
+Sandy MacMillan
+Santiago Amat
+Santiago Grillo
+Santiago Lange
+Sarah Douglas
+Terry McLaughlin
+Tessa Parkinson
+Tetsuya Matsunaga
+Texier
+Texier
+Th. Valentin Aass
+Tuula Tenkanen
+Tuuli Petäjä-Sirén
+Ulf Sundelin
+Uli Strohschneider
+Ulrik Brock
+Unai Basurko
+Vendela Zachrisson-Santén
+Ventseslav Kuzmichev
+Veronika Macarol
+Volodymyr Korotkov

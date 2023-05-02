@@ -1,0 +1,483 @@
+Achim Benning
+Adolf Christen
+Albert Bassermann
+Albert Ellmenreich
+Albert Florath
+Albert Hehn
+Albert Heine
+Albert Lieven
+Albert Lippert
+Albert Lortzing
+Albert Steinrück
+Aleksandar Radenkovic
+Alen Hodzovic
+Alexander Fehling
+Alexander Held
+Alexander Scheer
+Alfred Balthoff
+Alfred Beierle
+Alfred Haase
+Alfred Maack
+Alfred Müller
+Alfred Schieske
+Alfred Struwe
+Alwin Neuß
+Andreas von der Meden
+Anton Diffring
+Anton Lang
+Arnd Klawitter
+Arne Elsholtz
+Arno Paulsen
+Arnold Marlé
+Arnold Rieck
+Arthur Kraußneck
+Arthur Wiesner
+Aruth Wartan
+August Wilhelm Iffland
+Axel Monjé
+Axel Siefer
+Axel von Ambesser
+Franz Rauch
+Franz Rogowski
+Franz Weber
+Fred Doederlein
+Fred Düren
+Fred Immler
+Frederick Valk
+Friedrich Haase
+Friedrich Ludwig Schröder
+Friedrich Richter
+Friedrich W. Bauschulte
+Fritz Achterberg
+Fritz Delius
+Fritz Diez
+Fritz Hoopts
+Fritz Reiff
+Fritz Rémond Jr.
+Helmut Fischer
+Helmut Wildt
+Henry Bender
+Henry Vahl
+Johann Michael Böck
+Johannes Riemann
+Leo Peukert
+Leonard Steckel
+Baki Davrak
+Bastian Semm
+Benito Gutmacher
+Benjamin Trinks
+Benno Sterzenbach
+Bernd Aldor
+Bernd Herzsprung
+Bernd Michael Lade
+Bernhard Goetzke
+Bertl Schultes
+Bertold Reissig
+Birol Ünel
+Bogumil Dawison
+Bruno Decarli
+Bruno Kastner
+Bruno Ziener
+Carl Balhaus
+Carl Ebert
+Carl Heinz Charrell
+Carl Hinrichs
+Carl Jaffe
+Carl Jönsson
+Carl Kuhlmann
+Carl Raddatz
+Carl Walther Meyer
+Carlo Ljubek
+Gennadi Vengerov
+Georg Baselt
+Georg Henrich
+Georg John
+Georg Preuße
+Georg Vogelsang
+Lothar Firmans
+Lothar Müthel
+Louis Angely
+Louis Schneider
+Mirko Lang
+Olaf Bach
+Oliver Stokowski
+Peer Schmidt
+Rüdiger Vogler
+Sascha Hehn
+Theo Lingen
+Theo Shall
+Theodor Becker
+Theodor Julius Jaffé
+Viktor Gehring
+Viktor Schwanneke
+Viktor Senger
+Viktor de Kowa
+Vivigenz Eickstedt
+Willy Birgel
+Willy Millowitsch
+Willy Prager
+Willy Rösner
+Willy Stettner
+Götz George
+Günter Lamprecht
+Günther Kaufmann
+Günther Simon
+Günther Stoll
+Ingolf Gorges
+Ingolf Kuntze
+Julius Falkenstein
+Mathias Herrmann
+Mathias Wieman
+Matthias Fuchs
+Niklas Kohrt
+Oskar Höcker
+Otto Devrient
+Otto Gebühr
+Otto Lang
+Otto Mellies
+Otto Sander
+Otto Sauter-Sarto
+Otto Treßler
+Rudolf Klein-Rhoden
+Rudolf Lettinger
+Rudolf Martin
+Rudolf Reiff
+Rudolf Rittner
+Rufus Beck
+Samuel Finzi
+Sebastian Koch
+Sebastian Schlemmer
+Thure Riefenstein
+Traugott Buhre
+Detlef Bothe
+Felix Bressart
+Felix von Manteuffel
+Ferdinand Bonn
+Ferdinand Dessoir
+Ferdinand Ochsenheimer
+Ferry Sikla
+Gaston Briese
+Kristian Kiehling
+Krystian Martinek
+Kurt Blachy
+Kurt Brenkendorf
+Kurt Ehrle
+Kurt Gerron
+Kurt Großkurth
+Kurt Lilien
+Kurt Raab
+Kurt Vespermann
+Kurt von Ruffin
+Leonhard Haskel
+Leopold von Ledebur
+Max Adalbert
+Max Bing
+Max Devrient
+Max Ehrlich
+Max Gülstorff
+Max Hiller
+Max Kronert
+Max Laurence
+Max Maximilian
+Max Nemetz
+Max Obal
+Max Ruhbeck
+Max Schreck
+Max Zilzer
+Maximilian Brückner
+Maximilian Mauff
+Michael Bohnen
+Michael Hinz
+Michael Kessler
+Valentin Adamberger
+Walter Amtrup
+Walter Bruno Iltz
+Walter Buschhoff
+Walter Jupé
+Walter Renneisen
+Wil Röttgen
+Conrad Dreher
+Emanuel Reicher
+Emil Albes
+Emil Devrient
+Emil Rameau
+Ercan Özçelik
+Erdal Merdan
+Erdoğan Atalay
+Erich Hallhuber
+Erich Kaiser-Titz
+Erich Ponto
+Erich Schellow
+Erik Charell
+Erik von Loewis
+Francesco von Mendelssohn
+Frank Reicher
+Frank Wedekind
+Franz Arnold
+Franz Arzdorf
+Franz Josef Steffens
+Franz Klebusch
+Franz Ludwig
+Gerard Heinz
+Gerd Anthoff
+Gerd Michael Henneberg
+Gerd Vespermann
+Gerdt von Bassewitz
+Gert Voss
+Ignaz Kirchner
+Jörg Hube
+Jürgen Feindt
+Jürgen Frohriep
+Jürgen Tonkel
+Jürgen von Manger
+Karl August Devrient
+Karl August Görner
+Karl Beckersachs
+Karl Elzer
+Karl Friedrich Abt
+Konrad Ekhof
+Konrad Georg
+Konrad Krauss
+Lutz Götz
+Malte Jaeger
+Mario Adorf
+Mario Ramos
+Mark Waschke
+Markus Boysen
+Markus Majowski
+Martin Kosleck
+Martin Nürenbach
+Martin Sperr
+Martin Wuttke
+Michael Zittel
+Michl Lang
+Pierre Franckh
+Siegfried Rauch
+Siegfried Weiß
+Siegfried Wischnewski
+Sig Arno
+Stefan Konarske
+Tom Schilling
+Tom Wlaschiha
+Tonio Selwart
+Benedikt Negro
+Christian Gollong
+Christian Habicht
+Christian Quadflieg
+Christoph Bantzer
+Claudius Körber
+Clemens Hasse
+Daniel E. Bandmann
+Daniel Hoevels
+David Hurst
+Dietrich Hollinderbäumer
+Dirk Bach
+Dirk Weiler
+Eduard Devrient
+Eduard von Winterstein
+Egon Hoegen
+Egon Vogel
+Ernst Arndt
+Ernst Behmer
+Ernst Busch
+Ernst Dernburg
+Ernst Deutsch
+Ernst Dohm
+Ernst Gronau
+Ernst Haeussermann
+Ernst Hofmann
+Ernst Karchow
+Ernst Legal
+Ernst Pittschau
+Ernst Rückert
+Ernst Schröder
+Ernst von Possart
+Erwin Biegel
+Erwin Faber
+Erwin Linder
+Eugen Burg
+Eugen Klöpfer
+Ezard Haußmann
+Fabian Hinrichs
+Hugo Döblin
+Hugo Egon Balder
+Hugo Thimig
+Hugo Werner-Kahle
+Jack Recknitz
+Jaspar von Oertzen
+Jo Weil
+Joachim Fuchsberger
+Joachim Gottschalk
+Jochen Horst
+Ken Duken
+Milo Harbich
+Curd Jürgens
+Curt Ackermann
+Curt Goetz
+Curt Lucas
+Kai Peterson
+Kalle Pohl
+Lars Eidinger
+Ludwig Barnay
+Ludwig Blochberger
+Ludwig Chronegk
+Ludwig Dahn
+Ludwig Dessoir
+Ludwig Devrient
+Ludwig Geyer
+Ludwig Hartau
+Ludwig Kneiss
+Ludwig Manfred Lommel
+Ludwig Schmid-Wildy
+Manfred Krug
+Ozan Güven
+Wilhelm Diegelmann
+Wilhelm Kunst
+Wilhelm P. Krüger
+Will Quadflieg
+Willem Holsboer
+Wolf Kahler
+Wolf Kaiser
+Wolf Roth
+Wolfgang Heinz
+Wolfgang Lukschy
+Wolfgang Völz
+Wolfgang Zilzer
+Guido Herzfeld
+Gustaf Gründgens
+Gustav Adolf Semler
+Gustav Friedrich Wilhelm Großmann
+Gustav Fröhlich
+Gustav Kadelburg
+Gustav Rickelt
+Hadrian Maria Netto
+Hannes Messemer
+Hannes Ringlstetter
+Hannjo Hasse
+Hanno Koffler
+Hanns Dieter Hüsch
+Hanns Heinz Ewers
+Hannsgeorg Laubenthal
+Hans-Joachim Büttner
+Hans-Joachim Heist
+Hans-Joachim Preil
+Hans-Peter Reinecke
+Hans Albers
+Horst Caspar
+Horst Giese
+Horst Krause
+Horst Sachtleben
+Horst Tappert
+Jan Josef Liefers
+Jan Sosniok
+Joscha Kiefer
+Josef Bierbichler
+Josef Peterhans
+Karl Ludwig Giesecke
+Karl Michael Vogler
+Karl Valentin
+Karl von Holtei
+Klaus Havenstein
+Klaus Hoffmann
+Klaus Höhne
+Klaus Kinski
+Klausjürgen Wussow
+Roland Reber
+Rolf Herricht
+Rolf Hoppe
+Rolf Pinegger
+Rolf Römer
+Thomas Gumpert
+Thomas Holtzmann
+Thomas Limpinsel
+Uwe Bohm
+Uwe Karpa
+Uwe Kockisch
+Hans Brausewetter
+Hans Caninenberg
+Hans Christian Blech
+Hans Finohr
+Hans H. Steinberg
+Hans Henninger
+Hans Junkermann
+Hans Korte
+Hans Mierendorff
+Hans Otto
+Hans Schlenck
+Hans Schumm
+Hans Sternberg
+Hans Stürm
+Hans Werner Meyer
+Hans Ziegler
+Hans von Zedlitz
+Harald Juhnke
+Harald Paulsen
+Harald Wolff
+Harry Buckwitz
+Harry Giese
+Harry Halm
+Harry Liedtke
+Hartmut Becker
+Haydar Zorlu
+Heinrich Anschütz
+Heinrich Beck
+Heinrich George
+Heinrich Greif
+Heinrich Schroth
+Heinz Erhardt
+Heinz Hoenig
+Heinz Lausch
+Heinz Lieven
+Heinz Salfner
+Heinz Schimmelpfennig
+Herbert Fleischmann
+Herbert Hübner
+Herbert Kiper
+Herbert Wilk
+Hermann Boettcher
+Hermann Leffler
+Hermann Pfeiffer
+Hermann Picha
+Hermann Speelmans
+Hermann Stövesand
+Paul Biensfeldt
+Paul Dahlke
+Paul Edwin Roth
+Paul Esser
+Paul Kemp
+Paul Samson-Körner
+Paul Wegener
+Peter Elsholtz
+Peter Garden
+Peter Kurth
+Peter Marx
+Peter Mosbacher
+Peter Pasetti
+Peter Radtke
+Peter Reusse
+Peter Sattmann
+Peter Sodann
+Peter Sturm
+Raimund Schelcher
+Rainer Bock
+Ralph Morgenstern
+Marc Hosemann
+Marcel Hillaire
+O. E. Hasse
+Reinhold Häussermann
+René Bazinet
+Robert Atzorn
+Robert Meyn
+Robert Taube
+Norbert Weisser
+Prashant Prabhakar
+Santiago Ziesmer
+Tristano Casanova
+Ulrich Mühe
+Ulrich Tukur
+Ulrich Wildgruber
+Waldemar Leitgeb
+Werner Dissel
+Werner Finck
+Werner Funck
+Werner Krauss

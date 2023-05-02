@@ -1,0 +1,815 @@
+A. P. Younger
+Aaron Hoffman
+Aben Kandel
+Ada McQuillan
+Adam 'Tex' Davis
+Adam Barr
+Adam Kassen
+Adam Robitel
+Adam de la Peña
+Adelaide Heilbron
+Adele Comandini
+Agnes Brand Leahy
+Agnes Parsons
+Aisha Muharrar
+Akela Cooper
+Al Schwartz
+Albert DeMond
+Albert Mannheimer
+Alec Sokolow
+Alexander Dinelaris Jr.
+Alexandra Cunningham
+Alfred Neumann
+Alice D. G. Miller
+Allan Scott
+Allan Weisbecker
+Allen Rivkin
+Amy Fox
+Andrew Bennison
+Andrew Delaplaine
+Andrew Fleming
+Andrew Gottlieb
+Andrew Schneider
+Andrew Wagner
+Andrew Weinberg
+Andy Bellin
+Andy Bobrow
+Andy Houts
+Andy Robin
+Ann Elder
+Anna Fricke
+Anna Rose Holmer
+Anne Flett-Giordano
+Anne Merwin
+Anne Spielberg
+Anthony Coldeway
+Anthony Peckham
+April Blair
+Arnold M. Auerbach
+Arnold Perl
+Arthur A. Ross
+Arthur Caesar
+Arthur E. Orloff
+Arthur L. Jarrett
+Arthur Ripley
+Ashley Gable
+Fred F. Finklehoffe
+Fred Myton
+Fred Niblo Jr.
+Frederick J. Jackson
+Fredric Lebow
+Fredric M. Frank
+Fredrica Bailey
+Henry Ephron
+Henry Garson
+Irma von Cube
+Isadore Bernstein
+Joey Murphy
+John B. Clymer
+John Bagni
+John C. Higgins
+John C. Kelley
+John Eskow
+John Evans
+John Grey
+John Hunter Booth
+John J. Strauss
+John Kaye
+John L. Greene
+John Mattson
+John Pardee
+John Stone
+John Swab
+John Thomas
+John Truby
+John Tucker Battle
+John Turman
+John Twist
+John W. Krafft
+Jon Harmon Feldman
+Jon Kinnally
+Jonathan Axelrod
+Jonathan Craven
+Lee Kalcheim
+Leona Radnor
+Leonard Gardner
+Babaloo Mandel
+Barry Blitzer
+Barry Conners
+Barry Fanaro
+Barry Harman
+Barry Morrow
+Barry Shipman
+Barry W. Blaustein
+Basil Dickey
+Beatrice Morse
+Belle Taylor
+Ben Gruber
+Ben Ripley
+Benedict Fitzgerald
+Benjamin August
+Bennett Cohen
+Bernard C. Schoenfeld
+Bernard Girard
+Bernard McConville
+Bernardine R. Leist
+Bernie Kahn
+Bertram Millhauser
+Bill Kelly
+Bill Persky
+Bill and Cheri Steinkellner
+Blake Masters
+Blanche Hanalis
+Bob Ellison
+Bob Fisher
+Bob Mosher
+Bob Nelson
+Bobby Farrelly
+Bradbury Foote
+Breehn Burns
+Breen Frazier
+Brendan Broderick
+Brent Bradshaw
+Brent Fletcher
+Brett C. Leonard
+Brett Matthews
+Brian Godawa
+Brian Nelson
+Brian Regan
+Brian Wayne Peterson
+Brown Holmes
+Bruce Branit
+Bruce Zimmerman
+Brysis Coleman
+Burt Styler
+Cameron Litvack
+Camila María Concepción
+Carl Ellsworth
+Carlyle Eubank
+Caroline Cooke
+Caroline Franz
+Carrie Kemper
+Carroll Moore
+Carroll Young
+Gene Levitt
+Gene Towne
+Geneva Robertson-Dworet
+George Balzer
+George Bricker
+George C. Hull
+George Gipe
+George Hively
+George Jeske
+George Morgan
+George Oppenheimer
+George Worthing Yates
+Graham Streeter
+Grant Nieporte
+Laird Doyle
+Lan O'Kun
+Lois Hutchinson
+Lotta Woods
+Lou Breslow
+Louis D. Lighton
+Louis Vittes
+Louise Rousseau
+Maggie Friedman
+Mitch Markowitz
+Patricia Breen
+Patricia Broderick
+Patricia Green
+Patricia Louisianna Knop
+Patricia Resnick
+Stanford Sherman
+Stanley R. Greenberg
+Stanley Rauh
+Stanley Roberts
+Stu Silver
+Stuart Anthony
+Sue Dwiggins
+Talbot Jennings
+Terrence McDonnell
+Melville Baker
+Menno Meyjes
+Meredith Post
+Merrill G. White
+Olga Printzlau
+Polly James
+R. Cecil Smith
+R. M. Fink
+Richard Macaulay
+Richard Schayer
+S. Leigh Savidge
+SJ Chiro
+Sarah Woodside Gallagher
+Sarah Y. Mason
+Shimon Wincelberg
+Steven Brill
+Steven Maeda
+Steven Peterman
+Steven Rogers
+Stewart Stern
+Stewart Wade
+T. Sean Shannon
+Thelma Robinson
+Theodosia Harris
+Tony Webster
+Tor Alexander Valenza
+Vicki Caroline Cheatwood
+Vincent Valentini
+Violet Clark
+William Lord Wright
+William Ludwig
+William M. Finkelstein
+William Roberts
+William Slavens McNutt
+William Tunberg
+Zach Nelson
+Zack Estrin
+Zarah Tazil
+Cecile Kramer
+Chandler Sprague
+Charles A. Logue
+Charles Brabin
+Charles G. Booth
+Charles Grayson
+Charles Hoffman
+Charles Kenyon
+Charles L. Kimball
+Charles Maigne
+Charles Randolph
+Charles S. Belden
+Don Carlos Dunaway
+Don Hinkley
+Don Nicholl
+Donald Davis
+Doris Gilbert
+Dorothy Rockfort
+Doug Langway
+Doug Richardson
+Douglas Bronston
+Douglas J. Eboch
+Douglas Morrow
+Douglas Schwartz
+Guy Trosper
+Gwen Bagni
+Jean Bart
+Jean Plannette
+Jeff Andrus
+Jeff Kahn
+Jeff Pidgeon
+Jeff Vintar
+Jefferson Moffitt
+Jeffrey Bushell
+Jeffrey Lieber
+Jenna Bans
+Jenny Bicks
+Jenny Wingfield
+Jere F. Looney
+Joseph W. Farnham
+Josephine Quirk
+Josh Appelbaum
+Josh Friedman
+Josh Greenfeld
+Joshua Corin
+Joshua Sternin
+Judith Feldman
+Judith Rascoe
+Julia Burnham
+Julien Josephson
+Matt Greenberg
+Matt Osterman
+Matt Warburton
+Matthew Carnahan
+Maurice Hurley
+Mike Rich
+Mildred Dein
+Mildred Sledge
+Nicholas Wootton
+Nick Davis
+Nick Lyon
+Oscar Millard
+Rebecca Swan
+Roy Winsor
+Rudy De Luca
+Sam Mintz
+Sam Perrin
+Sam Taylor
+Samuel Hoffenstein
+Scott Abbott
+Scott Lew
+Scott Marshall Smith
+Scott Silver
+Seaman Jacobs
+Shelia Goss
+Sheridan Gibney
+Tiffany Laufer
+Tim Schlattmann
+Tracey Thomson
+Tracy Keenan Wynn
+Tracy Tormé
+Travis Mathews
+Treva Silverman
+Dennis Paoli
+Derek Connolly
+Deric Washburn
+Farhad Safinia
+Gabriel Casseus
+Garin Wolf
+Garrett Lerner
+Garry Michael White
+Gary Dontzig
+Gary Sunshine
+Gary Weeks
+Kim Henkel
+Kriss Turner
+Kristen Buckley
+Kubec Glasmon
+Kurt Wimmer
+Kyle Pennington
+Leota Morgan
+Leslie Bohem
+Leslie Newman
+Lesser Samuels
+Lewis Colick
+Max Borenstein
+Max D. Adams
+Maxwell Shane
+Mayo Simon
+Meade Roberts
+Micah Fitzerman-Blue
+Michael Berk
+Michael Carrington
+Michael Colleary
+Michael Conforti
+Michael Davis
+Michael Goldberg
+Michael Grais
+Michael Hickey
+Michael Kozoll
+Michael Matteo Rossi
+Michael McCullers
+Michael Morris
+Valerie Ahern
+Vanessa Block
+Walter Anthony
+Walter DeLeon
+Walter Edwards
+Walter Newman
+Walter Reisch
+Walter Woods
+Warren Lieberstein
+Catherine Carr
+Colbert Clark
+Coley Sohn
+Cormac and Marianne Wibberley
+Craig Bolotin
+Craig Johnson
+Craig Wayans
+Elizabeth Korte
+Elizabeth Mahoney
+Elizabeth Page
+Elizabeth Wilson
+Ella O'Neill
+Ella Stuart Carson
+Ellie Herman
+Elliott Baker
+Elliott J. Clawson
+Elsie Werner
+Emmett C. Hall
+Endre Bohem
+Eric Bernt
+Eric Guggenheim
+Eric S. Hatch
+Eric Warren Singer
+Erica Messer
+Erica Rivinoja
+Erik Richter
+Erna Lazarus
+Forrest Halsey
+Francine Carroll
+Francis Edward Faragoh
+Francis Powers
+Frank Burt
+Frank Butler
+Frank Gabrielson
+Frank Glicksman
+Frank Howard Clark
+Frank Mitchell Dazey
+Frank Partos
+Frank Waldman
+Franklin Lacey
+Gerald Duffy
+Geretta Geretta
+Gertrude Orr
+Gill Dennis
+Glenn Eichler
+Glenn Kessler
+Gordon Rigby
+Grace Neville
+Grace Perkins
+Graeme Whifler
+Ilunga Adell
+Justin Herman
+Karen Dillon
+Lawrence B. Marcus
+Lawrence H. Levy
+Lawrence Hauben
+Lawrence Hazard
+Lawrence Kimble
+Linda Schreiber
+Lynn Starling
+Lynsey DuFour
+Maiya Williams
+Malcolm Marmorstein
+Mark Bomback
+Mark Burchett
+Mark Fergus and Hawk Ostby
+Mark Hanna
+Mark L. Smith
+Mark Protosevich
+Mark Steven Johnson
+Mark V. Olsen
+Mark Victor
+Mark and Robb Cullen
+Martin Flavin
+Martin Goldsmith
+Martin Ragaway
+Martin Spottl
+Meg LeFauve
+Michael Ross
+Michael Varhol
+Michael Yebba
+Michele Val Jean
+Seymour Bennett
+Sid Brod
+Sidney Buchman
+Sidney Carroll
+Silvia Richards
+Stephen Falk
+Stephen Kendrick
+Stephen M. Ryder
+Stephen Susco
+Stephen Warbrick
+Steve Bencich
+Steve Faber
+Steve Latshaw
+Steve Meerson
+Sydney Boehm
+Sylvia Bernstein
+Tom Barry
+Tom Baum
+Tom Caltabiano
+Tom Epperson
+Tom Gibson
+Tom Langan
+Tom Lazarus
+Tom Patchett
+Tom Reed
+Tom Ropelewski
+Tom Schulman
+Tom Spezialy
+Tom Waldman
+Ziggy Steinberg
+Cheryl McKay
+Chris Black
+Chris Conkling
+Chris Enss
+Chris Hauty
+Chris Matheson
+Christina M. Kim
+Christopher Hawthorne
+Christopher J. Waild
+Christopher Knopf
+Christopher Münch
+Clara Genevieve Kennedy
+Clarence Greene
+Claude Binyon
+Cliff Dorfman
+D. D. Beauchamp
+D. M. Marshman Jr.
+Dale Launer
+Dan Harris
+Dan Mazeau
+Dan Vebber
+Dan and Stacy Chariton
+Dane Lussier
+Daniel B. Ullman
+Daniel Casey
+Daniel F. Whitcomb
+Daniel Lipman
+Daniel Pyne
+Daniel Reed
+Danilo Bach
+Danny Rubin
+Dave Hill
+David Berenbaum
+David Berry
+David Boehm
+David Diamond
+David Duncan
+David Foster
+David Franzoni
+David Freeman
+David Frigerio
+David Goldschmid
+David Guggenheim
+David Isaacs
+David L. Paterson
+David Landau
+David Lloyd
+David Loucka
+David Loughery
+David Magee
+David McKenna
+David Newman
+David Odell
+David Paulsen
+David S. Dorfman
+David Scarpa
+David Sheffield
+David Titcher
+David Weisberg
+David Weissman
+Dawn Lambertsen Kelly
+Deborah Kaplan
+Diane Messina Stanley
+Dick Berg
+Dick Christie
+E. Lloyd Sheldon
+Earl Baldwin
+Ed Decter
+Edith Fitzgerald
+Edith Sommer
+Edmund H. North
+Edna Anhalt
+Edna G. Riley
+Edward E. Seabrook
+Edward J. Montagne
+Edward Khmara
+Edward T. Lowe Jr.
+Edward di Lorenzo
+Edwin Blum
+Edwin J. Burke
+Eileen Myers
+Eileen and Robert Mason Pollock
+Elaine Ryan
+Ernest Pagano
+Erwin S. Gelsey
+Ethel La Blanche
+Eugene Mullin
+Evan Dunsky
+Eve Stuyvesant
+Faith Green
+Faith Thomas
+Finis Fox
+Florence Hein
+Hugh Davidson
+Jace Richdale
+Jack B. Sowards
+Jack Cunningham
+Jack DeWitt
+Jack Henley
+Jack Jevne
+Jack LoGiudice
+Jack Natteford
+Jack Perez
+Jack Rush
+Jack Townley
+Jackie and Jeff Filgo
+Jacob Sager Weinstein
+James Ashmore Creelman
+James C. Strouse
+James Duff
+James Goldman
+James Gordon White
+James Gunn
+James Kearns
+Jason Ganzel
+Jason Smilovic
+Jeremy Joe Kronsberg
+Jeremy Pikser
+Jerome Cady
+Jerry Birn
+Jessica O'Toole and Amy Rardin
+Jim Carlson
+Jim Jennewein
+Jim Kouf
+Jim Mulholland
+Jim Pabian
+Jim Rusk
+Jim Thomas
+Jim Uhls
+Jimmy Diggs
+Jimmy Starr
+Joan McCall
+Joany Kane
+Joe Connelly
+Joe Forte
+Joel Cohen
+Joel Sayre
+Keith Allan
+Kelly Tyler-Lewis
+Ken Englund
+Ken Estin
+Ken Hixon
+Ken and Jim Wheat
+Kenneth Ross
+Milton Krims
+Mimi Leahey
+Monte M. Katterjohn
+Mort Nathan
+Morton Fine
+Rafael Moreu
+Ray Griggs
+Raymond L. Schrock
+Sam Hamm
+Tyler Bensinger
+Larry Ferguson
+Larry Gross
+Larry Klein
+Larry Wilson
+Laura Lau
+Lowell S. Hawley
+Luci Ward
+Lucille Newmark
+M. M. Musselman
+Malvin Wald
+Manuel Seff
+Mary McCarthy
+Mary Sue Price
+Pablo Fenjves
+Skip Woods
+Sloan Nibley
+Tina Gordon Chism
+Todd Alcott
+Todd Holoubek
+Will Scheffer
+William Anthony McGuire
+William Blake Herron
+William Blinn
+William DeVizia
+William E. Wing
+William G. Borchert
+William Hjortsberg
+Winifred Hervey
+Winston Miller
+Greg Coolidge
+Gregg Kavet
+Greggory Nations
+Gregory Anderson
+Gregory M. Auer
+Gregory Poirier
+Hal Goldman
+Hal Yates
+Halsted Sullivan
+Homer Brightman
+Houston Branch
+Howard Emmett Rogers
+Howard Irving Young
+James Poe
+James R. Stein
+James Szalapski
+Jamie Moss
+Jan Englund
+Janet Peoples
+Janice Loeb
+Janine Ditullio
+Jonathan E. Steinberg
+Jonathan Fernandez
+Jonathan Herman
+Joseph Dougherty
+Joseph F. Poland
+Joseph Jackson
+Joseph Stinson
+Karl R. Coolidge
+Kate Hall
+Kate Lanier
+Katherine Dawn
+Kathleen Klein
+Katrina Holden Bronson
+Nan Blair
+Rod Warren
+Russel Friend
+Russell DeGrazier
+Ruth Brooks Flippen
+Ryan Koh
+Susan Nirah Jaffee
+Susan Strickler
+Thomas Bezucha
+Thomas Dean Donnelly and Joshua Oppenheimer
+Thomas J. Geraghty
+Thomas Monroe
+Thomas Rickman
+Harley Peyton
+Harold Jack Bloom
+Harold Shumate
+Harriet Hinsdale
+Harry Colomby
+Harry Essex
+Harry Julian Fink
+Harry Kleiner
+Harry O. Hoyt
+Harry Ralston
+Harry Sinclair Drago
+Harry Spalding
+Harve Brosten
+Harvey F. Thew
+Hazel Jamieson
+Hector Turnbull
+Heidi Ferrer
+Helen Gregg
+Helen Logan
+Herbert Golder
+Herman Miller
+Herschel Weingrod
+Hilary Hemingway
+Hilary Henkin
+Hilary Howard
+Hilda Stone
+J. Edward Hungerford
+J. Grubb Alexander
+J. J. Paulsen
+J. P. Davis
+J. Walter Ruben
+Patty Lin
+Paul Brickman
+Paul Cain
+Paul Dickey
+Paul Gangelin
+Paul Yawitz
+Paula Cwikly
+Percy Heath
+Perley Poore Sheehan
+Peter Brash
+Peter Buchman
+Peter Gethers
+Peter Krikes
+Peter Milne
+Peter Telep
+Phil Hay
+Phil Leslie
+Philip Klein
+Philip Lonergan
+Philip Rapp
+Philip Stark
+Phoef Sutton
+Randall Faye
+Randall Jahnson
+Wayne Lemon
+Lila Garrett
+Lillian Case Russell
+Lillie Hayward
+Marc Hyman
+Marc Moss
+Marc Norman
+Margarita Robles
+Orin Tovrov
+Rob Hedden
+Rob Margolies
+Rob Pearlstein
+Robert A. Dillon
+Robert Blees
+Robert Chappell
+Robert E. Thompson
+Robert Getchell
+Robert Gittler
+Robert Gordon
+Robert Hill
+Robert Hopkins
+Robert L. Richards
+Robert Lively
+Robert Lord
+Robert M. Fresco
+Robert Moresco
+Robert N. Lee
+Robert Nelson Jacobs
+Robert Padnick
+Robert Palm
+Robert Rodat
+Robert Shallcross
+Robert Siegel
+Robert Vincent O'Neil
+Robert W. Russell
+Rocco Urbisci
+Noel Behn
+Norman Borisoff
+Norman Douglas Bradley
+Norman S. Hall
+Rex M. Best
+Rex Taylor
+Richard Alan Simmons
+Ron Cowen
+Ron J. Friedman
+Ron Sproat
+Ronald Parker
+Ronald Shusett
+Ronni Kern
+Rospo Pallenberg
+Ross LaManna
+Ross Yockey
+Sara Parriott
+Terry Ryan
+Thames Williamson
+Vy Russell
+Wellyn Totman

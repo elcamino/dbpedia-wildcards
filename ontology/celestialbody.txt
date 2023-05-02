@@ -1,0 +1,11467 @@
+(10115) 1992 SK
+(101429) 1998 VF31
+(101869) 1999 MM
+(10302) 1989 ML
+(111253) 2001 XU10
+(11436) 1969 QR
+(11474) 1982 SM2
+(118228) 1996 TQ66
+(118378) 1999 HT11
+(119070) 2001 KP77
+(119951) 2002 KX14
+(119979) 2002 WC19
+(120132) 2003 FY128
+(120178) 2003 OP32
+(120216) 2004 EW95
+(120348) 2004 TY364
+(121514) 1999 UJ7
+(12538) 1998 OH
+(126154) 2001 YH140
+(126155) 2001 YJ140
+(127546) 2002 XU93
+(131696) 2001 XT254
+(131697) 2001 XH255
+(13366) 1998 US24
+(136617) 1994 CC
+(137108) 1999 AN10
+(137924) 2000 BD19
+(139775) 2001 QG298
+(143649) 2003 QQ47
+(143651) 2003 QO104
+(144897) 2004 UX10
+(144898) 2004 VD17
+(144908) 2004 YH32
+(145451) 2005 RM43
+(145452) 2005 RN43
+(145453) 2005 RR43
+(145480) 2005 TB190
+(148209) 2000 CR105
+(148975) 2001 XA255
+(152680) 1998 KJ9
+(153201) 2000 WO107
+(153591) 2001 SN263
+(153814) 2001 WN5
+(154276) 2002 SY50
+(15430) 1998 UR31
+(15502) 1999 NV27
+(155140) 2005 UD
+(15692) 1984 RA
+(15700) 1987 QD
+(15788) 1993 SB
+(15789) 1993 SC
+(15807) 1994 GV9
+(15820) 1994 TB
+(15874) 1996 TL66
+(15875) 1996 TP66
+(15977) 1998 MA11
+(159857) 2004 LJ1
+(162058) 1997 AE12
+(162421) 2000 ET70
+(163132) 2002 CU11
+(163243) 2002 FB3
+(163249) 2002 GT
+(163348) 2002 NN4
+(163364) 2002 OD20
+(163899) 2003 SD220
+(164121) 2003 YT1
+(164207) 2004 GU9
+(16882) 1998 BO13
+(16960) 1998 QS52
+(172034) 2001 WR1
+(17511) 1992 QN
+(175113) 2004 PF115
+(175706) 1996 FG3
+(177049) 2003 EE16
+(179806) 2002 TD66
+(181708) 1993 FW
+(181902) 1999 RD215
+(182294) 2001 KU76
+(184212) 2004 PB112
+(185851) 2000 DP107
+(190166) 2005 UP156
+(19255) 1994 VK8
+(192642) 1999 RD32
+(19308) 1996 TO66
+(196256) 2003 EH1
+(20161) 1996 TR66
+(202421) 2005 UQ513
+(20729) 1999 XS143
+(208996) 2003 AZ84
+(214869) 2007 PA8
+(21601) 1998 XO89
+(219774) 2001 YY145
+(22149) 2000 WD49
+(225312) 1996 XB27
+(230965) 2004 XA192
+(231937) 2001 FO32
+(237442) 1999 TA10
+(23958) 1998 VD30
+(242450) 2004 QY2
+(24835) 1995 SM55
+(248835) 2006 SX368
+(24952) 1997 QJ4
+(24978) 1998 HJ151
+(251732) 1998 HG49
+(26308) 1998 SM165
+(26375) 1999 DE9
+(275809) 2001 QY297
+(276033) 2002 AJ129
+(277475) 2005 WK4
+(277810) 2006 FV35
+(278361) 2007 JJ43
+(285263) 1998 QE2
+(29075) 1950 DA
+(292220) 2006 SU49
+(300163) 2006 VW139
+(303775) 2005 QU182
+(307261) 2002 MS4
+(307463) 2002 VU130
+(308193) 2005 CB79
+(308242) 2005 GO21
+(308635) 2005 YU55
+(308933) 2006 SQ372
+(309239) 2007 RW10
+(310071) 2010 KR59
+(311999) 2007 NS2
+(31345) 1998 PG
+(315530) 2008 AP129
+(315898) 2008 QD4
+(316179) 2010 EN65
+(31669) 1999 JT6
+(322756) 2001 CK32
+(323137) 2003 BM80
+(32496) 2000 WX182
+(33001) 1997 CU29
+(332446) 2008 AF4
+(33340) 1998 VG44
+(33342) 1998 WT24
+(336756) 2010 NV1
+(341843) 2008 EV5
+(342842) 2008 YB3
+(350462) 1998 KG3
+(35107) 1991 VH
+(35396) 1997 XF11
+(35671) 1998 SN165
+(357439) 2004 BL86
+(367789) 2011 AG5
+(369623) 2011 DY5
+(38063) 1999 FH
+(385185) 1993 RO
+(385250) 2001 DH47
+(385343) 2002 LV
+(386454) 2008 XM
+(386723) 2009 YE7
+(388188) 2006 DP14
+(38984) 2000 UZ4
+(391211) 2006 HZ51
+(392741) 2012 SQ31
+(394130) 2006 HY51
+(39546) 1992 DT5
+(40314) 1999 KR16
+(410777) 2009 FD
+(415029) 2011 UL21
+(415713) 1998 XX2
+(416151) 2002 RQ25
+(416400) 2003 UZ117
+(417634) 2006 XG1
+(418993) 2009 MS9
+(419624) 2010 SO16
+(42301) 2001 UR163
+(432949) 2012 HH2
+(433953) 1997 XR2
+(434326) 2004 JG6
+(434620) 2005 VD
+(436724) 2011 UW158
+(444004) 2004 AS1
+(444030) 2004 NT33
+(445473) 2010 VZ98
+(44594) 1999 OX3
+(450894) 2008 BT18
+(454101) 2013 BP73
+(455502) 2003 UZ413
+(456938) 2007 YV56
+(457175) 2008 GO98
+(458732) 2011 MD5
+(459883) 2014 JX55
+(467336) 2002 LT38
+(468861) 2013 LU28
+(469306) 1999 CD158
+(469372) 2001 QF298
+(469987) 2006 HJ123
+(470308) 2007 JH43
+(470599) 2008 OG19
+(471240) 2011 BT15
+(471288) 2011 GM27
+(471325) 2011 KT19
+(472271) 2014 UM33
+(472651) 2015 DB216
+(480808) 1994 XL1
+(481394) 2006 SF6
+(481482) 2007 CA19
+(48639) 1995 TL8
+(4953) 1990 MU
+(495603) 2015 AM281
+(496315) 2013 GP136
+(501546) 2014 JJ80
+(501581) 2014 OB394
+(501647) 2014 SD224
+(505448) 2013 SA100
+(505478) 2013 UT15
+(505624) 2014 GU53
+(505657) 2014 SR339
+(506479) 2003 HB57
+(508338) 2015 SO20
+(508869) 2002 VT130
+(511002) 2013 MZ5
+(516977) 2012 HZ84
+(523622) 2007 TG422
+(523635) 2010 DN93
+(523639) 2010 RE64
+(523643) 2010 TY53
+(523645) 2010 VK201
+(523662) 2012 MU2
+(523671) 2013 FZ27
+(523674) 2013 MA12
+(523676) 2013 UL10
+(523683) 2014 CP23
+(523684) 2014 CQ23
+(523687) 2014 DF143
+(523692) 2014 EZ51
+(523702) 2014 HW199
+(523706) 2014 HF200
+(523719) 2014 LM28
+(523727) 2014 NW65
+(523731) 2014 OK394
+(523759) 2014 WK509
+(523764) 2014 WC510
+(523775) 2014 YB35
+(523794) 2015 RR245
+(523972) 1999 CW8
+(524366) 2001 XR254
+(524435) 2002 CY248
+(524522) 2002 VE68
+(52747) 1998 HM151
+(52760) 1998 ML14
+(527603) 2007 VJ305
+(527604) 2007 VL305
+(52768) 1998 OR2
+(528219) 2008 KV42
+(528381) 2008 ST291
+(529366) 2009 WM1
+(532037) 2013 FY27
+(53319) 1999 JM8
+(533560) 2014 JM80
+(5407) 1992 AX
+(543354) 2014 AN55
+(5496) 1973 NA
+(549948) 2011 WL2
+(55565) 2002 AW197
+(55636) 2002 TX300
+(55637) 2002 UX25
+(55638) 2002 VE95
+(556416) 2014 OE394
+(5604) 1992 FE
+(5645) 1990 SP
+(5646) 1990 TR
+(574372) 2010 JO179
+(5836) 1993 MF
+(585310) 2017 YZ1
+(589683) 2010 RF43
+(6037) 1988 EG
+(60621) 2000 FE8
+(606357) 2017 UV43
+(612093) 1999 LE31
+(612095) 1999 OJ4
+(612243) 2001 QR322
+(612358) 2002 JE9
+(612533) 2002 XV93
+(612584) 2003 QX113
+(612600) 2003 SM84
+(612620) 2003 SQ317
+(612901) 2004 XP14
+(612911) 2004 XR190
+(613100) 2005 TN74
+(613490) 2006 RJ103
+(613766) 2007 NC7
+(614433) 2009 KK
+(614599) 2010 AB78
+(614689) 2020 XL5
+(6178) 1986 DA
+(6265) 1985 TW3
+(6382) 1988 EL
+(6491) 1991 OA
+(65407) 2002 RP120
+(66063) 1998 RO1
+(68950) 2002 QF15
+(7025) 1993 QA
+(7335) 1989 JA
+(7341) 1991 VK
+(7348) 1993 FJ22
+(7474) 1992 TC
+(7482) 1994 PC1
+(75482) 1999 XC173
+(7563) 1988 BC
+(76146) 2000 EU16
+(78799) 2002 XW93
+(7888) 1993 UC
+(79983) 1999 DF9
+(8014) 1990 MF
+(8035) 1992 TB
+(8201) 1994 AH2
+(82075) 2000 YW134
+(82158) 2001 FP185
+(84522) 2002 TC302
+(84719) 2002 VR128
+(84922) 2003 VS2
+(85182) 1991 AQ
+(85627) 1998 HP151
+(85633) 1998 KR65
+(85640) 1998 OX4
+(85713) 1998 SS49
+(85770) 1998 UP1
+(85989) 1999 JD6
+(85990) 1999 JV6
+(86039) 1999 NC43
+(86047) 1999 OY3
+(87269) 2000 OO67
+(88710) 2001 SL9
+(89830) 2002 CE
+(89958) 2002 LY45
+(89959) 2002 NT7
+(90075) 2002 VU94
+(90568) 2004 GV9
+(91133) 1998 HK151
+(91205) 1998 US43
+(95625) 2002 GX32
+(9928) 1981 WE9
+(9942) 1989 TM1
+(9948) 1990 QB2
+(99907) 1989 VA
+(9992) 1997 TG19
+100000 Astronautica
+10001 Palermo
+1000 Piazzia
+1001 Gaussia
+100268 Rosenthal
+1002 Olbersia
+1003 Lilofee
+10046 Creighton
+1004 Belopolskya
+1005 Arago
+1006 Lagrangea
+1007 Pawlowia
+1008 La Paz
+1009 Sirene
+100 Aquarii
+100 Hekate
+1010 Marlene
+1011 Laodamia
+10121 Arzamas
+1012 Sarema
+1013 Tombecka
+10140 Villon
+1014 Semphyra
+1015 Christa
+1016 Anitra
+1017 Jacqueline
+1018 Arnolda
+101955 Bennu
+10199 Chariklo
+1019 Strackea
+101 Aquarii
+101 Piscium
+101 Virginis
+10208 Germanicus
+1020 Arcadia
+1021 Flammario
+1022 Olympiada
+1023 Thomana
+10241 Miličević
+10244 Thüringer Wald
+10245 Inselsberg
+10247 Amphiaraos
+10249 Harz
+1024 Hale
+10251 Mulisch
+10252 Heidigraf
+10258 Sárneczky
+1025 Riema
+1026 Ingrid
+1027 Aesculapia
+1028 Lydina
+1029 La Plata
+102 Herculis
+102 Miriam
+1030 Vitja
+1031 Arctica
+1032 Pafuri
+1033 Simona
+1034 Mozartia
+1035 Amata
+1036 Ganymed
+10370 Hylonome
+1037 Davidweilla
+1038 Tuckia
+1039 Sonneberga
+103 Aquarii
+103 Hera
+1040 Klumpkea
+10415 Mali Lošinj
+1041 Asta
+1042 Amazone
+1043 Beate
+1044 Teutonia
+1045 Michela
+1046 Edwin
+10476 Los Molinos
+1047 Geisha
+1048 Feodosia
+1049 Gotho
+104 Aquarii
+104 Herculis
+104 Klymene
+104 Tauri
+10502 Armaghobs
+1050 Meta
+1051 Merope
+1052 Belgica
+1053 Vigdis
+1054 Forsytia
+10551 Göteborg
+1055 Tynka
+1056 Azalea
+1057 Wanda
+1058 Grubba
+1059 Mussorgskia
+105 Artemis
+1060 Magnolia
+1061 Paeonia
+1062 Ljuba
+1063 Aquilegia
+10645 Brač
+1064 Aethusa
+10656 Albrecht
+1065 Amundsenia
+10660 Felixhormuth
+1066 Lobelia
+1067 Lunaria
+1069 Planckia
+106 Aquarii
+106 Herculis
+1070 Tunica
+10711 Pskov
+1071 Brita
+1072 Malva
+1073 Gellivara
+1074 Beljawskya
+1075 Helina
+1076 Viola
+1078 Mentha
+1079 Mimosa
+107 Aquarii
+107 Camilla
+107 Piscium
+1080 Orchis
+1081 Reseda
+1082 Pirola
+10830 Desforges
+1083 Salvia
+1084 Tamariwa
+1085 Amaryllis
+1086 Nata
+1087 Arabis
+1088 Mitaka
+1089 Tama
+108 Aquarii
+108 Hecuba
+1091 Spiraea
+1092 Lilium
+1093 Freda
+1094 Siberia
+1095 Tulipa
+1096 Reunerta
+10979 Fristephenson
+1097 Vicia
+10988 Feinstein
+1098 Hakone
+1099 Figneria
+109 Felicitas
+109 Herculis
+109 Piscium
+109 Piscium b
+109 Tauri
+109 Virginis
+10 Andromedae
+10 Aquilae
+10 Arietis
+10 Boötis
+10 Canis Majoris
+10 Canum Venaticorum
+10 Delphini
+10 Draconis
+10 Hygiea
+10 Lacertae
+10 Leonis Minoris
+10 Persei
+10 Serpentis
+10 Tauri
+10 Trianguli
+10 Ursae Majoris
+10 Vulpeculae
+1100 Arnica
+1101 Clematis
+11020 Orwell
+1102 Pepita
+110393 Rammstein
+1103 Sequoia
+1104 Syringa
+1105 Fragaria
+11066 Sigurd
+1106 Cydonia
+1107 Lictoria
+1108 Demeter
+1109 Tata
+110 Herculis
+110 Lydia
+110 Virginis
+1110 Jaroslawa
+11118 Modra
+1111 Reinmuthia
+11132 Horne
+11133 Kumotori
+1113 Katja
+1114 Lorraine
+1115 Sabauda
+1116 Catriona
+1117 Reginita
+1118 Hanskya
+1119 Euboea
+111 Ate
+111 Herculis
+111 Tauri
+1120 Cannonia
+1121 Natascha
+1122 Neith
+1123 Shapleya
+1124 Stroobantia
+11252 Laërtes
+1125 China
+11264 Claudiomaccone
+1126 Otero
+11277 Ballard
+1127 Mimi
+1128 Astrid
+1129 Neujmina
+112 Iphigenia
+1130 Skuld
+1131 Porzia
+1132 Hollandia
+113390 Helvetia
+1133 Lugduna
+1134 Kepler
+11351 Leucus
+1135 Colchis
+1136 Mercedes
+1137 Raïssa
+1138 Attica
+11395 Iphinous
+1139 Atami
+11409 Horkheimer
+1140 Crimea
+1141 Bohmia
+11429 Demodokus
+1142 Aetolia
+1143 Odysseus
+11441 Anadiego
+1144 Oda
+1145 Robelmonte
+1146 Biarmia
+1147 Stavropolis
+1148 Rarahu
+1149 Volga
+114 Kassandra
+114 Tauri
+11509 Thersilochos
+1150 Achaia
+1151 Ithaka
+1152 Pawona
+1153 Wallenbergia
+1154 Astronomia
+11552 Boucolion
+1155 Aënna
+1156 Kira
+11573 Helmholtz
+1157 Arabia
+1158 Luda
+1159 Granada
+115 Thyra
+1160 Illyria
+1161 Thessalia
+1162 Larissa
+1163 Saga
+1164 Kobolda
+1165 Imprinetta
+11665 Dirichlet
+1166 Sakuntala
+1167 Dubiago
+1168 Brandia
+116903 Jeromeapt
+1169 Alwine
+116 Sirona
+1170 Siva
+11714 Mikebrown
+1171 Rusthawelia
+1172 Äneas
+1173 Anchises
+1174 Marmara
+1175 Margo
+1176 Lucidor
+1177 Gonnessia
+1178 Irmela
+1179 Mally
+117 Lomia
+1180 Rita
+1181 Lilith
+11824 Alpaidze
+1182 Ilona
+1183 Jutta
+118401 LINEAR
+1184 Gaea
+1185 Nikko
+1186 Turnera
+1187 Afra
+11885 Summanus
+11887 Echemmon
+1188 Gothlandia
+1189 Terentia
+118 Peitho
+1190 Pelagia
+1191 Alfaterna
+1192 Prisma
+1193 Africa
+11948 Justinehénin
+11949 Kagayayutaka
+1194 Aletta
+1195 Orangia
+1196 Sheba
+1197 Rhodesia
+1198 Atlantis
+1199 Geldonia
+119 Althaea
+119 Tauri
+11 Andromedae
+11 Aquarii
+11 Aquilae
+11 Arietis
+11 Boötis
+11 Camelopardalis
+11 Canis Majoris
+11 Canis Minoris
+11 Cephei
+11 Comae Berenices
+11 Lacertae
+11 Leonis Minoris
+11 Librae
+11 Orionis
+11 Parthenope
+11 Persei
+11 Puppis
+11 Sagittae
+11 Serpentis
+11 Trianguli
+11 Ursae Minoris
+11 Ursae Minoris b
+12002 Suess
+1200 Imperatrix
+1202 Marina
+120347 Salacia
+120375 Kugel
+1203 Nanna
+1204 Renzia
+12052 Aretaon
+1205 Ebella
+1206 Numerowia
+1207 Ostenia
+1208 Troilus
+1209 Pumma
+120 Lachesis
+1212 Francette
+1213 Algeria
+1214 Richilde
+1215 Boyer
+1216 Askania
+1217 Maximiliana
+1218 Aster
+1219 Britta
+121 Hermione
+1220 Crocus
+1221 Amor
+1222 Tina
+12238 Actor
+1223 Neckar
+1225 Ariane
+1226 Golia
+1227 Geranium
+1229 Tilia
+122 Gerda
+1230 Riceia
+1231 Auricula
+1232 Cortusa
+1233 Kobresia
+1234 Elyna
+12359 Cajigal
+1236 Thaïs
+12373 Lancearmstrong
+12374 Rakhat
+1237 Geneviève
+1238 Predappia
+1239 Queteleta
+123 Brunhild
+1240 Centenaria
+1241 Dysona
+1242 Zambesia
+1243 Pamela
+12444 Prothoon
+1244 Deira
+1245 Calvinia
+1246 Chaka
+1247 Memoria
+12482 Pajka
+1248 Jugurtha
+1249 Rutherfordia
+124 Alkeste
+1250 Galanthus
+1251 Hedera
+1252 Celestia
+1253 Frisia
+1255 Schilowa
+12564 Ikeller
+1256 Normannia
+1257 Móra
+1258 Sicilia
+1259 Ógyalla
+125 Liberatrix
+1261 Legia
+12621 Alsufi
+1262 Sniadeckia
+1263 Varsavia
+1264 Letaba
+1266 Tone
+1267 Geertruida
+1268 Libya
+12696 Camus
+1269 Rollandia
+126 Tauri
+126 Velleda
+1270 Datura
+12714 Alkimos
+1271 Isergina
+1272 Gefion
+1274 Delportia
+1275 Cimbria
+1276 Ucclia
+1277 Dolores
+127 Johanna
+1280 Baillauda
+1281 Jeanne
+1282 Utopia
+12838 Adamsmith
+1283 Komsomolia
+12848 Agostino
+1284 Latvia
+1286 Banachiewicza
+1287 Lorcia
+128 Nemesis
+1291 Phryne
+12923 Zephyr
+12929 Periboea
+1293 Sonja
+1294 Antwerpia
+1295 Deflotte
+1296 Andrée
+1297 Quadea
+1298 Nocturna
+12999 Toruń
+1299 Mertona
+129 Antigone
+12 Andromedae
+12 Aquarii
+12 Aquilae
+12 Aurigae
+12 Boötis
+12 Camelopardalis
+12 Cancri
+12 Canis Majoris
+12 Comae Berenices
+12 Hydrae
+12 Lacertae
+12 Lyncis
+12 Ophiuchi
+12 Pegasi
+12 Persei
+12 Scorpii
+12 Trianguli
+12 Victoria
+12 Vulpeculae
+13003 Dickbeasley
+13006 Schwaar
+1300 Marcelle
+1301 Yvonne
+13025 Zürich
+1302 Werra
+1303 Luthera
+1304 Arosa
+13058 Alfredstevens
+1305 Pongola
+13062 Podarkes
+1306 Scythia
+13070 Seanconnery
+1307 Cimmeria
+1308 Halleria
+1309 Hyperborea
+130 Elektra
+1310 Villigera
+13123 Tyson
+1312 Vassar
+1313 Berna
+13154 Petermrva
+1316 Kasan
+13184 Augeias
+1318 Nerina
+1319 Disa
+131 Vala
+1322 Coppernicus
+1323 Tugela
+13241 Biyo
+132524 APL
+1325 Inanda
+13260 Sabadell
+1328 Devota
+1329 Eliane
+132 Aethra
+132 Tauri
+1330 Spiridonia
+1332 Marconia
+1333 Cevenola
+1334 Lundmarka
+133528 Ceragioli
+1335 Demoulina
+1336 Zeelandia
+1337 Gerarda
+1338 Duponta
+13390 Bouška
+1339 Désagneauxa
+133 Cyrene
+1340 Yvette
+1341 Edmée
+1345 Potomac
+1346 Gotha
+13474 V'yus
+1347 Patria
+1349 Bechuana
+134 Sophrosyne
+134 Tauri
+1350 Rosselia
+1353 Maartje
+1354 Botha
+1355 Magoeba
+1356 Nyanza
+1359 Prieska
+135 Hertha
+1361 Leuschneria
+1362 Griqua
+1364 Safara
+1365 Henyey
+1366 Piccolo
+1368 Numidia
+1369 Ostanina
+136 Austria
+136 Tauri
+1370 Hella
+1372 Haremari
+13732 Woodall
+1373 Cincinnati
+1374 Isora
+1376 Michelle
+1378 Leonce
+1379 Lomonosowa
+137 Meliboea
+1380 Volodia
+1382 Gerti
+1383 Limburgia
+1384 Kniertje
+1388 Aphrodite
+1389 Onnie
+138 Tolosa
+1390 Abastumani
+1391 Carelia
+1392 Pierre
+1393 Sofala
+1394 Algoa
+13963 Euphrates
+1397 Umtata
+139 Juewa
+139 Tauri
+13 Andromedae
+13 Boötis
+13 Cancri
+13 Ceti
+13 Comae Berenices
+13 Delphini
+13 Egeria
+13 Monocerotis
+13 Sagittae
+13 Scorpii
+13 Trianguli
+13 Vulpeculae
+1400 Tirela
+1404 Ajax
+1405 Sibelius
+1407 Lindelöf
+1409 Isko
+140 Siwa
+1410 Margret
+1411 Brauna
+1412 Lagrula
+1414 Jérôme
+1416 Renauxa
+1419 Danzig
+141 Lumen
+1421 Esperanto
+1422 Strömgrenia
+1423 Jose
+1424 Sundmania
+1425 Tuorla
+1426 Riviera
+1428 Mombasa
+1429 Pemba
+142 Polana
+1430 Somalia
+1431 Luanda
+14335 Alexosipov
+1433 Geramtina
+1434 Margot
+1436 Salonta
+1437 Diomedes
+1439 Vogtia
+143 Adria
+1441 Bolyai
+14436 Morishita
+1443 Ruppina
+1444 Pannonia
+1446 Sillanpää
+1447 Utra
+1449 Virtanen
+144 Vibilia
+1450 Raimonda
+1451 Granö
+1452 Hunnia
+1453 Fennia
+145534 Jhongda
+1455 Mitchella
+1457 Ankara
+1459 Magnya
+145 Adeona
+1460 Haltia
+1461 Jean-Jacques
+14627 Emilkowalski
+1462 Zamenhof
+1466 Mündleria
+1467 Mashona
+1468 Zomba
+1469 Linzia
+146 Lucina
+1470 Carla
+1473 Ounas
+1474 Beira
+1477 Bonsdorffia
+14789 GAISH
+1478 Vihuri
+1479 Inkeri
+147 Protogeneia
+1481 Tübingia
+14827 Hypnos
+14832 Alechinsky
+1484 Postrema
+1486 Marilyn
+14871 Pyramus
+148780 Altjira
+148 Gallia
+1490 Limpopo
+1493 Sigrid
+1494 Savo
+14968 Kubáček
+1496 Turku
+14974 Počátky
+1499 Pori
+149 Medusa
+14 Andromedae
+14 Andromedae b
+14 Aquarii
+14 Aquilae
+14 Arietis
+14 Aurigae
+14 Boötis
+14 Camelopardalis
+14 Cancri
+14 Canis Minoris
+14 Ceti
+14 Comae Berenices
+14 Eridani
+14 Herculis
+14 Herculis b
+14 Herculis c
+14 Irene
+14 Lacertae
+14 Persei
+14 Sagittae
+14 Sagittarii
+14 Trianguli
+14 Vulpeculae
+1500 Jyväskylä
+15017 Cuppy
+1503 Kuopio
+1504 Lappeenranta
+1505 Koranna
+1508 Kemi
+15092 Beegees
+15094 Polymele
+1509 Esclangona
+150 Nuwa
+1510 Charlois
+1511 Daléra
+1512 Oulu
+1513 Mátra
+1514 Ricouxa
+1516 Henry
+1517 Beograd
+1518 Rovaniemi
+151997 Bauhinia
+151 Abundantia
+1520 Imatra
+152188 Morricone
+1521 Seinäjoki
+15224 Penttilä
+1522 Kokkola
+1523 Pieksämäki
+1524 Joensuu
+15258 Alfilipenko
+1525 Savonlinna
+15262 Abderhalden
+15268 Wendelinefroger
+1527 Malmquista
+1529 Oterma
+152 Atala
+1530 Rantaseppä
+1532 Inari
+1533 Saimaa
+1534 Näsi
+15350 Naganuma
+1535 Päijänne
+1536 Pielinen
+15374 Teta
+1537 Transylvania
+153 Hilda
+1540 Kevola
+15415 Rika
+1541 Estonia
+1542 Schalén
+15436 Dexius
+1543 Bourgeois
+15440 Eioneus
+1544 Vinterhansenia
+1545 Thernöe
+15460 Manca
+1546 Izsák
+154 Bertha
+1550 Tito
+1551 Argelander
+1552 Bessel
+1553 Bauersfelda
+1554 Yugoslavia
+1555 Dejan
+1556 Wingolfia
+1558 Järnefelt
+1559 Kustaanheimo
+155 Scylla
+1563 Noël
+1564 Srbija
+1565 Lemaître
+1566 Icarus
+1567 Alikoski
+1568 Aisleen
+1569 Evita
+156 Xanthippe
+1570 Brunonia
+1573 Väisälä
+1574 Meyer
+1575 Winifred
+15760 Albion
+1576 Fabiola
+1578 Kirkwood
+157 Dejanira
+1580 Betulia
+15810 Arawn
+15811 Nüsslein-Volhard
+15817 Lucianotesi
+1581 Abanderada
+1582 Martir
+1583 Antilochus
+1585 Union
+1588 Descamisada
+1589 Fanatica
+158 Koronis
+1590 Tsiolkovskaja
+1597 Laugier
+159 Aemilia
+15 Andromedae
+15 Aquarii
+15 Aquilae
+15 Arietis
+15 Boötis
+15 Camelopardalis
+15 Cancri
+15 Canis Majoris
+15 Cygni
+15 Delphini
+15 Draconis
+15 Eridani
+15 Eunomia
+15 Lacertae
+15 Leonis Minoris
+15 Lyncis
+15 Orionis
+15 Sagittae
+15 Sagittarii
+15 Trianguli
+15 Ursae Majoris
+15 Vulpeculae
+1600 Vyssotsky
+1602 Indiana
+1604 Tombaugh
+1605 Milankovitch
+16070 Charops
+1607 Mavis
+1608 Muñoz
+1609 Brenda
+160 Una
+1611 Beyer
+1615 Bardwell
+1617 Alschmitt
+161989 Cacus
+1619 Ueta
+161 Athor
+1620 Geographos
+162173 Ryugu
+1621 Druzhba
+1622 Chacornac
+1623 Vivian
+1625 The NORC
+1626 Sadeya
+1627 Ivar
+1628 Strobel
+162 Laurentia
+1631 Kopff
+1632 Sieböhme
+1633 Chimay
+1635 Bohrmann
+163693 Atira
+1637 Swings
+163 Erigone
+1644 Rafita
+164589 La Sagra
+1646 Rosseland
+1647 Menelaus
+1648 Shajna
+164 Eva
+1650 Heckmann
+1651 Behrens
+16525 Shumarinaiko
+1652 Hergé
+1655 Comas Solà
+16560 Daitor
+1656 Suomi
+1657 Roemera
+1658 Innes
+1659 Punkaharju
+165 Loreley
+1660 Wood
+1661 Granule
+1663 van den Bos
+1665 Gaby
+1669 Dagmar
+166 Rhodope
+1671 Chaika
+1672 Gezelle
+1675 Simonida
+16765 Agnesi
+1677 Tycho Brahe
+167 Urda
+1680 Per Brahe
+1681 Steinmetz
+1682 Karel
+1683 Castafiore
+1684 Iguassú
+1685 Toro
+16879 Campai
+1687 Glarona
+1688 Wilkens
+1689 Floris-Jan
+168 Sibylla
+1690 Mayrhofer
+1691 Oort
+1692 Subbotina
+1693 Hertzsprung
+1694 Kaiser
+1695 Walbeck
+1696 Nurmela
+16974 Iphthime
+169 Zelia
+16 Aquarii
+16 Arietis
+16 Aurigae
+16 Camelopardalis
+16 Cephei
+16 Comae Berenices
+16 Cygni
+16 Cygni Bb
+16 Delphini
+16 Lacertae
+16 Librae
+16 Lyncis
+16 Lyrae
+16 Persei
+16 Psyche
+16 Puppis
+16 Sagittarii
+16 Serpentis
+16 Virginis
+16 Vulpeculae
+1700 Zvezdara
+17035 Velichko
+1703 Barry
+1704 Wachmann
+1707 Chantal
+1708 Pólit
+1709 Ukraina
+170 Maria
+17102 Begzhigitova
+1710 Gothard
+17119 Alexisrodrz
+1711 Sandrine
+1712 Angola
+1713 Bancilhon
+1714 Sy
+17163 Vasifedoseev
+1717 Arlon
+17198 Gorjup
+1719 Jens
+171 G. Puppis
+171 Ophelia
+1720 Niels
+1721 Wells
+1722 Goffin
+17246 Christophedumas
+1724 Vladimir
+1726 Hoffmeister
+1727 Mette
+1728 Goethe Link
+1729 Beryl
+172 Baucis
+17314 Aisakos
+1731 Smuts
+1732 Heike
+1734 Zhongolovich
+1735 ITA
+1736 Floirac
+1737 Severny
+1739 Meyermann
+173 Ino
+1740 Paavo Nurmi
+1741 Giclas
+1743 Schmidt
+174567 Varda
+1746 Brouwer
+17473 Freddiemercury
+1747 Wright
+1748 Mauderli
+17492 Hippasos
+1749 Telamon
+174 Phaedra
+1750 Eckert
+1751 Herget
+1753 Mieke
+1754 Cunningham
+1755 Lorbach
+1757 Porvoo
+1759 Kienle
+175 Andromache
+1760 Sandra
+1761 Edmondson
+1762 Russell
+1763 Williams
+1764 Cogshall
+1765 Wrubel
+1766 Slipher
+1767 Lampland
+17683 Kanagawa
+1768 Appenzella
+176 Iduna
+1771 Makover
+1772 Gagarin
+1775 Zimmerwald
+1776 Kuiper
+1777 Gehrels
+1778 Alfvén
+17795 Elysiasegal
+1779 Paraná
+177 Irma
+1780 Kippes
+1781 Van Biesbroeck
+1783 Albitskij
+1784 Benguella
+1788 Kiess
+1789 Dobrovolsky
+178 Belisana
+1790 Volkov
+1791 Patsayev
+1793 Zoya
+1796 Riga
+1798 Watts
+1799 Koussevitzky
+179 Klytaemnestra
+17 Aquarii
+17 Camelopardalis
+17 Canis Majoris
+17 Comae Berenices
+17 Crateris
+17 Cygni
+17 Delphini
+17 Eridani
+17 Leporis
+17 Lyrae
+17 Monocerotis
+17 Persei
+17 Sagittarii
+17 Thetis
+17 Vulpeculae
+1800 Aguilar
+1801 Titicaca
+1803 Zwicky
+1804 Chebotarev
+1805 Dirikis
+1806 Derice
+1807 Slovakia
+1809 Prometheus
+180 Garumna
+1810 Epimetheus
+18117 Jonhodge
+1815 Beethoven
+1817 Katanga
+1818 Brahms
+181 Eucharis
+1822 Waterman
+1823 Gliese
+1824 Haworth
+1825 Klare
+1826 Miller
+1827 Atkinson
+182 Elsa
+1830 Pogson
+1831 Nicholson
+1832 Mrkos
+1834 Palach
+1835 Gajdariya
+1836 Komarov
+1837 Osita
+183 Istria
+1840 Hus
+1841 Masaryk
+1842 Hynek
+184314 Mbabamwanawaresa
+1844 Susilva
+1845 Helewalda
+1846 Bengt
+1847 Stobbe
+1848 Delvaux
+18493 Demoleon
+1849 Kresák
+184 Dejopeja
+1850 Kohoutek
+1851 Lacroute
+1852 Carpenter
+1853 McElroy
+1854 Skvortsov
+1855 Korolev
+185638 Erwinschwab
+1856 Růžena
+1857 Parchomenko
+1858 Lobachevskij
+1859 Kovalevskaya
+185 Eunike
+18610 Arthurdent
+1861 Komenský
+1862 Apollo
+1864 Daedalus
+1865 Cerberus
+1866 Sisyphus
+1867 Deiphobus
+1868 Thersites
+1869 Philoctetes
+186 Celuta
+1870 Glaukos
+1873 Agenor
+1877 Marsden
+1879 Broederstroom
+187 Lamberta
+1881 Shao
+1887 Virton
+18880 Toddblumberg
+1889 Pakhmutova
+188 Menippe
+1897 Hind
+189 Phthia
+18 Andromedae
+18 Aquarii
+18 Aquilae
+18 Aurigae
+18 Boötis
+18 Camelopardalis
+18 Delphini
+18 Delphini b
+18 Draconis
+18 Melpomene
+18 Monocerotis
+18 Sagittarii
+18 Scorpii
+18 Tauri
+18 Ursae Majoris
+18 Vulpeculae
+1900 Katyusha
+1902 Shaposhnikov
+1904 Massevitch
+1905 Ambartsumian
+1906 Naef
+1907 Rudneva
+1909 Alekhin
+190 Ismene
+1910 Mikhailov
+1911 Schubart
+1912 Anubis
+19139 Apian
+1915 Quetzálcoatl
+1916 Boreas
+1917 Cuyo
+1918 Aiguillon
+1919 Clemence
+191 Kolga
+1921 Pala
+1922 Zulu
+1923 Osiris
+1924 Horus
+1925 Franklin-Adams
+1927 Suvanto
+1928 Summa
+1929 Kollaa
+192 Nausikaa
+1930 Lucifer
+1931 Čapek
+1933 Tinchen
+19367 Pink Floyd
+1936 Lugano
+19383 Rolling Stones
+1938 Lausanna
+1939 Loretta
+193 Ambrosia
+1940 Whipple
+1941 Wild
+1943 Anteros
+1944 Günter
+1946 Walraven
+1947 Iso-Heikkilä
+194 Prokne
+1951 Lick
+19521 Chaos
+1952 Hesburgh
+1953 Rupertwildt
+1954 Kukarkin
+1955 McMath
+1956 Artek
+1957 Angara
+1958 Chandra
+195 Eurykleia
+1960 Guisan
+1961 Dufour
+1965 van de Kamp
+1967 Menzel
+196 Philomela
+1971 Hagihara
+19738 Calinger
+19741 Callahan
+19763 Klimesh
+1977 Shura
+1979 Sakharov
+1979 XB
+197 Arete
+1980 Tezcatlipoca
+1981 Midas
+1982 Cline
+1983 Bok
+19848 Yeungchuchiu
+1985 Hopmann
+1987 Kaplan
+1988 Delores
+1989 Tatry
+198 Ampella
+1990 Pilcher
+1991 BA
+1991 Darwin
+1991 VG
+1992 Galvarino
+1993 DA
+1993 RP
+1994 Shane
+1994 WR12
+1995 GJ
+1995 Hajek
+1996 Adams
+1996 PW
+1997 Leverrier
+19982 Barbaradoore
+1998 DK36
+1998 KY26
+1998 Titius
+1998 WW31
+1999 AO10
+1999 Hirayama
+1999 TR11
+1999 XS35
+199 Byblis
+19P/Borrelly
+19 Aquarii
+19 Aquilae
+19 Arietis
+19 Aurigae
+19 Canum Venaticorum
+19 Cephei
+19 Draconis
+19 Fortuna
+19 Leonis Minoris
+19 Lyncis
+19 Lyrae
+19 Monocerotis
+19 Puppis
+19 Tauri
+19 Vulpeculae
+1E 161348-5055
+1RXS J160929.1−210524
+1 Aquarii
+1 Arietis
+1 Aurigae
+1 Boötis
+1 Camelopardalis
+1 Cancri
+1 Canis Minoris
+1 Cassiopeiae
+1 Centauri
+1 Ceti
+1 Delphini
+1 Geminorum
+1 Lacertae
+1 Lupi
+1 Lyncis
+1 Pegasi
+1 Persei
+1 Puppis
+1 Scorpii
+1 Serpentis
+1 Trianguli
+1 Vulpeculae
+20000 Varuna
+2000 DG8
+2000 EM26
+2000 Herschel
+2000 SG344
+2001 AV43
+2001 Einstein
+2001 GO2
+2001 QW322
+2001 YB5
+2002 AA29
+2002 AT4
+2002 Euler
+2002 GB32
+2002 MN
+2002 NY40
+2002 RN109
+2003 BR47
+2003 Harding
+2003 LA7
+2003 SS422
+2003 YN107
+2004 BX159
+2004 FH
+2004 FU162
+2004 HR56
+2004 KV18
+2004 Lexell
+2004 TG10
+2004 TN1
+2005 ED224
+2005 HC4
+2005 Hencke
+2005 NB56
+2005 RH52
+2005 TN53
+2005 VX3
+2005 WY55
+2006 BL8
+2006 BZ8
+2006 HH123
+2006 JY26
+2006 LM1
+2006 Polonskaya
+2006 QH181
+2006 QQ23
+2006 QV89
+2006 RH120
+2006 RJ2
+2007 BP102
+2007 FT3
+2007 McCuskey
+2007 TU24
+2007 UW1
+2007 VE191
+2007 VK184
+2007 WD5
+2008 AO112
+2008 CK70
+2008 FF5
+2008 HJ
+2008 Konstitutsiya
+2008 LC18
+2008 TC3
+2008 VL14
+2009 BD
+2009 DD45
+2009 JF1
+2009 RR
+2009 SE
+2009 SH2
+2009 VA
+2009 Voloshina
+200 Dynamene
+2010 AA15
+2010 AL30
+2010 AU118
+2010 BK118
+2010 Chebyshev
+2010 EU65
+2010 FX86
+2010 GA6
+2010 GB174
+2010 GZ60
+2010 JL88
+2010 RF12
+2010 RX30
+2010 TD54
+2010 TJ
+2010 TK7
+2010 VR11
+2010 WC9
+2010 WG9
+2010 XC15
+2010 XG11
+2011 CQ1
+2011 EO40
+2011 ES4
+2011 FW62
+2011 GA
+2011 HM102
+2011 JY31
+2011 KW48
+2011 MD
+2011 MM4
+2011 QF99
+2011 SC191
+2011 SL25
+2011 SP189
+2011 UB256
+2011 UN63
+2011 Veteraniya
+2011 XC2
+2012 BX34
+2012 DR30
+2012 EG5
+2012 FC71
+2012 FN
+2012 FP35
+2012 GX17
+2012 Guo Shou-Jing
+2012 HE85
+2012 KP24
+2012 KT42
+2012 LZ1
+2012 TC4
+2012 TV
+2012 UE34
+2012 VP113
+2012 XE133
+2012 YQ1
+2013 AT183
+2013 AZ60
+2013 BL76
+2013 BS45
+2013 EC
+2013 ET
+2013 FQ28
+2013 FS28
+2013 FT28
+2013 FW13
+2013 GM3
+2013 JX28
+2013 LA2
+2013 LX28
+2013 ND15
+2013 PJ10
+2013 RA109
+2013 RF98
+2013 RH74
+2013 SK100
+2013 SL102
+2013 SY99
+2013 TV135
+2013 TX68
+2013 Tucapel
+2013 UH15
+2013 VZ70
+2013 XY8
+2013 YP139
+2014 AA
+2014 AF5
+2014 DX110
+2014 EC
+2014 ES57
+2014 FC69
+2014 FC72
+2014 FE72
+2014 FZ71
+2014 HQ124
+2014 JO25
+2014 LY21
+2014 MT69
+2014 MV67
+2014 OL339
+2014 OO6
+2014 OS393
+2014 PN70
+2014 RC
+2014 SC324
+2014 SR349
+2014 SS349
+2014 ST373
+2014 SV349
+2014 UE228
+2014 UR116
+2014 UZ224
+2014 Vasilevskis
+2014 XL7
+2014 YX49
+2015 AZ43
+2015 BP513
+2015 BP519
+2015 DR215
+2015 FG415
+2015 FJ345
+2015 GT50
+2015 HM10
+2015 KE172
+2015 KG163
+2015 KH162
+2015 KH163
+2015 KQ174
+2015 ME131
+2015 RX245
+2015 RY245
+2015 SO2
+2015 TB145
+2015 TC25
+2015 TH367
+2015 XJ351
+2015 XX169
+2015 XY261
+2015 YA
+2015 YQ1
+2015 YU9
+2016 AJ193
+2016 AZ8
+2016 CP31
+2016 DV1
+2016 EU85
+2016 Heinemann
+2016 NL56
+2016 PQ
+2016 WF9
+2017 AG13
+2017 BQ6
+2017 BS5
+2017 DB120
+2017 DR109
+2017 FO161
+2017 FZ2
+2017 MB7
+2017 MZ8
+2017 OF69
+2017 OO1
+2017 QC36
+2017 QP1
+2017 SG33
+2017 SN16
+2017 SV13
+2017 SX17
+2017 TD6
+2017 VL2
+2017 VR12
+2017 VW13
+2017 Wesson
+2017 XO2
+2017 XX61
+2017 YE5
+2018 AG37
+2018 AH
+2018 BD
+2018 BF3
+2018 CB
+2018 CC
+2018 CF2
+2018 CL
+2018 CN2
+2018 CY2
+2018 DV1
+2018 EC4
+2018 FC4
+2018 GE3
+2018 LA
+2018 LF16
+2018 PD20
+2018 RY7
+2018 UA
+2018 VG18
+2018 VM35
+2018 VP1
+2018 WV1
+2018 XB4
+2019 AQ3
+2019 AS5
+2019 BE5
+2019 BO
+2019 BZ3
+2019 EU5
+2019 GC6
+2019 LF6
+2019 MO
+2019 OK
+2019 OU1
+2019 PG1
+2019 SU3
+2019 TA7
+2019 TF7
+2019 UN13
+2019 XS
+2019 van Albada
+201 Penelope
+2020 AP1
+2020 BE102
+2020 BX12
+2020 CD3
+2020 CW
+2020 FA31
+2020 FY30
+2020 HA10
+2020 HS7
+2020 JJ
+2020 LD
+2020 MK4
+2020 OV1
+2020 OY4
+2020 PN1
+2020 PP1
+2020 QG
+2020 SL1
+2020 SO
+2020 SW
+2020 UA
+2020 VT1
+2020 VT4
+2020 VV
+2020 XR
+2021 AV7
+2021 DR15
+2021 DW1
+2021 EU
+2021 GW4
+2021 LL37
+2021 PH27
+2021 SG
+2021 TP21
+2021 UA1
+2022 AE1
+2022 BX1
+2022 EB5
+2022 FD1
+2022 NX1
+2022 West
+2023 Asaph
+2024 McLaughlin
+2026 Cottrell
+2028 Janequeo
+2029 Binomi
+202 Chryseïs
+2031 BAM
+20325 Julianoey
+2032 Ethel
+2033 Basilea
+2034 Bernoulli
+2035 Stearns
+2036 Sheragul
+2037 Tripaxeptalis
+2038 Bistro
+2039 Payne-Gaposchkin
+203 Pompeja
+2043 Ortutay
+2044 Wirt
+20461 Dioretsa
+2046 Leningrad
+2047 Smetana
+20488 Pic-du-Midi
+204 Kallisto
+2052 Tamriko
+2054 Gawain
+2055 Dvořák
+2056 Nancy
+2058 Róka
+2059 Baboquivari
+205 Martha
+2061 Anza
+2062 Aten
+2063 Bacchus
+2064 Thomsen
+2065 Spicer
+2067 Aksnes
+2069 Hubble
+206 Hersilia
+2072 Kosmodemyanskaya
+2074 Shoemaker
+207 Hedda
+2080 Jihlava
+2085 Henan
+20898 Fountainhills
+208 Lacrimosa
+2090 Mizuho
+2091 Sampo
+20936 Nemrut Dagi
+2093 Genichesk
+2094 Magnitka
+2098 Zyskin
+2099 Öpik
+209 Dido
+20 Aquarii
+20 Aquilae
+20 Arietis
+20 Boötis
+20 Camelopardalis
+20 Cancri
+20 Canum Venaticorum
+20 Ceti
+20 Cygni
+20 Leonis Minoris
+20 Massalia
+20 Monocerotis
+20 Ophiuchi
+20 Persei
+20 Puppis
+20 Vulpeculae
+2100 Ra-Shalom
+2101 Adonis
+2102 Tantalus
+2104 Toronto
+21062 Iasky
+21088 Chelyabinsk
+210 Isabella
+2111 Tselina
+2114 Wallenquist
+211 Isolda
+2120 Tyumenia
+2121 Sevastopol
+2122 Pyatiletka
+2123 Vltava
+2126 Gerasimovich
+2127 Tanya
+212 Medea
+2131 Mayall
+2134 Dennispalm
+2135 Aristaeus
+2139 Makharadze
+213 Lilaea
+2140 Kemerovo
+21436 Chaoyichi
+2143 Jimarnold
+2145 Blaauw
+2146 Stentor
+2148 Epeios
+214 Aschera
+21501 Acevedo
+21509 Lucascavin
+2151 Hadwiger
+2153 Akiyama
+21558 Alisonliu
+2156 Kate
+2159 Kukkamäki
+215 Oenone
+216433 Milianleo
+2169 Taiwan
+216 Kleopatra
+2173 Maresjev
+2175 Andrea Doria
+21795 Masi
+217 Eudora
+2181 Fogelin
+21873 Jindřichůvhradec
+2187 La Silla
+218 Bianca
+21900 Orus
+2195 Tengström
+2197 Shanghai
+219 Thusnelda
+21 Aquarii
+21 Aquilae
+21 Arietis
+21 Camelopardalis
+21 Cancri
+21 Canum Venaticorum
+21 Comae Berenices
+21 Leonis Minoris
+21 Lutetia
+21 Lyncis
+21 Persei
+21 Sagittarii
+21 Tauri
+21 Vulpeculae
+2201 Oljato
+2202 Pele
+2204 Lyyli
+2207 Antenor
+220 Stephania
+2212 Hephaistos
+2213 Meeus
+221628 Hyatt
+221 Eos
+2223 Sarpedon
+2227 Otto Struve
+2228 Soyuz-Apollo
+222 Lucia
+223 Rosa
+2241 Alcathous
+2244 Tesla
+2246 Bowell
+224 Oceana
+225088 Gonggong
+2253 Espinette
+22577 Alfiuccio
+225 Henrietta
+2260 Neoptolemus
+226 Weringia
+22740 Rayleigh
+2278 Götz
+227 Philosophia
+2285 Ron Helin
+22899 Alconrad
+228 Agathe
+2296 Kugultinov
+229762 Gǃkúnǁʼhòmdímà
+229 Adelinda
+22 Andromedae
+22 Aquilae
+22 Aurigae
+22 Boötis
+22 Camelopardalis
+22 Cygni
+22 Kalliope
+22 Orionis
+22 Scorpii
+22 Tauri
+22 Vulpeculae
+2301 Whitford
+2308 Schilt
+230 Athamantis
+2311 El Leoncito
+2312 Duboshin
+23131 Debenedictis
+23135 Pheidas
+231 Vindobona
+2324 Janice
+2325 Chernykh
+2328 Robeson
+232 Russia
+23327 Luchernandez
+233 Asterope
+2340 Hathor
+23436 Alekfursenko
+2348 Michkovitch
+2349 Kurchenko
+234 Barbara
+2357 Phereclos
+235 Carolina
+2363 Cebriones
+2368 Beltrovata
+236 Honoria
+23712 Willpatrick
+23718 Horgos
+237 Coelestina
+2384 Schulhof
+238P/Read
+238 Hypatia
+2391 Tomita
+239 Adrastea
+23 Andromedae
+23 Aquilae
+23 Camelopardalis
+23 Comae Berenices
+23 Cygni
+23 Librae
+23 Librae b
+23 Librae c
+23 Orionis
+23 Thalia
+23 Ursae Majoris
+23 Vulpeculae
+240 Vanadis
+24101 Cassini
+24105 Broughton
+241 Germania
+2420 Čiurlionis
+2423 Ibarruri
+24260 Kriváň
+2429 Schürer
+242 Kriemhild
+2430 Bruce Helin
+2433 Sootiyo
+2436 Hatshepsut
+243 Ida
+2440 Educatio
+2442 Corbett
+2443 Tomeileen
+2449 Kenos
+244 Sita
+2456 Palamedes
+245 Vera
+24626 Astrowizard
+246 Asporina
+2478 Tokai
+247 Eukrate
+24827 Maryphil
+2483 Guinevere
+2486 Metsähovi
+248 Lameia
+2490 Bussolini
+24988 Alainmilsztajn
+249 Ilse
+24 Aquarii
+24 Aquilae
+24 Boötis
+24 Camelopardalis
+24 Cancri
+24 Canum Venaticorum
+24 Capricorni
+24 Cephei
+24 Comae Berenices
+24 Lyncis
+24 Persei
+24 Scorpii
+24 Sextantis
+24 Themis
+24 Ursae Majoris
+24 Vulpeculae
+25000 Astrometria
+2500 Alascattalo
+250 Bettina
+25108 Boström
+2513 Baetslé
+25143 Itokawa
+2518 Rutllant
+251 Sophia
+252 Clementina
+2531 Cambridge
+2537 Gilmore
+253 Mathilde
+2542 Calpurnia
+254 Augusta
+2554 Skiff
+255 Oppavia
+256 Walpurga
+2571 Geisei
+2572 Annschnell
+2575 Bulgaria
+2577 Litva
+2578 Saint-Exupéry
+257 Silesia
+258 Tyche
+2590 Mourão
+2591 Dworetsky
+25924 Douglasadams
+2594 Acamas
+2598 Merlin
+259 Aletheia
+25 Aquarii
+25 Arietis
+25 Cancri
+25 Canum Venaticorum
+25 Orionis
+25 Phocaea
+25 Scorpii
+25 Serpentis
+25 Vulpeculae
+2606 Odessa
+26074 Carlwirtz
+2608 Seneca
+260 Huberta
+2613 Plzeň
+261 Prymno
+2623 Zech
+2629 Rudra
+262 Valda
+2637 Bobrovnikoff
+263 Dresda
+2644 Victor Jara
+2648 Owa
+264 Libussa
+2658 Gingerich
+265 Anna
+2661 Bydžovský
+266 Aline
+2672 Písek
+2674 Pandarus
+2675 Tolkien
+2678 Aavasaksa
+267 Tirza
+26858 Misterrogers
+2685 Masursky
+268 Adorea
+2691 Sersic
+2696 Magion
+2697 Albina
+269 Justitia
+26 Andromedae
+26 Aquarii
+26 Aquilae
+26 Arietis
+26 Aurigae
+26 Boötis
+26 Camelopardalis
+26 Canis Majoris
+26 Cygni
+26 Draconis
+26 Hydrae
+26 Proserpina
+26 Ursae Majoris
+26 Vulpeculae
+2708 Burns
+2709 Sagan
+270 Anahita
+271 Penthesilea
+2726 Kotelnikov
+27270 Guidotti
+272 Antonia
+2730 Barks
+2732 Witt
+273 Atropos
+2741 Valdivia
+274301 Wikipedia
+2744 Birgitta
+2747 Český Krumlov
+274 Philagoria
+2751 Campbell
+2752 Wu Chien-Shiung
+2754 Efimov
+2759 Idomeneus
+275 Sapientia
+276 Adelheid
+277 Elvira
+278 Paulina
+2797 Teucer
+279 Thule
+27 Aquilae
+27 Arietis
+27 Cancri
+27 Canis Majoris
+27 Cygni
+27 Euterpe
+27 Hydrae
+27 Lyncis
+27 Monocerotis
+27 Piscium
+27 Vulpeculae
+2807 Karl Marx
+280 Philia
+2815 Soma
+281 Lucretia
+2826 Ahti
+2829 Bobhope
+282 Clorinde
+2830 Greenwich
+2839 Annette
+283 Emma
+28439 Miguelreyes
+284996 Rosaparks
+284 Amalia
+285 Regina
+2862 Vavilov
+2865 Laurel
+2867 Šteins
+286 Iclea
+2873 Binzel
+2874 Jim Young
+287 Nephthys
+2882 Tedesco
+288 Glauke
+2892 Filipenko
+2893 Peiroos
+2895 Memnon
+28978 Ixion
+289 Nenetta
+28 Andromedae
+28 Aquarii
+28 Aquilae
+28 Aurigae
+28 Bellona
+28 Camelopardalis
+28 Cancri
+28 Cygni
+28 Monocerotis
+28 Vulpeculae
+2903 Zhuhai
+2905 Plaskett
+2906 Caltech
+290 Bruna
+291 Alice
+2920 Automedon
+2927 Alamosa
+29292 Conniewalker
+292 Ludovica
+2934 Aristophanes
+2937 Gibbs
+2939 Coconino
+293 Brasilia
+2940 Bacon
+2942 Cordie
+294 Felicia
+2956 Yeomans
+2959 Scholl
+295 Theresia
+296 Phaëtusa
+2975 Spahr
+297 Caecilia
+2980 Cameron
+2981 Chagall
+2984 Chaucer
+2985 Shakespeare
+298 Baptistina
+2995 Taratuta
+2997 Cabrera
+299 Thora
+29 Amphitrite
+29 Aquarii
+29 Arietis
+29 Camelopardalis
+29 Cancri
+29 Cygni
+29 Herculis
+29 Orionis
+29 Persei
+29 Vulpeculae
+2M1207
+2M1207b
+2M1510
+2MASS 1237+6526
+2MASS 1507−1627
+2MASS J00361617+1821104
+2MASS J01225093−2439505
+2MASS J02431371−2453298
+2MASS J03480772−6022270
+2MASS J03552337+1133437
+2MASS J04070752+1546457
+2MASS J04151954−0935066
+2MASS J04414489+2301513
+2MASS J0523−1403
+2MASS J05325346+8246465
+2MASS J09373487+2931409
+2MASS J09393548−2448279
+2MASS J10475385+2124234
+2MASS J11011926–7732383 AB
+2MASS J11145133−2618235
+2MASS J11193254–1137466 AB
+2MASS J11263991−5003550
+2MASS J1155-7919 b
+2MASS J12195156+3128497
+2MASS J15031961+2525196
+2MASS J15404342−5101357
+2MASS J18082002−5104378
+2MASS J18352154–3123385
+2MASS J18450079–1409036
+2MASS J2126–8140
+2MASS J21392676+0220226
+2MASS J22282889–4310262
+2MASX J00482185−2507365 occulting pair
+2M 1938+4603
+2 Andromedae
+2 Aurigae
+2 Boötis
+2 Camelopardalis
+2 Centauri
+2 Ceti
+2 Cygni
+2 Equulei
+2 Lacertae
+2 Lupi
+2 Lyncis
+2 Pallas
+2 Pegasi
+2 Persei
+2 Piscis Austrini
+2 Scorpii
+2 Sextantis
+2 Ursae Minoris
+2 Vulpeculae
+30000 Camenzind
+3000 Leonardo
+300 Geraldina
+3015 Candy
+301 Bavaria
+302 Clarissa
+3031 Houston
+3034 Climenhaga
+3037 Alku
+303 Josephina
+3040 Kozai
+3043 San Diego
+3045 Alois
+3047 Goethe
+304 Olga
+3054 Strugatskia
+305 Gordonia
+3063 Makhaon
+3066 McFadden
+3067 Akhmatova
+306 Unitas
+30705 Idaios
+3070 Aitken
+30718 Records
+3073 Kursk
+3074 Popov
+307 Nike
+308 Polyxo
+30942 Helicaon
+3099 Hergenrother
+309 Fraternitas
+30 Aquarii
+30 Arietis
+30 Camelopardalis
+30 Cygni
+30 Geminorum
+30 Herculis
+30 Leonis Minoris
+30 Monocerotis
+30 Ophiuchi
+30 Persei
+30 Piscium
+30 Vulpeculae
+3102 Krok
+3103 Eger
+310 Margarita
+31179 Gongju
+31192 Aigoual
+311P/PanSTARRS
+311 Claudia
+3122 Florence
+31249 Renéefleming
+312 Pierretta
+3131 Mason-Dixon
+3133 Sendai
+3137 Horky
+313 Chaldaea
+3141 Buchar
+314 Rosalia
+315 Constantia
+31641 Cevasco
+3169 Ostro
+316 Goberta
+3174 Alcock
+3176 Paolicchi
+317 Roxane
+3181 Ahnert
+31824 Elatus
+3184 Raab
+318 Magdalena
+3192 A'Hearn
+3198 Wallonia
+3199 Nefertiti
+319 Leona
+31 Aquilae
+31 Arietis
+31 Boötis
+31 Camelopardalis
+31 Comae Berenices
+31 Crateris
+31 Cygni
+31 Euphrosyne
+31 Leonis
+31 Lyncis
+31 Orionis
+31 Pegasi
+31 Persei
+31 Vulpeculae
+32008 Adriángalád
+3200 Phaethon
+3201 Sijthoff
+3202 Graff
+3204 Lindgren
+320 Katharina
+3212 Agricola
+32145 Katberman
+321 Florentina
+32226 Vikulgupta
+3225 Hoag
+322 Phaeo
+323 Brucia
+3240 Laocoon
+3247 Di Martino
+324 Bamberga
+32532 Thereus
+3254 Bus
+3255 Tholen
+325 Heidelberga
+3267 Glo
+3268 De Sanctis
+326 Tamara
+3277 Aaronson
+327 Columbia
+3281 Maupertuis
+3288 Seleucus
+328 Gudrun
+3290 Azabu
+329 Svea
+32 Andromedae
+32 Aquarii
+32 Boötis
+32 Cygni
+32 Ophiuchi
+32 Orionis
+32 Pegasi
+32 Persei
+32 Pomona
+32 Tauri
+32 Vulpeculae
+3309 Brorfelde
+330 Adalberta
+3317 Paris
+3318 Blixen
+331 Etheridgea
+3322 Lidiya
+3325 TARDIS
+332 Siri
+3330 Gantrisch
+3333 Schaber
+333 Badenia
+3343 Nedzel
+3345 Tarkovskij
+334 Chicago
+3350 Scobee
+3352 McAuliffe
+3353 Jarvis
+335 Roberta
+3360 Syrinx
+3361 Orpheus
+3362 Khufu
+3367 Alex
+336 Lacadiera
+337 Devosa
+338 Budrosa
+3391 Sinon
+339 Dorothea
+33 Arietis
+33 Boötis
+33 Cygni
+33 Pegasi
+33 Piscium
+33 Polyhymnia
+33 Vulpeculae
+3401 Vanphilos
+3402 Wisdom
+3406 Omsk
+3409 Abramov
+340 Eduarda
+3412 Kafka
+341520 Mors–Somnus
+341 California
+3425 Hurukawa
+342843 Davidbowie
+3428 Roberts
+342 Endymion
+3430 Bradfield
+343158 Marsyas
+34351 Decatur
+343 Ostara
+344 Desiderata
+3451 Mentor
+345 Tercidina
+346 Hermentaria
+34746 Thoon
+347 Pariana
+348 May
+3494 Purple Mountain
+349 Dembowska
+34 Boötis
+34 Cancri
+34 Circe
+34 Pegasi
+34 Persei
+350 Ornamenta
+351 Yrsa
+352 Gisela
+3537 Jürgen
+353 Ruperto-Carola
+3540 Protesilaos
+3544 Borodino
+3548 Eurybates
+354P/LINEAR
+354 Eleonora
+3551 Verenia
+3552 Don Quixote
+3553 Mera
+3554 Amun
+3556 Lixiaohua
+355 Gabriella
+3563 Canterbury
+3564 Talthybius
+3567 Alvema
+3568 ASCII
+356 Liguria
+3578 Carestia
+357 Ninina
+3581 Alvarez
+358 Apollonia
+3596 Meriones
+359 Georgia
+35 Aquarii
+35 Aquilae
+35 Arietis
+35 Cancri
+35 Comae Berenices
+35 Cygni
+35 Leukothea
+35 Pegasi
+35 Piscium
+35 Vulpeculae
+360 Carlova
+361 Bononia
+3628 Božněmcová
+362 Havnia
+3635 Kreutz
+363 Padua
+3640 Gostin
+3642 Frieden
+364 Isara
+365 Corduba
+3669 Vertinskij
+366 Vincentina
+3671 Dionysus
+3673 Levy
+3674 Erbisbühl
+367943 Duende
+367 Amicitia
+3682 Welther
+3687 Dzus
+3688 Navajo
+368 Haidea
+3691 Bede
+369 Aëria
+36 Andromedae
+36 Aquilae
+36 Arietis
+36 Atalante
+36 Aurigae
+36 Camelopardalis
+36 Cancri
+36 Capricorni
+36 Comae Berenices
+36 Draconis
+36 Lyncis
+36 Ophiuchi
+36 Persei
+36 Serpentis
+36 Tauri
+36 Ursae Majoris
+3700 Geowilliams
+3703 Volkonskaya
+3708 Socus
+3709 Polypoites
+370 Modestia
+3710 Bogoslovskij
+3714 Kenrussell
+371 Bohemia
+3724 Annenskij
+3728 IRAS
+372 Palma
+3737 Beckman
+373 Melusina
+37432 Piszkéstető
+37452 Spirit
+3749 Balam
+374 Burgundia
+37519 Amphios
+3752 Camillo
+3753 Cruithne
+3754 Kathleen
+3757 Anagolay
+375 Ursula
+37655 Illapa
+376 Geometria
+3771 Alexejtolstoj
+377 Campania
+3782 Celle
+3785 Kitami
+3787 Aivazovskij
+3789 Zhongguo
+378 Holmia
+3790 Raywilson
+3793 Leonteus
+3794 Sthenelos
+379 Huenna
+37 Aquilae
+37 Camelopardalis
+37 Cancri
+37 Comae Berenices
+37 Fides
+37 Geminorum
+37 Leonis Minoris
+37 Librae
+37 Tauri
+3800 Karayusuf
+3801 Thrasymedes
+38050 Bias
+38083 Rhadamanthus
+380 Fiducia
+381 Myrrha
+3822 Segovia
+3823 Yorii
+382 Dodona
+383 Janina
+3841 Dicicco
+3844 Lujiaxi
+384 Burdigala
+3850 Peltier
+3851 Alhambra
+385446 Manwë
+3854 George
+385571 Otrera
+385695 Clete
+385 Ilmatar
+38628 Huya
+3868 Mendoza
+386 Siegena
+3872 Akirafujii
+3873 Roddy
+387 Aquitania
+388 Charybdis
+3893 DeLaeter
+389 Industria
+38 Aquarii
+38 Arietis
+38 Aurigae
+38 Boötis
+38 Cancri
+38 Geminorum
+38 Leda
+38 Leonis Minoris
+38 Lyncis
+38 Virginis
+38 Virginis b
+3905 Doppler
+3908 Nyx
+390 Alma
+3915 Fukushima
+3917 Franz Schubert
+391 Ingeborg
+392 Wilhelmina
+3936 Elst
+39382 Opportunity
+393 Lampetia
+394 Arduina
+3951 Zichichi
+3953 Perth
+395 Delia
+3960 Chaliubieju
+3962 Valyaev
+3963 Paradzhanov
+396 Aeolia
+39741 Komm
+397 Vienna
+3982 Kastel'
+3988 Huma
+39890 Bobstephens
+398 Admete
+3996 Fugaku
+399 Persephone
+39 Andromedae
+39 Aquarii
+39 Arietis
+39 Aurigae
+39 Boötis
+39 Cancri
+39 Cygni
+39 Draconis
+39 Eridani
+39 Laetitia
+39 Leonis
+39 Tauri
+3C 236
+3C 279
+3C 295
+3C 305
+3C 321
+3C 390.3
+3C 401
+3C 433
+3C 449
+3C 452
+3C 58
+3C 66B
+3C 75
+3MM-1
+3XMM J004232.1+411314
+3 Andromedae
+3 Aquarii
+3 Boötis
+3 Camelopardalis
+3 Cancri
+3 Centauri
+3 Ceti
+3 Corvi
+3 Equulei
+3 Geminorum
+3 Juno
+3 Monocerotis
+3 Persei
+3 Piscis Austrini
+3 Puppis
+3 Serpentis
+3 Vulpeculae
+4000 Hipparchus
+4001 Ptolemaeus
+4003 Schumann
+4007 Euryalos
+4008 Corbin
+4009 Drobyshevskij
+400 Ducrosa
+4015 Wilson–Harrington
+401 Ottilia
+4022 Nonna
+4029 Bridges
+402 Chloë
+4031 Mueller
+4034 Vishnu
+4035 Thestor
+403 Cyane
+4045 Lowengrub
+40463 Frankkameny
+404 Arsinoë
+4055 Magellan
+4057 Demophon
+4060 Deipylos
+4063 Euforbo
+4065 Meinel
+4068 Menestheus
+406 Erna
+407 Arachne
+4082 Swann
+4085 Weir
+4086 Podalirius
+408 Fama
+4090 Říšehvězd
+409 Aspasia
+40 Aquarii
+40 Arietis
+40 Aurigae
+40 Boötis
+40 Camelopardalis
+40 Cancri
+40 Eridani
+40 Harmonia
+40 Leonis
+40 Persei
+410 Chloris
+4118 Sveta
+411 Xanthe
+412 Elisabetha
+4138 Kalchas
+413 Edburga
+4142 Dersu-Uzala
+4147 Lennon
+4149 Harrison
+414 Liriope
+4150 Starr
+4151 Alanhale
+415 Palatia
+416 Vaticana
+4175 Billbaum
+4176 Sudek
+4177 Kohman
+4179 Toutatis
+417 Suevia
+4183 Cuno
+4185 Phystech
+418 Alemannia
+4197 Morpheus
+419 Aurelia
+41 Andromedae
+41 Aquarii
+41 Arietis
+41 Aurigae
+41 Capricorni
+41 Comae Berenices
+41 Cygni
+41 G. Arae
+41 Leonis Minoris
+41 Lyncis
+41 Lyncis b
+41 Ophiuchi
+41 Tauri
+420356 Praamzius
+4205 David Hughes
+4209 Briggs
+420 Bertholda
+4217 Engelhardt
+421 Zähringia
+4222 Nancita
+422 Berolina
+4230 van den Bergh
+42355 Typhon
+423 Diotima
+424 Gratia
+4257 Ubasti
+425 Cornelia
+4263 Abashiri
+4265 Kani
+426 Hippo
+4276 Clifford
+427 Galene
+4282 Endate
+428 Monachia
+429 Lotis
+42 Aquarii
+42 Aquilae
+42 Aurigae
+42 Camelopardalis
+42 Cancri
+42 Capricorni
+42 Cassiopeiae
+42 Draconis
+42 Draconis b
+42 Herculis
+42 Isis
+42 Leonis Minoris
+42 Librae
+42 Orionis
+42 Persei
+430 Hybris
+4318 Baťa
+431 Nephele
+4324 Bickel
+432 Pythia
+4332 Milton
+4337 Arecibo
+433 Eros
+4340 Dence
+4341 Poseidon
+4348 Poulydamas
+4349 Tibúrcio
+434 Hungaria
+4354 Euclides
+4358 Lynn
+435 Ella
+4362 Carlisle
+4364 Shkodrov
+436 Patricia
+437 Rhodia
+4383 Suruga
+4388 Jürgenstock
+438 Zeuxo
+4391 Balodis
+439 Ohio
+43 Ariadne
+43 Aurigae
+43 Camelopardalis
+43 Persei
+43 Sagittarii
+4401 Aditi
+440 Theodora
+441 Bathilde
+4429 Chinmoy
+442 Eichsfeldia
+4432 McGraw-Hill
+4435 Holt
+443 Photographica
+4440 Tchantchès
+4446 Carolyn
+444 Gyptis
+4450 Pan
+4451 Grieve
+445 Edna
+446 Aeternitas
+447 Valentine
+4486 Mithra
+4489 Dracius
+448 Natalie
+4492 Debussy
+449 Hamburga
+44 Andromedae
+44 Aquarii
+44 Boötis
+44 Nysa
+44 Ophiuchi
+4501 Eurypylos
+450 Brigitta
+451 Patientia
+4524 Barklajdetolli
+4525 Johnbauer
+452 Hamiltonia
+45300 Thewrewk
+4543 Phoinix
+4544 Xanthus
+4547 Massachusetts
+454 Mathesis
+455 Bruchsalia
+456 Abnoba
+45737 Benita
+457 Alleghenia
+4581 Asclepius
+4585 Ainonai
+4587 Rees
+458 Hercynia
+459 Signe
+45 Andromedae
+45 Aquarii
+45 Aquilae
+45 Aurigae
+45 Boötis
+45 Cancri
+45 Draconis
+45 Eridani
+45 Eugenia
+45 Herculis
+45 Ophiuchi
+4606 Saheki
+4607 Seilandfarm
+4608 Wodehouse
+460 Scania
+461 Saskia
+462 Eriphyla
+463 Lola
+4647 Syuji
+464 Megaira
+4659 Roddenberry
+465 Alekto
+4660 Nereus
+46610 Bésixdouze
+466 Tisiphone
+4672 Takuboku
+4674 Pauling
+467 Laura
+468 Lina
+469219 Kamoʻoalewa
+469705 ǂKá̦gára
+469 Argentina
+46 Aquilae
+46 Boötis
+46 Cancri
+46 Capricorni
+46 Ceti
+46 Hestia
+46 Leonis Minoris
+4707 Khryses
+4708 Polydoros
+4709 Ennomos
+470 Kilia
+471143 Dziewanna
+4713 Steel
+4715 Medesicaste
+47171 Lempo
+471 Papagena
+4722 Agelaos
+472 Roma
+473 Nolli
+474640 Alicanto
+474 Prudentia
+4754 Panthoos
+4756 Asaramas
+475 Ocllo
+4760 Jia-xiang
+4765 Wasserburg
+4769 Castalia
+476 Hedwig
+4776 Luyi
+477 Italia
+4786 Tatianina
+4789 Sprattia
+478 Tergeste
+4790 Petrpravec
+4791 Iphidamas
+4792 Lykaon
+4797 Ako
+479 Caprera
+47 Aglaja
+47 Andromedae
+47 Aquarii
+47 Arietis
+47 Aurigae
+47 Boötis
+47 Capricorni
+47 Cygni
+47 Ophiuchi
+47 Tauri
+47 Ursae Majoris
+47 Ursae Majoris b
+47 Ursae Majoris c
+47 Ursae Majoris d
+4804 Pasteur
+4805 Asteropaios
+480 Hansa
+481 Emita
+4822 Karge
+4827 Dares
+4828 Misenus
+482 Petrina
+4832 Palinurus
+4833 Meges
+4834 Thoas
+4836 Medon
+483 Seppina
+484 Pittsburghia
+485 Genua
+4867 Polites
+4868 Knushevia
+486958 Arrokoth
+486 Cremona
+487 Venetia
+488 Kreusa
+4897 Tomhamilton
+4899 Candace
+489 Comacina
+48 Cassiopeiae
+48 Doris
+48 Librae
+48 Persei
+4902 Thessandrus
+4904 Makio
+490 Veritas
+491 Carina
+4923 Clarke
+492 Gismonda
+4936 Butakov
+493 Griseldis
+4942 Munroe
+4944 Kozlovskij
+4946 Askalaphus
+4947 Ninkasi
+4949 Akasofu
+494 Virtus
+4951 Iwamoto
+4954 Eric
+4957 Brucemurray
+4959 Niinoama
+495 Eulalia
+4962 Vecherka
+496 Gryphia
+49777 Cappi
+497 Iva
+498 Tokio
+4997 Ksana
+499 Venusia
+49 Andromedae
+49 Aquarii
+49 Arietis
+49 Aurigae
+49 Camelopardalis
+49 Cancri
+49 Cassiopeiae
+49 Ceti
+49 Librae
+49 Orionis
+49 Pales
+49 Persei
+4C +37.11
+4U 0142+61
+4U 0614+091
+4U 1700-37
+4 Andromedae
+4 Aquarii
+4 Aquilae
+4 Arietis
+4 Camelopardalis
+4 Canum Venaticorum
+4 Cassiopeiae
+4 Centauri
+4 Cygni
+4 Equulei
+4 Lacertae
+4 Persei
+4 Sagittarii
+4 Scorpii
+4 Ursae Majoris
+4 Ursae Minoris
+4 Vesta
+4 Vulpeculae
+500 Selinur
+5010 Amenemhêt
+5011 Ptah
+5012 Eurymedon
+501 Urhixidur
+5023 Agapenor
+5025 Mecisteus
+5026 Martes
+5027 Androgeos
+5028 Halaesus
+502 Sigune
+503 Evelyn
+5040 Rabinowitz
+5041 Theotes
+504 Cora
+505 Cava
+506 Marion
+50719 Elizabethgriffin
+507 Laodica
+5080 Oja
+5088 Tancredi
+508 Princetonia
+509 Iolanda
+50 Aquarii
+50 Boötis
+50 Cancri
+50 Cassiopeiae
+50 Persei
+50 Virginia
+5101 Akhmerov
+510 Mabella
+5119 Imbrius
+511 Davida
+5120 Bitias
+5126 Achaemenides
+512 Taurinensis
+5130 Ilioneus
+513 Centesima
+514107 Kaʻepaokaʻawela
+5143 Heracles
+5144 Achates
+5145 Pholus
+5148 Giordano
+514 Armida
+515 Athalia
+5160 Camoes
+516 Amherstia
+5171 Augustesen
+5175 Ables
+5176 Yoichi
+517 Edith
+51823 Rickhusband
+51824 Mikeanderson
+51825 Davidbrown
+51826 Kalpanachawla
+51827 Laurelclark
+51828 Ilanramon
+51829 Williemccool
+5185 Alerossi
+518 Halawe
+5196 Bustelli
+51983 Hönig
+519 Sylvania
+51 Andromedae
+51 Aquarii
+51 Aquilae
+51 Arietis
+51 Aurigae
+51 Eridani
+51 Eridani b
+51 Hydrae
+51 Nemausa
+51 Ophiuchi
+51 Orionis
+51 Pegasi
+51 Pegasi b
+5201 Ferraz-Mello
+5208 Royer
+520 Franziska
+521 Brixia
+5222 Ioffe
+52246 Donaldjohanson
+52266 Van Flandern
+522 Helga
+523 Ada
+5244 Amphilochos
+524 Fidelio
+5254 Ulysses
+5256 Farquhar
+5258 Rhoeo
+5259 Epeigeus
+525 Adelaide
+5261 Eureka
+5264 Telephus
+526 Jena
+527 Euryanthe
+5283 Pyrrhus
+5284 Orsilocus
+5285 Krethon
+52872 Okyrhoe
+528 Rezia
+52975 Cyllarus
+529 Preziosa
+52 Arietis
+52 Cygni
+52 Europa
+52 Herculis
+52 Hydrae
+52 Persei
+52 Sagittarii
+530 Turandot
+5316 Filatov
+5318 Dientzenhofer
+531 Zerlina
+532 Herculina
+53311 Deucalion
+5331 Erimomisaki
+5333 Kanaya
+5335 Damocles
+533 Sara
+534 Nassovia
+5357 Sekiguchi
+535 Montague
+536 Merapi
+5370 Taranis
+537 Pauly
+5380 Sprigg
+5381 Sekhmet
+5385 Kamenka
+538 Friederike
+5391 Emmons
+539 Pamina
+53 Aquarii
+53 Arietis
+53 Aurigae
+53 Camelopardalis
+53 Cancri
+53 Eridani
+53 Kalypso
+53 Ophiuchi
+53 Persei
+53 Piscium
+53 Virginis
+540 Rosamunde
+541132 Leleākūhonua
+541 Deborah
+5426 Sharp
+542 Susanna
+5430 Luu
+5436 Eumelos
+543 Charlotte
+544 Jetta
+54509 YORP
+54598 Bienor
+545 Messalina
+546 Herodias
+5474 Gingasen
+5475 Hanskennedy
+5476 Mulius
+5477 Holmes
+547 Praxedis
+5481 Kiuchi
+548 Kressida
+549 Jessonda
+54 Alexandra
+54 Arietis
+54 Aurigae
+54 Cancri
+54 Ceti
+54 Eridani
+54 Leonis
+54 Persei
+54 Piscium
+54 Piscium b
+550 Senta
+5511 Cloanthus
+551 Ortrud
+552 Sigelinde
+5535 Annefrank
+553 Kundry
+5542 Moffatt
+554 Peraga
+55576 Amycus
+555 Norma
+556 Phyllis
+557 Violetta
+558 Carmen
+5592 Oshima
+559 Nanon
+55 Andromedae
+55 Arietis
+55 Cancri
+55 Cancri b
+55 Cancri c
+55 Cancri d
+55 Cancri f
+55 Cygni
+55 Pandora
+55 Pegasi
+55 Persei
+55 Ursae Majoris
+560 Delila
+561 Ingwelde
+562 Salome
+5635 Cole
+5638 Deikoon
+563 Suleika
+5642 Bobbywilliams
+5648 Axius
+564 Dudu
+5652 Amphimachus
+5653 Camarillo
+5655 Barney
+5656 Oldfield
+565 Marbachia
+566 Stereoskopia
+5677 Aberdonia
+567 Eleutheria
+5682 Beresford
+568 Cheruskia
+5692 Shirao
+569 Misa
+56 Andromedae
+56 Aquarii
+56 Aquilae
+56 Arietis
+56 Ceti
+56 Cygni
+56 Melete
+56 Orionis
+56 Pegasi
+56 Persei
+56 Sagittarii
+56 Ursae Majoris
+570 Kythera
+571 Dulcinea
+572 Rebekka
+5731 Zeus
+573 Recha
+57424 Caelumnoctu
+574 Reginhild
+5751 Zao
+5756 Wassenbergh
+575 Renate
+576 Emanuela
+5771 Somerville
+577 Rhea
+57868 Pupin
+5786 Talos
+578 Happelia
+579 Sidonia
+57 Aquilae
+57 Cancri
+57 Cygni
+57 Mnemosyne
+57 Pegasi
+57 Persei
+5806 Archieroy
+58097 Alimov
+580 Selene
+581 Tauntonia
+582 Olympia
+583 Klotilde
+584 Semiramis
+58534 Logos
+5855 Yukitsuna
+585 Bilkis
+586 Thekla
+587 Hypsipyle
+588 Achilles
+5899 Jedicke
+589 Croatia
+58 Andromedae
+58 Aquarii
+58 Aquilae
+58 Concordia
+58 Eridani
+58 Hydrae
+58 Leonis
+58 Ophiuchi
+58 Persei
+5900 Jensen
+5905 Johnson
+590 Tomyris
+591 Irmgard
+592 Bathseba
+593 Titania
+594913 ꞌAylóꞌchaxnim
+594 Mireille
+5951 Alicemonet
+595 Polyxena
+596 Scheila
+597 Bandusia
+598 Octavia
+599 Luisa
+59 Andromedae
+59 Arietis
+59 Aurigae
+59 Cygni
+59 Elpis
+59 Leonis
+59 Persei
+59 Sagittarii
+59 Serpentis
+59 Virginis
+5 Andromedae
+5 Aquarii
+5 Aquilae
+5 Astraea
+5 Aurigae
+5 Camelopardalis
+5 Cancri
+5 Canum Venaticorum
+5 Lacertae
+5 Persei
+5 Serpentis
+5 Tauri
+5 Trianguli
+5 Ursae Minoris
+5 Vulpeculae
+6002 Eetion
+600 Musa
+601 Nerthus
+6025 Naotosato
+602 Marianna
+603 Timandra
+6042 Cheshirecat
+604 Tekmessa
+60558 Echeclus
+605 Juvisia
+6063 Jason
+606 Brangäne
+6070 Rheinland
+607 Jenny
+6084 Bascom
+608 Adolfine
+6090 Aulis
+609 Fulvia
+60 Andromedae
+60 Aquarii
+60 Arietis
+60 Aurigae
+60 Cancri
+60 Echo
+60 Herculis
+60 Leonis
+60 Sagittarii
+60 Serpentis
+6102 Visby
+610 Valeska
+6117 Brevardastro
+611 Valeria
+612 Veronika
+613 Ginevra
+6141 Durda
+6144 Kondojiro
+614 Pia
+6159 Andréseloy
+615 Roswitha
+616 Elly
+6170 Levasseur
+617 Patroclus
+6181 Bobweber
+6189 Völk
+618 Elfriede
+619 Triberga
+61 Aquarii
+61 Cancri
+61 Cygni
+61 Danaë
+61 Leonis
+61 Ursae Majoris
+61 Virginis
+61 Virginis b
+61 Virginis c
+61 Virginis d
+620 Drakonia
+6216 San Jose
+621 Werdandi
+6223 Dahl
+6229 Tursachan
+622 Esther
+6235 Burney
+6239 Minos
+623 Chimaera
+6244 Okamoto
+6247 Amanogawa
+624 Hektor
+6250 Saekohayashi
+6255 Kuma
+6257 Thorvaldsen
+625 Xenia
+6267 Rozhen
+626 Notburga
+627 Charis
+628 Christine
+6296 Cleveland
+629 Bernardina
+62 Andromedae
+62 Aquilae
+62 Arietis
+62 Aurigae
+62 Erato
+62 Sagittarii
+630 Euphemia
+6312 Robheinlein
+631 Philippina
+632 Pyrrha
+63305 Bobkepple
+633 Zelima
+6344 P-L
+6349 Acapulco
+634 Ute
+635 Vundtia
+636 Erika
+6376 Schamp
+6377 Cagney
+637 Chrysothemis
+638 Moira
+6395 Hilliard
+6398 Timhunter
+639 Latona
+63 Andromedae
+63 Aurigae
+63 Ausonia
+63 Ceti
+63 Cygni
+63 Ophiuchi
+640 Brambilla
+641 Agnes
+642 Clara
+6433 Enya
+643 Scheherezade
+644 Cosima
+645 Agrippina
+6460 Bassano
+6469 Armstrong
+646 Kastalia
+6470 Aldrin
+6478 Gault
+647 Adelgunde
+6489 Golevka
+648 Pippa
+6498 Ko
+649 Josefa
+64 Andromedae
+64 Angelina
+64 Aquarii
+64 Aquilae
+64 Arietis
+64 Aurigae
+64 Draconis
+64 Eridani
+64 Piscium
+64 Serpentis
+6500 Kodaira
+650 Amalasuntha
+651 Antikleia
+6522 Aci
+652 Jubilatrix
+6537 Adamovich
+653 Berenike
+6545 Leitus
+6546 Kaye
+65489 Ceto
+654 Zelinda
+655 Briseïs
+656 Beagle
+657 Gunlöd
+65803 Didymos
+658 Asteria
+659 Nestor
+65 Andromedae
+65 Arietis
+65 Aurigae
+65 Cybele
+65 Ursae Majoris
+660 Crescentia
+6615 Plutarchos
+661 Cloelia
+662 Newtonia
+66391 Moshup
+663 Gerlinde
+664 Judith
+665 Sabine
+66652 Borasisi
+666 Desdemona
+667 Denise
+668 Dora
+669 Kypria
+66 Andromedae
+66 Aquarii
+66 Aquilae
+66 Arietis
+66 Aurigae
+66 Cancri
+66 Eridani
+66 Maja
+66 Ophiuchi
+66 Tauri
+6708 Bobbievaile
+6709 Hiromiyuki
+670 Ottegebe
+671 Carnegia
+6726 Suthers
+672 Astarte
+673 Edda
+674 Rachele
+675 Ludmilla
+676 Melitta
+677 Aaltje
+678 Fredegundis
+6793 Palazzolo
+679 Pax
+67P/Churyumov–Gerasimenko
+67 Aquarii
+67 Asia
+67 Cancri
+67 Ophiuchi
+6805 Abstracta
+680 Genoveva
+68109 Naomipasachoff
+681 Gorgo
+682 Hagar
+683 Lanzia
+684 Hildburg
+685 Hermia
+686 Gersuind
+687 Tinette
+6882 Sormano
+688 Melanie
+689 Zita
+68 Aquarii
+68 Aquilae
+68 Cygni
+68 Draconis
+68 Herculis
+68 Leto
+68 Ophiuchi
+690 Wratislavia
+691 Lehigh
+69230 Hermes
+692 Hippodamia
+693 Zerbinetta
+694 Ekard
+695 Bella
+696 Leonora
+697 Galilea
+6980 Kyusakamoto
+698 Ernestina
+699 Hela
+69 Aquilae
+69 Ceti
+69 Herculis
+69 Hesperia
+69 Orionis
+69 Virginis
+6Q0B44E
+6 Andromedae
+6 Aurigae
+6 Boötis
+6 Canis Minoris
+6 Canum Venaticorum
+6 Cassiopeiae
+6 Ceti
+6 Corvi
+6 Draconis
+6 Equulei
+6 Geminorum
+6 Hebe
+6 Hydrae
+6 Lacertae
+6 Lyncis
+6 Lyncis b
+6 Persei
+6 Sagittarii
+6 Serpentis
+700 Auravictrix
+701 Oriola
+702 Alauda
+703 Noëmi
+704 Interamnia
+705 Erminia
+7066 Nessus
+706 Hirundo
+707 Steina
+7088 Ishtar
+708 Raphaela
+7092 Cadmus
+709 Fringilla
+70 Aquarii
+70 Aquilae
+70 Cancri
+70 Ophiuchi
+70 Panopaea
+70 Pegasi
+70 Virginis
+70 Virginis b
+710 Gertrud
+7119 Hiera
+711 Marmulla
+712 Boliviana
+713 Luscinia
+714 Ulula
+7152 Euneus
+715 Transvaalia
+7166 Kennedy
+7167 Laupheim
+716 Berkeley
+717 Wisibada
+7187 Isobe
+718 Erida
+719 Albert
+71 Aquilae
+71 Cygni
+71 Niobe
+71 Ophiuchi
+71 Tauri
+7204 Ondřejov
+720 Bohlinia
+721 Tabora
+7225 Huntress
+722 Frieda
+723 Hammonia
+724 Hapag
+725 Amanda
+726 Joëlla
+727 Nipponia
+728 Leonisis
+729 Watsonia
+72 Cygni
+72 Feronia
+72 Herculis
+72 Leonis
+72 Ophiuchi
+72 Pegasi
+730 Athanasia
+7317 Cabot
+731 Sorga
+732 Tjilaki
+7336 Saunders
+733 Mocia
+7346 Boulanger
+734 Benda
+7352 Hypsenor
+7369 Gavrilin
+736 Harvard
+737 Arequipa
+7385 Aktsynovia
+7387 Malbil
+738 Alagasta
+739 Mandeville
+73 Klytia
+740 Cantabia
+741 Botolphia
+742 Edisona
+743 Eugenisis
+7440 Závist
+7449 Döllen
+744 Aguntina
+74503 Madola
+745 Mauritia
+746 Marlu
+7476 Ogilsbie
+747 Winchester
+748 Simeïsa
+749 Malzovia
+74 Aquarii
+74 Cygni
+74 Galatea
+74 Ophiuchi
+74 Orionis
+74 Virginis
+7505 Furusho
+750 Oskar
+7517 Alisondoane
+751 Faïna
+7526 Ohtsuka
+7529 Vagnozzi
+752 Sulamitis
+753 Tiflis
+7543 Prylis
+7545 Smaklösa
+7548 Engström
+754 Malabar
+7553 Buie
+755 Quintilla
+756 Lilliana
+757 Portlandia
+758 Mancunia
+759 Vinifera
+75 Cancri
+75 Ceti
+75 Cygni
+75 Eurydike
+75 Tauri
+7604 Kridsadaporn
+760 Massinga
+761 Brendelia
+762 Pulcova
+7638 Gladman
+763 Cupido
+7641 Cteatus
+7648 Tomboles
+764 Gedania
+765 Mattiaca
+766 Moguntia
+7675 Gorizia
+767 Bondia
+7687 Matthias
+768 Struveana
+769 Tatjana
+76 Freia
+770 Bali
+77185 Cherryh
+771 Libera
+772 Tanete
+773 Irmintraud
+7742 Altamira
+774 Armor
+775 Lumière
+776 Berbericia
+7776 Takeishi
+777 Gutemberga
+7784 Watterson
+778 Theobalda
+7794 Sanvito
+7796 Járacimrman
+779 Nina
+77 Aquarii
+77 Ceti
+77 Frigga
+7803 Adachi
+780 Armenia
+7816 Hanoi
+781 Kartvelia
+782 Montefiore
+7835 Myroncope
+783 Nora
+78431 Kemble
+7846 Setvák
+784 Pickeringia
+785 Zwetana
+7866 Sicoli
+786 Bredichina
+787 Moskva
+78816 Caripito
+788 Hohensteina
+789 Lena
+78 Aquarii
+78 Cancri
+78 Diana
+78 Pegasi
+78 Ursae Majoris
+78 Virginis
+790 Pretoria
+791 Ani
+792 Metcalfia
+79360 Sila–Nunam
+793 Arizona
+794 Irenaea
+7958 Leakey
+7959 Alysecherri
+795 Fini
+7968 Elst–Pizarro
+796 Sarita
+797 Montana
+798 Ruth
+79912 Terrell
+799 Gudula
+79 Cancri
+79 Ceti
+79 Ceti b
+79 Eurynome
+7 Andromedae
+7 Aquarii
+7 Aquilae
+7 Arietis
+7 Boötis
+7 Camelopardalis
+7 Cancri
+7 Cephei
+7 Ceti
+7 Comae Berenices
+7 Draconis
+7 Iris
+7 Persei
+7 Piscium
+7 Sagittarii
+7 Trianguli
+7 Vulpeculae
+800 Kressmannia
+8013 Gordonmoore
+801 Helwerthia
+8026 Johnmckay
+802 Epyaxa
+8034 Akka
+803 Picka
+804 Hispania
+805 Hormuthia
+806 Gyldénia
+807 Ceraskia
+808 Merxia
+809 Lundia
+80 Sappho
+810 Atossa
+8116 Jeanperrin
+811 Nauheima
+8121 Altdorfer
+812 Adele
+813 Baumeia
+814 Tauris
+815 Coppelia
+816 Juliana
+817 Annika
+8187 Akiramisawa
+818 Kapteynia
+819 Barnardiana
+81 Aquarii
+81 Cancri
+81 Ceti
+81 Ceti b
+81 Geminorum
+81 Terpsichore
+820 Adriana
+821 Fanny
+822 Lalage
+823 Sisigambis
+824 Anastasia
+825 Tanina
+826 Henrika
+827 Wolfiana
+828 Lindemannia
+829 Academia
+82 Alkmene
+82 Aquarii
+82 Cancri
+82 G. Eridani
+8306 Shoko
+830 Petropolitana
+8318 Averroes
+831 Stateira
+832 Karin
+833 Monica
+834 Burnhamia
+835 Olivia
+836 Jole
+8373 Stephengould
+837 Schwarzschilda
+838 Seraphina
+83982 Crantor
+839 Valborg
+83 Aquarii
+83 Beatrix
+83 Cancri
+83 Leonis
+83 Leonis Bb
+83 Ursae Majoris
+8405 Asbolus
+840 Zenobia
+841 Arabella
+842 Kerstin
+843 Nicolaia
+8441 Lapponica
+844 Leontina
+845 Naëma
+846 Lipperta
+847 Agnia
+84882 Table Mountain
+848 Inna
+849 Ara
+84 Ceti
+84 Klio
+850 Altona
+851 Zeissia
+852 Wladilena
+853 Nansenia
+8549 Alcide
+854 Frostia
+855 Newcombia
+856 Backlunda
+857 Glasenappia
+858 El Djezaïr
+859 Bouzaréah
+85 Ceti
+85 Io
+85 Pegasi
+860 Ursina
+861 Aïda
+862 Franzia
+863 Benkoela
+864 Aase
+865 Zubaida
+8661 Ratzinger
+866 Fatme
+867 Kovacia
+868 Lova
+869 Mellena
+86 Aquarii
+86 Semele
+870 Manto
+871 Amneris
+872 Holda
+873 Mechthild
+874 Rotraut
+875 Nymphe
+876 Scott
+8776 Campestris
+877 Walküre
+878 Mildred
+879 Ricarda
+87 Leonis
+87 Sylvia
+880 Herba
+8815 Deanregas
+881 Athene
+882 Swetlana
+883 Matterania
+884 Priamus
+885 Ulrike
+88611 Teharonhiawako
+886 Washingtonia
+887 Alinda
+888 Parysatis
+889 Erynia
+88 Aquarii
+88 Leonis
+88 Tauri
+88 Thisbe
+8900 AAVSO
+890 Waltraut
+891 Gunhild
+892 Seeligeria
+893 Leopoldina
+894 Erda
+895 Helio
+8967 Calandra
+896 Sphinx
+897 Lysistrata
+898 Hildegard
+8991 Solidarity
+8992 Magnanimity
+899 Jokaste
+89 Aquarii
+89 Herculis
+89 Julia
+89 Leonis
+89 Virginis
+8 Andromedae
+8 Aquarii
+8 Aquilae
+8 Camelopardalis
+8 Cancri
+8 Cygni
+8 Draconis
+8 Flora
+8 Persei
+8 Vulpeculae
+9000 Hal
+900 Rosalinde
+901 Brunsia
+9023 Mnesthus
+902 Probitas
+90377 Sedna
+903 Nealley
+90482 Orcus
+904 Rockefellia
+905 Universitas
+9069 Hovland
+906 Repsolda
+907 Rhoda
+9084 Achristou
+908 Buda
+909 Ulla
+90 Antiope
+90 Tauri
+910 Anneliese
+9115 Battisti
+911 Agamemnon
+912 Maritima
+913 Otila
+9142 Rhesus
+914 Palisana
+915 Cosette
+9165 Raup
+916 America
+9175 Graun
+917 Lyka
+918 Itha
+919 Ilsebill
+91 Aegina
+91 Aquarii
+91 Aquarii b
+920 Rogeria
+921 Jovita
+9223 Leifandersson
+922 Schlutia
+923 Herluga
+924 Toni
+925 Alphonsina
+9260 Edwardolson
+926 Imhilde
+927 Ratisbona
+928 Hildrun
+9298 Geake
+929 Algunde
+92 Undina
+930 Westphalia
+931 Whittemora
+9321 Alexkonopliv
+932 Hooveria
+933 Susi
+9344 Klopstock
+934 Thüringia
+935 Clivia
+936 Kunigunde
+937 Bethgea
+938 Chlosinde
+939 Isberga
+93 Herculis
+93 Leonis
+93 Minerva
+940 Kordula
+941 Murray
+9423 Abt
+942 Romilda
+943 Begonia
+944 Hidalgo
+945 Barcelona
+946 Poësia
+947 Monterosa
+948 Jucunda
+949 Hel
+94 Aquarii
+94 Aurora
+94 Ceti
+94 Ceti b
+94 Piscium
+950 Ahrensa
+95179 Berkó
+951 Gaspra
+9524 O'Rourke
+952 Caia
+953 Painleva
+9549 Akplatonov
+954 Li
+955 Alstede
+9564 Jeffwynn
+956 Elisa
+957 Camelia
+958 Asplinda
+959 Arne
+95 Arethusa
+960 Birgit
+9617 Grahamchapman
+961 Gunnie
+962 Aslög
+963 Iduberga
+9641 Demazière
+964 Subamara
+965 Angelica
+966 Muschi
+967 Helionape
+968 Petunia
+9694 Lycomedes
+969 Leocadia
+96 Aegle
+96 Aquarii
+970 Primula
+9712 Nauplius
+971 Alsatia
+972 Cohnia
+973 Aralia
+974 Lioba
+975 Perseverantia
+9767 Midsomer Norton
+976 Benjamina
+977 Philippa
+978 Aidamina
+9799 Thronium
+979 Ilsewa
+97 Aquarii
+97 Klotho
+980 Anacostia
+981 Martina
+9826 Ehrenfreund
+982 Franklina
+983 Gunila
+9844 Otani
+984 Gretia
+985 Rosina
+986 Amelia
+987 Wallia
+988 Appella
+989 Schwassmannia
+98 Aquarii
+98 Herculis
+98 Ianthe
+9902 Kirkpatrick
+9903 Leonhardt
+9905 Tiziano
+9909 Eschenbach
+990 Yerkes
+9910 Vogelweide
+9912 Donizetti
+9916 Kibirev
+991 McDonalda
+9921 Rubincam
+992 Swasey
+9931 Herbhauptman
+9936 Al-Biruni
+993 Moultona
+9949 Brontosaurus
+994 Otthild
+9950 ESA
+9951 Tyrannosaurus
+995 Sternberga
+9963 Sandage
+9965 GNU
+9968 Serpe
+9969 Braille
+996 Hilaritas
+9971 Ishihara
+997 Priska
+9983 Rickfienberg
+998 Bodea
+99906 Uofalberta
+9991 Anežka
+99942 Apophis
+9994 Grotius
+9999 Wiles
+999 Zachia
+99 Aquarii
+99 Dike
+99 Herculis
+9Spitch
+9 Andromedae
+9 Aurigae
+9 Boötis
+9 Cephei
+9 Ceti
+9 Cygni
+9 Equulei
+9 Hydrae
+9 Lacertae
+9 Pegasi
+9 Persei
+9 Puppis
+9 Sagittarii
+9 Vulpeculae
+A-type asteroid
+A0620-00
+A1689-zD1
+A1689B11
+A1703 zD6
+A2261-BCG
+A2744 YD4
+AA Tauri
+AB7
+AB8
+AB Andromedae
+AB Aurigae
+AB Aurigae b
+AB Boötis
+AB Doradus
+AB Pictoris
+AC Andromedae
+AC Herculis
+ADS 1359
+ADS 16402
+ADS 48
+ADS 7251
+ADS 9731
+AD Andromedae
+AD Leonis
+AD Phoenicis
+AE Andromedae
+AE Aquarii
+AE Aurigae
+AE Phoenicis
+AE Pictoris
+AFGL 2298
+AF Andromedae
+AGC 198691
+AG Carinae
+AG Draconis
+AG Pegasi
+AG Virginis
+AH Scorpii
+AH Velorum
+AI Phoenicis
+AI Velorum
+AK Leporis
+AK Pictoris
+AK Pyxidis
+AK Scorpii
+ALESS 073.1
+AM 0644-741
+AM 1316-241
+AM Canum Venaticorum
+AM Herculis
+AN Ursae Majoris
+AO Cassiopeiae
+AO Mensae
+AO Serpentis
+AP Columbae
+AR Andromedae
+AR Aurigae
+AR Cassiopeiae
+AR Scorpii
+ASASSN-V J213939.3-702817.4
+AS 314
+AS Leonis Minoris
+AT Microscopii
+AU Microscopii
+AV Microscopii
+AW Canum Venaticorum
+AX Circini
+AZ Cancri
+AZ Canis Minoris
+AZ Phoenicis
+A Centauri
+Abell 1201 BCG
+Abell 1835 IR1916
+Abell 2744 Y1
+Abell 70
+Achernar
+Acrux
+Actaea
+Adeona family
+Aegaeon
+Aegir
+Aitne
+Albiorix
+Albireo
+Alcor
+Alcyone
+Alcyoneus
+Aldebaran
+Aldebaran b
+Algol
+Alnilam
+Alnitak
+Alpha1 Capricorni
+Alpha2 Capricorni
+Alpha Andromedae
+Alpha Antliae
+Alpha Apodis
+Alpha Aquarii
+Alpha Arae
+Alpha Caeli
+Alpha Camelopardalis
+Alpha Cancri
+Alpha Cassiopeiae
+Alpha Centauri
+Alpha Cephei
+Alpha Ceti
+Alpha Chamaeleontis
+Alpha Circini
+Alpha Columbae
+Alpha Comae Berenices
+Alpha Coronae Australis
+Alpha Coronae Borealis
+Alpha Corvi
+Alpha Crateris
+Alpha Delphini
+Alpha Doradus
+Alpha Equulei
+Alpha Fornacis
+Alpha Gruis
+Alpha Herculis
+Alpha Horologii
+Alpha Hydri
+Alpha Indi
+Alpha Lacertae
+Alpha Leporis
+Alpha Librae
+Alpha Lupi
+Alpha Lyncis
+Alpha Mensae
+Alpha Microscopii
+Alpha Monocerotis
+Alpha Muscae
+Alpha Octantis
+Alpha Ophiuchi
+Alpha Pavonis
+Alpha Pegasi
+Alpha Persei
+Alpha Phoenicis
+Alpha Pictoris
+Alpha Piscium
+Alpha Pyxidis
+Alpha Reticuli
+Alpha Sagittae
+Alpha Sagittarii
+Alpha Sculptoris
+Alpha Scuti
+Alpha Serpentis
+Alpha Sextantis
+Alpha Telescopii
+Alpha Trianguli
+Alpha Trianguli Australis
+Alpha Tucanae
+Alpha Ursae Majoris
+Alpha Volantis
+Alpha Vulpeculae
+Alphard
+Alruba
+Altair
+Alvaldi
+Amalthea
+Ananke
+Andromeda
+Andromeda Galaxy
+Andromeda I
+Andromeda IX
+Andromeda XIX
+Andromeda XVIII
+Andromeda XXI
+Andromeda XXII
+Anglo-Australian Planet Search
+Angrboda
+Antares
+Antennae Galaxies
+Anthe
+Antlia
+Antlia II
+Aoede
+Apep
+Apus
+Aquarius
+Aquarius Dwarf
+Aquila
+Aquila X-1
+Ara
+Arche
+Arcturus
+Ariel
+Aries
+Arp 104
+Arp 107
+Arp 147
+Arp 166
+Arp 187
+Arp 220
+Arp 240
+Arp 256
+Arp 271
+Arp 272
+Arp 273
+Arp 299
+Arp 302
+Arp 7
+Arp 87
+Atlas
+Atlas
+Auriga
+Autonoe
+Furuhjelm 46
+Hen 2-10
+Hiʻiaka
+Hoag's Object
+Io
+Iota1 Cygni
+Iota1 Librae
+Iota1 Muscae
+Iota1 Normae
+Iota1 Scorpii
+Iota2 Cygni
+Iota2 Fornacis
+Iota2 Muscae
+Iota2 Normae
+Iota2 Scorpii
+Iota Andromedae
+Iota Antliae
+Iota Apodis
+Iota Aquarii
+Iota Aquilae
+Iota Arae
+Iota Arietis
+Iota Aurigae
+Iota Boötis
+Iota Cancri
+Iota Canis Majoris
+Iota Capricorni
+Iota Carinae
+Iota Cassiopeiae
+Iota Centauri
+Iota Cephei
+Iota Ceti
+Iota Chamaeleontis
+Iota Coronae Borealis
+Iota Crateris
+Iota Crucis
+Iota Delphini
+Iota Draconis
+Iota Draconis b
+Iota Eridani
+Iota Geminorum
+Iota Gruis
+Iota Herculis
+Iota Horologii
+Iota Horologii b
+Iota Hydrae
+Iota Leonis
+Iota Leporis
+Iota Lupi
+Iota Lyrae
+Iota Mensae
+Iota Microscopii
+Iota Octantis
+Iota Ophiuchi
+Iota Orionis
+Iota Pegasi
+Iota Persei
+Iota Phoenicis
+Iota Pictoris
+Iota Piscis Austrini
+Iota Piscium
+Iota Reticuli
+Iota Sagittarii
+Iota Sculptoris
+Iota Serpentis
+Iota Tauri
+Iota Telescopii
+Iota Trianguli
+Iota Trianguli Australis
+Iota Tucanae
+Iota Ursae Majoris
+Iota Virginis
+Iota Volantis
+Isonoe
+Leo
+Leo A
+Leo II
+Leo IV
+Leo I
+Leo Minor
+Leo T
+Leo V
+BAT99-7
+BAT99-98
+BB Doradus
+BB Phoenicis
+BC Canis Minoris
+BC Cygni
+BD+00 316
+BD+02 2056
+BD+03 2562
+BD+14 4559
+BD+14 4559 b
+BD+17°3248
+BD+20 2457
+BD+20 274 b
+BD+20 594b
+BD+20°307
+BD+40°4210
+BD+43 3654
+BD+48 738 b
+BD+48 740
+BD+60 1417b
+BD+60°2522
+BD-07 436
+BD-08°2823 b
+BD-08°2823 c
+BD-10°3166 b
+BD-11 4672
+BDF-3299
+BDF-521
+BD Camelopardalis
+BD Phoenicis
+BD−08°2823
+BD−10°3166
+BD−17 63
+BD−17 63 b
+BD−22 5866
+BE Camelopardalis
+BF Antliae
+BF Orionis
+BG Canis Minoris
+BG Crucis
+BG Geminorum
+BG Indi
+BH Crucis
+BH Virginis
+BI 253
+BI Cygni
+BK Camelopardalis
+BL Boötis
+BL Crucis
+BL Herculis
+BL Telescopii
+BM Andromedae
+BN Camelopardalis
+BO Carinae
+BO Microscopii
+BPM 37093
+BP Boötis
+BP Circini
+BP Crucis
+BP Tauri
+BQ Octantis
+BRI 1335-0417
+BT Monocerotis
+BU Canis Minoris
+BU Crucis
+BV Centauri
+BW Vulpeculae
+BX442
+BX Andromedae
+BX Boötis
+BX Circini
+BY Draconis
+BZ Ursae Majoris
+B Centauri
+B Persei
+Baby Boom Galaxy
+Barnard's Star
+Barnard's Star b
+Bebhionn
+Becklin–Neugebauer Object
+Bedin I
+Beli
+Belinda
+Bellatrix
+Bergelmir
+Bestla
+Beta1 Sagittarii
+Beta2 Sagittarii
+Beta Andromedae
+Beta Apodis
+Beta Aquarii
+Beta Aquilae
+Beta Arae
+Beta Arietis
+Beta Aurigae
+Beta Boötis
+Beta Caeli
+Beta Camelopardalis
+Beta Cancri
+Beta Canis Majoris
+Beta Canis Minoris
+Beta Canum Venaticorum
+Beta Capricorni
+Beta Carinae
+Beta Cassiopeiae
+Beta Centauri
+Beta Cephei
+Beta Ceti
+Beta Chamaeleontis
+Beta Circini
+Beta Columbae
+Beta Comae Berenices
+Beta Coronae Australis
+Beta Coronae Borealis
+Beta Corvi
+Beta Crateris
+Beta Delphini
+Beta Doradus
+Beta Draconis
+Beta Equulei
+Beta Eridani
+Beta Fornacis
+Beta Gruis
+Beta Herculis
+Beta Horologii
+Beta Hydrae
+Beta Hydri
+Beta Indi
+Beta Lacertae
+Beta Leonis Minoris
+Beta Leporis
+Beta Librae
+Beta Lupi
+Beta Lyrae
+Beta Mensae
+Beta Microscopii
+Beta Monocerotis
+Beta Muscae
+Beta Octantis
+Beta Ophiuchi
+Beta Pavonis
+Beta Pegasi
+Beta Phoenicis
+Beta Pictoris
+Beta Pictoris b
+Beta Pictoris c
+Beta Piscis Austrini
+Beta Piscium
+Beta Pyxidis
+Beta Reticuli
+Beta Sagittae
+Beta Scorpii
+Beta Sculptoris
+Beta Scuti
+Beta Serpentis
+Beta Sextantis
+Beta Tauri
+Beta Trianguli
+Beta Trianguli Australis
+Beta Tucanae
+Beta Ursae Majoris
+Beta Ursae Minoris
+Beta Virginis
+Beta Volantis
+Betelgeuse
+Big Dipper
+Black Eye Galaxy
+Black Widow Pulsar
+Boötes
+Boötes III
+Boötes II
+Boötes I
+Bursting Pulsar
+C/2003 A2
+C/2016 R2
+C/2017 U7
+C/2018 C2
+C/2018 F4
+C/2018 V1
+C3 Centauri
+CC Andromedae
+CD-38 2551
+CD-44 170
+CD-73°375
+CD Crucis
+CEERS-93316
+CE Gruis
+CFBDSIR 2149−0403
+CFBDSIR J145829+101343
+CFBDS J005910.90–011401.3
+CGCG 049-033
+CG Cygni
+CHXR 73
+CH Crucis
+CH Cygni
+CID-42
+CIT 6
+CI Tauri
+CK Carinae
+CK Vulpeculae
+CL Draconis
+CM Draconis
+CN Andromedae
+COCONUTS-2b
+CPD−57°2874
+CP Boötis
+CP Lacertae
+CP Puppis
+CQ Camelopardalis
+CQ Tauri
+CS Camelopardalis
+CT Chamaeleontis
+CT Serpentis
+CU Virginis
+CVSO 30
+CV Serpentis
+CW Leonis
+CXOU J061705.3+222127
+CXOU J164710.2−455216
+CX Canis Majoris
+C Ursae Majoris
+Caelum
+Caliban
+Callirrhoe
+Calvera
+Camelopardalis
+Cancer
+Candidate 1
+Canes Venatici
+Canes Venatici II
+Canes Venatici I
+Canis Major
+Canis Major Overdensity
+Canis Minor
+Canopus
+Capella
+Capricornus
+Carina
+Carina Dwarf Spheroidal Galaxy
+Carme
+Carpo
+Cartwheel Galaxy
+Cassiopeia
+Cassiopeia Dwarf
+Castor
+Geirrod
+Geminga
+Gemini
+Geodynamics of Venus
+Great Annihilator
+Great Diamond
+Hydra
+Hydrus
+Hyperion
+Hyrrokkin
+IC 10
+IC 1011
+IC 1101
+IC 1337
+IC 1459
+IC 1574
+IC 1613
+IC 167
+IC 1838
+IC 1913
+IC 1919
+IC 1953
+IC 1993
+IC 2006
+IC 2233
+IC 2497
+IC 2560
+IC 2574
+IC 2955
+IC 3
+IC 335
+IC 3418
+IC 342
+IC 3583
+IC 4662
+IC 4710
+IC 4970
+IC 5052
+IC 5152
+IC 5201
+IC 5332
+IC 755
+IC 883
+IGR J17091-3624
+III Zw 2
+II Lupi
+II Pegasi
+II Zwicky 28
+IK Pegasi
+IK Tauri
+IM Normae
+IM Pegasi
+IOK-1
+IPTF14hls
+IQ Aurigae
+IRAS 00500+6713
+IRAS 04509-6922
+IRAS 05280–6910
+IRAS 08544−4431
+IRAS 13224-3809
+IRAS 16293−2422
+IRAS 17163−3907
+IRAS 18162−2048
+IRAS 18357–0604
+IRAS 19475+3119
+IRAS 23304+6147
+IRC +10420
+IRC -10414
+ISOHDFS 27
+IU Aurigae
+IX Carinae
+IZ Aquarii
+I Zwicky 18
+I Zwicky 36
+Iapetus
+Lalande 21185
+Lambda1 Fornacis
+Lambda1 Phoenicis
+Lambda1 Sculptoris
+Lambda1 Tucanae
+Lambda2 Fornacis
+Lambda2 Sculptoris
+Lambda2 Tucanae
+Lambda Andromedae
+Lambda Aquarii
+Lambda Aquilae
+Lambda Arae
+Lambda Arietis
+Lambda Aurigae
+Lambda Boötis
+Lambda Boötis star
+Lambda Caeli
+Lambda Cancri
+Lambda Canis Majoris
+Lambda Capricorni
+Lambda Cassiopeiae
+Lambda Centauri
+Lambda Cephei
+Lambda Ceti
+Lambda Chamaeleontis
+Lambda Columbae
+Lambda Coronae Australis
+Lambda Coronae Borealis
+Lambda Crateris
+Lambda Crucis
+Lambda Cygni
+Lambda Doradus
+Lambda Draconis
+Lambda Eridani
+Lambda Geminorum
+Lambda Gruis
+Lambda Herculis
+Lambda Horologii
+Lambda Hydrae
+Lambda Leonis
+Lambda Leporis
+Lambda Librae
+Lambda Lupi
+Lambda Lyrae
+Lambda Mensae
+Lambda Muscae
+Lambda Normae
+Lambda Octantis
+Lambda Ophiuchi
+Lambda Pavonis
+Lambda Pegasi
+Lambda Persei
+Lambda Pictoris
+Lambda Piscis Austrini
+Lambda Piscium
+Lambda Pyxidis
+Lambda Sagittarii
+Lambda Scorpii
+Lambda Serpentis
+Lambda Tauri
+Lambda Telescopii
+Lambda Ursae Majoris
+Lambda Ursae Minoris
+Lambda Velorum
+Lambda Virginis
+LoTr 5
+Loge
+Maffei 1
+Maffei 2
+Miranda
+Mizar
+Mneme
+Musca
+Puppis
+Pyxis
+Q2343-BX418
+QR Andromedae
+QS Aquilae
+QS Telescopii
+QS Virginis
+QU Normae
+QU Vulpeculae
+QV Andromedae
+QV Normae
+QW Puppis
+QX Andromedae
+QX Normae
+QY Puppis
+QZ Aurigae
+QZ Carinae
+QZ Puppis
+Q Centauri
+Q Cygni
+Q Scorpii
+Q star
+Qatar-1
+Qatar-2
+Qatar-3
+Qatar-4
+Qatar-4b
+Qatar-5b
+Qatar-8
+Qatar Exoplanet Survey
+Stargate
+Struve 2398
+Styx
+Summer Triangle
+Super-Jupiter
+Super-Neptune
+Super-puff
+Tarqeq
+Tarvos
+Tau1 Aquarii
+Tau1 Arietis
+Tau1 Capricorni
+Tau1 Eridani
+Tau1 Gruis
+Tau1 Gruis b
+Tau1 Hydrae
+Tau1 Lupi
+Tau1 Serpentis
+Tau2 Aquarii
+Tau2 Arietis
+Tau2 Capricorni
+Tau2 Eridani
+Tau2 Gruis
+Tau2 Hydrae
+Tau2 Lupi
+Tau2 Serpentis
+Tau3 Eridani
+Tau3 Gruis
+Tau3 Serpentis
+Tau4 Eridani
+Tau4 Serpentis
+Tau5 Eridani
+Tau5 Serpentis
+Tau6 Eridani
+Tau6 Serpentis
+Tau7 Eridani
+Tau7 Serpentis
+Tau8 Eridani
+Tau8 Serpentis
+Tau9 Eridani
+Tau Andromedae
+Tau Aquilae
+Tau Aurigae
+Tau Boötis
+Tau Boötis b
+Tau Cancri
+Tau Canis Majoris
+Tau Cassiopeiae
+Tau Centauri
+Tau Ceti
+Tau Ceti e
+Tau Ceti f
+Tau Coronae Borealis
+Tau Cygni
+Tau Draconis
+Tau Geminorum
+Tau Herculis
+Tau Leonis
+Tau Librae
+Tau Octantis
+Tau Ophiuchi
+Tau Orionis
+Tau Pegasi
+Tau Persei
+Tau Piscis Austrini
+Tau Piscium
+Tau Puppis
+Tau Sagittarii
+Tau Scorpii
+Tau Sculptoris
+Tau Tauri
+Tau Ursae Majoris
+Tau Virginis
+Taurus
+Taygete
+Teacup galaxy
+Melnick 34
+Melnick 42
+Mensa
+Mercury
+Merope
+Messier 100
+Messier 105
+Messier 106
+Messier 108
+Messier 109
+Messier 110
+Messier 32
+Messier 49
+Messier 58
+Messier 59
+Messier 60
+Messier 61
+Messier 63
+Messier 65
+Messier 66
+Messier 73
+Messier 74
+Messier 77
+Messier 81
+Messier 82
+Messier 83
+Messier 84
+Messier 85
+Messier 86
+Messier 87
+Messier 88
+Messier 89
+Messier 90
+Messier 91
+Messier 94
+Messier 95
+Messier 96
+Messier 98
+Messier 99
+Okroy Cloud
+Pegasus
+Pegasus Dwarf Irregular Galaxy
+Pegasus Dwarf Spheroidal Galaxy
+Polaris
+Pollux
+Pollux b
+Polydeuces
+R136a1
+R136a2
+R136a3
+R136b
+R136c
+R145
+R71
+R85
+R99
+Rigel
+S/2003 J 10
+S/2003 J 12
+S/2003 J 16
+S/2003 J 2
+S/2003 J 23
+S/2003 J 24
+S/2003 J 4
+S/2003 J 9
+S/2004 S 12
+S/2004 S 13
+S/2004 S 17
+S/2004 S 21
+S/2004 S 24
+S/2004 S 28
+S/2004 S 3
+S/2004 S 31
+S/2004 S 36
+S/2004 S 37
+S/2004 S 39
+S/2004 S 4
+S/2004 S 6
+S/2004 S 7
+S/2006 S 1
+S/2006 S 3
+S/2007 S 2
+S/2007 S 3
+S/2009 S 1
+S/2015
+S/2019 S 1
+S2
+S55
+S62
+SAO 206462
+SCR 1845−6357
+SCR J1546−5534
+SDSS J001820.5−093939.2
+SDSS J090745.0+024507
+SDSS J102915+172927
+SDSS J1228+1040 b
+SDSS J1240+6710
+SDSS J141624.08+134826.7
+SDSS J1430+2303
+SDSS J143317.78+101123.3
+SGR 0525−66
+SGR 1627−41
+SGR 1806−20
+SGR 1900+14
+SGR 1935+2154
+SGR J1745−2900
+SIMP J013656.5+093347
+SIPS 1259-4336
+SMC 018136
+SMSS J031300.36−670839.3
+SP77 46-44
+SPT0418-47
+SPT0615-JD
+SSSPM J1549-3544
+SS 433
+SS Cygni
+Saturn
+Saturn LVIII
+Saturn LX
+Saturn LXIV
+Sombrero Galaxy
+Source function
+TIC 168789840
+TN J0924-2201
+TOI-1333 b
+TOI-1452 b
+TOI-1478 b
+TOI-1601 b
+TOI-178
+TOI-178c
+TOI-4138b
+TOI-561
+TOI-628 b
+TOI-640 b
+TOI-755
+TOI 1338
+TOI 677 b
+TOI 700
+TOI 700 d
+TRAPPIST-1
+TRAPPIST-1b
+TRAPPIST-1c
+TRAPPIST-1d
+TRAPPIST-1e
+TRAPPIST-1f
+TRAPPIST-1g
+TRAPPIST-1h
+TT Aquilae
+TT Cygni
+TU Andromedae
+TU Corvi
+TU Mensae
+TU Muscae
+TU Ursae Majoris
+TVLM 513-46546
+TV Corvi
+TV Geminorum
+TV Pictoris
+TW Andromedae
+TW Horologii
+TW Hydrae
+TW Hydrae b
+TW Pictoris
+TW Piscis Austrini
+TXS 0506+056
+TX Camelopardalis
+TX Piscium
+TX Ursae Majoris
+TYC 8998-760-1
+TYC 9486-927-1
+TY Coronae Australis
+TY Coronae Borealis
+TY Pyxidis
+TZ Cassiopeiae
+TZ Mensae
+T Andromedae
+T Antliae
+T Aurigae
+T Boötis
+T Carinae
+T Cephei
+T Ceti
+T Coronae Australis
+T Coronae Borealis
+T Cygni
+T Leporis
+T Microscopii
+T Normae
+T Persei
+T Pyxidis
+T Scorpii
+T Tauri
+T Ursae Minoris
+T Vulpeculae
+Tabby's Star
+Tadpole Galaxy
+Thebe
+Thelxinoe
+Themisto
+Theta1 Crucis
+Theta1 Microscopii
+Theta1 Orionis A
+Theta1 Orionis B
+Theta1 Orionis C
+Theta1 Orionis D
+Theta1 Orionis E
+Theta1 Sagittarii
+Theta2 Crucis
+Theta2 Microscopii
+Theta2 Orionis
+Theta2 Sagittarii
+Theta Andromedae
+Theta Antliae
+Theta Apodis
+Theta Aquarii
+Theta Aquilae
+Theta Arae
+Theta Arietis
+Theta Aurigae
+Theta Boötis
+Theta Cancri
+Theta Canis Majoris
+Theta Capricorni
+Theta Carinae
+Theta Cassiopeiae
+Theta Centauri
+Theta Cephei
+Theta Ceti
+Theta Chamaeleontis
+Theta Circini
+Theta Columbae
+Theta Coronae Australis
+Theta Coronae Borealis
+Theta Crateris
+Theta Cygni
+Theta Delphini
+Theta Doradus
+Theta Draconis
+Theta Eridani
+Theta Geminorum
+Theta Gruis
+Theta Herculis
+Theta Hydrae
+Theta Hydri
+Theta Indi
+Theta Leonis
+Theta Leporis
+Theta Librae
+Theta Lupi
+Theta Lyrae
+Theta Mensae
+Theta Muscae
+Theta Normae
+Theta Octantis
+Theta Ophiuchi
+Theta Pavonis
+Theta Pegasi
+Theta Persei
+Theta Pictoris
+Theta Piscis Austrini
+Theta Piscium
+Theta Pyxidis
+Theta Reticuli
+Theta Sagittae
+Theta Scorpii
+Theta Sculptoris
+Theta Serpentis
+Theta Tauri
+Theta Trianguli Australis
+Theta Tucanae
+Theta Ursae Majoris
+Theta Ursae Minoris
+Theta Virginis
+Theta Volantis
+Thiazzi
+TrES-1b
+TrES-2b
+TrES-3b
+TrES-4b
+US 708
+UScoCTIO 108
+UU Aurigae
+UV Piscium
+UW Canis Majoris
+UX Antliae
+UX Arietis
+UX Lyncis
+UX Tauri
+UX Ursae Majoris
+UY Scuti
+UY Volantis
+UZ Fornacis
+UZ Pyxidis
+U Andromedae
+U Antliae
+U Aquarii
+U Aquilae
+U Camelopardalis
+U Equulei
+U Geminorum
+U Hydrae
+U Lacertae
+U Microscopii
+U Monocerotis
+U Orionis
+U Sagittae
+U Scorpii
+U Vulpeculae
+Virgo
+Virgo I
+Virgo Stellar Stream
+Willman 1
+Z8 GND 5296
+ZIMPOL/CHEOPS
+ZTF J0139+5245
+ZTF J153932.16+502738.8
+ZW II 96
+ZZ Boötis
+Z Andromedae
+Z Apodis
+Z Camelopardalis
+Z Canis Majoris
+Z Chamaeleontis
+Z Ursae Minoris
+Zeta1 Antliae
+Zeta1 Lyrae
+Zeta1 Muscae
+Zeta1 Scorpii
+Zeta2 Antliae
+Zeta2 Lyrae
+Zeta2 Muscae
+Zeta2 Scorpii
+Zeta Andromedae
+Zeta Apodis
+Zeta Aquarii
+Zeta Aquilae
+Zeta Arae
+Zeta Arietis
+Zeta Aurigae
+Zeta Boötis
+Zeta Caeli
+Zeta Canis Majoris
+Zeta Canis Minoris
+Zeta Capricorni
+Zeta Cassiopeiae
+Zeta Centauri
+Zeta Cephei
+Zeta Ceti
+Zeta Chamaeleontis
+Zeta Circini
+Zeta Coronae Australis
+Zeta Coronae Borealis
+Zeta Corvi
+Zeta Crateris
+Zeta Crucis
+Zeta Cygni
+Zeta Delphini
+Zeta Doradus
+Zeta Draconis
+Zeta Eridani
+Zeta Fornacis
+Zeta Geminorum
+Zeta Gruis
+Zeta Herculis
+Zeta Horologii
+Zeta Hydrae
+Zeta Hydri
+Zeta Indi
+Zeta Leonis
+Zeta Leporis
+Zeta Lupi
+Zeta Mensae
+Zeta Microscopii
+Zeta Monocerotis
+Zeta Normae
+Zeta Octantis
+Zeta Ophiuchi
+Zeta Pavonis
+Zeta Pegasi
+Zeta Persei
+Zeta Phoenicis
+Zeta Pictoris
+Zeta Piscis Austrini
+Zeta Piscium
+Zeta Puppis
+Zeta Pyxidis
+Zeta Reticuli
+Zeta Sagittae
+Zeta Sagittarii
+Zeta Sculptoris
+Zeta Scuti
+Zeta Serpentis
+Zeta Tauri
+Zeta Telescopii
+Zeta Trianguli Australis
+Zeta Tucanae
+Zeta Ursae Minoris
+Zeta Virginis
+Zeta Volantis
+Cayrel's Star
+Celaeno
+Centaurus
+Centaurus A
+Centaurus X-3
+Cepheus
+Ceres
+Cetus
+Cetus Dwarf
+Cha 110913−773444
+Chaldene
+Chamaeleon
+Donatiello I
+Dorado
+Draco
+Draco Dwarf
+Dragonfly 44
+H1504+65
+HAT-P-11
+HAT-P-11b
+HAT-P-12
+HAT-P-12b
+HAT-P-13
+HAT-P-13b
+HAT-P-13c
+HAT-P-14b
+HAT-P-15
+HAT-P-16
+HAT-P-17
+HAT-P-18
+HAT-P-19
+HAT-P-1b
+HAT-P-20
+HAT-P-21
+HAT-P-23
+HAT-P-24
+HAT-P-24b
+HAT-P-25
+HAT-P-26
+HAT-P-27
+HAT-P-28
+HAT-P-29
+HAT-P-2b
+HAT-P-3
+HAT-P-30
+HAT-P-32b
+HAT-P-33
+HAT-P-33b
+HAT-P-3b
+HAT-P-4
+HAT-P-41
+HAT-P-4b
+HAT-P-5
+HAT-P-50b
+HAT-P-5b
+HAT-P-6
+HAT-P-65
+HAT-P-6b
+HAT-P-7
+HAT-P-7b
+HAT-P-8
+HAT-P-8b
+HAT-P-9
+HAT-P-9b
+HATS-11b
+HATS-3
+HATS-36b
+HCM-6A
+HD1
+HD 1
+HD 100307
+HD 100453
+HD 100546
+HD 100655
+HD 100777
+HD 100777 b
+HD 100825
+HD 101570
+HD 101584
+HD 10180
+HD 10180 c
+HD 101930
+HD 101930 b
+HD 102117
+HD 102117 b
+HD 102195
+HD 102195 b
+HD 102272
+HD 102272 b
+HD 102272 c
+HD 102350
+HD 102365
+HD 102776
+HD 102839
+HD 102956 b
+HD 10307
+HD 103079
+HD 103197
+HD 103197 b
+HD 1032
+HD 103774
+HD 104067
+HD 104067 b
+HD 104237
+HD 104304
+HD 104985
+HD 104985 b
+HD 105382
+HD 10550
+HD 106112
+HD 106252
+HD 106252 b
+HD 106315
+HD 10647
+HD 10647 b
+HD 106515
+HD 106760
+HD 106906
+HD 106906 b
+HD 107146
+HD 107148
+HD 107148 b
+HD 107914
+HD 10800
+HD 108063
+HD 108147
+HD 108147 b
+HD 108236
+HD 108541
+HD 108863
+HD 108874
+HD 108874 b
+HD 108874 c
+HD 109271
+HD 109749
+HD 109749 b
+HD 110073
+HD 11025
+HD 110432
+HD 110458
+HD 110956
+HD 111031
+HD 111232
+HD 111232 b
+HD 111395
+HD 111456
+HD 111597
+HD 111915
+HD 111968
+HD 112014
+HD 112028
+HD 112410
+HD 113337
+HD 113538
+HD 113538 b
+HD 113538 c
+HD 113703
+HD 113766
+HD 114386
+HD 114386 b
+HD 114533
+HD 114613
+HD 114729
+HD 114729 b
+HD 114762
+HD 114762 b
+HD 114783
+HD 114783 b
+HD 114837
+HD 115004
+HD 11506
+HD 11506 b
+HD 11506 c
+HD 115211
+HD 115310
+HD 115337
+HD 115404
+HD 115600
+HD 116029
+HD 116243
+HD 117207
+HD 117207 b
+HD 117440
+HD 117618
+HD 117618 b
+HD 117939
+HD 118203
+HD 118203 b
+HD 1185
+HD 118508
+HD 118889
+HD 119124
+HD 11964
+HD 11964 b
+HD 11964 c
+HD 119921
+HD 120084
+HD 120213
+HD 12039
+HD 12055
+HD 120987
+HD 121056
+HD 121228
+HD 12139
+HD 121474
+HD 121504
+HD 121504 b
+HD 122430
+HD 122430 b
+HD 122563
+HD 122862
+HD 123569
+HD 123657
+HD 1237
+HD 124639
+HD 12467
+HD 125040
+HD 125072
+HD 125248
+HD 125288
+HD 125351
+HD 125442
+HD 125595
+HD 125612
+HD 125612 b
+HD 125612 c
+HD 125612 d
+HD 125628
+HD 125658
+HD 125823
+HD 126009
+HD 126053
+HD 126128
+HD 126141
+HD 126200
+HD 126271
+HD 12661
+HD 126614
+HD 126614 Ab
+HD 12661 b
+HD 12661 c
+HD 127304
+HD 127726
+HD 128093
+HD 128198
+HD 128311
+HD 128311 b
+HD 128311 c
+HD 128333
+HD 128429
+HD 129116
+HD 129132
+HD 129357
+HD 129445
+HD 129445 b
+HD 129456
+HD 129685
+HD 130084
+HD 130144
+HD 130322
+HD 130322 b
+HD 130458
+HD 130603
+HD 130917
+HD 130948
+HD 131040
+HD 131399
+HD 131473
+HD 131496
+HD 131551
+HD 131664
+HD 13189
+HD 132029
+HD 132406
+HD 132406 b
+HD 132563
+HD 133002
+HD 133131
+HD 133600
+HD 133683
+HD 133981
+HD 134060
+HD 134064
+HD 134335
+HD 134439/HD 134440
+HD 134606
+HD 134687
+HD 135438
+HD 135530
+HD 135944
+HD 136118
+HD 136138
+HD 136418 b
+HD 137058
+HD 137388
+HD 137509
+HD 138573
+HD 138867
+HD 139139
+HD 13931
+HD 139319
+HD 13931 b
+HD 139357
+HD 139357 b
+HD 139664
+HD 140283
+HD 140913
+HD 141399
+HD 141569
+HD 141846
+HD 141937
+HD 142
+HD 142022
+HD 142022 Ab
+HD 142245
+HD 142250
+HD 142415
+HD 142415 b
+HD 142527
+HD 142 b
+HD 143009
+HD 143183
+HD 143346
+HD 143361
+HD 143361 b
+HD 143436
+HD 143699
+HD 143787
+HD 14412
+HD 145377
+HD 145377 b
+HD 145457
+HD 1461
+HD 1461 b
+HD 14622
+HD 146389
+HD 146624
+HD 147018
+HD 147018 b
+HD 147018 c
+HD 147506
+HD 147513
+HD 147513 b
+HD 148156
+HD 148156 b
+HD 148427
+HD 149026
+HD 149026 b
+HD 149143
+HD 149143 b
+HD 149382
+HD 149837
+HD 149989
+HD 150136
+HD 150193
+HD 150248
+HD 150576
+HD 150706
+HD 15082
+HD 15115
+HD 151566
+HD 151613
+HD 151932
+HD 151967
+HD 152010
+HD 152079
+HD 152079 b
+HD 152082
+HD 152408
+HD 153053
+HD 153201
+HD 153221
+HD 153261
+HD 153370
+HD 153791
+HD 153950
+HD 153950 b
+HD 154088
+HD 154345
+HD 154345 b
+HD 154577
+HD 154672
+HD 154672 b
+HD 154857
+HD 154857 b
+HD 154857 c
+HD 155035
+HD 155233 b
+HD 15524
+HD 155358
+HD 155358 b
+HD 155358 c
+HD 155448
+HD 15558
+HD 156091
+HD 156279
+HD 156331
+HD 156411
+HD 156411 b
+HD 156668
+HD 156668 b
+HD 156768
+HD 156846
+HD 156846 b
+HD 157661
+HD 157662
+HD 157753
+HD 157819
+HD 158220
+HD 158259
+HD 158476
+HD 158614
+HD 158633
+HD 15920
+HD 159868
+HD 159868 b
+HD 16004
+HD 16028
+HD 160342
+HD 160529
+HD 1606
+HD 16175
+HD 16175 b
+HD 161840
+HD 161988
+HD 162020
+HD 162826
+HD 163145
+HD 163376
+HD 163607 b
+HD 163607 c
+HD 163840
+HD 16417 b
+HD 164427
+HD 164509
+HD 164595
+HD 164595 b
+HD 164604
+HD 164604 b
+HD 164712
+HD 164922
+HD 164922 b
+HD 164922 c
+HD 165185
+HD 165189
+HD 165259
+HD 165493
+HD 165516
+HD 165590
+HD 165634
+HD 166
+HD 166006
+HD 166066
+HD 166724
+HD 167042
+HD 167042 b
+HD 167257
+HD 16754
+HD 16760
+HD 167665
+HD 167818
+HD 167965
+HD 168009
+HD 168443
+HD 168443 b
+HD 168607
+HD 168625
+HD 168746
+HD 1690
+HD 169142
+HD 169405
+HD 16955
+HD 169830
+HD 169830 b
+HD 169830 c
+HD 170069
+HD 170469
+HD 170469 b
+HD 170657
+HD 17092
+HD 17092 b
+HD 171028
+HD 171028 b
+HD 171238
+HD 171238 b
+HD 171301
+HD 17156
+HD 17156 b
+HD 171819
+HD 171978
+HD 172044
+HD 172051
+HD 172555
+HD 172910
+HD 173416
+HD 173416 b
+HD 173417
+HD 173780
+HD 173791
+HD 173936
+HD 174179
+HD 174387
+HD 174569
+HD 175167
+HD 175167 b
+HD 175289
+HD 175443
+HD 175535
+HD 175541
+HD 175541 b
+HD 175740
+HD 176051
+HD 176527
+HD 176693
+HD 176871
+HD 177808
+HD 177809
+HD 177830
+HD 178233
+HD 178911
+HD 178911 Bb
+HD 179070
+HD 179079
+HD 179079 b
+HD 17925
+HD 179791
+HD 179821
+HD 179886
+HD 179949
+HD 179949 b
+HD 180262
+HD 180314
+HD 180450
+HD 180555
+HD 180902
+HD 180902 b
+HD 181068
+HD 181342
+HD 181342 b
+HD 181433
+HD 181433 b
+HD 181433 c
+HD 181433 d
+HD 181720
+HD 181720 b
+HD 182475
+HD 182509
+HD 182681
+HD 183143
+HD 183144
+HD 183263
+HD 183263 b
+HD 183263 c
+HD 185018
+HD 185269
+HD 185269 b
+HD 186302
+HD 187085
+HD 187085 b
+HD 187123
+HD 187123 b
+HD 187123 c
+HD 187734
+HD 187923
+HD 188015
+HD 188015 b
+HD 188385
+HD 188405
+HD 188753
+HD 189245
+HD 189276
+HD 189567
+HD 18970
+HD 189733
+HD 189733 b
+HD 189831
+HD 190007
+HD 190056
+HD 190228
+HD 190647
+HD 190647 b
+HD 190984
+HD 190984 b
+HD 191104
+HD 191760
+HD 191806
+HD 191806 b
+HD 191829
+HD 191939
+HD 191984
+HD 192263
+HD 192263 b
+HD 192310
+HD 192310 b
+HD 192310 c
+HD 192685
+HD 192699
+HD 192699 b
+HD 19275
+HD 193307
+HD 193322
+HD 193373
+HD 193472
+HD 193556
+HD 193664
+HD 193721
+HD 194012
+HD 194244
+HD 194612
+HD 19467 B
+HD 194953
+HD 195019
+HD 195019 b
+HD 195564
+HD 196050
+HD 196050 b
+HD 196761
+HD 196775
+HD 196885
+HD 196885 Ab
+HD 197027
+HD 197036
+HD 197037
+HD 19789
+HD 198404
+HD 199223
+HD 199442
+HD 199942
+HD 20003
+HD 200044
+HD 200375
+HD 200661
+HD 200964
+HD 20104
+HD 201298
+HD 201507
+HD 202206
+HD 202206 c
+HD 202259
+HD 202628
+HD 202951
+HD 203030
+HD 203473
+HD 203473 b
+HD 20367
+HD 20367 b
+HD 203842
+HD 203857
+HD 2039
+HD 203949
+HD 2039 b
+HD 204313
+HD 204313 b
+HD 204521
+HD 20468
+HD 205739
+HD 205739 b
+HD 205765
+HD 205877
+HD 206267
+HD 20644
+HD 206610 b
+HD 207129
+HD 20781
+HD 20781 b
+HD 20781 c
+HD 20782
+HD 20782 b
+HD 207832
+HD 208177
+HD 208487
+HD 208487 b
+HD 208527
+HD 20868
+HD 20868 b
+HD 208741
+HD 209458
+HD 209458 b
+HD 210277
+HD 210277 b
+HD 210434
+HD 210702
+HD 210702 b
+HD 21071
+HD 211073
+HD 211392
+HD 211415
+HD 211575
+HD 212301
+HD 212301 b
+HD 212771
+HD 212771 b
+HD 21278
+HD 213240
+HD 213240 b
+HD 213429
+HD 21389
+HD 214448
+HD 21447
+HD 214810
+HD 215114
+HD 215152
+HD 215456
+HD 215497
+HD 215497 b
+HD 215497 c
+HD 216446
+HD 216718
+HD 216770
+HD 216770 b
+HD 217107
+HD 217107 b
+HD 217107 c
+HD 217382
+HD 21749
+HD 217786
+HD 218566
+HD 219077
+HD 219134
+HD 219134 b
+HD 219134 c
+HD 219134 d
+HD 219134 f
+HD 219134 g
+HD 219134 h
+HD 219279
+HD 219617
+HD 219623
+HD 219659
+HD 219828
+HD 219828 b
+HD 220035
+HD 220074
+HD 220105
+HD 220466
+HD 220689
+HD 220773
+HD 221148
+HD 221246
+HD 221287
+HD 221287 b
+HD 221420
+HD 221525
+HD 221776
+HD 222093
+HD 222095
+HD 222109
+HD 222155
+HD 222399
+HD 222582
+HD 222582 b
+HD 222806
+HD 222925
+HD 223229
+HD 223311
+HD 224635
+HD 224693
+HD 224693 b
+HD 224801
+HD 225218
+HD 22663
+HD 22676
+HD 22781
+HD 23079
+HD 23079 b
+HD 23089
+HD 23127
+HD 23127 b
+HD 231701
+HD 231701 b
+HD 23277
+HD 23319
+HD 233731
+HD 23474
+HD 23514
+HD 23596
+HD 23596 b
+HD 23753
+HD 240210
+HD 240210 b
+HD 240237
+HD 240237 b
+HD 24040
+HD 24040 b
+HD 240429/240430
+HD 24160
+HD 2421
+HD 24479
+HD 24480
+HD 24496
+HD 2454
+HD 25171
+HD 25291
+HD 256
+HD 259431
+HD 260655
+HD 2638
+HD 2638 b
+HD 26764
+HD 268835
+HD 269810
+HD 27022
+HD 27245
+HD 27274
+HD 27631
+HD 27631 b
+HD 2767
+HD 27894
+HD 27894 b
+HD 28185
+HD 28185 b
+HD 28246
+HD 28254
+HD 28254 b
+HD 283572
+HD 28375
+HD 283750
+HD 28454
+HD 28527
+HD 28700
+HD 290327
+HD 290327 b
+HD 2942
+HD 29559
+HD 29573
+HD 29587
+HD 29697
+HD 3
+HD 30080
+HD 30177
+HD 30177 b
+HD 30442
+HD 30453
+HD 30479
+HD 30562
+HD 30562 b
+HD 30963
+HD 31093
+HD 316285
+HD 3167
+HD 31975
+HD 32034
+HD 32188
+HD 32309
+HD 3240
+HD 32450
+HD 32453
+HD 32515
+HD 32518
+HD 32518 b
+HD 326823
+HD 330075
+HD 330075 b
+HD 33203
+HD 3322
+HD 33266
+HD 33283
+HD 33283 b
+HD 3346
+HD 33463
+HD 33519
+HD 33564
+HD 33564 b
+HD 33579
+HD 33636
+HD 33875
+HD 34266
+HD 3443
+HD 34445
+HD 34445 b
+HD 34557
+HD 34626
+HD 34790
+HD 34868
+HD 34880
+HD 34968
+HD 34989
+HD 35184
+HD 35519
+HD 35520
+HD 35619
+HD 35759
+HD 35984
+HD 36041
+HD 36112
+HD 36678
+HD 36780
+HD 36848
+HD 36960
+HD 37017
+HD 37124
+HD 37124 b
+HD 37124 c
+HD 37124 d
+HD 37519
+HD 37605
+HD 37605 b
+HD 37646
+HD 37756
+HD 37811
+HD 37974
+HD 38282
+HD 38283
+HD 38283 b
+HD 38529
+HD 38529 b
+HD 38801 b
+HD 38858
+HD 39194
+HD 39225
+HD 39901
+HD 40307
+HD 40307 b
+HD 40307 c
+HD 40307 d
+HD 40307 e
+HD 40307 f
+HD 40307 g
+HD 40409
+HD 40657
+HD 40873
+HD 40979
+HD 40979 b
+HD 41004
+HD 41004 Ab
+HD 4113
+HD 4113 b
+HD 41162
+HD 41248
+HD 41534
+HD 41742/41700
+HD 4203
+HD 4203 b
+HD 4208
+HD 4208 b
+HD 42540
+HD 42618
+HD 42818
+HD 42936
+HD 4308
+HD 4308 b
+HD 4313
+HD 4313 b
+HD 43197
+HD 43197 b
+HD 43587
+HD 43691
+HD 43691 b
+HD 43848
+HD 4391
+HD 44120
+HD 44131
+HD 44219
+HD 44219 b
+HD 44594
+HD 44780
+HD 45184
+HD 45350
+HD 45350 b
+HD 45364
+HD 45364 b
+HD 45364 c
+HD 45652
+HD 45652 b
+HD 4628
+HD 46375
+HD 46375 b
+HD 46568
+HD 46588
+HD 46815
+HD 47186
+HD 47186 b
+HD 47186 c
+HD 4732
+HD 47366
+HD 4747
+HD 47475
+HD 47500
+HD 47536
+HD 47536 b
+HD 47536 c
+HD 47667
+HD 4778
+HD 48099
+HD 48265
+HD 48265 b
+HD 49268
+HD 49674
+HD 49674 b
+HD 49798
+HD 49878
+HD 49933
+HD 49947
+HD 49976
+HD 50002
+HD 50064
+HD 50235
+HD 50281
+HD 50499
+HD 50499 b
+HD 50554
+HD 50554 b
+HD 51799
+HD 52265
+HD 52265 b
+HD 53143
+HD 5319
+HD 5319 b
+HD 53367
+HD 53501
+HD 53705/53706/53680
+HD 53811
+HD 5388
+HD 54893
+HD 55151
+HD 5608
+HD 56405
+HD 56456
+HD 56577
+HD 56618
+HD 57197
+HD 57821
+HD 5789/5788
+HD 59612
+HD 59686
+HD 59686 b
+HD 5980
+HD 59890
+HD 6
+HD 60150
+HD 60532
+HD 60532 b
+HD 60532 c
+HD 60803
+HD 60863
+HD 61005
+HD 6114
+HD 61248
+HD 61330
+HD 61563
+HD 61772
+HD 61831
+HD 63032
+HD 63454
+HD 63454 b
+HD 63513
+HD 63584
+HD 63744
+HD 63765
+HD 63922
+HD 64307
+HD 6434
+HD 6434 b
+HD 64440
+HD 64484
+HD 64740
+HD 64760
+HD 65216
+HD 65216 b
+HD 65750
+HD 65810
+HD 66141
+HD 66428
+HD 66428 b
+HD 66920
+HD 6718
+HD 68375
+HD 68402
+HD 68601
+HD 68988
+HD 68988 b
+HD 68988 c
+HD 69142
+HD 69830
+HD 69830 b
+HD 69830 c
+HD 69830 d
+HD 69863
+HD 70060
+HD 70514
+HD 70555
+HD 70573
+HD 70573 b
+HD 70642
+HD 70642 b
+HD 70930
+HD 71334
+HD 71863
+HD 7199
+HD 72108
+HD 72337
+HD 72561
+HD 72659
+HD 72659 b
+HD 72922
+HD 72945
+HD 73256
+HD 73256 b
+HD 73267
+HD 73267 b
+HD 73389
+HD 73390
+HD 73468
+HD 73526
+HD 73526 b
+HD 73526 c
+HD 73534
+HD 73534 b
+HD 73634
+HD 73882
+HD 74156
+HD 74156 b
+HD 74156 c
+HD 74180
+HD 74272
+HD 74389
+HD 74423
+HD 74438
+HD 7449
+HD 74772
+HD 75063
+HD 75171
+HD 75289
+HD 75289 b
+HD 75710
+HD 75898
+HD 76143
+HD 76151
+HD 76236
+HD 76270
+HD 76653
+HD 76700
+HD 76700 b
+HD 76728
+HD 76805
+HD 77258
+HD 77338
+HD 77370
+HD 77887
+HD 77912
+HD 78004
+HD 7853
+HD 7924
+HD 7924 b
+HD 79447
+HD 79498
+HD 79917
+HD 79940
+HD 80194
+HD 80230
+HD 80606 and HD 80607
+HD 80606 b
+HD 81040
+HD 81040 b
+HD 81101
+HD 81799
+HD 81817
+HD 82205
+HD 82514
+HD 82741
+HD 82785
+HD 82886
+HD 82943
+HD 82943 b
+HD 82943 c
+HD 83058
+HD 83095
+HD 83183
+HD 83332
+HD 83380
+HD 83443
+HD 83443 b
+HD 83446
+HD 83944
+HD 83953
+HD 84117
+HD 84810
+HD 8535
+HD 8535 b
+HD 85390
+HD 85390 b
+HD 85512
+HD 85512 b
+HD 85622
+HD 85725
+HD 8574
+HD 8574 b
+HD 85859
+HD 85951
+HD 86081
+HD 86081 b
+HD 86226
+HD 86226 b
+HD 86264
+HD 86264 b
+HD 86267
+HD 8673
+HD 87643
+HD 87822
+HD 87883
+HD 87883 b
+HD 88133
+HD 88133 b
+HD 88206
+HD 88218
+HD 88366
+HD 88522
+HD 88809
+HD 88836
+HD 88955
+HD 88981
+HD 89307
+HD 89307 b
+HD 89345 b
+HD 895
+HD 89571
+HD 89744
+HD 89744 b
+HD 89890
+HD 89998
+HD 90089
+HD 90132
+HD 90156
+HD 90156 b
+HD 90264
+HD 90853
+HD 91190
+HD 91312
+HD 91324
+HD 91496
+HD 91942
+HD 92036
+HD 92063
+HD 92209
+HD 92589
+HD 92788
+HD 92788 b
+HD 92845
+HD 92945
+HD 93083
+HD 93083 b
+HD 93129
+HD 93194
+HD 93205
+HD 93250
+HD 93385
+HD 93403
+HD 93521
+HD 93607
+HD 93833
+HD 93905
+HD 9446
+HD 9446 b
+HD 9446 c
+HD 94510
+HD 95086
+HD 95086 b
+HD 95109
+HD 95370
+HD 9578
+HD 9578 b
+HD 95808
+HD 96146
+HD 96167
+HD 96167 b
+HD 96566
+HD 96700
+HD 96819
+HD 96919
+HD 97048
+HD 97413
+HD 97658
+HD 98176
+HD 98219
+HD 98618
+HD 98649
+HD 98800
+HD 99109
+HD 99109 b
+HD 99706
+HD 9986
+HD 99922
+HE 0107-5240
+HE 0437-5439
+HE 1327-2326
+HE 1523-0901
+HFLS3
+HIP 100963
+HIP 116454 b
+HIP 11915
+HIP 11915 b
+HIP 11952
+HIP 12961
+HIP 13044
+HIP 14810
+HIP 14810 b
+HIP 14810 c
+HIP 14810 d
+HIP 41378
+HIP 41378 b
+HIP 41378 c
+HIP 41378 d
+HIP 41378 e
+HIP 41378 f
+HIP 5158
+HIP 5158 b
+HIP 5158 c
+HIP 56948
+HIP 57050
+HIP 57274
+HIP 57274 d
+HIP 65426 b
+HIP 67522 b
+HIP 70849
+HIP 70849 b
+HIP 78530 b
+HIP 79098
+HIP 79431
+HIP 79431 b
+HIP 85605
+HK Aquarii
+HK Tauri
+HLX-1
+HL Tau 76
+HL Tauri
+Indus
+Innes' star
+Juliet
+Jupiter
+Jupiter LI
+Jupiter LII
+Jupiter LIV
+Jupiter LIX
+Jupiter LV
+Jupiter LVI
+Jupiter LXI
+Jupiter LXIII
+Jupiter LXIV
+Jupiter LXIX
+Jupiter LXVI
+Jupiter LXVII
+Jupiter LXVIII
+Jupiter LXX
+Jupiter LXXII
+Milky Way
+Neon-burning process
+Neptune
+Nereid
+Neso
+Nix
+Regulus
+Scholz's Star
+Scorpius
+Sculptor
+Sculptor Dwarf Galaxy
+Scutum
+Segue 1
+Segue 2
+Sher 25
+Thrymr
+Thuban
+Thyone
+Triangulum
+Triangulum Australe
+Triangulum Galaxy
+Triangulum II
+Deimos
+Delphinus
+Delta1 Canis Minoris
+Delta1 Chamaeleontis
+Delta1 Gruis
+Delta1 Lyrae
+Delta1 Tauri
+Delta1 Telescopii
+Delta2 Canis Minoris
+Delta2 Chamaeleontis
+Delta2 Gruis
+Delta2 Lyrae
+Delta2 Tauri
+Delta2 Telescopii
+Delta3 Canis Minoris
+Delta3 Tauri
+Delta Andromedae
+Delta Antliae
+Delta Apodis
+Delta Aquarii
+Delta Aquilae
+Delta Arae
+Delta Arietis
+Delta Aurigae
+Delta Boötis
+Delta Caeli
+Delta Cancri
+Delta Canis Majoris
+Delta Capricorni
+Delta Cassiopeiae
+Delta Centauri
+Delta Cephei
+Delta Ceti
+Delta Circini
+Delta Columbae
+Delta Coronae Australis
+Delta Coronae Borealis
+Delta Corvi
+Delta Crateris
+Delta Crucis
+Delta Cygni
+Delta Delphini
+Delta Doradus
+Delta Draconis
+Delta Equulei
+Delta Eridani
+Delta Fornacis
+Delta Geminorum
+Delta Herculis
+Delta Horologii
+Delta Hydrae
+Delta Hydri
+Delta Indi
+Delta Leonis
+Delta Leporis
+Delta Librae
+Delta Lupi
+Delta Mensae
+Delta Microscopii
+Delta Monocerotis
+Delta Muscae
+Delta Normae
+Delta Octantis
+Delta Ophiuchi
+Delta Pavonis
+Delta Persei
+Delta Phoenicis
+Delta Pictoris
+Delta Piscis Austrini
+Delta Piscium
+Delta Pyxidis
+Delta Reticuli
+Delta Sagittae
+Delta Sagittarii
+Delta Scorpii
+Delta Sculptoris
+Delta Scuti
+Delta Serpentis
+Delta Sextantis
+Delta Trianguli
+Delta Trianguli Australis
+Delta Tucanae
+Delta Ursae Majoris
+Delta Ursae Minoris
+Delta Velorum
+Delta Virginis
+Delta Volantis
+Deneb
+Denebola
+Desdemona
+Despina
+Farbauti
+Feige 55
+Fenrir
+Ferdinand
+GAMA202627
+GCIRS 16SW
+GCIRS 7
+GCRT J1745−3009
+GD 165
+GD 356
+GD 358
+GD 362
+GD 40
+GD 61
+GD 66
+GG Carinae
+GG Tauri
+GI Monocerotis
+GJ 1005
+GJ 1128
+GJ 1151
+GJ 1245
+GJ 3379
+GJ 3991
+GJ 9827
+GK Persei
+GK Tauri
+GLASS-z13
+GL Virginis
+GN-108036
+GN-z11
+GNz7q
+GOODS-N-774
+GP Andromedae
+GP Comae Berenices
+GQ Lupi
+GQ Lupi b
+GQ Muscae
+GRO J1655-40
+GRO J1719-24
+GRS 1915+105
+GRW +70 8247
+GR 8
+GR Andromedae
+GSC 02620-00648
+GSC 02652-01324
+GSC 03089-00929
+GSC 03549-02811
+GSC 03949-00967
+GS 2000+25
+GU Piscium
+GU Piscium b
+GV Tauri
+GW Orionis
+GX 339-4
+GX Velorum
+GY Andromedae
+GZ Velorum
+G 117-B15A
+G 185-32
+G 196-3
+G 240-72
+G 29-38
+G 9-38
+G 9-40 b
+G 99-47
+G Centauri
+G Scorpii
+Gacrux
+Gaia Sausage
+Galatea
+Gamma1 Caeli
+Gamma1 Fornacis
+Gamma1 Normae
+Gamma1 Octantis
+Gamma2 Fornacis
+Gamma2 Normae
+Gamma2 Octantis
+Gamma2 Sagittarii
+Gamma3 Octantis
+Gamma Andromedae
+Gamma Apodis
+Gamma Aquarii
+Gamma Aquilae
+Gamma Arae
+Gamma Arietis
+Gamma Boötis
+Gamma Camelopardalis
+Gamma Cancri
+Gamma Canis Majoris
+Gamma Canis Minoris
+Gamma Capricorni
+Gamma Cassiopeiae
+Gamma Centauri
+Gamma Cephei
+Gamma Cephei Ab
+Gamma Ceti
+Gamma Chamaeleontis
+Gamma Circini
+Gamma Columbae
+Gamma Comae Berenices
+Gamma Coronae Australis
+Gamma Coronae Borealis
+Gamma Corvi
+Gamma Crateris
+Gamma Cygni
+Gamma Delphini
+Gamma Doradus
+Gamma Draconis
+Gamma Equulei
+Gamma Eridani
+Gamma Geminorum
+Gamma Gruis
+Gamma Herculis
+Gamma Horologii
+Gamma Hydrae
+Gamma Hydri
+Gamma Leonis
+Gamma Leonis b
+Gamma Leporis
+Gamma Librae
+Gamma Lupi
+Gamma Lyrae
+Gamma Mensae
+Gamma Microscopii
+Gamma Monocerotis
+Gamma Muscae
+Gamma Ophiuchi
+Gamma Pavonis
+Gamma Pegasi
+Gamma Persei
+Gamma Phoenicis
+Gamma Pictoris
+Gamma Piscis Austrini
+Gamma Piscium
+Gamma Pyxidis
+Gamma Reticuli
+Gamma Sagittae
+Gamma Sculptoris
+Gamma Scuti
+Gamma Serpentis
+Gamma Sextantis
+Gamma Tauri
+Gamma Trianguli
+Gamma Trianguli Australis
+Gamma Tucanae
+Gamma Ursae Majoris
+Gamma Ursae Minoris
+Gamma Velorum
+Gamma Virginis
+Gamma Volantis
+Ganymede
+Gomez's Hamburger
+Kepler-10
+Kepler-102
+Kepler-107
+Kepler-10b
+Kepler-10c
+Kepler-11
+Kepler-11b
+Kepler-11c
+Kepler-11d
+Kepler-11e
+Kepler-11f
+Kepler-11g
+Kepler-12
+Kepler-1229
+Kepler-1229b
+Kepler-124b
+Kepler-12b
+Kepler-13
+Kepler-138
+Kepler-14
+Kepler-14b
+Kepler-15
+Kepler-1520
+Kepler-1520b
+Kepler-1544 b
+Kepler-15b
+Kepler-16
+Kepler-160
+Kepler-1625
+Kepler-1625b
+Kepler-1625b I
+Kepler-1638
+Kepler-1647b
+Kepler-1649
+Kepler-1649c
+Kepler-1652b
+Kepler-16b
+Kepler-17
+Kepler-1704b
+Kepler-1708b
+Kepler-1708b I
+Kepler-174
+Kepler-174b
+Kepler-174c
+Kepler-174d
+Kepler-17b
+Kepler-18
+Kepler-182
+Kepler-186
+Kepler-186b
+Kepler-186e
+Kepler-186f
+Kepler-19
+Kepler-19b
+Kepler-19c
+Kepler-20
+Kepler-20b
+Kepler-20c
+Kepler-20d
+Kepler-20e
+Kepler-20f
+Kepler-20g
+Kepler-22
+Kepler-223
+Kepler-22b
+Kepler-23
+Kepler-23b
+Kepler-23c
+Kepler-24
+Kepler-24b
+Kepler-24c
+Kepler-24d
+Kepler-24e
+Kepler-25
+Kepler-25b
+Kepler-25c
+Kepler-26
+Kepler-26e
+Kepler-27
+Kepler-277b
+Kepler-277c
+Kepler-28
+Kepler-283c
+Kepler-28b
+Kepler-29
+Kepler-296
+Kepler-296b
+Kepler-296c
+Kepler-296e
+Kepler-296f
+Kepler-298d
+Kepler-30
+Kepler-31
+Kepler-32
+Kepler-32b
+Kepler-32c
+Kepler-33
+Kepler-33b
+Kepler-34
+Kepler-34b
+Kepler-35
+Kepler-36
+Kepler-36b
+Kepler-37
+Kepler-371
+Kepler-371b
+Kepler-371c
+Kepler-37b
+Kepler-37c
+Kepler-37d
+Kepler-38
+Kepler-39
+Kepler-390c
+Kepler-395c
+Kepler-39b
+Kepler-4
+Kepler-40
+Kepler-40b
+Kepler-41
+Kepler-411
+Kepler-413b
+Kepler-419
+Kepler-419b
+Kepler-419c
+Kepler-41b
+Kepler-42
+Kepler-421
+Kepler-421b
+Kepler-42c
+Kepler-43
+Kepler-432
+Kepler-432b
+Kepler-438
+Kepler-438b
+Kepler-44
+Kepler-440b
+Kepler-442
+Kepler-442b
+Kepler-443b
+Kepler-444
+Kepler-445b
+Kepler-445c
+Kepler-445d
+Kepler-447b
+Kepler-45
+Kepler-451b
+Kepler-452
+Kepler-452b
+Kepler-453b
+Kepler-46
+Kepler-47
+Kepler-47b
+Kepler-47c
+Kepler-4b
+Kepler-5
+Kepler-51
+Kepler-56
+Kepler-560b
+Kepler-56b
+Kepler-56c
+Kepler-59b
+Kepler-5b
+Kepler-6
+Kepler-60d
+Kepler-61
+Kepler-61b
+Kepler-62
+Kepler-62b
+Kepler-62c
+Kepler-62d
+Kepler-62e
+Kepler-62f
+Kepler-63
+Kepler-635
+Kepler-65
+Kepler-66
+Kepler-67
+Kepler-68
+Kepler-68b
+Kepler-68c
+Kepler-68d
+Kepler-69
+Kepler-69b
+Kepler-69c
+Kepler-6b
+Kepler-7
+Kepler-70
+Kepler-705b
+Kepler-70b
+Kepler-70c
+Kepler-71
+Kepler-737
+Kepler-737b
+Kepler-76b
+Kepler-78
+Kepler-78b
+Kepler-7b
+Kepler-8
+Kepler-80
+Kepler-84
+Kepler-87c
+Kepler-88
+Kepler-89
+Kepler-89e
+Kepler-8b
+Kepler-9
+Kepler-90
+Kepler-90e
+Kepler-90f
+Kepler-90g
+Kepler-90h
+Kepler-90i
+Kepler-91b
+Kepler-93b
+Kepler-9b
+Kepler-9c
+Kepler-9d
+Kerberos
+Kruger 60
+Lexell's Comet
+Mayall's Object
+Methone
+Mice Galaxies
+N6946-BH1
+NGC 1
+NGC 10
+NGC 100
+NGC 1000
+NGC 1001
+NGC 1003
+NGC 1004
+NGC 101
+NGC 1015
+NGC 1019
+NGC 102
+NGC 1022
+NGC 1023
+NGC 1032
+NGC 1042
+NGC 105
+NGC 1052
+NGC 1052-DF2
+NGC 1055
+NGC 1058
+NGC 106
+NGC 1060
+NGC 107
+NGC 1073
+NGC 1077
+NGC 108
+NGC 1084
+NGC 1087
+NGC 109
+NGC 1090
+NGC 1097
+NGC 112
+NGC 1128
+NGC 113
+NGC 1132
+NGC 1134
+NGC 114
+NGC 1140
+NGC 1142
+NGC 115
+NGC 1156
+NGC 116
+NGC 1160
+NGC 1161
+NGC 1169
+NGC 117
+NGC 1172
+NGC 118
+NGC 1187
+NGC 1189
+NGC 119
+NGC 1190
+NGC 1191
+NGC 1192
+NGC 1199
+NGC 12
+NGC 120
+NGC 1210
+NGC 1222
+NGC 1232
+NGC 1234
+NGC 124
+NGC 1241
+NGC 1249
+NGC 125
+NGC 1250
+NGC 1255
+NGC 1259
+NGC 126
+NGC 1260
+NGC 1262
+NGC 1264
+NGC 1265
+NGC 1266
+NGC 1267
+NGC 1268
+NGC 127
+NGC 1270
+NGC 1271
+NGC 1272
+NGC 1273
+NGC 1274
+NGC 1275
+NGC 1276
+NGC 1277
+NGC 1278
+NGC 1279
+NGC 128
+NGC 1281
+NGC 1282
+NGC 1283
+NGC 1288
+NGC 1291
+NGC 1293
+NGC 1294
+NGC 13
+NGC 130
+NGC 1300
+NGC 1309
+NGC 131
+NGC 1310
+NGC 1313
+NGC 1316
+NGC 1317
+NGC 132
+NGC 1325
+NGC 1326
+NGC 1332
+NGC 1334
+NGC 1337
+NGC 134
+NGC 1341
+NGC 1345
+NGC 1347
+NGC 135
+NGC 1350
+NGC 1351
+NGC 1353
+NGC 1357
+NGC 1365
+NGC 1369
+NGC 137
+NGC 1374
+NGC 1375
+NGC 1379
+NGC 138
+NGC 1380
+NGC 1381
+NGC 1386
+NGC 1387
+NGC 139
+NGC 1395
+NGC 1398
+NGC 1399
+NGC 14
+NGC 140
+NGC 1400
+NGC 1403
+NGC 1404
+NGC 1406
+NGC 1407
+NGC 1409
+NGC 141
+NGC 1410
+NGC 142
+NGC 1425
+NGC 1426
+NGC 1427
+NGC 1427A
+NGC 1428
+NGC 143
+NGC 1433
+NGC 1436
+NGC 1439
+NGC 144
+NGC 1448
+NGC 145
+NGC 1452
+NGC 1460
+NGC 147
+NGC 148
+NGC 1483
+NGC 1484
+NGC 1487
+NGC 149
+NGC 15
+NGC 150
+NGC 151
+NGC 1510
+NGC 1512
+NGC 1531
+NGC 1532
+NGC 1533
+NGC 154
+NGC 1549
+NGC 155
+NGC 1553
+NGC 1559
+NGC 156
+NGC 1560
+NGC 1566
+NGC 1569
+NGC 157
+NGC 1573
+NGC 158
+NGC 159
+NGC 1592
+NGC 16
+NGC 160
+NGC 1600
+NGC 161
+NGC 1614
+NGC 162
+NGC 1624-2
+NGC 163
+NGC 1637
+NGC 164
+NGC 165
+NGC 166
+NGC 167
+NGC 1672
+NGC 168
+NGC 1683
+NGC 169
+NGC 17
+NGC 170
+NGC 1705
+NGC 171
+NGC 172
+NGC 1721
+NGC 1723
+NGC 1725
+NGC 1728
+NGC 173
+NGC 174
+NGC 1741
+NGC 177
+NGC 178
+NGC 179
+NGC 1792
+NGC 18
+NGC 180
+NGC 1803
+NGC 1808
+NGC 181
+NGC 182
+NGC 183
+NGC 184
+NGC 185
+NGC 186
+NGC 187
+NGC 1892
+NGC 19
+NGC 190
+NGC 1901
+NGC 191
+NGC 191A
+NGC 192
+NGC 1924
+NGC 193
+NGC 194
+NGC 195
+NGC 196
+NGC 1961
+NGC 1964
+NGC 197
+NGC 1979
+NGC 198
+NGC 1988
+NGC 1989
+NGC 199
+NGC 1992
+NGC 1993
+NGC 1995
+NGC 1998
+NGC 2
+NGC 200
+NGC 201
+NGC 202
+NGC 203
+NGC 204
+NGC 207
+NGC 208
+NGC 2082
+NGC 209
+NGC 2090
+NGC 21
+NGC 210
+NGC 2108
+NGC 2119
+NGC 212
+NGC 213
+NGC 214
+NGC 2146
+NGC 215
+NGC 216
+NGC 217
+NGC 218
+NGC 2188
+NGC 219
+NGC 22
+NGC 2207 and IC 2163
+NGC 2217
+NGC 2227
+NGC 223
+NGC 226
+NGC 227
+NGC 2273
+NGC 2276
+NGC 228
+NGC 2280
+NGC 229
+NGC 2291
+NGC 2293
+NGC 2294
+NGC 23
+NGC 230
+NGC 2300
+NGC 232
+NGC 2326
+NGC 2328
+NGC 233
+NGC 2336
+NGC 234
+NGC 235
+NGC 2357
+NGC 236
+NGC 2363-V1
+NGC 2366
+NGC 237
+NGC 238
+NGC 239
+NGC 2397
+NGC 24
+NGC 240
+NGC 2403
+NGC 2423-3 b
+NGC 243
+NGC 244
+NGC 2441
+NGC 2442 and NGC 2443
+NGC 245
+NGC 2460
+NGC 247
+NGC 25
+NGC 250
+NGC 2500
+NGC 2503
+NGC 251
+NGC 252
+NGC 2525
+NGC 2535
+NGC 2536
+NGC 2537
+NGC 254
+NGC 2541
+NGC 255
+NGC 2552
+NGC 257
+NGC 2573
+NGC 258
+NGC 259
+NGC 26
+NGC 260
+NGC 2608
+NGC 2613
+NGC 262
+NGC 2623
+NGC 263
+NGC 264
+NGC 2655
+NGC 266
+NGC 2663
+NGC 268
+NGC 2681
+NGC 2683
+NGC 2685
+NGC 27
+NGC 270
+NGC 271
+NGC 2715
+NGC 273
+NGC 274
+NGC 2748
+NGC 275
+NGC 276
+NGC 2768
+NGC 277
+NGC 2770
+NGC 2775
+NGC 278
+NGC 2782
+NGC 2787
+NGC 279
+NGC 2798
+NGC 28
+NGC 280
+NGC 2800
+NGC 2801
+NGC 2803
+NGC 2812
+NGC 282
+NGC 283
+NGC 2835
+NGC 284
+NGC 2841
+NGC 285
+NGC 2857
+NGC 2859
+NGC 286
+NGC 2865
+NGC 287
+NGC 289
+NGC 2903
+NGC 2906
+NGC 291
+NGC 2915
+NGC 293
+NGC 2936
+NGC 2950
+NGC 296
+NGC 2964
+NGC 297
+NGC 2974
+NGC 2976
+NGC 298
+NGC 2985
+NGC 2992
+NGC 2997
+NGC 2998
+NGC 3
+NGC 300
+NGC 3001
+NGC 3003
+NGC 3005
+NGC 3006
+NGC 3007
+NGC 3008
+NGC 3009
+NGC 301
+NGC 302
+NGC 3021
+NGC 303
+NGC 304
+NGC 3041
+NGC 3048
+NGC 3054
+NGC 3059
+NGC 307
+NGC 3073
+NGC 3077
+NGC 3079
+NGC 308
+NGC 3081
+NGC 309
+NGC 31
+NGC 310
+NGC 3109
+NGC 311
+NGC 3115
+NGC 312
+NGC 314
+NGC 3147
+NGC 315
+NGC 3156
+NGC 316
+NGC 3169
+NGC 317
+NGC 3172
+NGC 3175
+NGC 318
+NGC 3184
+NGC 3185
+NGC 319
+NGC 3190
+NGC 3191
+NGC 3198
+NGC 320
+NGC 321
+NGC 322
+NGC 3223
+NGC 3226
+NGC 3227
+NGC 323
+NGC 3239
+NGC 324
+NGC 3244
+NGC 3245
+NGC 325
+NGC 3254
+NGC 3256
+NGC 3258
+NGC 3259
+NGC 326
+NGC 3260
+NGC 3267
+NGC 3268
+NGC 3269
+NGC 327
+NGC 3271
+NGC 3274
+NGC 328
+NGC 3281
+NGC 3285
+NGC 329
+NGC 3294
+NGC 3301
+NGC 3302
+NGC 3305
+NGC 3307
+NGC 3308
+NGC 3309
+NGC 331
+NGC 3310
+NGC 3311
+NGC 3312
+NGC 3313
+NGC 3314
+NGC 3315
+NGC 3316
+NGC 3319
+NGC 332
+NGC 333
+NGC 3336
+NGC 334
+NGC 3344
+NGC 335
+NGC 3357
+NGC 3359
+NGC 336
+NGC 3367
+NGC 3369
+NGC 337
+NGC 3370
+NGC 3377
+NGC 338
+NGC 3384
+NGC 3393
+NGC 340
+NGC 3402
+NGC 341
+NGC 3412
+NGC 3414
+NGC 342
+NGC 3426
+NGC 343
+NGC 3432
+NGC 344
+NGC 345
+NGC 3455
+NGC 3464
+NGC 347
+NGC 348
+NGC 3486
+NGC 3489
+NGC 349
+NGC 35
+NGC 350
+NGC 3501
+NGC 3504
+NGC 3506
+NGC 351
+NGC 3511
+NGC 352
+NGC 3521
+NGC 353
+NGC 3539
+NGC 354
+NGC 3545B
+NGC 355
+NGC 3550
+NGC 3552
+NGC 3553
+NGC 3554
+NGC 3558
+NGC 356
+NGC 3561
+NGC 357
+NGC 358
+NGC 3585
+NGC 359
+NGC 3593
+NGC 3596
+NGC 3597
+NGC 3598
+NGC 3599
+NGC 36
+NGC 360
+NGC 3602
+NGC 3603-A1
+NGC 3603-B
+NGC 3603-C
+NGC 3605
+NGC 3607
+NGC 3608
+NGC 3610
+NGC 3613
+NGC 3619
+NGC 3621
+NGC 3628
+NGC 363
+NGC 3631
+NGC 3632
+NGC 364
+NGC 3640
+NGC 3642
+NGC 365
+NGC 3656
+NGC 3664
+NGC 3665
+NGC 3666
+NGC 3669
+NGC 367
+NGC 3675
+NGC 368
+NGC 3686
+NGC 369
+NGC 3697
+NGC 37
+NGC 370
+NGC 3705
+NGC 371
+NGC 3717
+NGC 3718
+NGC 372
+NGC 3726
+NGC 3729
+NGC 373
+NGC 3738
+NGC 374
+NGC 3741
+NGC 3749
+NGC 375
+NGC 377
+NGC 378
+NGC 3783
+NGC 379
+NGC 3794
+NGC 38
+NGC 380
+NGC 3805
+NGC 3810
+NGC 3816
+NGC 3818
+NGC 382
+NGC 3821
+NGC 383
+NGC 3837
+NGC 384
+NGC 3840
+NGC 3841
+NGC 3842
+NGC 3844
+NGC 3845
+NGC 385
+NGC 3851
+NGC 3857
+NGC 3859
+NGC 386
+NGC 3860
+NGC 3861
+NGC 3862
+NGC 3864
+NGC 3867
+NGC 3868
+NGC 387
+NGC 3873
+NGC 3875
+NGC 3877
+NGC 388
+NGC 3883
+NGC 3884
+NGC 3886
+NGC 389
+NGC 3893
+NGC 3898
+NGC 39
+NGC 390
+NGC 3900
+NGC 3902
+NGC 391
+NGC 392
+NGC 3921
+NGC 3923
+NGC 3925
+NGC 3928
+NGC 393
+NGC 3937
+NGC 3938
+NGC 394
+NGC 3941
+NGC 3945
+NGC 3949
+NGC 3953
+NGC 396
+NGC 397
+NGC 3972
+NGC 398
+NGC 3981
+NGC 3982
+NGC 399
+NGC 3998
+NGC 400
+NGC 401
+NGC 4013
+NGC 402
+NGC 4026
+NGC 4027
+NGC 403
+NGC 4030
+NGC 4033
+NGC 4036
+NGC 404
+NGC 4041
+NGC 405
+NGC 4051
+NGC 4055
+NGC 4056
+NGC 406
+NGC 4060
+NGC 4065
+NGC 4066
+NGC 407
+NGC 4070
+NGC 4072
+NGC 4074
+NGC 4076
+NGC 408
+NGC 4084
+NGC 4086
+NGC 4088
+NGC 4089
+NGC 409
+NGC 4090
+NGC 4091
+NGC 4092
+NGC 4093
+NGC 4095
+NGC 4098
+NGC 41
+NGC 410
+NGC 4100
+NGC 4102
+NGC 4111
+NGC 4121
+NGC 4125
+NGC 413
+NGC 4138
+NGC 414
+NGC 4144
+NGC 4145
+NGC 415
+NGC 4150
+NGC 4151
+NGC 4163
+NGC 417
+NGC 4178
+NGC 4179
+NGC 418
+NGC 4183
+NGC 4194
+NGC 42
+NGC 420
+NGC 4203
+NGC 4206
+NGC 4207
+NGC 4212
+NGC 4214
+NGC 4216
+NGC 4217
+NGC 4221
+NGC 4222
+NGC 423
+NGC 4236
+NGC 4237
+NGC 424
+NGC 4242
+NGC 4244
+NGC 4245
+NGC 425
+NGC 4252
+NGC 426
+NGC 4260
+NGC 4261
+NGC 4262
+NGC 4267
+NGC 427
+NGC 4274
+NGC 4278
+NGC 428
+NGC 429
+NGC 4293
+NGC 4294
+NGC 4296
+NGC 4297
+NGC 4298
+NGC 4299
+NGC 43
+NGC 430
+NGC 4302
+NGC 4305
+NGC 4306
+NGC 4307
+NGC 4308
+NGC 4309
+NGC 431
+NGC 4312
+NGC 4313
+NGC 4314
+NGC 4316
+NGC 4318
+NGC 4319
+NGC 432
+NGC 4320
+NGC 4323
+NGC 4324
+NGC 4326
+NGC 4333
+NGC 434
+NGC 4340
+NGC 4343
+NGC 435
+NGC 4359
+NGC 4365
+NGC 437
+NGC 438
+NGC 4380
+NGC 4388
+NGC 439
+NGC 4393
+NGC 4394
+NGC 4395
+NGC 440
+NGC 4402
+NGC 441
+NGC 4414
+NGC 442
+NGC 4420
+NGC 4424
+NGC 4429
+NGC 443
+NGC 4436
+NGC 444
+NGC 4440
+NGC 4444
+NGC 4448
+NGC 4449
+NGC 445
+NGC 4450
+NGC 4451
+NGC 4452
+NGC 4454
+NGC 4455
+NGC 4457
+NGC 4458
+NGC 4459
+NGC 446
+NGC 4461
+NGC 4464
+NGC 4466
+NGC 4467
+NGC 4468
+NGC 4469
+NGC 447
+NGC 4473
+NGC 4474
+NGC 4476
+NGC 4477
+NGC 4478
+NGC 4479
+NGC 448
+NGC 4482
+NGC 4483
+NGC 4485
+NGC 4488
+NGC 4489
+NGC 449
+NGC 4490
+NGC 4491
+NGC 4492
+NGC 4494
+NGC 4497
+NGC 4498
+NGC 45
+NGC 450
+NGC 4500
+NGC 4502
+NGC 4503
+NGC 4506
+NGC 451
+NGC 4513
+NGC 4515
+NGC 4516
+NGC 4517
+NGC 4519
+NGC 452
+NGC 4522
+NGC 4523
+NGC 4526
+NGC 4527
+NGC 4528
+NGC 4531
+NGC 4534
+NGC 4535
+NGC 4536
+NGC 454
+NGC 4540
+NGC 4544
+NGC 4546
+NGC 455
+NGC 4550
+NGC 4551
+NGC 4555
+NGC 4559
+NGC 4561
+NGC 4564
+NGC 4565
+NGC 4567 and NGC 4568
+NGC 4570
+NGC 4571
+NGC 4578
+NGC 4580
+NGC 4586
+NGC 4589
+NGC 459
+NGC 4595
+NGC 4596
+NGC 4598
+NGC 46
+NGC 4603
+NGC 4605
+NGC 4606
+NGC 4607
+NGC 4608
+NGC 461
+NGC 4612
+NGC 4614
+NGC 4618
+NGC 462
+NGC 4620
+NGC 4622
+NGC 4623
+NGC 4625
+NGC 4627
+NGC 463
+NGC 4630
+NGC 4631
+NGC 4633
+NGC 4634
+NGC 4636
+NGC 4637
+NGC 4638
+NGC 4639
+NGC 464
+NGC 4643
+NGC 4647
+NGC 4650A
+NGC 4651
+NGC 4654
+NGC 4656 and NGC 4657
+NGC 4658
+NGC 4659
+NGC 466
+NGC 4660
+NGC 4665
+NGC 4666
+NGC 467
+NGC 468
+NGC 4683
+NGC 4689
+NGC 469
+NGC 4694
+NGC 4696
+NGC 4697
+NGC 4698
+NGC 4699
+NGC 47
+NGC 470
+NGC 4700
+NGC 4701
+NGC 4706
+NGC 4707
+NGC 4709
+NGC 471
+NGC 4710
+NGC 472
+NGC 4725
+NGC 4729
+NGC 473
+NGC 4730
+NGC 4731
+NGC 4733
+NGC 474
+NGC 4743
+NGC 4744
+NGC 4746
+NGC 475
+NGC 4753
+NGC 4754
+NGC 476
+NGC 4762
+NGC 477
+NGC 4777
+NGC 478
+NGC 4780
+NGC 4781
+NGC 479
+NGC 4790
+NGC 48
+NGC 480
+NGC 4800
+NGC 481
+NGC 482
+NGC 483
+NGC 484
+NGC 4845
+NGC 4848
+NGC 485
+NGC 486
+NGC 4860
+NGC 4861
+NGC 4866
+NGC 4868
+NGC 487
+NGC 4871
+NGC 4872
+NGC 4873
+NGC 4874
+NGC 4875
+NGC 4876
+NGC 488
+NGC 4881
+NGC 4883
+NGC 4886
+NGC 4889
+NGC 489
+NGC 4892
+NGC 4895
+NGC 49
+NGC 490
+NGC 4900
+NGC 4907
+NGC 491
+NGC 4911
+NGC 4918
+NGC 4919
+NGC 492
+NGC 4921
+NGC 493
+NGC 4939
+NGC 494
+NGC 4945
+NGC 495
+NGC 496
+NGC 497
+NGC 4976
+NGC 498
+NGC 4980
+NGC 4984
+NGC 499
+NGC 4993
+NGC 4995
+NGC 4999
+NGC 50
+NGC 500
+NGC 5000
+NGC 5001
+NGC 5002
+NGC 5003
+NGC 5005
+NGC 501
+NGC 5010
+NGC 5011
+NGC 5018
+NGC 502
+NGC 5023
+NGC 5026
+NGC 503
+NGC 5030
+NGC 5033
+NGC 5034
+NGC 504
+NGC 505
+NGC 5050
+NGC 506
+NGC 5068
+NGC 507
+NGC 5078
+NGC 508
+NGC 5084
+NGC 5087
+NGC 509
+NGC 5090 and NGC 5091
+NGC 51
+NGC 5101
+NGC 5102
+NGC 511
+NGC 5112
+NGC 5114
+NGC 512
+NGC 513
+NGC 514
+NGC 5144
+NGC 515
+NGC 516
+NGC 5161
+NGC 5164
+NGC 517
+NGC 5170
+NGC 5177
+NGC 518
+NGC 519
+NGC 5195
+NGC 5198
+NGC 52
+NGC 520
+NGC 5201
+NGC 5204
+NGC 521
+NGC 522
+NGC 5223
+NGC 5229
+NGC 523
+NGC 5238
+NGC 524
+NGC 5247
+NGC 5248
+NGC 525
+NGC 5253
+NGC 5256
+NGC 526
+NGC 5264
+NGC 527
+NGC 528
+NGC 5291
+NGC 53
+NGC 530
+NGC 5300
+NGC 5308
+NGC 531
+NGC 532
+NGC 5322
+NGC 533
+NGC 5331
+NGC 5334
+NGC 534
+NGC 5343
+NGC 535
+NGC 536
+NGC 5363
+NGC 5364
+NGC 5371
+NGC 538
+NGC 5384
+NGC 539
+NGC 5395
+NGC 5398
+NGC 54
+NGC 540
+NGC 5408
+NGC 541
+NGC 542
+NGC 5422
+NGC 543
+NGC 545
+NGC 546
+NGC 5468
+NGC 547
+NGC 5470
+NGC 5473
+NGC 5474
+NGC 5477
+NGC 548
+NGC 549
+NGC 5490
+NGC 55
+NGC 550
+NGC 5523
+NGC 5529
+NGC 5533
+NGC 5544
+NGC 5545
+NGC 5548
+NGC 5557
+NGC 5559
+NGC 5562
+NGC 5566
+NGC 5575
+NGC 5579
+NGC 5582
+NGC 5584
+NGC 5585
+NGC 560
+NGC 5609
+NGC 5613
+NGC 5614
+NGC 5615
+NGC 5619
+NGC 5624
+NGC 5640
+NGC 5643
+NGC 5653
+NGC 5665
+NGC 5668
+NGC 5676
+NGC 5678
+NGC 5679 Group
+NGC 5682
+NGC 57
+NGC 570
+NGC 5705
+NGC 5713
+NGC 5714
+NGC 5728
+NGC 5746
+NGC 575
+NGC 5750
+NGC 5752
+NGC 5753
+NGC 5754
+NGC 5755
+NGC 5765
+NGC 5774
+NGC 5775
+NGC 5792
+NGC 5793
+NGC 5806
+NGC 5820
+NGC 5821
+NGC 5829
+NGC 5837
+NGC 5838
+NGC 584
+NGC 5846
+NGC 585
+NGC 5861
+NGC 5866
+NGC 5879
+NGC 5886
+NGC 5890
+NGC 59
+NGC 5907
+NGC 5910
+NGC 5917
+NGC 5921
+NGC 5929
+NGC 5930
+NGC 5949
+NGC 596
+NGC 5962
+NGC 5964
+NGC 5965
+NGC 5966
+NGC 5970
+NGC 5982
+NGC 5985
+NGC 60
+NGC 600
+NGC 6000
+NGC 6002
+NGC 6027
+NGC 6027a
+NGC 6027b
+NGC 6027c
+NGC 6027d
+NGC 6027e
+NGC 6028
+NGC 6039
+NGC 6040
+NGC 6041
+NGC 6043
+NGC 6044
+NGC 6045
+NGC 6047
+NGC 605
+NGC 6052
+NGC 6053
+NGC 6054
+NGC 6055
+NGC 6056
+NGC 606
+NGC 6061
+NGC 608
+NGC 6085
+NGC 6086
+NGC 6090
+NGC 61
+NGC 6104
+NGC 6118
+NGC 612
+NGC 6120
+NGC 613
+NGC 615
+NGC 6158
+NGC 6166
+NGC 6181
+NGC 62
+NGC 620
+NGC 6207
+NGC 6212
+NGC 6215
+NGC 6217
+NGC 622
+NGC 6221
+NGC 623
+NGC 6239
+NGC 624
+NGC 6240
+NGC 6248
+NGC 625
+NGC 6251
+NGC 6256
+NGC 6263
+NGC 6285
+NGC 6286
+NGC 63
+NGC 630
+NGC 6300
+NGC 6328
+NGC 634
+NGC 6340
+NGC 635
+NGC 636
+NGC 6373
+NGC 6375
+NGC 6384
+NGC 6394
+NGC 64
+NGC 6412
+NGC 644
+NGC 645
+NGC 6452
+NGC 65
+NGC 6503
+NGC 6509
+NGC 655
+NGC 656
+NGC 6560
+NGC 6566
+NGC 6570
+NGC 66
+NGC 660
+NGC 6621
+NGC 6670
+NGC 668
+NGC 669
+NGC 67
+NGC 670
+NGC 672
+NGC 6744
+NGC 6745
+NGC 6753
+NGC 676
+NGC 677
+NGC 6782
+NGC 6786
+NGC 6789
+NGC 679
+NGC 68
+NGC 680
+NGC 6801
+NGC 681
+NGC 6810
+NGC 6814
+NGC 6822
+NGC 6822-WR 12
+NGC 684
+NGC 6850
+NGC 6861
+NGC 687
+NGC 6872
+NGC 688
+NGC 69
+NGC 690
+NGC 6902
+NGC 6907
+NGC 691
+NGC 6925
+NGC 694
+NGC 6946
+NGC 695
+NGC 6951
+NGC 6975
+NGC 6984
+NGC 7
+NGC 70
+NGC 700
+NGC 7001
+NGC 7002
+NGC 7003
+NGC 7004
+NGC 7007
+NGC 701
+NGC 7010
+NGC 7012
+NGC 7013
+NGC 7014
+NGC 7015
+NGC 7016
+NGC 7019
+NGC 7020
+NGC 7022
+NGC 7025
+NGC 7028
+NGC 7029
+NGC 703
+NGC 7030
+NGC 7032
+NGC 7033
+NGC 7034
+NGC 7035 and NGC 7035A
+NGC 7038
+NGC 704
+NGC 7040
+NGC 7041
+NGC 7041B
+NGC 7042
+NGC 7043
+NGC 7046
+NGC 7047
+NGC 7049
+NGC 705
+NGC 7051
+NGC 7052
+NGC 7053
+NGC 7056
+NGC 7057
+NGC 7059
+NGC 706
+NGC 7060
+NGC 7061
+NGC 7064
+NGC 7065
+NGC 7066
+NGC 7068
+NGC 7069
+NGC 7070
+NGC 7070A
+NGC 7072
+NGC 7073
+NGC 7074
+NGC 7075
+NGC 7077
+NGC 7079
+NGC 708
+NGC 7080
+NGC 7081
+NGC 7083
+NGC 7085
+NGC 7087
+NGC 709
+NGC 7090
+NGC 7095
+NGC 7096
+NGC 7098
+NGC 71
+NGC 710
+NGC 712
+NGC 713
+NGC 7130
+NGC 714
+NGC 717
+NGC 7184
+NGC 719
+NGC 7190
+NGC 7191
+NGC 7196
+NGC 7199
+NGC 72
+NGC 720
+NGC 721
+NGC 7213
+NGC 7217
+NGC 725
+NGC 7250
+NGC 7252
+NGC 7257
+NGC 7259
+NGC 73
+NGC 7301
+NGC 7302
+NGC 7303
+NGC 731
+NGC 7314
+NGC 7315
+NGC 7317
+NGC 7318
+NGC 7319
+NGC 732
+NGC 7320
+NGC 7320c
+NGC 7331
+NGC 7332
+NGC 734
+NGC 736
+NGC 739
+NGC 74
+NGC 740
+NGC 741
+NGC 7410
+NGC 7418
+NGC 7424
+NGC 7448
+NGC 7457
+NGC 7459
+NGC 7469
+NGC 7479
+NGC 7499
+NGC 75
+NGC 750
+NGC 7501
+NGC 7503
+NGC 7507
+NGC 751
+NGC 7513
+NGC 7522
+NGC 753
+NGC 7531
+NGC 7537
+NGC 7544
+NGC 755
+NGC 7552
+NGC 7582
+NGC 7583
+NGC 7585
+NGC 759
+NGC 7592
+NGC 76
+NGC 7600
+NGC 7603
+NGC 7606
+NGC 7610
+NGC 7619
+NGC 7640
+NGC 765
+NGC 766
+NGC 767
+NGC 7673
+NGC 7674
+NGC 7679
+NGC 768
+NGC 769
+NGC 77
+NGC 770
+NGC 7714
+NGC 772
+NGC 7723
+NGC 7727
+NGC 7741
+NGC 7742
+NGC 7752 and NGC 7753
+NGC 7759
+NGC 7767
+NGC 777
+NGC 7773
+NGC 7777
+NGC 779
+NGC 7793
+NGC 78
+NGC 781
+NGC 7812
+NGC 7814
+NGC 7816
+NGC 782
+NGC 7835
+NGC 7836
+NGC 7837
+NGC 7838
+NGC 784
+NGC 7840
+NGC 788
+NGC 79
+NGC 790
+NGC 8
+NGC 80
+NGC 800
+NGC 801
+NGC 802
+NGC 803
+NGC 804
+NGC 805
+NGC 806
+NGC 807
+NGC 81
+NGC 810
+NGC 811
+NGC 812
+NGC 813
+NGC 814
+NGC 817
+NGC 819
+NGC 82
+NGC 820
+NGC 821
+NGC 822
+NGC 823
+NGC 824
+NGC 825
+NGC 83
+NGC 830
+NGC 834
+NGC 838
+NGC 839
+NGC 84
+NGC 840
+NGC 85
+NGC 850
+NGC 852
+NGC 86
+NGC 860
+NGC 861
+NGC 862
+NGC 87
+NGC 874
+NGC 877
+NGC 88
+NGC 880
+NGC 89
+NGC 890
+NGC 891
+NGC 9
+NGC 90
+NGC 900
+NGC 901
+NGC 902
+NGC 903
+NGC 904
+NGC 905
+NGC 906
+NGC 908
+NGC 91
+NGC 910
+NGC 911
+NGC 912
+NGC 913
+NGC 918
+NGC 92
+NGC 920
+NGC 922
+NGC 925
+NGC 93
+NGC 931
+NGC 935 and IC 1801
+NGC 936
+NGC 937
+NGC 938
+NGC 939
+NGC 94
+NGC 940
+NGC 941
+NGC 95
+NGC 950
+NGC 953
+NGC 959
+NGC 96
+NGC 960
+NGC 965
+NGC 966
+NGC 97
+NGC 970
+NGC 972
+NGC 973
+NGC 98
+NGC 980
+NGC 985
+NGC 986
+NGC 988
+NGC 99
+NGC 990
+NGC 991
+NGC 992
+NGC 995
+NGC 996
+NGC 997
+NGC 998
+NGC 999
+NGTS-1
+NGTS-13b
+NGTS-14Ab
+NGTS-1b
+NGTS-3
+NGTS-3Ab
+NML Cygni
+NN Serpentis
+NO Apodis
+NO Aurigae
+NQ Vulpeculae
+NR Canis Majoris
+NR Vulpeculae
+NSVS 14256825
+NSV 1436
+Narvi
+Valetudo
+Van Maanen 2
+Vanth
+Var 83
+Warida
+Whirlpool Galaxy
+Wray 17-96
+CoRoT-1
+CoRoT-10b
+CoRoT-11b
+CoRoT-12b
+CoRoT-13b
+CoRoT-14b
+CoRoT-15b
+CoRoT-16
+CoRoT-16b
+CoRoT-17b
+CoRoT-18b
+CoRoT-19b
+CoRoT-1b
+CoRoT-2
+CoRoT-20b
+CoRoT-20c
+CoRoT-21b
+CoRoT-22b
+CoRoT-23b
+CoRoT-24b
+CoRoT-24c
+CoRoT-2b
+CoRoT-3
+CoRoT-3b
+CoRoT-4
+CoRoT-4b
+CoRoT-5
+CoRoT-5b
+CoRoT-6
+CoRoT-6b
+CoRoT-7
+CoRoT-7b
+CoRoT-7c
+CoRoT-8b
+CoRoT-9b
+Coatlicue
+Collapsar
+Columba
+Coma Berenices
+Coma Berenices
+Comet Galaxy
+Comet Hyakutake
+Comet IRAS–Araki–Alcock
+Cor Caroli
+Cordelia
+Corona Australis
+Corona Borealis
+Corvus
+Cosmic Horseshoe
+Cosmos Redshift 7
+Crab Pulsar
+Crater
+Crater 2 Dwarf
+Elara
+Electra
+Elias 2-27
+Enceladus
+Epimetheus
+Epsilon1 Arae
+Epsilon2 Arae
+Epsilon Andromedae
+Epsilon Antliae
+Epsilon Apodis
+Epsilon Aquarii
+Epsilon Aquilae
+Epsilon Arietis
+Epsilon Aurigae
+Epsilon Boötis
+Epsilon Cancri
+Epsilon Canis Majoris
+Epsilon Canis Minoris
+Epsilon Capricorni
+Epsilon Carinae
+Epsilon Cassiopeiae
+Epsilon Centauri
+Epsilon Cephei
+Epsilon Ceti
+Epsilon Chamaeleontis
+Epsilon Circini
+Epsilon Columbae
+Epsilon Coronae Australis
+Epsilon Coronae Borealis
+Epsilon Corvi
+Epsilon Crateris
+Epsilon Crucis
+Epsilon Cygni
+Epsilon Delphini
+Epsilon Doradus
+Epsilon Draconis
+Epsilon Equulei
+Epsilon Eridani
+Epsilon Eridani b
+Epsilon Fornacis
+Epsilon Geminorum
+Epsilon Gruis
+Epsilon Herculis
+Epsilon Hydrae
+Epsilon Hydri
+Epsilon Indi
+Epsilon Leonis
+Epsilon Leporis
+Epsilon Librae
+Epsilon Lupi
+Epsilon Lyrae
+Epsilon Mensae
+Epsilon Microscopii
+Epsilon Monocerotis
+Epsilon Muscae
+Epsilon Normae
+Epsilon Octantis
+Epsilon Ophiuchi
+Epsilon Pavonis
+Epsilon Pegasi
+Epsilon Persei
+Epsilon Phoenicis
+Epsilon Piscis Austrini
+Epsilon Piscium
+Epsilon Pyxidis
+Epsilon Reticuli
+Epsilon Reticuli b
+Epsilon Sagittae
+Epsilon Sagittarii
+Epsilon Scorpii
+Epsilon Sculptoris
+Epsilon Scuti
+Epsilon Serpentis
+Epsilon Sextantis
+Epsilon Tauri
+Epsilon Tauri b
+Epsilon Telescopii
+Epsilon Trianguli
+Epsilon Trianguli Australis
+Epsilon Tucanae
+Epsilon Ursae Majoris
+Epsilon Ursae Minoris
+Epsilon Virginis
+Epsilon Volantis
+Equuleus
+Eridanus
+Eridanus II
+Erinome
+Eris
+Fornax
+Fornax Dwarf
+Fornjot
+Four Advisors
+Francisco
+Gerd
+Gliese 1
+Gliese 105
+Gliese 1061
+Gliese 1062
+Gliese 1132
+Gliese 1132 b
+Gliese 1214
+Gliese 1214 b
+Gliese 146
+Gliese 15 Ab
+Gliese 15 Ac
+Gliese 163
+Gliese 163 c
+Gliese 176
+Gliese 176 b
+Gliese 179
+Gliese 179 b
+Gliese 180
+Gliese 205
+Gliese 208
+Gliese 22
+Gliese 221
+Gliese 229
+Gliese 251
+Gliese 268
+Gliese 282
+Gliese 3021 b
+Gliese 317
+Gliese 317 b
+Gliese 318
+Gliese 328
+Gliese 3293
+Gliese 3323
+Gliese 3470
+Gliese 3470 b
+Gliese 3512
+Gliese 357
+Gliese 357 d
+Gliese 3634
+Gliese 3634 b
+Gliese 367
+Gliese 367 b
+Gliese 3685
+Gliese 393
+Gliese 402
+Gliese 408
+Gliese 412
+Gliese 42
+Gliese 422 b
+Gliese 433
+Gliese 436
+Gliese 436 b
+Gliese 445
+Gliese 486
+Gliese 49
+Gliese 504 b
+Gliese 514
+Gliese 521
+Gliese 526
+Gliese 536 b
+Gliese 54
+Gliese 555
+Gliese 569
+Gliese 570
+Gliese 581
+Gliese 581b
+Gliese 581c
+Gliese 581d
+Gliese 581e
+Gliese 581g
+Gliese 588
+Gliese 623
+Gliese 625
+Gliese 638
+Gliese 649
+Gliese 649 b
+Gliese 667
+Gliese 667 Cb
+Gliese 667 Cc
+Gliese 673
+Gliese 674
+Gliese 674 b
+Gliese 676
+Gliese 682
+Gliese 686
+Gliese 687
+Gliese 69
+Gliese 693
+Gliese 710
+Gliese 752
+Gliese 754
+Gliese 758
+Gliese 758 B
+Gliese 777
+Gliese 777 b
+Gliese 777 c
+Gliese 784
+Gliese 806
+Gliese 809
+Gliese 829
+Gliese 832
+Gliese 832 b
+Gliese 832 c
+Gliese 849
+Gliese 849 b
+Gliese 86
+Gliese 86 b
+Gliese 876
+Gliese 876 b
+Gliese 876 c
+Gliese 876 d
+Gliese 876 e
+Gliese 877
+Gliese 880
+Gliese 908
+Ijiraq
+Ilmarë
+K2-138
+K2-138b
+K2-141b
+K2-146b
+K2-148b
+K2-155d
+K2-18
+K2-187
+K2-18b
+K2-19
+K2-21b
+K2-21c
+K2-229
+K2-229b
+K2-22b
+K2-236b
+K2-239
+K2-24
+K2-24b
+K2-24c
+K2-28
+K2-288Bb
+K2-296b
+K2-3
+K2-315
+K2-315b
+K2-32
+K2-33
+K2-33b
+K2-38b
+K2-3b
+K2-3c
+K2-3d
+K2-58
+K2-66b
+K2-72
+K2-72b
+K2-72c
+K2-72d
+K2-72e
+KELT-1
+KELT-10
+KELT-10b
+KELT-11b
+KELT-18b
+KELT-2A
+KELT-2Ab
+KELT-3
+KELT-3b
+KELT-4Ab
+KELT-6
+KELT-6b
+KELT-9b
+KH 15D
+KIC 10001893
+KIC 11026764
+KIC 9832227
+KKR 03
+KKR 25
+KK Andromedae
+KKh 060
+KKs 3
+KOI-256
+KOI-4878.01
+KOI-5
+KOI-74
+KOI-81
+Kappa1 Apodis
+Kappa1 Ceti
+Kappa1 Coronae Australis
+Kappa1 Lupi
+Kappa1 Sagittarii
+Kappa1 Sculptoris
+Kappa2 Apodis
+Kappa2 Ceti
+Kappa2 Coronae Australis
+Kappa2 Lupi
+Kappa2 Sagittarii
+Kappa2 Sculptoris
+Kappa Andromedae
+Kappa Andromedae b
+Kappa Aquarii
+Kappa Aquilae
+Kappa Arae
+Kappa Arietis
+Kappa Aurigae
+Kappa Boötis
+Kappa Cancri
+Kappa Canis Majoris
+Kappa Capricorni
+Kappa Cassiopeiae
+Kappa Centauri
+Kappa Cephei
+Kappa Chamaeleontis
+Kappa Columbae
+Kappa Coronae Borealis
+Kappa Coronae Borealis b
+Kappa Crateris
+Kappa Crucis
+Kappa Cygni
+Kappa Delphini
+Kappa Draconis
+Kappa Eridani
+Kappa Fornacis
+Kappa Geminorum
+Kappa Gruis
+Kappa Herculis
+Kappa Hydrae
+Kappa Leonis
+Kappa Leporis
+Kappa Librae
+Kappa Lyrae
+Kappa Mensae
+Kappa Normae
+Kappa Octantis
+Kappa Ophiuchi
+Kappa Pavonis
+Kappa Pegasi
+Kappa Persei
+Kappa Phoenicis
+Kappa Pictoris
+Kappa Piscium
+Kappa Pyxidis
+Kappa Reticuli
+Kappa Scorpii
+Kappa Serpentis
+Kappa Tauri
+Kappa Telescopii
+Kappa Trianguli Australis
+Kappa Tucanae
+Kappa Ursae Majoris
+Kappa Velorum
+Kappa Virginis
+Kappa Volantis
+Kapteyn's Star
+Kapteyn b
+Kapteyn c
+Kari
+Kojima-1Lb
+Kore
+Lead star
+Leda
+Linus
+Lupus-TR-3
+Lupus-TR-3b
+Lupus
+Luyten's Star
+Luyten 726-8
+Luyten b
+Lynx
+Lyra
+Lysithea
+Maia
+Makemake
+Malin 1
+Markarian 177
+Markarian 231
+Markarian 335
+Markarian 501
+Mars
+Megaclite
+Meissa
+Microscopium
+Pictor
+Pictor A
+Pinwheel Galaxy
+Serpens
+Setebos
+Sextans
+Sextans A
+Sextans B
+Sextans Dwarf Spheroidal
+Sha Po Lang
+Siarnaq
+Sidus Ludoviciana
+Sigma1 Cancri
+Sigma1 Gruis
+Sigma1 Ursae Majoris
+Sigma2 Cancri
+Sigma2 Gruis
+Sigma2 Ursae Majoris
+Sigma3 Cancri
+Sigma Andromedae
+Sigma Aquarii
+Sigma Aquilae
+Sigma Arae
+Sigma Arietis
+Sigma Aurigae
+Sigma Boötis
+Sigma Canis Majoris
+Sigma Capricorni
+Sigma Cassiopeiae
+Sigma Centauri
+Sigma Ceti
+Sigma Columbae
+Sigma Coronae Borealis
+Sigma Cygni
+Sigma Draconis
+Sigma Geminorum
+Sigma Herculis
+Sigma Hydrae
+Sigma Leonis
+Sigma Librae
+Sigma Lupi
+Sigma Octantis
+Sigma Ophiuchi
+Sigma Orionis
+Sigma Pegasi
+Sigma Persei
+Sigma Piscium
+Sigma Puppis
+Sigma Sagittarii
+Sigma Scorpii
+Sigma Sculptoris
+Sigma Serpentis
+Sigma Tauri
+Sigma Virginis
+Sinope
+Sirius
+Spica
+Sponde
+Spring Triangle
+Stein 2051
+Stephano
+Stephenson 2-18
+Sycorax
+Tololo 1247-232
+Ymir
+Chi1 Hydrae
+Chi1 Orionis
+Chi1 Sagittarii
+Chi2 Hydrae
+Chi2 Orionis
+Chi3 Sagittarii
+Chi Andromedae
+Chi Aquarii
+Chi Aquilae
+Chi Aurigae
+Chi Boötis
+Chi Cancri
+Chi Capricorni
+Chi Carinae
+Chi Cassiopeiae
+Chi Centauri
+Chi Ceti
+Chi Cygni
+Chi Draconis
+Chi Eridani
+Chi Geminorum
+Chi Herculis
+Chi Leonis
+Chi Lupi
+Chi Octantis
+Chi Ophiuchi
+Chi Pegasi
+Chi Piscium
+Chi Puppis
+Chi Scorpii
+Chi Serpentis
+Chi Tauri
+Chi Ursae Majoris
+Chi Virginis
+Chi Virginis b
+Circinus
+Circinus Galaxy
+Circinus X-1
+DDO 169
+DDO 190
+DDO 44
+DD Microscopii
+DENIS-P J020529.0−115925
+DENIS-P J082303.1−491201 b
+DENIS-P J1058.7−1548
+DENIS-P J1228.2−1547
+DENIS 0255−4700
+DENIS J081730.0−615520
+DENIS J082303.1−491201
+DENIS J1048−3956
+DG Canum Venaticorum
+DG Tauri B
+DH Cephei
+DH Tauri
+DI Chamaeleontis
+DI Herculis
+DI Lacertae
+DK Lacertae
+DL Crucis
+DL Tauri
+DM Geminorum
+DM Lyrae
+DN160822 03
+DN Geminorum
+DN Orionis
+DP Leonis
+DP Leonis b
+DQ Herculis
+DS Andromedae
+DS Crucis
+DS Tucanae
+DT Virginis
+DU Crucis
+DU Lyncis
+DV Aquarii
+DX Andromedae
+DX Cancri
+DY Centauri
+DY Pegasi
+DY Persei
+D Centauri
+Dactyl
+Daphnis
+Dia
+Dimorphos
+Dwingeloo 1
+Dwingeloo 2
+Dysnomia
+EBLM J0555-57
+EC 20058-5234
+EE Pegasi
+EF Eridani
+EGS-zs8-1
+EGSY8p7
+EG Andromedae
+EK Trianguli Australis
+EL Aquilae
+EO Aurigae
+EPIC 204278916
+EPIC 204376071
+EP Aquarii
+EQ Pegasi
+EQ Tauri
+EQ Virginis
+ER Vulpeculae
+ESO 137-001
+ESO 146-5
+ESO 198-13
+ESO 235-58
+ESO 269-57
+ESO 306-17
+ESO 325-G004
+ESO 439-26
+ESO 444-46
+ESO 510-G13
+ESO 540-030
+ESO 593-8
+ESO 603-G21
+ET Andromedae
+ET Virginis
+EU Andromedae
+EU Tauri
+EV Carinae
+EV Lacertae
+EW Aquarii
+EX Hydrae
+EX Lupi
+EZ Aquarii
+EZ Canis Majoris
+E Centauri
+Earth
+Earth phase
+East-Asian Planet Search Network
+Eggther
+Eirene
+Erriapus
+Ersa
+Eta1 Coronae Australis
+Eta1 Doradus
+Eta1 Hydri
+Eta1 Pictoris
+Eta2 Coronae Australis
+Eta2 Doradus
+Eta2 Hydri
+Eta2 Hydri b
+Eta2 Pictoris
+Eta Andromedae
+Eta Antliae
+Eta Apodis
+Eta Aquarii
+Eta Aquilae
+Eta Arae
+Eta Arietis
+Eta Aurigae
+Eta Boötis
+Eta Cancri
+Eta Canis Majoris
+Eta Canis Minoris
+Eta Capricorni
+Eta Carinae
+Eta Cassiopeiae
+Eta Centauri
+Eta Cephei
+Eta Ceti
+Eta Chamaeleontis
+Eta Circini
+Eta Columbae
+Eta Coronae Borealis
+Eta Corvi
+Eta Crateris
+Eta Crucis
+Eta Cygni
+Eta Delphini
+Eta Draconis
+Eta Eridani
+Eta Geminorum
+Eta Gruis
+Eta Herculis
+Eta Horologii
+Eta Hydrae
+Eta Indi
+Eta Leonis
+Eta Leporis
+Eta Lupi
+Eta Lyrae
+Eta Mensae
+Eta Microscopii
+Eta Muscae
+Eta Normae
+Eta Octantis
+Eta Ophiuchi
+Eta Orionis
+Eta Pavonis
+Eta Pegasi
+Eta Persei
+Eta Phoenicis
+Eta Piscis Austrini
+Eta Piscium
+Eta Pyxidis
+Eta Reticuli
+Eta Sagittae
+Eta Sagittarii
+Eta Scorpii
+Eta Sculptoris
+Eta Scuti
+Eta Serpentis
+Eta Telescopii
+Eta Trianguli Australis
+Eta Tucanae
+Eta Ursae Majoris
+Eta Ursae Minoris
+Eta Virginis
+Eta Volantis
+Euanthe
+Eukelade
+Eupheme
+Euporie
+Europa
+Eurydome
+Eyes Galaxies
+FF Andromedae
+FF Aquilae
+FG Sagittae
+FG Virginis
+FH Serpentis
+FK Comae Berenices
+FL Lyrae
+FM Circini
+FN Canis Majoris
+FO Aquarii
+FSC 15307+3253
+FS Canis Majoris
+FU Orionis
+FU Tauri
+F Centauri
+F Eridani
+F Hydrae
+Flag of Alaska
+Flying serpent
+Fomalhaut
+Fomalhaut C
+Fomalhaut b
+Huchra's lens
+Hulse–Taylor binary
+J Centauri
+Janus
+Jarnsaxa
+Kelu-1
+Mimas
+Mimosa
+Mintaka
+Mira
+Mira B
+Monoceros
+Moon
+Proxima Centauri
+Proxima Centauri b
+Proxima Centauri c
+Proxima Centauri d
+Przybylski's Star
+Psamathe
+Psi1 Aurigae
+Psi1 Draconis
+Psi1 Lupi
+Psi1 Piscium
+Psi2 Aquarii
+Psi2 Aurigae
+Psi2 Draconis
+Psi2 Lupi
+Psi2 Orionis
+Psi2 Piscium
+Psi3 Aquarii
+Psi3 Aurigae
+Psi3 Piscium
+Psi4 Aurigae
+Psi5 Aurigae
+Psi6 Aurigae
+Psi7 Aurigae
+Psi8 Aurigae
+Psi9 Aurigae
+Psi Andromedae
+Psi Aquilae
+Psi Boötis
+Psi Capricorni
+Psi Cassiopeiae
+Psi Centauri
+Psi Crateris
+Psi Cygni
+Psi Eridani
+Psi Hydrae
+Psi Leonis
+Psi Octantis
+Psi Ophiuchi
+Psi Pegasi
+Psi Persei
+Psi Phoenicis
+Psi Sagittarii
+Psi Scorpii
+Psi Serpentis
+Psi Tauri
+Psi Ursae Majoris
+Psi Velorum
+Psi Virginis
+Puck
+RD1
+RIK-210
+ROXs 12
+ROXs 42Bb
+RR Caeli
+RR Centauri
+RR Coronae Borealis
+RR Lyncis
+RR Lyrae
+RR Pictoris
+RR Telescopii
+RR Ursae Minoris
+RSGC1-F01
+RSGC1-F02
+RS Canum Venaticorum
+RS Ophiuchi
+RS Persei
+RS Puppis
+RS Telescopii
+RT Andromedae
+RT Aurigae
+RT Carinae
+RT Normae
+RT Trianguli Australis
+RU Camelopardalis
+RU Lupi
+RU Ursae Minoris
+RV Andromedae
+RV Caeli
+RV Corvi
+RV Tauri
+RW Aurigae
+RW Cephei
+RW Cygni
+RW Tauri
+RW Ursae Minoris
+RX Andromedae
+RX J0720.4−3125
+RX J0806.3+1527
+RX J0822−4300
+RX J1242−11
+RX J1856.5−3754
+RX Leporis
+RX Telescopii
+RY Sagittarii
+RY Tauri
+RZ Gruis
+RZ Leonis Minoris
+RZ Normae
+RZ Piscium
+RZ Pyxidis
+R Andromedae
+R Apodis
+R Aquarii
+R Aquilae
+R Arae
+R Aurigae
+R Boötis
+R Cancri
+R Canis Majoris
+R Canum Venaticorum
+R Capricorni
+R Carinae
+R Cassiopeiae
+R Centauri
+R Coronae Australis
+R Coronae Borealis
+R Corvi
+R Crucis
+R Cygni
+R Doradus
+R Equulei
+R Fornacis
+R Geminorum
+R Horologii
+R Hydrae
+R Leonis
+R Leonis Minoris
+R Leporis
+R Lyrae
+R Microscopii
+R Monocerotis
+R Muscae
+R Normae
+R Octantis
+R Pictoris
+R Puppis
+R Reticuli
+R Sagittae
+R Sculptoris
+R Scuti
+R Serpentis
+R Trianguli Australis
+R Ursae Minoris
+R Virginis
+R Volantis
+Saiph
+Sakurai's Object
+Tycho G
+UDF 2457
+UDF 423
+UDFj-39546284
+UDFy-38135539
+UGCA 86
+UGC 12158
+UGC 12591
+UGC 12682
+UGC 2140
+UGC 2369
+UGC 2885
+UGC 477
+UGC 4879
+UGC 4904
+UGC 5497
+UGC 5692
+UGC 6093
+UGC 6665
+UGC 6945
+UGC 8335
+UGC 8837
+UGC 9128
+UGC 9391
+UGC 9405
+UGC 9796
+UGPS J0521+3640
+UGPS J072227.51−054031.2
+ULAS J003402.77−005206.7
+ULAS J133553.45+113005.2
+Cressida
+Crux
+Cupid
+Cygnus
+Cygnus A
+Cygnus OB2-12
+Cygnus OB2-8A
+Cygnus X-1
+Cygnus X-3
+Cyllene
+KPD 1930+2752
+KQ Puppis
+KQ Velorum
+KS Persei
+KSw 71
+KT Eridani
+KT Lupi
+KU Hydrae
+KW Sagittarii
+KX Andromedae
+KY Cygni
+KZ Andromedae
+K Centauri
+K Puppis
+Kallichore
+Kalyke
+L1551 IRS 5
+L2 Puppis
+LAE J095950.99+021219.1
+LB-1
+LBG-2377
+LBV 1806−20
+LEDA 1000714
+LEDA 135657
+LEDA 2108986
+LEDA 74886
+LEDA 83677
+LEDA 89996
+LGGS J004431.71+415629.1
+LHA 120-S 79
+LHS 1140
+LHS 1140 b
+LHS 1815b
+LHS 2090
+LHS 2520
+LHS 288
+LHS 292
+LHS 2924
+LHS 3844
+LHS 3844 b
+LHS 6343
+LH 41-1042
+LH 54-425
+LL Andromedae
+LL Pegasi
+LMC195-1
+LN Andromedae
+LO Pegasi
+LP 145-141
+LP 40-365
+LP 658-2
+LP 71-82
+LP 816-60
+LP 944-20
+LP Andromedae
+LP Aquarii
+LQ Andromedae
+LQ Hydrae
+LRLL 54361
+LSPM J0207+3331
+LSR J1835+3259
+LSS 4067
+LS 5039
+LS Canis Majoris
+LS IV-14 116
+LS I +61 303
+LTT 1445
+LTT 1445Ab
+LTT 3780
+LTT 9779
+LV Vulpeculae
+LY Aurigae
+L 1159-16
+L 168-9
+L 97-12
+L 98-59
+L 98-59 b
+La Superba
+Lacaille 8760
+Lacaille 9352
+Lacaille 9352 c
+Lacerta
+Laomedeia
+Large Magellanic Cloud
+Large Sagittarius Star Cloud
+Larissa
+Luhman 16
+M31-RV
+M32p
+M33-013406.63
+M33 X-7
+M59-UCD3
+M60-UCD1
+M82 X-2
+M85-HCC1
+MACHO 176.18833.411
+MACS0647-JD
+MACS1149-JD1
+MACS 1423-z7p64
+MACS J1149 Lensed Star 1
+MAXI J1659-152
+MB 3
+MCG+01-02-015
+MCG+07-33-027
+MN18
+MOA-2007-BLG-192L
+MOA-2007-BLG-192Lb
+MOA-2007-BLG-197Lb
+MOA-2007-BLG-400L
+MOA-2007-BLG-400Lb
+MOA-2008-BLG-310L
+MOA-2008-BLG-310Lb
+MOA-2009-BLG-387L
+MOA-2009-BLG-387Lb
+MOA-2010-BLG-477L
+MOA-2011-BLG-262L
+MOA-2011-BLG-262Lb
+MRC 1138-262
+MS 1512-cB58
+MT Pegasi
+MWC 349
+MWC 480
+MX Puppis
+MY Apodis
+MY Camelopardalis
+MY Cephei
+MZ Puppis
+M Centauri
+Mab
+Northern Cross
+Northern Pole
+Nova Cassiopeiae 2021
+Nova Herculis 2021
+P/2019 LD2
+PA-99-N2
+PDS 110
+PDS 70
+PGC 1
+PGC 10922
+PGC 13809
+PGC 39058
+PGC 44691
+PGC 54493
+PGC 6240
+PG 1047+003
+PG 1159-035
+PH1b
+PH2
+PHL 293B
+PKS 2014-55
+PMMR 62
+POX 186
+PP Carinae
+PRL Advanced Radial-velocity All-sky Search
+PS1-10adi
+PSO J318.5−22
+PSR B0943+10
+PSR B0950+08
+PSR B1257+12
+PSR B1257+12 A
+PSR B1257+12 B
+PSR B1257+12 C
+PSR B1259−63/LS 2883
+PSR B1509−58
+PSR B1620−26
+PSR B1620−26 b
+PSR B1829−10
+PSR B1919+21
+PSR B1937+21
+PSR J0002+6216
+PSR J0108−1431
+PSR J0337+1715
+PSR J0348+0432
+PSR J0357+3205
+PSR J0437−4715
+PSR J0523−7125
+PSR J0537−6910
+PSR J0538+2817
+PSR J0540−6919
+PSR J0659+1414
+PSR J0737−3039
+PSR J0738−4042
+PSR J0740+6620
+PSR J0901–4046
+PSR J0952–0607
+PSR J1141−6545
+PSR J1311–3430
+PSR J1544+4937
+PSR J1614−2230
+PSR J1719−1438
+PSR J1719−1438 b
+PSR J1748−2446ad
+PSR J1856+0245
+PSR J1951+1123
+PSR J2007+2722
+PSR J2124−3358
+PSR J2144−3933
+PT Puppis
+PU Aurigae
+PU Puppis
+PV Cephei
+PV Telescopii
+PX Andromedae
+PZ Cassiopeiae
+PZ Telescopii
+P Cygni
+P Eridani
+P Velorum
+Paaliaq
+Skathi
+Skoll
+Skrymir
+Small Magellanic Cloud
+Winnecke 4
+Winter Hexagon
+Wolf 1061
+Wolf 1061b
+Wolf 1061c
+Wolf 1061d
+Wolf 359
+Wolf 424
+Wolf 489
+Wolf–Lundmark–Melotte
+Greip
+Gridr
+Groombridge 1618
+Groombridge 1830
+Groombridge 34
+Grus
+Gunnlod
+HM Sagittae
+HN Andromedae
+HN Pegasi
+HOPS 383
+HO Telescopii
+HP Lyrae
+HR 1614
+HR 178
+HR 1884
+HR 2096
+HR 2131
+HR 244
+HR 2554
+HR 2562 b
+HR 273
+HR 297
+HR 3082
+HR 3159
+HR 3220
+HR 3384
+HR 3407
+HR 3643
+HR 3750
+HR 3803
+HR 3831
+HR 4049
+HR 4072
+HR 4098
+HR 4102
+HR 4138
+HR 4177
+HR 4180
+HR 4339
+HR 4458
+HR 4699
+HR 4729
+HR 4796
+HR 4887
+HR 511
+HR 5110
+HR 515
+HR 5171
+HR 5183 b
+HR 5256
+HR 5401
+HR 5553
+HR 6135
+HR 6384
+HR 6594
+HR 6801
+HR 6806
+HR 6819
+HR 6875
+HR 6902
+HR 7135
+HR 7355
+HR 7484
+HR 7578
+HR 7703
+HR 7955
+HR 8442
+HR 858
+HR 8799
+HR 8799 b
+HR 8799 c
+HR 8799 d
+HR 8799 e
+HR 9038
+HR Carinae
+HR Delphini
+HR Lyrae
+HS Hydrae
+HUDF-JD2
+HU Aquarii
+HU Delphini
+HU Tauri
+HVS 7
+HV 11417
+HV 11423
+HV 2112
+HV 888
+HW Virginis
+HXMM01
+HY Velorum
+H Centauri
+H Scorpii
+Halimede
+Halley's Comet
+Hamal
+Holmberg 15A
+Holmberg II
+Holmberg IX
+Horologium
+Kiviuq
+LkCa 15
+LkCa 15 b
+Mu1 Cancri
+Mu1 Chamaeleontis
+Mu1 Gruis
+Mu1 Octantis
+Mu1 Scorpii
+Mu2 Cancri
+Mu2 Chamaeleontis
+Mu2 Gruis
+Mu2 Octantis
+Mu2 Scorpii
+Mu Andromedae
+Mu Aquarii
+Mu Aquilae
+Mu Arae
+Mu Arae b
+Mu Arae c
+Mu Arae d
+Mu Arae e
+Mu Arietis
+Mu Aurigae
+Mu Boötis
+Mu Canis Majoris
+Mu Capricorni
+Mu Cassiopeiae
+Mu Centauri
+Mu Cephei
+Mu Ceti
+Mu Columbae
+Mu Coronae Australis
+Mu Coronae Borealis
+Mu Crucis
+Mu Cygni
+Mu Draconis
+Mu Eridani
+Mu Fornacis
+Mu Geminorum
+Mu Herculis
+Mu Horologii
+Mu Hydrae
+Mu Leonis
+Mu Leporis
+Mu Librae
+Mu Lupi
+Mu Lyrae
+Mu Mensae
+Mu Muscae
+Mu Normae
+Mu Ophiuchi
+Mu Orionis
+Mu Pegasi
+Mu Persei
+Mu Phoenicis
+Mu Pictoris
+Mu Piscis Austrini
+Mu Piscium
+Mu Sagittarii
+Mu Sculptoris
+Mu Serpentis
+Mu Tauri
+Mu Telescopii
+Mu Ursae Majoris
+Mu Velorum
+Mu Virginis
+Mundilfari
+NS Puppis
+NU Pavonis
+NVSS 2146+82
+NV Puppis
+NW Puppis
+NY Virginis
+N Carinae
+N Centauri
+N Scorpii
+Naiad
+Namaka
+NeVe 1
+Sneden's Star
+Surtur
+Suttungr
+Swift J1745-26
+Teegarden's Star
+Teegarden's Star b
+Teegarden's Star c
+Teide 1
+Telescopium
+Telesto
+Upsilon1 Cancri
+Upsilon1 Cassiopeiae
+Upsilon1 Centauri
+Upsilon1 Eridani
+Upsilon1 Hydrae
+Upsilon2 Cancri
+Upsilon2 Cassiopeiae
+Upsilon2 Centauri
+Upsilon2 Eridani
+Upsilon2 Hydrae
+Upsilon3 Eridani
+Upsilon4 Eridani
+Upsilon Andromedae
+Upsilon Andromedae b
+Upsilon Andromedae c
+Upsilon Andromedae d
+Upsilon Andromedae e
+Upsilon Aquarii
+Upsilon Aquilae
+Upsilon Aurigae
+Upsilon Boötis
+Upsilon Capricorni
+Upsilon Carinae
+Upsilon Ceti
+Upsilon Coronae Borealis
+Upsilon Cygni
+Upsilon Draconis
+Upsilon Geminorum
+Upsilon Gruis
+Upsilon Herculis
+Upsilon Leonis
+Upsilon Librae
+Upsilon Lupi
+Upsilon Octantis
+Upsilon Ophiuchi
+Upsilon Orionis
+Upsilon Pegasi
+Upsilon Piscis Austrini
+Upsilon Piscium
+Upsilon Sagittarii
+Upsilon Scorpii
+Upsilon Serpentis
+Upsilon Tauri
+Upsilon Ursae Majoris
+Upsilon Virginis
+Uranus
+Ursa Major
+Ursa Major II Dwarf
+Ursa Major I Dwarf
+Ursa Minor
+Ursa Minor Dwarf
+V1005 Orionis
+V1017 Sagittarii
+V1054 Ophiuchi
+V1057 Cygni
+V1059 Sagittarii
+V1073 Scorpii
+V1094 Scorpii
+V1191 Cygni
+V1280 Scorpii
+V1291 Aquilae
+V1298 Tauri
+V1309 Scorpii
+V1315 Aquilae
+V1331 Cygni
+V1339 Aquilae
+V1369 Centauri
+V1370 Aquilae
+V1400 Centauri
+V1401 Aquilae
+V1429 Aquilae
+V1472 Aquilae
+V1494 Aquilae
+V1500 Cygni
+V1668 Cygni
+V1794 Cygni
+V1936 Aquilae
+V1974 Cygni
+V337 Carinae
+V339 Delphini
+V343 Carinae
+V344 Carinae
+V345 Carinae
+V346 Centauri
+V352 Aurigae
+V354 Cephei
+V357 Carinae
+V357 Muscae
+V368 Aquilae
+V372 Carinae
+V373 Cassiopeiae
+V373 Scuti
+V376 Carinae
+V378 Normae
+V380 Orionis
+V381 Cephei
+V382 Carinae
+V382 Velorum
+V385 Andromedae
+V3903 Sagittarii
+V391 Pegasi
+V391 Pegasi b
+V392 Persei
+V394 Aurigae
+V399 Carinae
+V4024 Sagittarii
+V4046 Sagittarii
+V404 Cygni
+V407 Lupi
+V415 Muscae
+V4199 Sagittarii
+V419 Cephei
+V420 Aurigae
+V424 Lacertae
+V429 Geminorum
+V4332 Sagittarii
+V433 Aurigae
+V4381 Sagittarii
+V445 Puppis
+V446 Herculis
+V448 Carinae
+V450 Aquilae
+V455 Andromedae
+V4641 Sagittarii
+V4650 Sagittarii
+V471 Tauri
+V473 Lyrae
+V4743 Sagittarii
+V476 Cygni
+V4998 Sagittarii
+V500 Aquilae
+V509 Cassiopeiae
+V518 Carinae
+V520 Carinae
+V520 Persei
+V528 Carinae
+V529 Andromedae
+V529 Orionis
+V533 Carinae
+V533 Herculis
+V538 Aurigae
+V538 Carinae
+V539 Arae
+V5668 Sagittarii
+V5856 Sagittarii
+V598 Puppis
+V602 Carinae
+V603 Aquilae
+V605 Aquilae
+V606 Aquilae
+V630 Sagittarii
+V636 Scorpii
+V669 Cassiopeiae
+V691 Coronae Australis
+V705 Cassiopeiae
+V718 Persei
+V723 Monocerotis
+V725 Sagittarii
+V728 Scorpii
+V744 Centauri
+V752 Centauri
+V763 Centauri
+V803 Centauri
+V810 Centauri
+V830 Tauri
+V830 Tauri b
+V831 Centauri
+V838 Herculis
+V838 Monocerotis
+V841 Ophiuchi
+V842 Centauri
+V849 Ophiuchi
+V883 Orionis
+V906 Carinae
+V915 Scorpii
+V923 Aquilae
+V957 Scorpii
+VB 10
+VFTS 102
+VFTS 352
+VFTS 682
+VHS J1256–1257
+VIRGOHI21
+VVV-WIT-07
+VV Cephei
+VV Corvi
+VV Orionis
+VW Cephei
+VW Leonis Minoris
+VX Sagittarii
+VY Canis Majoris
+VY Pyxidis
+VZ Arietis
+VZ Camelopardalis
+VZ Piscium
+V Antliae
+V Aquilae
+V Centauri
+V Cephei
+V Coronae Australis
+V Crucis
+V Hydrae
+V Persei
+V Puppis
+V Sagittae
+Haro 11
+Harpalyke
+Hati
+Haumea
+Hegemone
+Helene
+Helike
+Helium-weak star
+Helium star
+Hercules
+Hermippe
+Herse
+Hills mechanism
+Himalia
+Hippocamp
+J0815+4729
+J1000+0221
+J1124+4535
+J1144–4308
+Pavo
+Perdita
+Perseus
+Petit-Prince
+Phi1 Cancri
+Phi1 Ceti
+Phi1 Hydrae
+Phi1 Lupi
+Phi1 Orionis
+Phi1 Pavonis
+Phi2 Cancri
+Phi2 Ceti
+Phi2 Hydrae
+Phi2 Lupi
+Phi2 Orionis
+Phi2 Pavonis
+Phi3 Ceti
+Phi3 Hydrae
+Phi4 Ceti
+Phi Andromedae
+Phi Aquarii
+Phi Aquilae
+Phi Aurigae
+Phi Boötis
+Phi Capricorni
+Phi Cassiopeiae
+Phi Centauri
+Phi Cygni
+Phi Draconis
+Phi Eridani
+Phi Fornacis
+Phi Geminorum
+Phi Gruis
+Phi Herculis
+Phi Leonis
+Phi Octantis
+Phi Ophiuchi
+Phi Pegasi
+Phi Persei
+Phi Phoenicis
+Phi Piscium
+Phi Sagittarii
+Phi Serpentis
+Phi Tauri
+Phi Ursae Majoris
+Phi Velorum
+Phi Virginis
+Philophrosyne
+Phoebe
+Phoenix
+Phoenix Dwarf
+Photometric-standard star
+Pi1 Columbae
+Pi1 Cygni
+Pi1 Gruis
+Pi1 Octantis
+Pi1 Orionis
+Pi1 Pegasi
+Pi1 Ursae Majoris
+Pi1 Ursae Minoris
+Pi2 Columbae
+Pi2 Cygni
+Pi2 Gruis
+Pi2 Octantis
+Pi2 Orionis
+Pi2 Pegasi
+Pi2 Ursae Minoris
+Pi3 Orionis
+Pi4 Orionis
+Pi5 Orionis
+Pi6 Orionis
+Pi Andromedae
+Pi Aquarii
+Pi Aquilae
+Pi Arae
+Pi Arietis
+Pi Aurigae
+Pi Boötis
+Pi Canis Majoris
+Pi Capricorni
+Pi Cassiopeiae
+Pi Centauri
+Pi Cephei
+Pi Ceti
+Pi Chamaeleontis
+Pi Coronae Borealis
+Pi Draconis
+Pi Eridani
+Pi Fornacis
+Pi Geminorum
+Pi Herculis
+Pi Hydrae
+Pi Leonis
+Pi Lupi
+Pi Mensae
+Pi Mensae b
+Pi Orionis
+Pi Pavonis
+Pi Persei
+Pi Piscis Austrini
+Pi Piscium
+Pi Puppis
+Pi Sagittarii
+Pi Scorpii
+Pi Sculptoris
+Pi Serpentis
+Pi Tauri
+Pi Tucanae
+Pi Ursae Majoris
+Pi Virginis
+Diamond Cross
+Libra
+Margaret
+Nu1 Boötis
+Nu1 Canis Majoris
+Nu1 Columbae
+Nu1 Coronae Borealis
+Nu1 Lupi
+Nu1 Lyrae
+Nu1 Sagittarii
+Nu2 Arae
+Nu2 Boötis
+Nu2 Canis Majoris
+Nu2 Canis Majoris b
+Nu2 Columbae
+Nu2 Coronae Borealis
+Nu2 Lupi
+Nu2 Lyrae
+Nu2 Sagittarii
+Nu3 Canis Majoris
+Nu Andromedae
+Nu Aquarii
+Nu Aquilae
+Nu Arietis
+Nu Aurigae
+Nu Caeli
+Nu Cancri
+Nu Capricorni
+Nu Cassiopeiae
+Nu Centauri
+Nu Cephei
+Nu Ceti
+Nu Chamaeleontis
+Nu Cygni
+Nu Doradus
+Nu Draconis
+Nu Eridani
+Nu Fornacis
+Nu Geminorum
+Nu Gruis
+Nu Herculis
+Nu Horologii
+Nu Hydrae
+Nu Hydri
+Nu Leonis
+Nu Leporis
+Nu Mensae
+Nu Microscopii
+Nu Octantis
+Nu Ophiuchi
+Nu Orionis
+Nu Pavonis
+Nu Pegasi
+Nu Persei
+Nu Phoenicis
+Nu Pictoris
+Nu Piscium
+Nu Puppis
+Nu Scorpii
+Nu Serpentis
+Nu Tauri
+Nu Telescopii
+Nu Tucanae
+Nu Ursae Majoris
+Nu Virginis
+Nuclear timescale
+O-type asteroid
+OAO 1657-415
+OB star
+OGLE-2003-BLG-235L
+OGLE-2003-BLG-235Lb/MOA-2003-BLG-53Lb
+OGLE-2005-BLG-071L
+OGLE-2005-BLG-071Lb
+OGLE-2005-BLG-169L
+OGLE-2005-BLG-169Lb
+OGLE-2005-BLG-390L
+OGLE-2005-BLG-390Lb
+OGLE-2006-BLG-109L
+OGLE-2006-BLG-109Lb
+OGLE-2006-BLG-109Lc
+OGLE-2007-BLG-349(AB)b
+OGLE-2007-BLG-368Lb
+OGLE-2014-BLG-0124Lb
+OGLE-2016-BLG-1190Lb
+OGLE-2016-BLG-1195Lb
+OGLE-2017-BLG-1522Lb
+OGLE-2018-BLG-0799Lb
+OGLE-2018-BLG-1119Lb
+OGLE-2019-BLG-0960Lb
+OGLE-LMC-CEP0227
+OGLE-TR-10
+OGLE-TR-10b
+OGLE-TR-111
+OGLE-TR-111b
+OGLE-TR-113
+OGLE-TR-113b
+OGLE-TR-122
+OGLE-TR-123
+OGLE-TR-132b
+OGLE-TR-182
+OGLE-TR-182b
+OGLE-TR-211
+OGLE-TR-211b
+OGLE-TR-56
+OGLE-TR-56b
+OGLE2-TR-L9
+OGLE2-TR-L9b
+OH/IR star
+OP Andromedae
+OS Andromedae
+OTS 44
+OU Andromedae
+OU Geminorum
+OU Puppis
+OY Carinae
+Omega1 Aquarii
+Omega1 Aquilae
+Omega1 Cancri
+Omega1 Cygni
+Omega1 Scorpii
+Omega1 Tauri
+Omega2 Aquarii
+Omega2 Aquilae
+Omega2 Cancri
+Omega2 Cygni
+Omega2 Scorpii
+Omega2 Tauri
+Omega Andromedae
+Omega Aurigae
+Omega Boötis
+Omega Canis Majoris
+Omega Capricorni
+Omega Carinae
+Omega Cassiopeiae
+Omega Draconis
+Omega Eridani
+Omega Fornacis
+Omega Geminorum
+Omega Herculis
+Omega Hydrae
+Omega Leonis
+Omega Lupi
+Omega Octantis
+Omega Ophiuchi
+Omega Orionis
+Omega Persei
+Omega Piscium
+Omega Sagittarii
+Omega Serpentis
+Omega Ursae Majoris
+Omega Virginis
+Omicron1 Cancri
+Omicron1 Canis Majoris
+Omicron1 Centauri
+Omicron1 Eridani
+Omicron1 Orionis
+Omicron2 Cancri
+Omicron2 Canis Majoris
+Omicron2 Centauri
+Omicron2 Orionis
+Omicron Andromedae
+Omicron Aquarii
+Omicron Aquilae
+Omicron Arietis
+Omicron Aurigae
+Omicron Boötis
+Omicron Capricorni
+Omicron Cassiopeiae
+Omicron Cephei
+Omicron Columbae
+Omicron Coronae Borealis
+Omicron Draconis
+Omicron Geminorum
+Omicron Gruis
+Omicron Herculis
+Omicron Hydrae
+Omicron Leonis
+Omicron Lupi
+Omicron Ophiuchi
+Omicron Pegasi
+Omicron Persei
+Omicron Piscium
+Omicron Puppis
+Omicron Sagittarii
+Omicron Scorpii
+Omicron Serpentis
+Omicron Tauri
+Omicron Ursae Majoris
+Omicron Velorum
+Omicron Virginis
+Oph-IRS 48
+Oph 162225-240515
+Ophelia
+Ophiuchus
+Orion's Belt
+Orion's Sword
+Orion
+Orthosie
+Pallene
+Pan
+Pandia
+Pandora
+Relativistic star
+Remus
+Reticulum
+Reticulum II
+X1 Centauri
+X2 Centauri
+XO-1
+XO-1b
+XO-2Nb
+XO-2
+XO-3
+XO-3b
+XO-4
+XO-4b
+XO-5
+XO-5b
+XO-6b
+XO Telescope
+XTE J1118+480
+XTE J1550–564
+XTE J1650-500
+XTE J1739-285
+XX Persei
+XX Pyxidis
+XX Tauri
+XX Trianguli
+XY Ursae Majoris
+XZ Andromedae
+XZ Tauri
+X Caeli
+X Cancri
+X Carinae
+X Crucis
+X Persei
+X Sagittarii
+X Trianguli Australis
+Xi1 Canis Majoris
+Xi1 Capricorni
+Xi1 Centauri
+Xi1 Ceti
+Xi1 Lupi
+Xi1 Sagittarii
+Xi2 Canis Majoris
+Xi2 Capricorni
+Xi2 Centauri
+Xi2 Ceti
+Xi2 Lupi
+Xi2 Sagittarii
+Xi Andromedae
+Xi Aquarii
+Xi Aquilae
+Xi Aquilae b
+Xi Arietis
+Xi Aurigae
+Xi Boötis
+Xi Cancri
+Xi Cassiopeiae
+Xi Cephei
+Xi Columbae
+Xi Coronae Borealis
+Xi Cygni
+Xi Draconis
+Xi Eridani
+Xi Geminorum
+Xi Gruis
+Xi Herculis
+Xi Hydrae
+Xi Leonis
+Xi Mensae
+Xi Octantis
+Xi Ophiuchi
+Xi Orionis
+Xi Pavonis
+Xi Pegasi
+Xi Persei
+Xi Phoenicis
+Xi Piscium
+Xi Puppis
+Xi Scorpii
+Xi Sculptoris
+Xi Serpentis
+Xi Tauri
+Xi Telescopii
+Xi Ursae Majoris
+Xi Virginis
+Xiangliu
+YBP 1194
+YSES 2 b
+YZ Canis Minoris
+YZ Cassiopeiae
+YZ Ceti
+YZ Reticuli
+Y Carinae
+Y Centauri
+Y Lyncis
+Y Sagittarii
+Y Sextantis
+Y Tauri
+Norma
+Oberon
+Octans
+Pisces
+Pisces Dwarf
+Pisces II
+Piscis Austrinus
+Pismis 24-1
+Pistol Star
+PlanetPol
+Plaskett's Star
+Pleione
+Pluto
+Portia
+Pr0201 b
+Pr0211 b
+Pr0211 c
+Praxidike
+Procyon
+Prometheus
+Prospero
+Proteus
+Rho1 Arae
+Rho1 Arietis
+Rho1 Cephei
+Rho1 Eridani
+Rho1 Sagittarii
+Rho2 Arae
+Rho2 Arietis
+Rho2 Cancri
+Rho2 Cephei
+Rho2 Eridani
+Rho2 Sagittarii
+Rho3 Arietis
+Rho3 Eridani
+Rho Andromedae
+Rho Aquarii
+Rho Aquilae
+Rho Aurigae
+Rho Boötis
+Rho Capricorni
+Rho Cassiopeiae
+Rho Centauri
+Rho Ceti
+Rho Coronae Borealis
+Rho Cygni
+Rho Draconis
+Rho Geminorum
+Rho Gruis
+Rho Herculis
+Rho Hydrae
+Rho Indi
+Rho Indi b
+Rho Leonis
+Rho Lupi
+Rho Octantis
+Rho Ophiuchi
+Rho Orionis
+Rho Pavonis
+Rho Pegasi
+Rho Persei
+Rho Phoenicis
+Rho Piscium
+Rho Puppis
+Rho Scorpii
+Rho Serpentis
+Rho Tauri
+Rho Telescopii
+Rho Tucanae
+Rho Ursae Majoris
+Rho Virginis
+Romano's Star
+Rosalind
+Ross 128
+Ross 128 b
+Ross 154
+Ross 248
+Ross 47
+Ross 548
+Ross 614
+Ross 640
+Ross 695
+SS Ursae Minoris
+SS Virginis
+ST Camelopardalis
+SU Andromedae
+SU Aurigae
+SU Ursae Majoris
+SV Centauri
+SV Vulpeculae
+SWEEPS-04
+SWEEPS-10
+SWEEPS-11
+SWEEPS J175853.92−291120.6
+SWIFT J1756.9−2508
+SW Andromedae
+SW Lyncis
+SXDF-NB1006-2
+SX Centauri
+SX Corvi
+SX Leonis Minoris
+SX Phoenicis
+SY Equulei
+SY Muscae
+SZ Crateris
+SZ Lyncis
+SZ Piscium
+SZ Tauri
+S Antliae
+S Apodis
+S Arae
+S Boötis
+S Canis Minoris
+S Cassiopeiae
+S Coronae Australis
+S Coronae Borealis
+S Crucis
+S Doradus
+S Microscopii
+S Monocerotis
+S Muscae
+S Normae
+S Ori 70
+S Orionis
+S Pegasi
+S Persei
+S Pictoris
+S Sagittae
+S Scuti
+S Trianguli Australis
+S Ursae Minoris
+S Virginis
+S Vulpeculae
+Sagitta
+Sagittarius
+Sagittarius A
+Sagittarius A*
+Sanduleak -69 202
+Sao
+Tethys
+Thalassa
+Trinculo
+Trumpler 27-1
+NGC 305
+Tucana
+Tucana Dwarf
+Tuiren
+Umbriel
+Vega
+Vela
+Vela Pulsar
+Vela X-1
+Venus
+Volans
+Vulpecula
+W33A
+W40 IRS 1A South
+W43A
+W75N(B)-VLA2
+WASP-1
+WASP-10
+WASP-103
+WASP-104b
+WASP-107b
+WASP-10b
+WASP-11/HAT-P-10
+WASP-11b/HAT-P-10b
+WASP-12
+WASP-121
+WASP-121b
+WASP-12b
+WASP-13
+WASP-13b
+WASP-14
+WASP-14b
+WASP-15
+WASP-159
+WASP-15b
+WASP-16
+WASP-16b
+WASP-17
+WASP-17b
+WASP-18
+WASP-189 b
+WASP-18b
+WASP-19
+WASP-19b
+WASP-1b
+WASP-2
+WASP-21
+WASP-22b
+WASP-24
+WASP-24b
+WASP-25
+WASP-26
+WASP-28b
+WASP-29
+WASP-2b
+WASP-3
+WASP-31b
+WASP-32
+WASP-33b
+WASP-34
+WASP-35
+WASP-36
+WASP-37
+WASP-39b
+WASP-3b
+WASP-4
+WASP-41
+WASP-42
+WASP-43
+WASP-43b
+WASP-44
+WASP-44b
+WASP-45
+WASP-46
+WASP-47
+WASP-48
+WASP-48b
+WASP-49
+WASP-4b
+WASP-5
+WASP-50
+WASP-52
+WASP-54
+WASP-55
+WASP-56
+WASP-57
+WASP-58
+WASP-59
+WASP-5b
+WASP-6
+WASP-60
+WASP-61
+WASP-62
+WASP-64
+WASP-66
+WASP-67
+WASP-69
+WASP-6b
+WASP-7
+WASP-72
+WASP-75
+WASP-76
+WASP-76b
+WASP-78
+WASP-79b
+WASP-7b
+WASP-8
+WASP-80
+WASP-85 Ab
+WASP-88
+WASP-8b
+WASP-90
+WASP-95
+WASP-96
+WASP-96b
+WD 0137−349
+WD 0145+234
+WD 0343+247
+WD 0806−661
+WD 1145+017
+WD 1145+017 b
+WD 1337+705
+WD 1856+534
+WD 2359−434
+WD J0651+2844
+WD J0914+1914
+WD J1953−1019
+WD J2356−209
+WHL0137-LS
+WISEA 1101+5400
+WISEPA J031325.96+780744.2
+WISEPA J041022.71+150248.5
+WISEPA J173835.53+273258.9
+WISEPA J174124.26+255319.5
+WISEPA J184124.74+700038.0
+WISEPA J195246.66+724000.8
+WISEPC J205628.90+145953.3
+WISEP J190648.47+401106.8
+WISE 0146+4234
+WISE 0350−5658
+WISE 0359−5401
+WISE 0458+6434
+WISE 0535−7500
+WISE 0607+2429
+WISE 0647−6232
+WISE 0713−2917
+WISE 0734−7157
+WISE 0855−0714
+WISE 1217+1626
+WISE 1405+5534
+WISE 1506+7027
+WISE 1534–1043
+WISE 1541−2250
+WISE 1639−6847
+WISE 1800+0134
+WISE 1828+2650
+WISE 2150–7520 AB
+WISE 2220−3628
+WISE J0005+3737
+WISE J004945.61+215120.0
+WISE J0254+0223
+WISE J031624.35+430709.1
+WISE J0521+1025
+WISE J080822.18-644357.3
+WISE J1147−2040
+WISE J2000+3629
+WISE J2030+0749
+WISE J2209+2711
+WISE J224607.57−052635.0
+WOH G17
+WOH G64
+WOH S279
+WOH S281
+WR 1
+WR 102
+WR 102c
+WR 102ea
+WR 102ka
+WR 104
+WR 111
+WR 114
+WR 12
+WR 120
+WR 121-16
+WR 124
+WR 128
+WR 133
+WR 134
+WR 135
+WR 136
+WR 137
+WR 138a
+WR 140
+WR 142
+WR 147
+WR 148
+WR 150
+WR 156
+WR 2
+WR 20a
+WR 21a
+WR 22
+WR 24
+WR 25
+WR 3
+WR 30a
+WR 31a
+WR 42e
+WR 46
+WR 69
+WR 7
+WR 86
+WR 9
+WR 93b
+WT1190F
+WW Aurigae
+WX Coronae Australis
+WX Pyxidis
+WY Sagittae
+WZ Andromedae
+WZ Cassiopeiae
+WZ Cephei
+WZ Sagittae
+W Andromedae
+W Aquilae
+W Canis Majoris
+W Cephei
+W Coronae Borealis
+W Corvi
+W Crucis
+W Cygni
+W Hydrae
+W Mensae
+W Orionis
+W Sagittarii
+W Serpentis
+W Ursae Majoris
+W Ursae Minoris
+W Virginis
+Westerhout 49-2
+Westerlund 1-20
+Westerlund 1-237
+Westerlund 1-243
+Westerlund 1-26
+Westerlund 1-75
+Weywot
+galaxy
+constellation
+asteroid
+planet
+star
+absolute magnitude
+apoapsis
+discovery date
+periapsis
+Nebula
+Satellite
+Swarm
+apofocus
+maximum absolute magnitude
+maximum apparent magnitude
+Messier name
+NGC name
+orbital eccentricity
+perifocus
+right ascension
+stellar classification
+von Klitzing electromagnetic constant

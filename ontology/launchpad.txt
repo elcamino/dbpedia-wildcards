@@ -1,0 +1,151 @@
+Autonomous spaceport drone ship
+Baikonur Cosmodrome Site 109
+Baikonur Cosmodrome Site 110
+Baikonur Cosmodrome Site 200
+Baikonur Cosmodrome Site 250
+Baikonur Cosmodrome Site 31
+Baikonur Cosmodrome Site 41
+Baikonur Cosmodrome Site 45
+Baikonur Cosmodrome Site 81
+Baikonur Cosmodrome Site 90
+Bouldering mat
+Broglio Space Center
+Cape Canaveral Air Force Station Launch Complex 10
+Cape Canaveral Air Force Station Launch Complex 11
+Cape Canaveral Air Force Station Launch Complex 12
+Cape Canaveral Air Force Station Launch Complex 14
+Cape Canaveral Air Force Station Launch Complex 19
+Cape Canaveral Air Force Station Launch Complex 6
+Cape Canaveral Air Force Station Launch Complex 9
+Cape Canaveral Air Force Station Space Launch Complex 37
+Cape Canaveral Air Force Station Space Launch Complex 40
+Cape Canaveral Air Force Station Space Launch Complex 41
+Cape Canaveral Launch Complex 1
+Cape Canaveral Launch Complex 10
+Cape Canaveral Launch Complex 11
+Cape Canaveral Launch Complex 12
+Cape Canaveral Launch Complex 13
+Cape Canaveral Launch Complex 14
+Cape Canaveral Launch Complex 15
+Cape Canaveral Launch Complex 16
+Cape Canaveral Launch Complex 18
+Cape Canaveral Launch Complex 19
+Cape Canaveral Launch Complex 2
+Cape Canaveral Launch Complex 21
+Cape Canaveral Launch Complex 22
+Cape Canaveral Launch Complex 3
+Cape Canaveral Launch Complex 31
+Cape Canaveral Launch Complex 32
+Cape Canaveral Launch Complex 34
+Cape Canaveral Launch Complex 36
+Cape Canaveral Launch Complex 4
+Cape Canaveral Launch Complex 43
+Cape Canaveral Launch Complex 45
+Cape Canaveral Launch Complex 47
+Cape Canaveral Launch Complex 5
+Cape Canaveral Launch Complex 6
+Cape Canaveral Launch Complex 9
+Cape Canaveral Space Launch Complex 17
+Cape Canaveral Space Launch Complex 37
+Cape Canaveral Space Launch Complex 40
+Cape Canaveral Space Launch Complex 41
+Cape Canaveral Space Launch Complex 46
+Landing Zones 1 and 2
+Taiyuan Launch Complex 1
+Taiyuan Satellite Launch Center
+Tanegashima Space Center
+Point Arguello Launch Complex A
+Point Arguello Launch Complex B
+Satish Dhawan Space Centre
+SaxaVord Spaceport
+Thermal relief
+Yoshinobu Launch Complex
+Dressing
+Dust mask
+Mattress
+Scouring pad
+Thumba Equatorial Rocket Launching Station
+Caisson Nemo
+Gagarin's Start
+Keweenaw Rocket Range
+Kulasekharapatnam Spaceport
+Vandenberg AFB Space Launch Complex 1
+Vandenberg AFB Space Launch Complex 10
+Vandenberg AFB Space Launch Complex 2
+Vandenberg AFB Space Launch Complex 3
+Vandenberg AFB Space Launch Complex 4
+Vandenberg AFB Space Launch Complex 5
+Vandenberg AFB Space Launch Complex 6
+Vandenberg AFB Space Launch Complex 8
+Vandenberg Launch Complex 576A
+Vandenberg Launch Emplacement 8
+Vandenberg Launch Facility 10
+Vandenberg Launch Facility 2
+Vandenberg Launch Facility 21
+Vandenberg Launch Facility 3
+Vandenberg Launch Facility 4
+Vandenberg Launch Facility 5
+Vandenberg Launch Facility 6
+Vandenberg Launch Facility 7
+Vandenberg Launch Facility 8
+Vandenberg Launch Facility 9
+Vandenberg Probe Launch Complex C
+Vandenberg Space Launch Complex 1
+Vandenberg Space Launch Complex 10
+Vandenberg Space Launch Complex 2
+Vandenberg Space Launch Complex 3
+Vandenberg Space Launch Complex 4
+Vandenberg Space Launch Complex 5
+Vandenberg Space Launch Complex 6
+Vandenberg Space Launch Complex 8
+Woomera Launch Area 5
+Corn Ranch
+Ensemble de Lancement Soyouz
+Koonibba Test Range
+Mid-Atlantic Regional Spaceport Launch Pad 0
+SpaceX Starbase
+SpaceX Starship offshore platforms
+Spaceport Florida Launch Complex 36
+Churchill Rocket Research Range
+ELA-1
+ELA-2
+ELA-3
+El Hierro Launch Centre
+Jiuquan Launch Area 4
+Jiuquan Satellite Launch Center
+Kennedy Space Center Launch Complex 39
+Kennedy Space Center Launch Complex 39A
+Kennedy Space Center Launch Complex 39B
+Kennedy Space Center Launch Complex 48
+Pacific Spaceport Complex – Alaska
+Roll way
+Sutherland spaceport
+Heating pad
+Helicopter deck
+Operational Silo Test Facility
+Paint mask
+Rocket Lab Launch Complex 1
+Xichang Satellite Launch Center
+Plesetsk Cosmodrome Site 131
+Plesetsk Cosmodrome Site 132
+Plesetsk Cosmodrome Site 133
+Plesetsk Cosmodrome Site 16
+Plesetsk Cosmodrome Site 32
+Plesetsk Cosmodrome Site 35
+Plesetsk Cosmodrome Site 41
+Plesetsk Cosmodrome Site 43
+Vostochny Cosmodrome Site 1A
+Vostochny Cosmodrome Site 1S
+Wallops Flight Facility Launch Area 3
+Wenchang Space Launch Site
+Whalers Way Orbital Launch Complex
+number of pads
+first launch rocket
+last launch rocket
+associated rocket
+launch pad
+launches
+maximum inclination
+minimum inclination
+first launch date
+last launch date

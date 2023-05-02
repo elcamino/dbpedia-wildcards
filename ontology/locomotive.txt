@@ -1,0 +1,5037 @@
+0-4-0+0-4-0
+0-4-4-0
+0-4-4-2
+0-4-6
+0-8-6
+0-8-8-0
+130T steam locomotive
+141 R 1199
+1C1 3900
+2-10-10-2
+2-12-4
+2-4-0+0-4-2
+2-4-2+2-4-2
+2-4-4-0
+2-4-4T
+2-4-6
+2-6-0+0-6-2
+2-6-2+2-6-2
+2-6-6
+2-6-6-0
+2-6-6-4
+2-8-0+0-8-2
+2-8-2+2-8-2
+2-8-4
+2-8-6
+2-8-8-0
+2-8-8-2
+2-8-8-4
+2BB2 400
+2C2 3100
+2EL5
+2ES10
+2TE116
+2TE25A
+2TE25K
+2TE70
+3112
+3237
+3265
+3526
+3642
+3801
+3820
+3830
+4-14-4
+4-4-2+2-4-4
+4-4-6
+4-6-0+0-6-4
+4-6-4+4-6-4
+4-6-6-2
+4-8-0+0-8-4
+4-8-2+2-8-4
+4-8-4+4-8-4
+4-8-8-2
+4-8-8-4
+5917
+5AT Advanced Technology Steam Locomotive
+6-2-0
+6-8-6
+6029
+A2n 001 railcar
+ABB ALP-44
+AC44C6M
+ADC Cirrus
+ADtranz DE-AC33C
+AES Railcar
+ALCO 300
+ALCO Century 415
+ALCO Century 420
+ALCO Century 424
+ALCO Century 425
+ALCO Century 430
+ALCO Century 628
+ALCO Century 630
+ALCO Century 636
+ALCO Century 855
+ALCO DH643
+ALCO DL-109
+ALCO DL-202
+ALCO DL420
+ALCO DL531
+ALCO DL560C
+ALCO FA
+ALCO HH series
+ALCO MRS-1
+ALCO PA
+ALCO RS-1
+ALCO RS-11
+ALCO RS-2
+ALCO RS-27
+ALCO RS-3
+ALCO RS-32
+ALCO RS-36
+ALCO RS-3m
+ALCO RSC-1
+ALCO RSC-2
+ALCO RSC-3
+ALCO RSD-1
+ALCO RSD-12
+ALCO RSD-15
+ALCO RSD-16
+ALCO RSD-39
+ALCO RSD-4
+ALCO RSD-5
+ALCO RSD-7
+ALCO S-1 and S-3
+ALCO S-2 and S-4
+ALCO S-5
+ALCO S-6
+ALCO T-6
+ALCO boxcab
+ALP-45DP
+ALP-46
+AMC 20
+AMF Technotransport
+ASEA Rz
+ASEA electric locomotive
+ASEA electric locomotive
+A unit
+Adler
+Adsorption
+Agenoria
+Alice
+Alsace-Lorraine A 1
+Alsace-Lorraine A 2
+Alsace-Lorraine A 3
+Alsace-Lorraine A 4
+Alsace-Lorraine B 1
+Alsace-Lorraine G 8.1
+Alstom KZ8A
+Alstom PL42AC
+Alstom Prima diesel locomotives
+Alstom Traxx
+Altoona Works BP4
+Annie
+Arcade & Attica 18
+Arcade and Attica 18
+Asiarunner
+Atlanta and West Point 290
+Atlantic
+Atlantic Coast Line 1504
+Atlantic Coast Line 4-4-2
+Atlantic Coast Line 501
+Atlantic Coast Line class P-5-A
+Atlantic Coast Line class R-1
+Australian National AL class
+Australian National AN class
+Australian National BL class
+Australian National DL class
+Australian National EL class
+Australian Standard Garratt
+Freight Australia XR class
+Frisco 1352
+Furka–Oberalp-Bahn Ge 4/4 III
+Furness Railway 115 class
+Furness Railway 94 class
+Furness Railway Class D5 0-6-0
+Furness Railway K1
+Furness Railway K2 class
+Furness Railway No. 3
+Henry the Green Engine
+Henschel-BBC DE2500
+Henschel DH 440
+Impulsoria
+Indian Railways WCAM class
+Indian Railways locomotive class WAM-2/3
+Indian locomotive class NDM-1
+Indian locomotive class SG
+Indian locomotive class SP
+Indian locomotive class WAG-1
+Indian locomotive class WAG-11
+Indian locomotive class WAG-12
+Indian locomotive class WAG-2
+Indian locomotive class WAG-3
+Indian locomotive class WAG-4
+Indian locomotive class WAG-5
+Indian locomotive class WAG-6A
+Indian locomotive class WAG-6B/C
+Indian locomotive class WAG-7
+Indian locomotive class WAG-8
+Indian locomotive class WAG-9
+Indian locomotive class WAGC3/WAG-10
+Indian locomotive class WAM-1
+Indian locomotive class WAM-4
+Indian locomotive class WAP-1
+Indian locomotive class WAP-3
+Indian locomotive class WAP-4
+Indian locomotive class WAP-5
+Indian locomotive class WAP-6
+Indian locomotive class WAP-7
+Indian locomotive class WCAG-1
+Indian locomotive class WCAM-1
+Indian locomotive class WCAM-2
+Indian locomotive class WCAM-3
+Indian locomotive class WCAM 1
+Indian locomotive class WCAM 2/2P
+Indian locomotive class WCAM 3
+Indian locomotive class WCG-1
+Indian locomotive class WCG-2
+Indian locomotive class WCM-1
+Indian locomotive class WCM-2
+Indian locomotive class WCM-3
+Indian locomotive class WCM-4
+Indian locomotive class WCM-5
+Indian locomotive class WCM-6
+Indian locomotive class WCP-1
+Indian locomotive class WCP-2
+Indian locomotive class WCP-3
+Indian locomotive class WCP-4
+Indian locomotive class WDAP-5
+Indian locomotive class WDG-2/3A
+Indian locomotive class WDG-4
+Indian locomotive class WDG-4G
+Indian locomotive class WDG-5
+Indian locomotive class WDG-6G
+Indian locomotive class WDM-1
+Indian locomotive class WDM-2
+Indian locomotive class WDM-2G
+Indian locomotive class WDM-3
+Indian locomotive class WDM-3A
+Indian locomotive class WDM-3D
+Indian locomotive class WDM-4
+Indian locomotive class WDM-6
+Indian locomotive class WDM-7
+Indian locomotive class WDP-1
+Indian locomotive class WDP-3A
+Indian locomotive class WDP-4
+Indian locomotive class WDS-1
+Indian locomotive class WDS-2
+Indian locomotive class WDS-3
+Indian locomotive class WDS-4
+Indian locomotive class WDS-5
+Indian locomotive class WDS-6
+Indian locomotive class WDS-8
+Indian locomotive class WG
+Indian locomotive class WL
+Indian locomotive class WL
+Indian locomotive class WM
+Indian locomotive class WP
+Indian locomotive class WT
+Indian locomotive class WU
+Indian locomotive class WV
+Indian locomotive class WW
+Indian locomotive class XA
+Indian locomotive class XB
+Indian locomotive class XC
+Indian locomotive class XD
+Indian locomotive class XE
+Indian locomotive class XP
+Indian locomotive class XS
+Indian locomotive class YAM-1
+Indian locomotive class YCG-1
+Indian locomotive class YDM-1
+Indian locomotive class YDM-2
+Indian locomotive class YDM-3
+Indian locomotive class YDM-4
+Indian locomotive class YDM-5
+Invicta
+Iore
+IranRunner
+Iranian Railways AD43C
+Iranian Railways RC4
+Iraqi State Railways PC class
+Isle of Man Railway No.1 Sutherland
+Israel Railways JT 42BW
+Israel Railways JT 42CW
+John Bull
+BB 63413 Plathee
+BBÖ 113
+BBÖ 114
+BBÖ 12
+BBÖ 181
+BBÖ 214
+BBÖ 378
+BBÖ 478
+BBÖ 729
+BBÖ 81
+BBÖ 82
+BCDR 2
+BCDR 28
+BCDR 4-6-4T
+BCL Bay 09
+BDŽ class 75
+BDŽ class 76
+BDŽ class 77
+BHP Newcastle 32 class
+BHP Newcastle 37 class
+BHP Port Kembla D16 class
+BHP Port Kembla D1 class
+BHP Port Kembla D34 class
+BHP Port Kembla D35 class
+BHP Port Kembla D9 class
+BHP Whyalla DE class
+BHP Whyalla DH class
+BLE No. 44
+BMW M47
+BNB VIb
+BNCR Class A
+BNCR Class B
+BNCR Class N
+BNCR Class S
+BNR class HSG
+BNR class N
+BNR class NM
+BNR class P
+BP&GV 4 Kidwelly and 5 Cwm Mawr
+BRM class
+BR Standard Class 2 2-6-0
+BR Standard Class 2 2-6-2T
+BR Standard Class 3 2-6-0
+BR Standard Class 3 2-6-2T
+BR Standard Class 4 2-6-0
+BR Standard Class 4 2-6-0 76084
+BR Standard Class 4 2-6-4T
+BR Standard Class 4 4-6-0
+BR Standard Class 5
+BR Standard Class 5 73050
+BR Standard Class 5 73082 Camelot
+BR Standard Class 5 73096
+BR Standard Class 6
+BR Standard Class 6 72010 Hengist
+BR Standard Class 7
+BR Standard Class 7 70000 Britannia
+BR Standard Class 7 70013 Oliver Cromwell
+BR Standard Class 7 70048 The Territorial Army 1908–1958
+BR Standard Class 8
+BR Standard Class 9F
+BR Standard Class 9F 92220 Evening Star
+BR ex-WD Austerity 2-10-0
+BR ex-WD Austerity 2-8-0
+BTB E2E
+Baden III b
+Baden IV c
+Baden IV e
+Baden IV f
+Baden IV h
+Baden IX b
+Baden I b
+Baden I b
+Baden I e
+Baden VI b
+Baden VI c
+Baden X b
+Bagnall 0-4-0ST "Alfred" and "Judy"
+Bagnall 0-6-0ST Victor/Vulcan
+Baguley 774
+Bahnbetriebswerk Passau
+Baldwin 0-6-6-0 1000
+Baldwin 4-8+8-4-750/8-DE
+Baldwin 60000
+Baldwin AS-16
+Baldwin AS-416
+Baldwin AS-616
+Baldwin Class 10-12-D
+Baldwin DR-12-8-1500/2
+Baldwin DR-4-4-15
+Baldwin DR-6
+Baldwin DRS-4-4-1000
+Baldwin DRS-4-4-1500
+Baldwin DRS-6-4-1000
+Baldwin DRS-6-4-1500
+Baldwin DRS-6-4-660NA
+Baldwin DRS-6-4-750
+Baldwin DRS-6-6-1500
+Baldwin DS-4-4-1000
+Baldwin DS-4-4-660
+Baldwin DS-4-4-750
+Baldwin DT-6-6-2000
+Baldwin Locomotive Works 26
+Baldwin RF-16
+Baldwin RP-210
+Baldwin RS-12
+Baldwin RS-4-TC
+Baldwin RT-624
+Baldwin S-12
+Baldwin S-8
+Baldwin VO-1000
+Baldwin VO-660
+Baltimore and Ohio 4500
+Baltimore and Ohio 5300
+Baltimore and Ohio Class N-1
+Baltimore and Ohio No. 2 Lord Baltimore
+Baltimore and Ohio P-7
+Baltimore and Ohio SD20-2
+Baltimore and Ohio class N-1
+Baltimore and Ohio class S
+Bangladesh Railway Class 2000
+Bangladesh Railway Class 2600
+Bangladesh Railway Class 2700
+Bangladesh Railway Class 2900
+Bangladesh Railway Class 3000
+Bangladesh Railway Class 6400
+Bangladesh Railway Class 6500
+Bank engine
+Barry Railway Class A
+Barry Railway Class B
+Barry Railway Class B1
+Barry Railway Class C
+Barry Railway Class D
+Barry Railway Class E
+Barry Railway Class F
+Barry Railway Class G
+Barry Railway Class H
+Barry Railway Class J
+Barry Railway Class K
+Barry Railway Class L
+Bavarian AA I
+Bavarian A I
+Bavarian A II
+Bavarian A III
+Bavarian A IV
+Bavarian A V
+Bavarian BB I
+Bavarian BB II
+Bavarian B I
+Bavarian B II
+Bavarian B III
+Bavarian B IV
+Bavarian B IX
+Bavarian B IX
+Bavarian B IX
+Bavarian B V
+Bavarian B VI
+Bavarian B VII
+Bavarian B VIII
+Bavarian B V
+Bavarian B V
+Bavarian B X
+Bavarian B XI
+Bavarian C I
+Bavarian C II
+Bavarian C III
+Bavarian C III
+Bavarian C II
+Bavarian C IV
+Bavarian C V
+Bavarian C VI
+Bavarian D I
+Bavarian D II
+Bavarian D III
+Bavarian D II
+Bavarian D II
+Bavarian D IV
+Bavarian D IV
+Bavarian D IX
+Bavarian D V
+Bavarian D VI
+Bavarian D VII
+Bavarian D VIII
+Bavarian D X
+Bavarian D XI
+Bavarian D XII
+Bavarian EP 1
+Bavarian EP 2
+Bavarian EP 5
+Bavarian E I
+Bavarian G 3/4 H
+Bavarian G 4/5 H
+Bavarian G 4/5 N
+Bavarian G 5/5
+Bavarian GtL 4/4
+Bavarian Gts 2x3/3
+Bavarian Gts 4/4
+Bavarian Krauss railmotor
+Bavarian LE
+Bavarian MCCi
+Bavarian ML 2/2
+Bavarian P 3/5 H
+Bavarian P 3/5 N
+Bavarian PtL 2/2
+Bavarian Pt 2/3
+Bavarian Pt 2/4 H
+Bavarian Pt 2/4 N
+Bavarian Pt 2/5 H
+Bavarian Pts 3/4
+Bavarian PtzL 3/4
+Bavarian R 3/3
+Bavarian S 2/5
+Bavarian S 2/5
+Bavarian S 2/6
+Bavarian S 3/5
+Bavarian S 3/6
+Beardmore Halford Pullinger
+Beep
+Belarusian Railway BCG-1
+Belgian Railways Class 08
+Belgian Railways Class 11
+Belgian Railways Class 12
+Belgian Railways Class 13
+Belgian Railways Class 15
+Belgian Railways Class 16
+Belgian Railways Class 18
+Belgian Railways Class 18
+Belgian Railways Class 19
+Belgian Railways Class 20
+Belgian Railways Class 21
+Belgian Railways Class 22
+Belgian Railways Class 23
+Belgian Railways Class 25
+Belgian Railways Class 25.5
+Belgian Railways Class 26
+Belgian Railways Class 27
+Belgian Railways Class 28
+Belgian Railways Class 28
+Belgian Railways Class 50
+Belgian Railways Class 51
+Belgian Railways Class 54
+Belgian Railways Class 55
+Belgian Railways Class 59
+Belgian Railways Class 62
+Belgian Railways Class 70
+Belgian Railways Class 77
+Belgian State Railways Type 1
+Belgian State Railways Type 10
+Belgian State Railways Type 11
+Belgian State Railways Type 12
+Belgian State Railways Type 2
+Belgian State Railways Type 20
+Belgian State Railways Type 23
+Belgian State Railways Type 25
+Belgian State Railways Type 28
+Belgian State Railways Type 29
+Belgian State Railways Type 30
+Belgian State Railways Type 32
+Belgian State Railways Type 4
+Belgian State Railways Type 5
+Belgian State Railways Type 51
+Belgian State Railways Type 6
+Belgian State Railways Type 7
+Berkshire locomotive
+Berlin Mills Railway 7
+Bernina-Bahngesellschaft Ge 4/4 82
+Bernina Railway Ge 6/6 81
+Bessemer and Lake Erie 643
+Best Friend of Charleston
+Beuth
+Beuth
+Birmingham Railway Carriage and Wagon Company
+Blue Comet
+Bo+Bo
+Bo-Bo-Bo
+Bombardier ALP-45DP
+Bombardier ALP-46
+Bombardier HR-412
+Bombardier HR-616
+Bombardier–Alstom HHP-8
+Bonner Strassenbahn ROSWINDIS
+Boston and Maine 3713
+Boxcab
+Bradyll
+Branxholme locomotive dump
+Breakdown voltage
+Brecon and Merthyr 0-6-2T locomotives
+Bristol and Exeter Railway 0-4-0T locomotives
+Bristol and Exeter Railway 0-6-0T locomotives
+Bristol and Exeter Railway 0-6-0 locomotives
+Bristol and Exeter Railway 2-2-2T locomotives
+Bristol and Exeter Railway 2-4-0 locomotives
+Bristol and Exeter Railway 4-2-2 locomotives
+Bristol and Exeter Railway 4-2-4T locomotives
+Bristol and Exeter Railway 4-4-0ST locomotives
+Bristol and Exeter Railway 4-4-0T locomotives
+Bristol and Exeter Railway Fairfield steam carriage
+Bristol and Gloucester Railway
+British American Railway Services
+British Rail 10100
+British Rail 10800
+British Rail 11001
+British Rail 11104
+British Rail 15107
+British Rail 18000
+British Rail 18100
+British Rail Class 01
+British Rail Class 02
+British Rail Class 03
+British Rail Class 04
+British Rail Class 05
+British Rail Class 06
+British Rail Class 07
+British Rail Class 08
+British Rail Class 09
+British Rail Class 10
+British Rail Class 11
+British Rail Class 12
+British Rail Class 13
+British Rail Class 14
+British Rail Class 15
+British Rail Class 16
+British Rail Class 17
+British Rail Class 18
+British Rail Class 19
+British Rail Class 20
+British Rail Class 21
+British Rail Class 21
+British Rail Class 22
+British Rail Class 23
+British Rail Class 24
+British Rail Class 25
+British Rail Class 26
+British Rail Class 27
+British Rail Class 28
+British Rail Class 29
+British Rail Class 31
+British Rail Class 33
+British Rail Class 35
+British Rail Class 37
+British Rail Class 40
+British Rail Class 41
+British Rail Class 41
+British Rail Class 42
+British Rail Class 43
+British Rail Class 43
+British Rail Class 44
+British Rail Class 45
+British Rail Class 46
+British Rail Class 47
+British Rail Class 50
+British Rail Class 52
+British Rail Class 53
+British Rail Class 55
+British Rail Class 56
+British Rail Class 57
+British Rail Class 58
+British Rail Class 59
+British Rail Class 60
+British Rail Class 66
+British Rail Class 67
+British Rail Class 68
+British Rail Class 69
+British Rail Class 70
+British Rail Class 70
+British Rail Class 71
+British Rail Class 73
+British Rail Class 74
+British Rail Class 76
+British Rail Class 77
+British Rail Class 81
+British Rail Class 83
+British Rail Class 84
+British Rail Class 85
+British Rail Class 86
+British Rail Class 87
+British Rail Class 88
+British Rail Class 89
+British Rail Class 91
+British Rail Class 92
+British Rail Class 93
+British Rail Class 93
+British Rail Class 97/6
+British Rail Class 98
+British Rail Class 99
+British Rail Class D1/1
+British Rail Class D1/3
+British Rail Class D16/1
+British Rail Class D16/2
+British Rail Class D2/1
+British Rail Class D2/10
+British Rail Class D2/11
+British Rail Class D2/12
+British Rail Class D2/5
+British Rail Class D2/7
+British Rail Class D3/1
+British Rail Class D3/10
+British Rail Class D3/11
+British Rail Class D3/12
+British Rail Class D3/14
+British Rail Class D3/3
+British Rail Class D3/5
+British Rail Class D3/6
+British Rail Class D3/7
+British Rail Class D3/9
+British Rail Class EE1
+British Rail Class EF1
+British Rail D0260
+British Rail DHP1
+British Rail DP2
+British Rail GT3
+British Rail HS4000
+British Railways D0226
+British Railways DP1
+Brooklyn Eastern District Terminal 15
+Brooks-Scanlon Corporation 1
+Brookville BL12CG
+Brookville BL20CG
+Brookville BL20GH
+Brookville BL36PH
+Brown Boveri electric locomotive
+Budd–Michelin rubber-tired rail cars
+Buffalo Creek and Gauley 4
+Bullard Company 2
+C&O 2755
+C. P. Huntington
+C56 31
+CB&SCR Baldwin saddle tank
+CBH class
+CBSCR Bandon Tank
+CF7
+CFL Class 3000
+CFL Class 3600
+CFL Class 4000
+CFR Class 47
+CFR Class EA
+CGR 0-4-0ST 1873
+CGR 0-4-0ST 1874
+CGR 0-4-0ST 1878 Aid
+CGR 0-4-0ST 1881
+CGR 0-4-0ST 1881 Coffee Pot
+CGR 0-6-0ST
+CGR 0-6-0ST 1902
+CGR 0-6-0T
+CGR 0-6-0T 1876 Back-to-Back
+CGR 1st Class 0-4-0ST 1875
+CGR 1st Class 0-4-0ST 1876
+CGR 1st Class 2-6-0ST
+CGR 1st Class 2-6-0ST 1876
+CGR 1st Class 2-6-0 1876 BP
+CGR 1st Class 2-6-0 1876 Kitson
+CGR 1st Class 2-6-0 1879
+CGR 1st Class 2-6-0 1891
+CGR 1st Class 4-4-0
+CGR 1st Class 4-4-0T
+CGR 1st Class 4-4-0TT
+CGR 1st Class 4-4-0TT 1881
+CGR 1st Class 4-4-0T 1875
+CGR 1st Class 4-4-0 1879
+CGR 2-6-0ST 1900
+CGR 2-6-0ST 1902
+CGR 2nd Class 2-6-2TT
+CGR 2nd Class 4-4-0T
+CGR 3rd Class 2-6-0T
+CGR 3rd Class 4-4-0 1883
+CGR 3rd Class 4-4-0 1884
+CGR 3rd Class 4-4-0 1889
+CGR 3rd Class 4-4-0 1898
+CGR 3rd Class 4-4-0 1901
+CGR 3rd Class 4-4-0 1903
+CGR 4th Class 4-4-2
+CGR 4th Class 4-6-0TT 1880
+CGR 4th Class 4-6-0TT 1882
+CGR 4th Class 4-6-0TT 1882 Joy
+CGR 4th Class 4-6-0TT 1884
+CGR 5th Class 4-6-0 1890
+CGR 5th Class 4-6-0 1891
+CGR Fairlie 0-6-0+0-6-0
+CGR Kitson-Meyer 0-6-0+0-6-0
+CGR NG 0-4-0T
+CGR NG 0-6-0T
+CGR NG 0-6-0T 1903
+CGR NG 4-6-2T
+CGR NG 4-6-2T 1908
+CGR Railmotor
+CGR Type A 2-6-4T
+CGR Type C 0-4-0T
+CGR class C1 and C1a
+CGR class H1
+CIE 001 Class
+CIE 071 Class/NIR Class 111
+CIE 101 Class
+CIE 113 Class
+CIE 121 Class
+CIE 141 Class
+CIE 181 Class
+CIE 301 Class
+CIE 401 Class
+CIE 421 Class
+CIE 501 Class
+CIE 601 Class
+CIE 611 Class
+CIE 801 Class
+CIÉ No. CC1
+CKD7C
+CLR 1 to 8
+CL Bay 06b
+CL Bay 11a
+CNR CKD8
+CN 6077
+CN 6213
+CN O-18-a
+CN U-1-a and U-1-b
+CN U-1-f
+COBRAcable
+CP Class 1150
+CP Class 1200
+CP Class 1300
+CP Class 1320
+CP Class 1400
+CP Class 1500
+CP Class 1550
+CP Class 1800
+CP Class 1900
+CP Class 1930
+CP Class 1960
+CP Class 2500
+CP Class 2550
+CP Class 2600
+CP Class 4700
+CP Class 5600
+CP Class 9020
+CSAR Class C 2-8-4T
+CSAR Class E 4-10-2T
+CSAR Rack 4-6-4RT
+CSAR Rack 4-6-4T
+CSAR Railmotor
+CSR Qishuyan SDA2
+CSR SDD7
+CSR Ziyang SDA1
+CSÉT Shunting Locomotives
+Caledonian
+Caledonian Railway 179 Class
+Caledonian Railway 179 and 184 Classes
+Caledonian Railway 191 Class
+Caledonian Railway 264 Class
+Caledonian Railway 294 and 711 Classes
+Caledonian Railway 300 Class
+Caledonian Railway 439 Class
+Caledonian Railway 498 Class
+Caledonian Railway 49 and 903 Classes
+Caledonian Railway 55 Class
+Caledonian Railway 60 Class
+Caledonian Railway 670 Class
+Caledonian Railway 721 Class
+Caledonian Railway 72 Class
+Caledonian Railway 782 Class
+Caledonian Railway 812 and 652 Classes
+Caledonian Railway 908 Class
+Caledonian Railway 918 Class
+Caledonian Railway 944 Class
+Caledonian Railway 956 Class
+Caledonian Railway Single
+California Western 45
+Cambrian Railways Jones Class 89 0-6-0
+Camelback locomotive
+Canadian National 3254
+Canadian National 3377
+Canadian National 47
+Canadian National 6060
+Canadian National 6077
+Canadian National 6213
+Canadian National 7312
+Canadian National 7470
+Canadian National 89
+Canadian National Class U-1-f
+Canadian National Class Z-1-a
+Canadian National Class Z-4-a
+Canadian National class E-7 2-6-0
+Canadian National class I-8 4-6-0
+Canadian National class K-3 4-6-2
+Canadian National class N-4 2-8-0
+Canadian National class O-19 0-6-0
+Canadian National class O-8 0-6-0T
+Canadian National class O-9 0-6-0
+Canadian National class S 2-8-2
+Canadian Pacific 1201
+Canadian Pacific 1238
+Canadian Pacific 1246
+Canadian Pacific 1278
+Canadian Pacific 1286
+Canadian Pacific 1293
+Canadian Pacific 2-8-0 N-2-a, b, and c
+Canadian Pacific 2317
+Canadian Pacific 2816
+Canadian Pacific 283
+Canadian Pacific 29
+Canadian Pacific 374
+Canadian Pacific 7000
+Canadian Pacific 972
+Cape Town Railway & Dock 0-4-0T
+Cape Town Railway & Dock 0-4-2
+Cape Town Railway & Dock 2-4-0T
+Carmarthen and Cardigan Railway
+Catch Me Who Can
+Geared steam locomotive
+Geelong and Melbourne Railway Company 0-4-0T
+Geelong and Melbourne Railway Company 2-2-2WT
+Grand Canyon Railway 29
+Grand Canyon Railway 4960
+Grand Trunk Western 4070
+Grand Trunk Western 6039
+Grand Trunk Western 6323
+Grand Trunk Western 6325
+Grasshopper beam engine
+Great Northern 1355
+Great Northern 2507
+Great Northern 2584
+Great Northern 400
+Great Northern F-8
+Great Northern H-5
+Great Northern M-1
+Great Northern O-1
+Great Northern P-1
+Great Northern P-2
+Great Northern Q-1
+Great Northern S-1
+Great Northern S-2
+Great Northern W-1
+Great Northern Y-1
+Great Northern Z-1
+Great Northern boxcab
+Great Smoky Mountains Railroad 1702
+Great Western 60
+Great Western 90
+Hybrid train
+Hyundai Tau engine
+HŽ series 1061
+HŽ series 1142
+HŽ series 1161
+HŽ series 2041
+HŽ series 2042
+HŽ series 2043
+HŽ series 2062
+HŽ series 2131
+HŽ series 2141
+HŽ series 6111
+HŽ series 6112
+HŽ series 7221
+IE 201 Class
+IKCO EF Engines
+INKA CC300
+Lake Superior and Ishpeming 18
+Lake Superior and Ishpeming 23
+Lake Superior and Ishpeming 33
+Lancashire Witch
+Landquart-Davos G 2x2/2
+Landquart-Davos G 3/4
+Lockheed J37
+Locomotion No. 1
+Locomotive Duplex
+Locomotive No. 1
+Locomotive SFAI 1400
+Locomotive U-127
+Locomotives LVCI 1-50, 155-164
+Locomotives LVCI 116-119
+Locomotives LVCI 79-90
+Locomotives SFAI 250-258
+Locomotives SFAI 301-311
+Locomotives SFM 1-34
+Lokomotivfabrik Floridsdorf
+London Underground tube-gauge steam locomotives
+Longhedge Railway Works
+Louisville and Nashville 152
+Louisville and Nashville class M-1
+Parracombe
+Patentee
+PwPost Bay 06
+Px27-775
+Px38-805
+QR National 5000 class
+QR National 5020 class
+Stadler Euro
+Stadler Euro Dual
+Stadler Eurolight
+Stationary steam engine
+Sudan Railways 250 class
+Sumter & Choctaw 102
+Surprise locomotive
+Talyllyn
+Tanaka Power Equipment
+Tank locomotive
+TasRail DC class
+TasRail DQ class
+TasRail QR class
+TasRail TR class
+Task View
+Tasmanian Government Railways A class
+Tasmanian Government Railways B class
+Tasmanian Government Railways C class
+Tasmanian Government Railways E+ class
+Tasmanian Government Railways E class
+Tasmanian Government Railways G class
+Tasmanian Government Railways H class
+Tasmanian Government Railways H class
+Tasmanian Government Railways J class
+Tasmanian Government Railways K class
+Tasmanian Government Railways L class
+Tasmanian Government Railways M class
+Tasmanian Government Railways M class
+Tasmanian Government Railways P class
+Tasmanian Government Railways Q class
+Tasmanian Government Railways R class
+Tasmanian Government Railways V class
+Tasmanian Government Railways X class
+Tasmanian Government Railways Y class
+Tasmanian Government Railways Z class
+Tasmanian Government Railways Za class
+Tatra KT4
+Taw
+Tennessee, Alabama and Georgia 101
+Tennessee Valley Railroad 610
+Terra Nova 1260HP diesel hydraulic locomotive
+The Texas
+Moel Tryfan
+Monarch
+New Haven EP-1
+New Haven EP-2
+New Haven EP-5
+New Haven EP5
+New Hope & Ivyland 40
+New Hope Railroad 40
+New South Wales 40 class locomotive
+New South Wales 41 class locomotive
+New South Wales 421 class locomotive
+New South Wales 422 class locomotive
+New South Wales 42 class locomotive
+New South Wales 43 class locomotive
+New South Wales 442 class locomotive
+New South Wales 44 class locomotive
+New South Wales 45
+New South Wales 45 class locomotive
+New South Wales 46 class locomotive
+New South Wales 47 class locomotive
+New South Wales 48 class locomotive
+New South Wales 49 class locomotive
+New South Wales 70 class locomotive
+New South Wales 72 class locomotive
+New South Wales 73 class locomotive
+New South Wales 79 class locomotive
+New South Wales 80 class locomotive
+New South Wales 81 class locomotive
+New South Wales 82 class locomotive
+New South Wales 85 class locomotive
+New South Wales 86 class locomotive
+New South Wales 90 class locomotive
+New South Wales AD60 class locomotive
+New South Wales C30T class locomotive
+New South Wales C30 class locomotive
+New South Wales C32 class locomotive
+New South Wales C34 class locomotive
+New South Wales C35 class locomotive
+New South Wales C36 class locomotive
+New South Wales C38 class locomotive
+New South Wales D50 class locomotive
+New South Wales D53 class locomotive
+New South Wales D55 class locomotive
+New South Wales D57 class locomotive
+New South Wales D58 class locomotive
+New South Wales D59 class locomotive
+New South Wales E17 class locomotive
+New South Wales F351 class locomotive
+New South Wales FP Paybuses
+New South Wales M36 class locomotive
+New South Wales X100 class locomotive
+New South Wales X10 class locomotive
+New South Wales X200 class locomotive
+New South Wales XPT
+New South Wales Z11 class locomotive
+New South Wales Z12 class locomotive
+New South Wales Z13 class locomotive
+New South Wales Z14 class locomotive
+New South Wales Z15 class locomotive
+New South Wales Z16 class locomotive
+New South Wales Z17 class locomotive
+New South Wales Z18 class locomotive
+New South Wales Z19 class locomotive
+New South Wales Z20 class locomotive
+New South Wales Z21 class locomotive
+New South Wales Z22 class locomotive
+New South Wales Z23 class locomotive
+New South Wales Z24 class locomotive
+New South Wales Z25 class locomotive
+New South Wales Z26 class locomotive
+New South Wales Z27 class locomotive
+New South Wales Z28 class locomotive
+New South Wales Z29 class locomotive
+New York Central 1290 and 1291
+New York Central 2933
+New York Central 3001
+New York Central Hudson
+New York Central Mohawk
+New York Central Niagara
+New York Central P Motor
+New York Central R-Motor
+New York Central S-Motor
+New York Central T-Motor
+New York Central and Hudson River Railroad No. 999
+New Zealand DA class locomotive
+New Zealand DB class locomotive
+New Zealand DC class locomotive
+New Zealand DE class locomotive
+New Zealand DF class locomotive
+New Zealand DG and DH class locomotive
+New Zealand DH class locomotive
+New Zealand DI class locomotive
+New Zealand DJ class locomotive
+New Zealand DL class locomotive
+New Zealand DQ and QR class locomotives
+New Zealand DSC class locomotive
+New Zealand DSG class locomotive
+New Zealand DSJ class locomotive
+New Zealand DX class locomotive
+New Zealand EA class locomotive
+New Zealand EB class locomotive
+New Zealand EF class locomotive
+New Zealand EW class locomotive
+New Zealand E class locomotive
+New Zealand TR class locomotive
+Newag 15D/16D
+Newag 6Dl
+Newag Dragon
+Newag Griffin
+Old Beck
+Oldenburg G 1
+Oldenburg G 4.2
+Oldenburg G 7
+Oldenburg P 4.1
+Oldenburg P 4.2
+Oldenburg S 10
+Oldenburg S 3
+Oldenburg S 5
+Oldenburg T 0
+Oldenburg T 1
+Oldenburg T 2
+Oldenburg T 3
+Oldenburg T 5.1
+Olomana
+Pays de Waes
+Peak kilovoltage
+Peckett OQ Class
+Peckett W4 class
+Pennsylvania Railroad 1223
+Pennsylvania Railroad 1361
+Pennsylvania Railroad 1737
+Pennsylvania Railroad 3750
+Pennsylvania Railroad 460
+Pennsylvania Railroad 4800
+Pennsylvania Railroad 4859
+Pennsylvania Railroad 4876
+Pennsylvania Railroad 4877
+Pennsylvania Railroad 520
+Pennsylvania Railroad 5550
+Pennsylvania Railroad 6755
+Pennsylvania Railroad 7002
+Pennsylvania Railroad Odd D 10003
+Pennsylvania Railroad class A5s
+Pennsylvania Railroad class AA1
+Pennsylvania Railroad class B1
+Pennsylvania Railroad class B6
+Pennsylvania Railroad class C1
+Pennsylvania Railroad class CC1s
+Pennsylvania Railroad class CC2s
+Pennsylvania Railroad class D1
+Pennsylvania Railroad class D14
+Pennsylvania Railroad class D15
+Pennsylvania Railroad class D16
+Pennsylvania Railroad class D2
+Pennsylvania Railroad class D3
+Pennsylvania Railroad class D4
+Pennsylvania Railroad class D5
+Pennsylvania Railroad class D6
+Pennsylvania Railroad class D7
+Pennsylvania Railroad class DD1
+Pennsylvania Railroad class DD2
+Pennsylvania Railroad class E2
+Pennsylvania Railroad class E2b
+Pennsylvania Railroad class E3b
+Pennsylvania Railroad class E3c
+Pennsylvania Railroad class E44
+Pennsylvania Railroad class E6
+Pennsylvania Railroad class FF1
+Pennsylvania Railroad class G3
+Pennsylvania Railroad class G5
+Pennsylvania Railroad class GG1
+Pennsylvania Railroad class H6
+Pennsylvania Railroad class HH1s
+Pennsylvania Railroad class I1s
+Pennsylvania Railroad class J1
+Pennsylvania Railroad class J28
+Pennsylvania Railroad class K29s
+Pennsylvania Railroad class K4
+Pennsylvania Railroad class K5
+Pennsylvania Railroad class L1s
+Pennsylvania Railroad class L2s
+Pennsylvania Railroad class L5
+Pennsylvania Railroad class L6
+Pennsylvania Railroad class M1
+Pennsylvania Railroad class N1s
+Pennsylvania Railroad class N2sa
+Pennsylvania Railroad class O1
+Pennsylvania Railroad class P5
+Pennsylvania Railroad class Q1
+Pennsylvania Railroad class Q2
+Pennsylvania Railroad class R1
+Pennsylvania Railroad class S1
+Pennsylvania Railroad class S2
+Pennsylvania Railroad class T1
+Pennsylvania Railroad de Glehn locomotive
+Pennsylvania Railroad no. 1320
+Penrhyn Main Line class
+Penrhyn Port Class
+Polar Bear
+Polymer adsorption
+Polyspheric
+Queensland 4D10 class locomotive
+Queensland 4D11½ Abt class locomotive
+Queensland 4D9 class locomotive
+Queensland 6D11½ crane class locomotive
+Queensland 6D11½ motor class locomotive
+Queensland 6D13 class locomotive
+Queensland 6D13½ Abt class locomotive
+Queensland 6D16 class locomotive
+Queensland 6D8½ class locomotive
+Queensland 8D11 class locomotive
+Queensland 8D15 class locomotive
+Queensland A10 Avonside class locomotive
+Queensland A10 Baldwin class locomotive
+Queensland A10 Fairlie class locomotive
+Queensland A10 Ipswich class locomotive
+Queensland A10 Neilson class locomotive
+Queensland A11 class locomotive
+Queensland A12 class locomotive
+Queensland A12 small class locomotive
+Queensland A14 class locomotive
+Queensland AC16 class locomotive
+Queensland B11 Baldwin class locomotive
+Queensland B11 class locomotive
+Queensland B12 class locomotive
+Queensland B13 Baldwin class locomotive
+Queensland B13 class locomotive
+Queensland B15 class locomotive
+Queensland B16½ class locomotive
+Queensland B17 class locomotive
+Queensland B18¼ class locomotive
+Queensland B9½ class locomotive
+Queensland BB18¼ class locomotive
+Queensland Beyer-Garratt class
+Queensland C13 Baldwin class locomotive
+Queensland C13 class locomotive
+Queensland C15 class locomotive
+Queensland C16 Baldwin class locomotive
+Queensland C16 class locomotive
+Queensland C17 class locomotive
+Queensland C18 class locomotive
+Queensland C19 class locomotive
+Queensland D17 class locomotive
+Queensland DD17 class locomotive
+Queensland Double Boilered Cross locomotive
+Queensland PB15 class locomotive
+Queensland Railways 1150 class
+Queensland Railways 1170 class
+Queensland Railways 1200 class
+Queensland Railways 1250 class
+Queensland Railways 1270 class
+Queensland Railways 1300 class
+Queensland Railways 1400 class
+Queensland Railways 1450 class
+Queensland Railways 1460 class
+Queensland Railways 1502 class
+Queensland Railways 1550 class
+Queensland Railways 1600 class
+Queensland Railways 1620 class
+Queensland Railways 1700 class
+Queensland Railways 1720 class
+Queensland Railways 2100 class
+Queensland Railways 2130 class
+Queensland Railways 2141 class
+Queensland Railways 2150 class
+Queensland Railways 2170 class
+Queensland Railways 2250 class
+Queensland Railways 2300 class
+Queensland Railways 2350 class
+Queensland Railways 2370 class
+Queensland Railways 2400 class
+Queensland Railways 2450 class
+Queensland Railways 2470 class
+Queensland Railways 2600 class
+Queensland Railways 2800 class
+Queensland Railways 3100/3200 class
+Queensland Railways 3300/3400 class
+Queensland Railways 3500/3600 class
+Queensland Railways 3900 class
+Queensland Railways DH class
+Queensland Railways DL class
+R. B. Longridge and Company
+R. J. Billinton
+Rio Grande 168
+Rio Grande 169
+Rio Grande 223
+Rio Grande 315
+Rio Grande 463
+Rio Grande class K-27
+Rio Grande class K-28
+Rio Grande class K-36
+Rio Grande class K-37
+Réseau Breton 4-6-0 tank locomotives
+RüKB Nos. 51Mh to 53Mh
+S&DJR 7F 2-8-0
+S&DJR Fox, Walker 0-6-0ST
+S&DJR Sentinels
+S&DR George England 2-4-0
+SAL 2027
+SBB-CFF-FFS A 3/5
+SBB-CFF-FFS Ae 3/5
+SBB-CFF-FFS Ae 4/6
+SBB-CFF-FFS Ae 4/7
+SBB-CFF-FFS Ae 4/8
+SBB-CFF-FFS Ae 6/6
+SBB-CFF-FFS Ae 8/14
+SBB-CFF-FFS Am 4/6 1101
+SBB-CFF-FFS Am 6/6
+SBB-CFF-FFS Am 841
+SBB-CFF-FFS B 3/4
+SBB-CFF-FFS Be 3/5
+SBB-CFF-FFS Be 4/6 12301
+SBB-CFF-FFS Be 4/6 12302
+SBB-CFF-FFS Be 4/6 12303-12342
+SBB-CFF-FFS Bm 4/4
+SBB-CFF-FFS C 5/6
+SBB-CFF-FFS Ce 6/6
+SBB-CFF-FFS Ce 6/8 I
+SBB-CFF-FFS De 6/6
+SBB-CFF-FFS Ee 922
+SBB-CFF-FFS Eem 923
+SBB-CFF-FFS Em 3/3
+SBB-CFF-FFS RABDe 8/16
+SBB-CFF-FFS RBe 540
+SBB-CFF-FFS Re 420
+SBB-CFF-FFS Re 450
+SBB-CFF-FFS Re 460
+SBB-CFF-FFS Re 620
+SCORE Class 3
+SD20-2
+SD26
+SECR B1 class
+SECR C class
+SECR D class
+SECR E class
+SECR F1 class
+SECR H class
+SECR J class
+SECR K and SR K1 classes
+SECR L class
+SECR N1 class
+SECR N class
+SECR P class
+SECR Q1 class
+SEK Class Δα
+SEK Class Θα
+SEK Class Θβ
+SEK Class Λβ
+SEK class Ια
+SEK class Κγ
+SEK class Λα
+SEK class Λγ
+SEK class Μα
+SER 235 class
+SER F class
+SER O class
+SER Q class
+SER R class
+SJ A
+SJ B
+SJ Class G11
+SJ D
+SJ Da
+SJ Dm3
+SJ E
+SJ E10
+SJ F
+SJ F
+SJ Ma
+SJ Mg
+SJ O
+SJ Pa
+SJ R
+SJ Ra
+SJ Rb
+SJ Rc
+SJ Rm
+SJ T21
+SJ T41
+SJ T43
+SJ T44
+SJ T45
+SJ T46
+SJ Tb
+SJ Tc
+SJ Tp
+SJ U
+SLNCR Leitrim class
+SLNCR Lough class
+SLSF 1522
+SNCB Class 15
+SNCB Class 18
+SNCB Class 19
+SNCB Class 20
+SNCB Class 26
+SNCB Class 50
+SNCB Class 51
+SNCB Class 55
+SNCB Class 59
+SNCB Class 62
+SNCB Class 70
+SNCB Class 73
+SNCB Type 1
+SNCB Type 12
+SNCB Type 26
+SNCB Type 29
+SNCB Type 36
+SNCB Type 64
+SNCF 040.DF
+SNCF 150.P
+SNCF 232.P.1
+SNCF 232.Q.1
+SNCF 232.U.1
+SNCF 240P
+SNCF 2D2 5500
+SNCF 2D2 9100
+SNCF BB 1-80
+SNCF BB 100
+SNCF BB 1280
+SNCF BB 13000
+SNCF BB 1320
+SNCF BB 1420
+SNCF BB 200
+SNCF BB 20011 and 20012
+SNCF BB 9003-9004
+SNCF CC 14000
+SNCF CC 40100
+SNCF Class 141R
+SNCF Class 1D1 60051
+SNCF Class 241P
+SNCF Class A1AA1A 68000
+SNCF Class A1AA1A 68500
+SNCF Class BB 10003
+SNCF Class BB 12000
+SNCF Class BB 15000
+SNCF Class BB 16000
+SNCF Class BB 16100
+SNCF Class BB 16500
+SNCF Class BB 17000
+SNCF Class BB 1800
+SNCF Class BB 20004
+SNCF Class BB 20005
+SNCF Class BB 20100
+SNCF Class BB 22200
+SNCF Class BB 25100
+SNCF Class BB 25150
+SNCF Class BB 25200
+SNCF Class BB 25500
+SNCF Class BB 26000
+SNCF Class BB 27000
+SNCF Class BB 27300
+SNCF Class BB 300
+SNCF Class BB 30000
+SNCF Class BB 325
+SNCF Class BB 36000
+SNCF Class BB 37000
+SNCF Class BB 47000
+SNCF Class BB 60000
+SNCF Class BB 60031
+SNCF Class BB 61000
+SNCF Class BB 62400
+SNCF Class BB 63000
+SNCF Class BB 63400
+SNCF Class BB 63500
+SNCF Class BB 66000
+SNCF Class BB 66400
+SNCF Class BB 66600
+SNCF Class BB 66700
+SNCF Class BB 67000
+SNCF Class BB 67200
+SNCF Class BB 67300
+SNCF Class BB 67400
+SNCF Class BB 69000
+SNCF Class BB 69400
+SNCF Class BB 71000
+SNCF Class BB 7200
+SNCF Class BB 75000
+SNCF Class BB 8100
+SNCF Class BB 8500
+SNCF Class BB 8700
+SNCF Class BB 900
+SNCF Class BB 9200
+SNCF Class BB 9300
+SNCF Class BB 9400
+SNCF Class CC 1100
+SNCF Class CC 14100
+SNCF Class CC 21000
+SNCF Class CC 6500
+SNCF Class CC 65000
+SNCF Class CC 65500
+SNCF Class CC 70000
+SNCF Class CC 7100
+SNCF Class CC 72000
+SNCF Class CC 72100
+SNCF Class C 61000
+SNCF Class T 2000
+SNCF Class X 4900
+SNCF Class Y 7100
+SNCF Class Y 7400
+SNCF Class Y 8000
+SNCF Class Y 8400
+SNCF Class Y 9000
+SNCF class 141TB
+SP&S Class A1
+SP&S Class A2
+SP&S Class A3
+SP&S Class E-1
+SP&S Class L-1
+SP&S Class L-2
+SP&S Class L-3
+SP&S Class L-4
+SP&S Class L-5
+SP&S Class O-2
+SR Battle of Britain class 21C151 Winston Churchill
+SR Battle of Britain class 21C153 Sir Keith Park
+SR E1/R class
+SR L1 class
+SR Leader class
+SR Lord Nelson Class 850 Lord Nelson
+SR Lord Nelson class
+SR Merchant Navy Class 35006 Peninsular & Oriental S. N. Co.
+SR Merchant Navy Class 35009 Shaw Savill
+SR Merchant Navy Class 35018 British India Line
+SR Merchant Navy Class 35022 Holland America Line
+SR Merchant Navy Class 35027 Port Line
+SR Merchant Navy class
+SR N15X class
+SR N15 class 777 Sir Lamiel
+SR Q1 class
+SR Q class
+SR U1 class
+SR USA class
+SR U class
+SR V Schools class
+SR V class
+SR W class
+SR West Country and Battle of Britain classes
+SR West Country class 21C127 Taw Valley
+SR West Country class 21C146 Braunton
+SR Z class
+SSLR 1 and 3
+SSLR 4
+Sauer S 2500 UL
+Savannah and Atlanta 750
+Saxon I
+Saxon III
+Saxon III K
+Saxon IIIb
+Saxon IIIb V
+Saxon II K
+Saxon IV K
+Saxon IV T
+Saxon IX V
+Saxon I F
+Saxon I K
+Saxon I TV
+Saxon M I TV
+Saxon V
+Saxon VI
+Saxon VIII 1
+Saxon VII T
+Saxon VI K
+Saxon VIa
+Saxon VIb V
+Saxon V K
+Saxon XII H2
+Saxon XVIII H
+Saxon XV HTV
+Saxon XX HV
+Saxon X V
+Saxonia
+Songun Red Flag-class locomotive
+Sony Anycast
+Soo Line 1003
+Soo Line 2500
+Soo Line 2645
+Soo Line 2713
+Soo Line 2718
+Soo Line 2719
+Soo Line 353
+Soo Line 700
+Soo Line B-4 class
+Soo Line L-1 class
+South African 0-4-0ST 1903
+South African Class 10A 4-6-2
+South African Class 10B 4-6-2
+South African Class 10C 4-6-2
+South African Class 10D 4-6-2
+South African Class 10E
+South African Class 10E1, Series 1
+South African Class 10E1, Series 2
+South African Class 10E2
+South African Class 10 4-6-2
+South African Class 11E
+South African Class 11 2-8-2
+South African Class 12A 4-8-2
+South African Class 12B 4-8-2
+South African Class 12E
+South African Class 12 4-8-2
+South African Class 13 4-8-0TT
+South African Class 14A 4-8-2
+South African Class 14B 4-8-2
+South African Class 14C 4-8-2
+South African Class 14C 4-8-2, 1st batch
+South African Class 14C 4-8-2, 2nd batch
+South African Class 14C 4-8-2, 3rd batch
+South African Class 14C 4-8-2, 4th batch
+South African Class 14E
+South African Class 14E1
+South African Class 14 4-8-2
+South African Class 15A 4-8-2
+South African Class 15B 4-8-2
+South African Class 15CA 4-8-2
+South African Class 15C 4-8-2
+South African Class 15E
+South African Class 15E 4-8-2
+South African Class 15F 4-8-2
+South African Class 15 4-8-2
+South African Class 16A 4-6-2
+South African Class 16B 4-6-2
+South African Class 16C 4-6-2
+South African Class 16DA 4-6-2
+South African Class 16DA 4-6-2 1928
+South African Class 16DA 4-6-2 1930
+South African Class 16D 4-6-2
+South African Class 16E
+South African Class 16E 4-6-2
+South African Class 16 4-6-2
+South African Class 17E
+South African Class 17 4-8-0TT
+South African Class 18E, Series 1
+South African Class 18E, Series 2
+South African Class 18 2-10-2
+South African Class 19A 4-8-2
+South African Class 19B 4-8-2
+South African Class 19C 4-8-2
+South African Class 19D 4-8-2
+South African Class 19E
+South African Class 19 4-8-2
+South African Class 1A 4-8-0
+South African Class 1B 4-8-2
+South African Class 1E
+South African Class 1 4-8-0
+South African Class 20E
+South African Class 20 2-10-2
+South African Class 21E
+South African Class 21 2-10-4
+South African Class 22E
+South African Class 23E
+South African Class 23 4-8-2
+South African Class 24 2-8-4
+South African Class 25NC 4-8-4
+South African Class 25 4-8-4
+South African Class 26 4-8-4
+South African Class 2C 4-6-2
+South African Class 2E
+South African Class 2 4-6-2
+South African Class 31-000
+South African Class 32-000
+South African Class 32-200
+South African Class 33-000
+South African Class 33-200
+South African Class 33-400
+South African Class 34-000
+South African Class 34-200
+South African Class 34-400
+South African Class 34-500
+South African Class 34-600
+South African Class 34-800
+South African Class 34-900
+South African Class 35-000
+South African Class 35-200
+South African Class 35-400
+South African Class 35-600
+South African Class 36-000
+South African Class 36-200
+South African Class 37-000
+South African Class 38-000
+South African Class 39-000
+South African Class 39-200
+South African Class 3A 4-8-2
+South African Class 3B 4-8-2
+South African Class 3E
+South African Class 3 4-8-2
+South African Class 43-000
+South African Class 44-000
+South African Class 45-000
+South African Class 4A 4-8-2
+South African Class 4E
+South African Class 4 4-8-2
+South African Class 5A 4-6-2
+South African Class 5B 4-6-2
+South African Class 5E, Series 1
+South African Class 5E, Series 2
+South African Class 5E, Series 3
+South African Class 5E1, Series 1
+South African Class 5E1, Series 2
+South African Class 5E1, Series 3
+South African Class 5E1, Series 4
+South African Class 5E1, Series 5
+South African Class 5 4-6-2
+South African Class 61-000
+South African Class 6A 4-6-0
+South African Class 6B 4-6-0
+South African Class 6C 4-6-0
+South African Class 6D 4-6-0
+South African Class 6E
+South African Class 6E1, Series 1
+South African Class 6E1, Series 10
+South African Class 6E1, Series 11
+South African Class 6E1, Series 2
+South African Class 6E1, Series 3
+South African Class 6E1, Series 4
+South African Class 6E1, Series 5
+South African Class 6E1, Series 6
+South African Class 6E1, Series 7
+South African Class 6E1, Series 8
+South African Class 6E1, Series 9
+South African Class 6E 4-6-0
+South African Class 6F 4-6-0
+South African Class 6G 4-6-0
+South African Class 6H 4-6-0
+South African Class 6J 4-6-0
+South African Class 6K 4-6-0
+South African Class 6L 4-6-0
+South African Class 6Y 2-6-2
+South African Class 6Z 2-6-4
+South African Class 6 4-6-0
+South African Class 7A 4-8-0
+South African Class 7B 4-8-0
+South African Class 7C 4-8-0
+South African Class 7D 4-8-0
+South African Class 7E
+South African Class 7E1
+South African Class 7E2, Series 1
+South African Class 7E2, Series 2
+South African Class 7E3, Series 1
+South African Class 7E3, Series 2
+South African Class 7E4
+South African Class 7E 4-8-0
+South African Class 7F 4-8-0
+South African Class 7 4-8-0
+South African Class 8A 4-8-0
+South African Class 8B 4-8-0
+South African Class 8C 4-8-0
+South African Class 8D 4-8-0
+South African Class 8E
+South African Class 8E 4-8-0
+South African Class 8F 4-8-0
+South African Class 8R 4-8-0
+South African Class 8X 2-8-0
+South African Class 8Y 2-8-0
+South African Class 8Z 2-8-0
+South African Class 8 4-8-0
+South African Class 91-000
+South African Class 9E, Series 1
+South African Class 9E, Series 2
+South African Class 9 4-6-2
+South African Class A 4-8-2T
+South African Class Afro 4000
+South African Class B 0-6-4T
+South African Class C1 4-6-2T
+South African Class C2 4-6-4T
+South African Class C 4-6-0T
+South African Class DS
+South African Class DS1
+South African Class D 2-6-4T
+South African Class E38
+South African Class ES
+South African Class ES1
+South African Class E 4-6-4T
+South African Class Experimental 1 4-6-2
+South African Class Experimental 2 2-8-0
+South African Class Experimental 3 2-8-0
+South African Class Experimental 4 2-8-2
+South African Class Experimental 5 2-8-2
+South African Class Experimental 6 4-8-0
+South African Class Experimental AC
+South African Class FC 2-6-2+2-6-2
+South African Class FD 2-6-2+2-6-2
+South African Class F 4-6-4T
+South African Class GA 2-6-0+0-6-2
+South African Class GB 2-6-2+2-6-2
+South African Class GCA 2-6-2+2-6-2
+South African Class GC 2-6-2+2-6-2
+South African Class GDA 2-6-2+2-6-2
+South African Class GD 2-6-2+2-6-2
+South African Class GEA 4-8-2+2-8-4
+South African Class GE 2-8-2+2-8-2
+South African Class GF 4-6-2+2-6-4
+South African Class GG 2-6-2+2-6-2
+South African Class GH 4-6-2+2-6-4
+South African Class GK 2-6-2+2-6-2
+South African Class GL 4-8-2+2-8-4
+South African Class GMA 4-8-2+2-8-4
+South African Class GM 4-8-2+2-8-4
+South African Class GO 4-8-2+2-8-4
+South African Class G 4-8-2T
+South African Class H1 4-8-2T
+South African Class H2 4-8-2T
+South African Class HF 2-8-2+2-8-2
+South African Class H 4-10-2T
+South African Class J 4-6-4T
+South African Class KM 0-6-0+0-6-0
+South African Class K 4-6-4T
+South African Class MA 2-6-6-0
+South African Class MB 2-6-6-0
+South African Class MC1 2-6-6-0
+South African Class MC 2-6-6-0
+South African Class MD 2-6-6-2
+South African Class ME 2-6-6-2
+South African Class MF 2-6-6-2
+South African Class MG 2-6-6-2
+South African Class MH 2-6-6-2
+South African Class MJ1 2-6-6-0
+South African Class MJ 2-6-6-0
+South African Class NG10 4-6-2
+South African Class NG15 2-8-2
+South African Class NG1 0-4-0T
+South African Class NG2 0-4-2ST
+South African Class NG2 0-4-2T
+South African Class NG3 4-6-2T
+South African Class NG4 4-6-2T
+South African Class NG5 2-8-2
+South African Class NG6 4-4-0
+South African Class NG7 2-6-0
+South African Class NG8 4-6-0
+South African Class NG9 4-6-0
+South African Class NG G11 2-6-0+0-6-2
+South African Class NG G12 2-6-2+2-6-2
+South African Class NG G13 2-6-2+2-6-2
+South African Class NG G14 2-6-2+2-6-2
+South African Class NG G16A 2-6-2+2-6-2
+South African Class NG G16 2-6-2+2-6-2
+South African Class S1 0-8-0
+South African Class S2 0-8-0
+South African Class S 0-8-0
+South African Class U 2-6-2+2-6-2
+South African Clayton Railmotor
+South African Dock Shunter 0-4-0ST
+South African Dock Shunter 0-4-0T
+South African Dutton road-rail tractors
+South African Katanga Mikado 2-8-2
+South African NG 0-4-0T
+South African NG 0-4-0T 1899
+South African gas-electric locomotive
+Stockton Terminal and Eastern No. 1
+Stortyskarna
+Stourbridge Lion
+Südbahn Class 23
+SŽ series 363
+SŽ series 664
+SŽ series 711
+T. D. Judah
+TCDD 2201 Class
+TCDD 45151 Class
+TCDD 45171 Class
+TCDD 46201 Class
+TCDD 56301 Class
+TCDD 56501 Class
+TCDD 56701 Class
+TCDD 57001 Class
+TCDD 5701 Class
+TCDD DE11000
+TCDD DE18000
+TCDD DE18100
+TCDD DE20000
+TCDD DE21500
+TCDD DE22000
+TCDD DE24000
+TCDD DE33000
+TCDD DE36000
+TCDD DH11500
+TCDD DH27000
+TCDD DH33100
+TCDD DH3600
+TCDD DH4100
+TCDD DH44100
+TCDD DH6000
+TCDD DH6500
+TCDD DH7000
+TCDD DH9500
+TCDD E68000
+TCDD E 4000
+TCDD E 40000
+TCDD E 43000
+TCDD E 52500
+TCDD HSL 700
+TCLR Argadeen
+TCLR St. Molaga
+TDLR 1 to 3, 6, and 8
+TDLR 4
+TDLR 5
+TDLR 7 and 8
+TE10
+TE33A
+TEP150
+TEP70
+TEP80
+TRAINOSE class 120
+TR DL class
+TR GA class
+TR GSL class
+TR MK class
+TR ML class
+TR NZ class
+TR RV class
+TU10 diesel locomotive
+TU2 diesel locomotive
+TU4 diesel locomotive
+TU6SPA
+TU6 diesel locomotive
+TU7 diesel locomotive
+TU8G
+TU8P
+TU8 diesel locomotive
+Table Bay Harbour 0-4-0ST
+Table Bay Harbour 0-4-0T
+Table Bay Harbour 0-4-0WT
+Taff Vale Railway A class
+Taff Vale Railway H class
+Taff Vale Railway O1 class
+Taff Vale Railway O2 class
+Taff Vale Railway O3 class
+Taff Vale Railway O4 class
+Taff Vale Railway U1 class
+The Yonah
+Townsend Hook
+UP 6916
+UR GB class
+UR GC class
+UR GD class
+UR G class
+UR MS class
+USATC S100 Class
+USATC S118 Class
+USATC S160 Class
+USATC S200 Class
+USRA 0-6-0
+USRA 0-8-0
+USRA 2-6-6-2
+USRA 2-8-8-2
+USRA Heavy Mikado
+USRA Heavy Mountain
+USRA Heavy Pacific
+USRA Heavy Santa Fe
+USRA Light Mikado
+USRA Light Mountain
+USRA Light Pacific
+USRA Light Santa Fe
+Victorian Railways 'Old' V class
+Victorian Railways A2 class
+Victorian Railways AA class
+Victorian Railways B class
+Victorian Railways B class
+Victorian Railways C class
+Victorian Railways C class
+Victorian Railways D class
+Victorian Railways D class
+Victorian Railways E class
+Victorian Railways E class
+Victorian Railways F class
+Victorian Railways G class
+Victorian Railways G class
+Victorian Railways H class
+Victorian Railways H class
+Victorian Railways H class
+Victorian Railways J class
+Victorian Railways J class
+Victorian Railways J class
+Victorian Railways K class
+Victorian Railways L class
+Victorian Railways L class
+Victorian Railways M class
+Victorian Railways M class
+Victorian Railways NA class
+Victorian Railways No.1
+Victorian Railways P class
+Victorian Railways Q class
+Victorian Railways RTL class
+Victorian Railways R class
+Victorian Railways S class
+Victorian Railways S class
+Victorian Railways T class
+Victorian Railways T class
+Victorian Railways T class
+Victorian Railways V class
+Victorian Railways V class
+Victorian Railways W class
+Victorian Railways X class
+Victorian Railways X class
+Victorian Railways X class
+Victorian Railways Y class
+Victorian Railways Y class
+Victorian Railways Z class
+Victorian Railways rail tractor
+Vietnam Railways 141 Class
+Vietnam Railways 230 Class
+Vietnam Railways 231 Class
+Virginia and Truckee 18 Dayton
+Virginia and Truckee 22 Inyo
+Virginia and Truckee Railway Locomotive No. 27
+Virginia and Truckee Railway Motor Car 22
+Virginian EL-2B
+Virginian EL-C
+William Mason
+Yorkshire Engine Company Janus
+Yorkshire Engine Company Taurus and Indus
+Z1210
+Z1243
+Z18
+ZSSK Class 757
+Zastal 410D
+Kleinlokomotive
+Ceinture 21 to 35
+Ceinture 4001 to 4005
+Ceinture 5001 to 5012
+Ceinture 51 to 65
+Ceinture 81 to 93
+Central Pacific 173
+Central Railroad of New Jersey 113
+Central Texas Gravel Locomotive No. 210
+Central Vermont 220
+Central of Georgia "Big Apple"
+Central of Georgia Railway 509
+ChME3
+ChS2
+ChS3
+ChS4
+ChS7
+ChS8
+Disturbance voltage
+Divided drive
+Dodds Horsley Star
+Dolgoch
+Doll
+Dolphin
+Dolphin and Walrus
+Dona Joaninha
+Donald and Douglas
+Dougal
+Douglas
+Douglas Ferreira
+Downer EDI Rail GT42CU AC
+Downer EDI Rail GT42CU ACe
+Downer EDI Rail GT46C
+Downer EDI Rail GT46C ACe
+Drewry Car Co.
+Drinking bird
+Dropped axle
+Ducati Desmoquattro engine
+Duluth & Northeastern 28
+Duluth and Northern Minnesota 14
+Dunrobin
+Duplex locomotive
+Durban Harbour's Congella
+Durban Harbour's Edward Innes
+Durban Harbour's John Milne
+Durban Harbour's Sir Albert
+GwL
+H&BR Class A
+H&BR Class F1
+H&BR Class F2
+H&BR Class F3
+H&BR Class G3
+HGe 4/4 II
+HK 94–100
+Industrial steam locomotive
+Ingalls 4-S
+InterCity 125
+InterCity 225
+InterCity 250
+Jenny Lind locomotive
+Juche-class EMU
+Jupiter
+Mastodon
+Mastodonte dei Giovi
+Mat '24
+Maumelle Ordnance Works Locomotive 1
+NedTrain
+Neptune Cable
+Nickel Plate 587
+Nickel Plate 759
+Nickel Plate Road 587
+Nickel Plate Road 759
+Nickel Plate Road 763
+Nickel Plate Road 765
+Nickel Plate Road 779
+Nigerian Railways 1001 class
+Nigerian Railways River class
+Nilgiri Mountain Railway X class
+Nissan TD engine
+Rebel
+Red Flag 1-class locomotive
+Red Flag 2000-class locomotive
+Red Flag 5000-8/1 class locomotive
+Red Flag 5400-class locomotive
+Red Flag 6-class locomotive
+Red Flag 7-class locomotive
+Rowan steam railmotor
+Royal Hudson
+Sammy the Shunter
+Samson
+Sd59mx
+Sea Lion
+Secret South
+Seibu Class E31
+Seibu Class E851
+Shannon
+Thuile locomotive
+Thévenin's theorem
+Train T
+Transepithelial potential difference
+Transfer locomotive
+Transient recovery voltage
+Tremont and Gulf 30
+Treno ad alta frequentazione
+South Maitland Railways 10 Class No 10
+Delaware, Lackawanna and Western 1151 class
+Delaware & Hudson 16
+Delaware and Hudson 1205 and 1216
+Delaware and Hudson K-62 Class
+Delta Valley and Southern 50
+Derwent
+Fenniarail Class Dr18
+Festiniog Railway 0-4-0TT
+Festiniog Railway Little Wonder
+Festiniog Railway Princess
+G&SWR 103 Class
+G&SWR 105 Class
+G&SWR 128 Class
+G&SWR 131 Class
+G&SWR 131 and 137 Class 4-4-0
+G&SWR 141 Class
+G&SWR 187 Class
+G&SWR 23 Class
+G&SWR 279 Class
+G&SWR 2 Class
+G&SWR 34 Class
+G&SWR 403 Class
+G&SWR 40 Class
+G&SWR 45 Class 0-6-2T
+G&SWR 45 Class 2-2-2
+G&SWR 46 Class
+G&SWR 52 Class
+G&SWR 540 Class
+G&SWR 58 Class
+G&SWR 5 Class
+G&SWR 6 Class
+G&SWR 86 Class
+G&SWR 8 Class
+G&SWR 95 Class
+G&SWR 99 Class
+G&SWR 9 Class
+GAIA locomotive
+GA DE900 locomotives
+GCR Class 1
+GCR Class 11B
+GCR Class 11E
+GCR Class 11F
+GCR Class 1A
+GCR Class 1B
+GCR Class 2
+GCR Class 5
+GCR Class 5A
+GCR Class 8
+GCR Class 8A
+GCR Class 8B
+GCR Class 8C
+GCR Class 8F
+GCR Class 8G
+GCR Class 8H
+GCR Class 8K
+GCR Class 8N
+GCR Class 9A
+GCR Class 9D
+GCR Class 9F
+GCR Class 9J
+GCR Class 9K
+GCR Class 9N
+GCR Class 9P
+GCR Class 9Q
+GCR Classes 8D and 8E
+GEC Stephenson locomotive
+GER Class 127
+GER Class 209
+GER Class 527
+GER Class A55
+GER Class B74
+GER Class C32
+GER Class C53
+GER Class C72
+GER Class D27
+GER Class D81
+GER Class E22
+GER Class E72
+GER Class F48
+GER Class G14
+GER Class G15
+GER Class G58
+GER Class G69
+GER Class L77
+GER Class M15
+GER Class N31
+GER Class P43
+GER Class R24
+GER Class S44
+GER Class S56
+GER Class S69
+GER Class T18
+GER Class T19
+GER Class T26
+GER Class T77
+GER Class Y14
+GER Class Y65
+GER Classes S46, D56 and H88
+GE 110-ton switcher
+GE 25-ton switcher
+GE 44-ton switcher
+GE 45-ton switcher
+GE 57-ton gas-electric boxcab
+GE 65-ton switcher
+GE 70-ton switcher
+GE 80-ton switcher
+GE AC4400CW
+GE AC44C6M
+GE AC6000CW
+GE B23-7
+GE B30-7
+GE B36-7
+GE B39-8
+GE BQ23-7
+GE C30-7
+GE C32-8
+GE C36-7
+GE C39-8
+GE CM20EMP
+GE Dash 7 Series
+GE Dash 8-32B
+GE Dash 8-32BWH
+GE Dash 8-40B
+GE Dash 8-40BW
+GE Dash 8-40C
+GE Dash 8-40CM
+GE Dash 8-40CW
+GE Dash 8-44CW
+GE Dash 8.5-40CW
+GE Dash 8 Series
+GE Dash 9-40C
+GE Dash 9-40CW
+GE Dash 9-44CW
+GE Dash 9 Series
+GE E25B
+GE E60
+GE Evolution Series
+GE Genesis
+GE P30CH
+GE PowerHaul
+GE U17C
+GE U18B
+GE U20C
+GE U23B
+GE U23C
+GE U25B
+GE U25C
+GE U26C
+GE U28B
+GE U28C
+GE U28CG
+GE U30B
+GE U30C
+GE U30CG
+GE U33B
+GE U33C
+GE U34CH
+GE U36B
+GE U36C
+GE U50
+GE U50C
+GE UM12C
+GE Universal Series
+GE boxcab
+GE steam turbine locomotives
+GE three-power boxcab
+GMD GF6C
+GMD GMD1
+GMD GMDH-1
+GMD GMDH-3
+GMD NF110
+GMD NF210
+GMD SD40-2F
+GMD SW1200MG
+GML10
+GNRI Class BT
+GNRI Class JT
+GNRI Class P
+GNRI Class PG
+GNRI Class Q
+GNRI Class RT
+GNRI Class S
+GNRI Class SG
+GNRI Class T
+GNRI Class T2
+GNRI Class U
+GNRI Class V
+GNRI Class VS
+GNR 521 Class
+GNR Class A1 1470 Great Northern
+GNR Class C1
+GNR Class C1
+GNR Class C2
+GNR Class H3
+GNR Class H4
+GNR Class J13
+GNR Class J14
+GNR Class J23
+GNR Class J4
+GNR Class J9
+GNR Class L1
+GNR Class N1
+GNR Class N2
+GNR Class O1
+GNR Class O2
+GNR Classes D2 and D3
+GNR Ivatt 1 Class 0-6-0
+GNR Stirling 4-2-2
+GN 1355
+GN W-1
+GN boxcab
+GNoSR Classes X and Y
+GP11
+GS&WR 0-6-4T
+GS&WR Class 1
+GS&WR Class 101
+GS&WR Class 2
+GS&WR Class 201
+GS&WR Class 21
+GS&WR Class 301
+GS&WR Class 33
+GS&WR Class 333
+GS&WR Class 341
+GS&WR Class 351
+GS&WR Class 362
+GS&WR Class 368
+GS&WR Class 37
+GS&WR Class 400
+GS&WR Class 47
+GS&WR Class 500
+GS&WR Class 52
+GS&WR Class 90
+GS&WR Class 900
+GS&WR McDonnell 2-4-0
+GS&WR Sambo
+GSR Class 280
+GSR Class 495
+GSR Class 670
+GSR Class 700
+GSR Class 800
+GSR Class 850
+GSR Classes 372 and 393
+GWR 0-6-0PT
+GWR 1000 Class
+GWR 1000 Class 1014 County of Glamorgan
+GWR 1016 Class
+GWR 101 Class
+GWR 102 La France
+GWR 103 President
+GWR 1076 Class
+GWR 108 Class
+GWR 1101 Class
+GWR 111 The Great Bear
+GWR 119 Class
+GWR 1361 Class
+GWR 1366 Class
+GWR 1400 Class
+GWR 1500 Class
+GWR 157 Class
+GWR 1600 Class
+GWR 1661 Class
+GWR 1813 Class
+GWR 1854 Class
+GWR 1901 Class
+GWR 2021 Class
+GWR 2201 Class
+GWR 2221 Class
+GWR 2251 Class
+GWR 2301 Class
+GWR 2361 Class
+GWR 2600 Class
+GWR 2602 Class
+GWR 2721 Class
+GWR 2800 Class
+GWR 2800 Class 2807
+GWR 2884 Class
+GWR 2900 Class
+GWR 2900 Class 2999 Lady of Legend
+GWR 3000 Class
+GWR 3001 Class
+GWR 3031 Class
+GWR 3100 Class
+GWR 3150 Class
+GWR 3200 Class
+GWR 3201 Class
+GWR 3206 Class
+GWR 322 Class
+GWR 3232 Class
+GWR 3252 Class
+GWR 3300 Class
+GWR 3501 class
+GWR 3511 class
+GWR 3521 Class
+GWR 3571 class
+GWR 3600 Class
+GWR 360 Class
+GWR 3700 Class
+GWR 3700 Class 3440 City of Truro
+GWR 378 Class
+GWR 3800 Class
+GWR 388 class
+GWR 3901 Class
+GWR 4000 Class
+GWR 4073 Class
+GWR 4073 Class 4079 Pendennis Castle
+GWR 4073 Class 5029 Nunney Castle
+GWR 4073 Class 5043 Earl of Mount Edgcumbe
+GWR 4073 Class 5051 Earl Bathurst
+GWR 4073 Class 5080 Defiant
+GWR 4073 Class 7027 Thornbury Castle
+GWR 4073 Class 7028 Cadbury Castle
+GWR 4073 Class 7029 Clun Castle
+GWR 4100 Class
+GWR 4200 Class
+GWR 4200 Class 4277
+GWR 4300 Class
+GWR 439 Class
+GWR 4400 Class
+GWR 4500 Class
+GWR 455 Class
+GWR 4575 Class
+GWR 4575 Class 5542
+GWR 4600 Class
+GWR 4700 Class
+GWR 481 Class
+GWR 4900 Class
+GWR 4900 Class 4920 Dumbleton Hall
+GWR 4900 Class 4930 Hagley Hall
+GWR 4900 Class 4936 Kinlet Hall
+GWR 4900 Class 4953 Pitchford Hall
+GWR 4900 Class 4965 Rood Ashton Hall
+GWR 4900 Class 4979 Wootton Hall
+GWR 4900 Class 5900 Hinderton Hall
+GWR 4900 Class 5967 Bickmarsh Hall
+GWR 4900 Class 5972 Olton Hall
+GWR 5100 Class
+GWR 5101 Class
+GWR 517 Class
+GWR 5205 Class
+GWR 5400 Class
+GWR 5600 Class
+GWR 56 Class
+GWR 5700 Class
+GWR 5800 Class
+GWR 6000 Class
+GWR 6000 Class 6000 King George V
+GWR 6000 Class 6023 King Edward II
+GWR 6000 Class 6024 King Edward I
+GWR 6100 Class
+GWR 633 Class
+GWR 6400 Class
+GWR 645 Class
+GWR 655 Class
+GWR 6800 Class
+GWR 6800 Class 6880 Betton Grange
+GWR 6959 Class
+GWR 6959 Class 6960 Raveningham Hall
+GWR 6959 Class 6990 Witherslack Hall
+GWR 7200 Class
+GWR 7800 Class
+GWR 7800 Class 7802 Bradley Manor
+GWR 7800 Class 7808 Cookham Manor
+GWR 7800 Class 7812 Erlestoke Manor
+GWR 7800 Class 7819 Hinton Manor
+GWR 7800 Class 7820 Dinmore Manor
+GWR 7800 Class 7821 Ditcheat Manor
+GWR 7800 Class 7822 Foxcote Manor
+GWR 7800 Class 7827 Lydham Manor
+GWR 7800 Class 7828 Odney Manor
+GWR 7
+GWR 806 Class
+GWR 850 Class
+GWR 927 Class
+GWR 9400 Class
+GWR Ariadne Class
+GWR Banking Class
+GWR Bogie Class
+GWR Caesar Class
+GWR Charles Tayleur locomotives
+GWR Firefly Class
+GWR Haigh Foundry locomotives
+GWR Hawthorn Class
+GWR Hercules Class
+GWR Hurricane locomotive
+GWR Iron Duke Class
+GWR Leo Class
+GWR Mather, Dixon locomotives
+GWR Metropolitan Class
+GWR No. 12
+GWR No. 1334
+GWR No. 1340 Trojan
+GWR No. 36
+GWR Premier Class
+GWR Prince Class
+GWR Pyracmon Class
+GWR Queen Class
+GWR Rheidol Tanks
+GWR River Class
+GWR Sharp, Roberts locomotives
+GWR Sir Watkin Class
+GWR Star Class
+GWR Sun Class
+GWR Swindon Class
+GWR Thunderer locomotive
+GWR Victoria Class
+GWR Waverley Class
+Ganz DVM-4
+Garratt
+Gas turbine-electric locomotive
+Gas turbine locomotive
+Gmeinder
+Gnome-Rhône 9K
+Golwé locomotive
+Kerr Stuart steam railmotor
+KiYa 143
+Killingworth locomotives
+Kilrie
+Kowie Railway 0-6-0T
+Kowie Railway 4-4-0T
+Krauss-Maffei ML 2200 C'C'
+Krauss-Maffei ML 4000
+Krauss-Maffei ML 4000 C'C'
+Krauss-Maffei ML 500 C
+Kriegslokomotive
+Kuk HB Class 578
+Kŭmsŏng-class locomotive
+L&YR 111 class
+L&YR 2-10-0
+L&YR Barton Wright 0-6-2T
+L&YR Barton Wright 4-4-0
+L&YR Class 2
+L&YR Class 21
+L&YR Class 23
+L&YR Class 24
+L&YR Class 25
+L&YR Class 26
+L&YR Class 27
+L&YR Class 28
+L&YR Class 2
+L&YR Class 3
+L&YR Class 30
+L&YR Class 30
+L&YR Class 30
+L&YR Class 31
+L&YR Class 32
+L&YR Class 4
+L&YR Class 5
+L&YR Class 7
+L&YR Class 8
+L&YR Hughes 4-6-4T
+L&YR railmotors
+Lew
+Mazda J engine
+McCloud Railway 18
+McCloud Railway 25
+Meadow River Lumber Company 1
+Metropolitan & Suburban 4-6-2T
+Metropolitan Railway A Class
+Metropolitan Railway C Class
+Metropolitan Railway D Class
+Metropolitan Railway E Class
+Metropolitan Railway F Class
+Metropolitan Railway G Class
+Metropolitan Railway H Class
+Metropolitan Railway K Class
+Metropolitan Railway electric locomotives
+Meyer locomotive
+MÁV Class 242
+MÁV Class 411
+MÁV Class 424
+MÁV Class 601
+MÁV Class M44
+MÁV Class V40
+MÁV Class V43
+MÁV Class V63
+MŽ series 411
+N&W J class
+N&W LC-1
+N&W LC-2
+NBR 141 Class
+NBR 224 and 420 Classes
+NBR A class
+NBR B class
+NBR C Class
+NBR Class M 4-4-0
+NBR D class 0-6-0
+NBR D class 0-6-0T
+NBR F class
+NBR G Class
+NBR H class
+NBR J class
+NBR K Class
+NBR N class
+NBR S class
+NCC Class A1
+NCC Class B3
+NCC Class S1
+NCC Class S2
+NCC Class U2
+NCC Class V
+NCC Class W
+NCC Class WT
+NCC Class X
+NCC Class Y
+NER 1001 Class
+NER 1463 Class
+NER 38 Class
+NER 398 Class
+NER 66 Aerolite
+NER 708 Class
+NER 901 Class
+NER Bogie Tank Passenger
+NER Class 290
+NER Class 3CC
+NER Class A
+NER Class B1
+NER Class C
+NER Class C1
+NER Class D
+NER Class E
+NER Class E1
+NER Class F
+NER Class G
+NER Class H
+NER Class K
+NER Class L
+NER Class M1
+NER Class N
+NER Class O
+NER Class P
+NER Class P1
+NER Class P2
+NER Class P3
+NER Class R
+NER Class R1
+NER Class S
+NER Class S1
+NER Class S2
+NER Class S3
+NER Class T
+NER Class T2
+NER Class T3
+NER Class U
+NER Class V
+NER Class W
+NER Class W1
+NER Class X
+NER Class Y
+NGR 2-6-0T Durban & Pietermaritzburg
+NGR 4-6-2TT Havelock
+NGR Class I 2-6-0
+NGR Class I 2-6-2T
+NGR Class K 0-4-0ST
+NGR Class K 0-6-0ST
+NGR Class K 2-6-0T
+NGR Class N 4-6-2T 1906
+NIR 101 Class
+NIR 1 Class
+NK-33
+NLR Class 75
+NLR crane tank
+NMBS/SNCB Class 73
+NMBS/SNCB Type 1
+NMBS/SNCB Type 12
+NMBS/SNCB Type 26
+NMBS/SNCB Type 29
+NREC RL class locomotive
+NRE 1GS7B
+NRE 2GS12B
+NRE 2GS14B
+NRE 2GS16B-AU
+NRE 2GS36C-DE
+NRE 3GS21B
+NRE 3GS21C
+NRE 3GS24C-DE-AU
+NRE E-3000E3B
+NR class
+NSB Class 30
+NSB Class 49
+NSB Class XXI
+NSB Class XXII
+NSB Di 1
+NSB Di 2
+NSB Di 3
+NSB Di 4
+NSB Di 6
+NSB Di 8
+NSB El 1
+NSB El 11
+NSB El 12
+NSB El 13
+NSB El 14
+NSB El 15
+NSB El 16
+NSB El 17
+NSB El 18
+NSB El 2
+NSB El 3
+NSB El 4
+NSB El 5
+NSB El 6
+NSB El 7
+NSB El 8
+NSB El 9
+NSR G class
+NSR H1 class
+NSR H class
+NSR M Class
+NSR New L Class
+NSW Burra
+NSW Kiama
+NSW Kiama Fowler
+Nashville, Chattanooga and St. Louis 576
+Natal Railway 0-4-0ST Durban
+Natal Railway 0-4-0WT Natal
+Natal Railway 4-4-0T Perseverance
+Sri Lanka Railways M1
+Sri Lanka Railways M10
+Sri Lanka Railways M11
+Sri Lanka Railways M2
+Sri Lanka Railways M3
+Sri Lanka Railways M4
+Sri Lanka Railways M5
+Sri Lanka Railways M6
+Sri Lanka Railways M7
+Sri Lanka Railways M8
+Sri Lanka Railways M9
+Sri Lanka Railways W1
+Sri Lanka Railways W2
+St. Louis-San Francisco 1630
+St. Louis-San Francisco Railway 1630
+St. Louis Southwestern 336
+St. Louis Southwestern 819
+St. Louis–San Francisco 1352
+St. Louis–San Francisco 1522
+St. Louis–San Francisco 4003
+St. Louis–San Francisco 4018
+St. Louis–San Francisco 4500
+St. Louis–San Francisco class 4500
+Vale of Neath Railway 0-6-0ST locomotives
+Vale of Neath Railway 4-4-0ST locomotives
+Valley Railroad 3025
+Valley Railroad 40
+Vauclain compound
+Walrus
+Walvis Bay 2-4-2T Hope
+War memorial locomotive
+Whitbread Engine
+White Pass & Yukon Route 73
+Wiener Neustädter Lokomotivfabrik
+Wylam Dilly
+Württemberg A
+Württemberg AD
+Württemberg B and B2
+Württemberg C
+Württemberg D
+Württemberg Fz
+Württemberg Hz
+Württemberg I
+Württemberg K
+Württemberg T 3
+Württemberg T 4
+Württemberg T 5
+Württemberg T 6
+Württemberg Ts 4
+Württemberg Tss 3
+Württemberg Tss 4
+Württemberg Tssd
+TAG 7
+Collaborative search engine
+Commonwealth Railways CA class
+Commonwealth Railways CL class
+Commonwealth Railways CN class
+Commonwealth Railways C class
+Commonwealth Railways DR class
+Commonwealth Railways D class
+Commonwealth Railways F Class
+Commonwealth Railways GM class
+Commonwealth Railways G class
+Commonwealth Railways KA class
+Commonwealth Railways K class
+Commonwealth Railways L class
+Commonwealth Railways NC class
+Commonwealth Railways NJ class
+Commonwealth Railways NM class
+Commonwealth Railways NSU class
+Commonwealth Railways NT class
+Compound locomotive
+Connecticut Valley Railroad 3025
+Consolidated Rail Leasing
+Copper Range 29
+Cork & Bandon 0-6-0 Beyer saddle tank
+Cornwall Minerals Railway
+Coronel Church
+Corus Trojan locomotive
+Counter-electromotive force
+Countess of Dufferin
+Crampton locomotive
+Crane tank
+Electric-steam locomotive
+Electric locomotive
+Electric locomotive EP1
+Electroputere LE5100
+Elk River Coal and Lumber Company No. 10
+Emu Bay Railway 10 class
+Emu Bay Railway 11 class
+Engerth locomotive
+English Electric EL.100
+Erie L-1
+Erie Mining Company 4211
+Forney locomotive
+Forrester single
+Francorail-MTE CSE26-21
+Franz Krull Sk class
+Ghana Railways 1851 class
+Gordon the Big Engine
+Gov. Stanford
+Illinois Central 121
+Illinois Central 201
+Illinois Central 790
+Illinois Central No. 1
+JŽ 664 locomotive
+JŽ Series 662
+JŽ class 20
+JŽ class 441
+JŽ series 341
+JŽ series 461
+K62-class locomotive
+KCR ex-WD Austerity 2-8-0
+KFNB Minotaurus and Ajax
+KFNB Nordstern
+KFNB – Austria and Moravia
+KLW SE10B
+KLW SE15B
+KLW SE24B
+KLW SE32C
+KNR Pureo7-100 class locomotives
+KNR Pureo7-200 class locomotives
+KNR Pureo7-300 class locomotives
+Kanghaenggun-class locomotive
+Korail 8500
+Korail Class 8000
+Korail Class 8200
+Le Belge
+List of SR Merchant Navy class locomotives
+Lyd
+Lyn
+Lyon, Hetton colliery railway
+Lyons, Hetton colliery railway
+Maid Marian
+Maine Central 470
+Maine Central Railroad Locomotive 470
+Maine Central class C 4-6-2
+Maine Central class H 4-4-0
+Maine Central class K 0-6-0
+Maine Central class L 4-4-0
+Maine Central class M 2-6-0
+Maine Central class N 4-6-0
+Maine Central class O 4-6-0
+Maine Central class P 2-6-0
+Maine Central class S 2-8-2
+Maine Central class W 2-8-0
+Mallet locomotive
+Marquardt RJ43
+Martin Luther
+Mecklenburg G 2
+Mecklenburg G 3
+Mecklenburg G 4.2
+Mecklenburg III
+Mecklenburg P 3.1
+Mecklenburg P 4.2
+Mecklenburg T 3
+Mecklenburg T 4
+Mecklenburg T 7
+Mecklenburg XIX
+Mecklenburg XVIII
+Meitetsu Class EL120
+Meitetsu DeKi 300
+Meitetsu DeKi 400
+Meitetsu DeKi 600
+Melbourne and Hobson's Bay Railway Company 2-2-2WT
+Midi E 3301
+Midland Railway 1000 Class
+Midland Railway 1102 Class
+Midland Railway 1116A Class
+Midland Railway 1121 Class
+Midland Railway 1134A Class
+Midland Railway 115 Class
+Midland Railway 1252 Class
+Midland Railway 130 Class
+Midland Railway 1322 Class
+Midland Railway 1377 Class
+Midland Railway 1528 Class
+Midland Railway 1532 Class
+Midland Railway 156 Class
+Midland Railway 1823 Class
+Midland Railway 1833 Class
+Midland Railway 2000 Class
+Midland Railway 2228 Class
+Midland Railway 2441 Class
+Midland Railway 2501 Class
+Midland Railway 2511 Class
+Midland Railway 3835 Class
+Midland Railway 480 Class
+Midland Railway 483 Class
+Midland Railway 690 Class
+Midland Railway 6 Class
+Midland Railway 700 Class
+Midland Railway 780 Class
+Midland Railway 990 Class
+Midland Railway Class 3 4-4-0
+Midland Railway Johnson 0-6-0
+Midland Railway Paget locomotive
+Pioneer
+Siemens ACS-64
+Siemens Charger
+Siemens E40 AG-V1
+Siemens Velaro
+Sierra Railway 28
+Sierra Railway 3
+Silverton Tramway 48s class
+Silverton Tramway A class
+Silverton Tramway W class
+Silverton Tramway Y class
+Single
+Sir Haydn
+Sisu M-161
+South Australian Railways 350 class
+South Australian Railways 400 class
+South Australian Railways 500 class
+South Australian Railways 500 class
+South Australian Railways 520 class
+South Australian Railways 600 class
+South Australian Railways 600 class
+South Australian Railways 620 class
+South Australian Railways 700 class
+South Australian Railways 700 class
+South Australian Railways 710 class
+South Australian Railways 720 class
+South Australian Railways 740 class
+South Australian Railways 750 class
+South Australian Railways 800 class
+South Australian Railways 830 class
+South Australian Railways 900 class
+South Australian Railways 930 class
+South Australian Railways A class
+South Australian Railways B class
+South Australian Railways C class
+South Australian Railways D class
+South Australian Railways E class
+South Australian Railways F class
+South Australian Railways F class
+South Australian Railways G class
+South Australian Railways Ga class
+South Australian Railways Gb class
+South Australian Railways Gc class
+South Australian Railways Gd class
+South Australian Railways Ge class
+South Australian Railways H class
+South Australian Railways I class
+South Australian Railways I class
+South Australian Railways J class
+South Australian Railways L class
+South Australian Railways M class
+South Australian Railways M class
+South Australian Railways N class
+South Australian Railways O class
+South Australian Railways O class
+South Australian Railways P class
+South Australian Railways Q class
+South Australian Railways R class
+South Australian Railways S class
+South Australian Railways T class
+South Australian Railways U class
+South Australian Railways V class
+South Australian Railways W class
+South Australian Railways X class
+South Australian Railways Y class
+South Australian Railways Z class
+South Australian Railways locomotives 1–3
+South Coast Steam
+South Devon Railway 0-4-0 locomotives
+South Devon Railway 2-4-0 locomotives
+South Devon Railway Buffalo class
+South Devon Railway Comet class
+South Devon Railway Dido class
+South Devon Railway Eagle class
+South Devon Railway Gorgon class
+South Devon Railway Leopard class
+South Devon Railway Remus class
+South Devon Railway Tornado class
+South Devon Railway locomotive Taurus
+South Devon Railway locomotives
+South Maitland Railways 10 Class
+South West African 0-10-0
+South West African 0-6-0T
+South West African 2-8-0
+South West African 2-8-0T
+South West African Class Ha
+South West African Class Hb
+South West African Class Hc
+South West African Class Hd
+South West African Jung
+South West African Zwillinge
+Southern Pacific 1215
+Southern Pacific 1237
+Southern Pacific 1293
+Southern Pacific 1518
+Southern Pacific 1673
+Southern Pacific 1744
+Southern Pacific 18
+Southern Pacific 2353
+Southern Pacific 2355
+Southern Pacific 2467
+Southern Pacific 2472
+Southern Pacific 2479
+Southern Pacific 2579
+Southern Pacific 2706
+Southern Pacific 2718
+Southern Pacific 3100
+Southern Pacific 4294
+Southern Pacific 4449
+Southern Pacific 4460
+Southern Pacific 5021
+Southern Pacific 5623
+Southern Pacific 6051
+Southern Pacific 745
+Southern Pacific 786
+Southern Pacific 8
+Southern Pacific 9
+Southern Pacific 9010
+Southern Pacific 975
+Southern Pacific Mt-5
+Southern Pacific class AC-1
+Southern Pacific class AC-10
+Southern Pacific class AC-11
+Southern Pacific class AC-12
+Southern Pacific class AC-2
+Southern Pacific class AC-3
+Southern Pacific class AC-4
+Southern Pacific class AC-5
+Southern Pacific class AC-6
+Southern Pacific class AC-7
+Southern Pacific class AC-8
+Southern Pacific class AC-9
+Southern Pacific class AM-2
+Southern Pacific class GS-1
+Southern Pacific class GS-2
+Southern Pacific class GS-3
+Southern Pacific class GS-4
+Southern Pacific class GS-5
+Southern Pacific class GS-6
+Southern Pacific class MC-1
+Southern Pacific class MC-2
+Southern Pacific class MC-4
+Southern Pacific class MC-6
+Southern Pacific class MM-2
+Southern Pine Lumber Co. 28
+Southern Railway
+Southern Railway 107
+Southern Railway 1102
+Southern Railway 1401
+Southern Railway 1509
+Southern Railway 154
+Southern Railway 1643
+Southern Railway 385
+Southern Railway 401
+Southern Railway 4501
+Southern Railway 542
+Southern Railway 630
+Southern Railway 722
+Southern Railway Ps-4 class
+Southern Railway Ss class
+Soviet locomotive class AA20
+Soviet locomotive class E el
+Soviet locomotive class E el-2
+Soviet locomotive class E el-8
+Soviet locomotive class FD
+Soviet locomotive class IS
+Soviet locomotive class L
+Soviet locomotive class LV
+Soviet locomotive class P36
+Soviet locomotive class TE2
+Soviet locomotive class TE3
+Soviet locomotive class TE5
+Soviet locomotive class VL19
+Soviet locomotive class VM
+Soviet locomotive class shch-el-1
+Spokane, Portland and Seattle 539
+Spokane, Portland and Seattle 700
+Steam Elephant
+Steam Horse locomotive
+Steam locomotive
+Steam turbine locomotive
+Stephenson's Rocket
+Sterling 10.5 axle
+Switcher
+Symblepharon
+Syngnathia
+Szekely SR-3
+Tom Rolt
+Tom Thumb
+Yeo
+Ford 8.8 axle
+Chesapeake & Ohio classes J-1 and J-2
+Chesapeake and Ohio 1308
+Chesapeake and Ohio 2716
+Chesapeake and Ohio 2755
+Chesapeake and Ohio 490
+Chesapeake and Ohio 614
+Chesapeake and Ohio Greenbrier
+Chesapeake and Ohio class H-8
+Chesapeake and Ohio class K-4
+Chesapeake and Ohio class M-1
+Chesapeake and Ohio class T-1
+Chesapeake and Ohio classes L-2 and L-2-A
+Chicago, Burlington and Quincy 4000
+Chicago, Burlington and Quincy class O-5
+Chicago and North Western 1385
+Chicago and North Western 175
+Chicago and North Western class D
+Chicago and North Western class E-2
+Chicago and North Western class E-4
+Chicago and North Western class J
+Chicago and North Western class R-1
+Chicago and North Western class Z
+Chichibu Railway Class DeKi 100
+Chichibu Railway Class DeKi 200
+Chichibu Railway Class DeKi 300
+Chichibu Railway Class DeKi 500
+China Railway DF
+China Railway DF4
+China Railway DF5
+China Railway DJJ1
+China Railway HXN3
+China Railways 6K
+China Railways 8G
+China Railways 8K
+China Railways AM1
+China Railways AM2
+China Railways AM3
+China Railways BJ
+China Railways DF11
+China Railways DF11G
+China Railways DF4
+China Railways DF5
+China Railways DF8
+China Railways DFH mainline locomotives
+China Railways DFH shunting locomotives
+China Railways DJ1
+China Railways ET7
+China Railways FD
+China Railways GJ
+China Railways HXD1
+China Railways HXD1C
+China Railways HXD1D
+China Railways HXD2
+China Railways HXD3
+China Railways HXD3B
+China Railways HXD3C
+China Railways HXD3D
+China Railways HXN5
+China Railways HXN5B
+China Railways JF
+China Railways JF1
+China Railways JF11
+China Railways JF12
+China Railways JF13
+China Railways JF15
+China Railways JF17
+China Railways JF18
+China Railways JF2
+China Railways JF21
+China Railways JF3
+China Railways JF4
+China Railways JF5
+China Railways JF6
+China Railways JF7
+China Railways JF8
+China Railways JS
+China Railways KD1
+China Railways KD23
+China Railways KD7
+China Railways KF
+China Railways LD1
+China Railways MT1
+China Railways NJ2
+China Railways PL2
+China Railways QJ
+China Railways RM
+China Railways SL11
+China Railways SL2
+China Railways SL3
+China Railways SL4
+China Railways SL5
+China Railways SL6
+China Railways SL7
+China Railways SL8
+China Railways SN
+China Railways SS1
+China Railways SS3
+China Railways SS3B
+China Railways SS4
+China Railways SS6
+China Railways SS7
+China Railways SS7B
+China Railways SS8
+China Railways SS9
+China Railways ST2
+China Railways SY
+China Railways TH1
+China Railways TH10
+China Railways YJ
+Chongnyonjol Kinyom-class locomotive
+Chrysler 1.8, 2.0 & 2.4 engine
+Chōsen Railway Class 630
+Chōsen Railway Class 660
+Chōsen Railway Class 700
+Chōsen Railway Class 810
+Chōsen Railway Class 900
+Chōsen Railway Class D
+Climax locomotive
+D&KR Burgoyne Class
+D&KR Princess Class
+D. E. Marsh
+D12E
+D13E
+D19E
+D19Er
+DBAG Class 128
+DBAG Class 145 and 146
+DBAG Class 225
+DBAG Class 423
+DBAG Class 425
+DB Class 10
+DB Class 101
+DB Class 103
+DB Class 111
+DB Class 120
+DB Class 151
+DB Class 210
+DB Class 215
+DB Class 218
+DB Class 23
+DB Class 240
+DB Class 472
+DB Class 65
+DB Class 66
+DB Class 78.10
+DB Class 82
+DB Class E 10
+DB Class E 40
+DB Class E 41
+DB Class E 50
+DB Class Köf III
+DB Class VT 24
+DB Class V 100
+DB Class V 160
+DB Class V 162
+DB Class V 169
+DB Class V 200
+DB Class V 51 and V 52
+DB Class V 60
+DB Class V 65
+DB Class V 80
+DB Class V 90
+DB V 160 family
+DE1
+DESA
+DHR 778
+DHR A Class
+DHR B Class
+DHR D Class
+DRB Class 01.10
+DRB Class 03.10
+DRB Class 06
+DRB Class 19.10
+DRB Class 41
+DRB Class 42
+DRB Class 50
+DRB Class 52
+DRG Class 01
+DRG Class 02
+DRG Class 03
+DRG Class 04
+DRG Class 05
+DRG Class 23
+DRG Class 24
+DRG Class 43
+DRG Class 44
+DRG Class 45
+DRG Class 56.2–8
+DRG Class 62
+DRG Class 64
+DRG Class 71.0
+DRG Class 80
+DRG Class 81
+DRG Class 84
+DRG Class 85
+DRG Class 86
+DRG Class 87
+DRG Class 89.0
+DRG Class 97
+DRG Class 98.10
+DRG Class 98.11
+DRG Class 99.19
+DRG Class 99.21
+DRG Class 99.22
+DRG Class 99.32
+DRG Class 99.73–76
+DRG Class ET 171
+DRG Class E 16
+DRG Class E 18
+DRG Class E 19
+DRG Class E 77
+DRG Class E 79
+DRG Class E 91
+DRG Class E 93
+DRG Class E 94
+DRG H 02 1001
+DRG H 17 206
+DRG Kleinlokomotive Class I
+DR 18 201
+DR Class 01.5
+DR Class 119
+DR Class 130 family
+DR Class 22
+DR Class 23.10
+DR Class 243
+DR Class 25.10
+DR Class 250
+DR Class 52.80
+DR Class 58.30
+DR Class 65.10
+DR Class 83.10
+DR Class 99.23-24
+DR Class 99.77-79
+DR Class E 11
+DR Class E 251
+DR Class E 42
+DR Class V 100
+DR Class V 180
+DR Class V 60
+DS3
+DSB Class EA
+DSB Class ME
+DSB Class MH
+DSB Class MT
+DSB Class MX
+DSB Class MY
+DSB Class MY 1201-1202
+DSB Class MZ
+DSB class D
+DSB class P
+DSER 15 and 16
+DSER 20
+DV&S 50
+DWWR 11
+DWWR 13
+DWWR 15
+DWWR 17
+DWWR 2
+DWWR 24
+DWWR 4
+DWWR 42
+DWWR 50
+DWWR 52
+DWWR 55
+DWWR 67
+DWWR Ariel Class
+Daimler Straight-Eight engines
+Dana 30
+Dana 35
+Dana 44
+Dana 50
+Dana 60
+Dana 70
+Dana 80
+Dana S 110
+DeRoI-class locomotive
+DeRoI-class locomotive
+DeRoNi-class locomotive
+DeWitt Clinton
+De Arend
+Devious Diesel
+Diana
+Dick, Kerr & Co.
+Didcot Railway Centre
+Diesel Electric railmotor
+Diesel locomotive
+Digital Novel Markup Language
+Dinorwic Alice Class
+Dübs and Company
+E.J. Lavino and Company 3
+EAR 12 class
+EAR 13 class
+EAR 27 class
+EAR 29 class
+EAR 30 class
+EAR 31 class
+EAR 56 class
+EAR 58 class
+EAR 59 class
+EAR 60 class
+EL21
+EMC 1800 hp B-B
+EMC AA
+EMC AB6
+EMC E1
+EMC E2
+EMC E3
+EMC E4
+EMC EA/EB
+EMC TA
+EMD AEM-7
+EMD BL2
+EMD BL20-2
+EMD Class 66
+EMD DD35
+EMD DD35A
+EMD DDA40X
+EMD DDM45
+EMD DE30AC and DM30AC
+EMD DH1
+EMD E5
+EMD E6
+EMD E7
+EMD E8
+EMD E9
+EMD F125
+EMD F2
+EMD F3
+EMD F40C
+EMD F40PH
+EMD F45
+EMD F59PH
+EMD F69PHAC
+EMD F7
+EMD F9
+EMD FL9
+EMD FP45
+EMD FP7
+EMD FP9
+EMD FT
+EMD FT36HCW-2
+EMD G12
+EMD G16
+EMD G18
+EMD G22CU
+EMD G22C Series
+EMD G22 Series
+EMD G26
+EMD G8
+EMD GA18
+EMD GA8
+EMD GL8
+EMD GM10B
+EMD GM6C
+EMD GM6W
+EMD GP10
+EMD GP11
+EMD GP15-1
+EMD GP15D
+EMD GP16
+EMD GP18
+EMD GP20
+EMD GP20C-ECO
+EMD GP20D
+EMD GP22ECO
+EMD GP30
+EMD GP35
+EMD GP38
+EMD GP38-2
+EMD GP38AC
+EMD GP39
+EMD GP39-2
+EMD GP40
+EMD GP40-2
+EMD GP40-based passenger locomotives
+EMD GP40X
+EMD GP49
+EMD GP50
+EMD GP59
+EMD GP60
+EMD GP7
+EMD GP8
+EMD GP9
+EMD GT18LC-2
+EMD GT22CUM-1
+EMD GT22HW-2
+EMD GT22 Series
+EMD GT26CW-2
+EMD GT26 Series
+EMD GT38ACe
+EMD GT46MAC
+EMD GT46PAC
+EMD LWT12
+EMD MP15AC
+EMD MP15DC
+EMD MP15T
+EMD MRS-1
+EMD Model 40
+EMD NW2
+EMD NW3
+EMD NW5
+EMD RS1325
+EMD SD18
+EMD SD22ECO
+EMD SD24
+EMD SD28
+EMD SD30C-ECO
+EMD SD32ECO
+EMD SD35
+EMD SD38
+EMD SD38-2
+EMD SD38AC
+EMD SD39
+EMD SD40
+EMD SD40-2
+EMD SD40A
+EMD SD40T-2
+EMD SD45
+EMD SD45-2
+EMD SD45T-2
+EMD SD45X
+EMD SD50
+EMD SD60
+EMD SD7
+EMD SD70ACU
+EMD SD70ACu
+EMD SD70 series
+EMD SD75I
+EMD SD75M/SD75I
+EMD SD80MAC
+EMD SD89MAC
+EMD SD9
+EMD SD90MAC
+EMD SDL39
+EMD SDP35
+EMD SDP40
+EMD SDP40F
+EMD SDP45
+EMD SW1
+EMD SW1000
+EMD SW1001
+EMD SW1200
+EMD SW1500
+EMD SW1504
+EMD SW600
+EMD SW7
+EMD SW8
+EMD SW9
+EMD SW900
+EMD TR1
+EP10
+EP20
+EP200
+ESS 3200
+ETR No. 9
+East London Harbour 0-4-0
+East London Harbour 0-4-0VB
+Eastleigh Works
+Edward Thomas
+Edward the Blue Engine
+Egyptian Republic Railways 4211 class
+Egyptian State Railways 545 class
+El Gobernador
+El Paso & Southwestern Railroad No. 1
+Est 0.189 to 0.200
+Est 0.1 to 0.120
+Est 0.250 to 0.500 and 0.701 to 0.766
+Est 0.501 to 0.691
+Est 141.701 to 141.742
+Est 4003 to 4175
+Est 4401 to 4512
+Est 441 to 485
+Est 501 to 562
+Est 613 to 742
+Eureka
+EuroSprinter
+Eurorunner
+Eurotunnel Class 0001
+Eurotunnel Class 0031
+Eurotunnel Class 9
+Euskotren TD2000 series
+Exe
+Experiment
+FAV Class E.440
+FGC 254 Series
+FM Consolidated line
+FM Erie-built
+FM H-10-44
+FM H-12-44
+FM H-12-44TS
+FM H-12-46
+FM H-15-44
+FM H-16-44
+FM H-16-66
+FM H-20-44
+FM H-24-66
+FM OP800
+FM P-12-42
+FS Class 103
+FS Class 113
+FS Class 122
+FS Class 170
+FS Class 214
+FS Class 290
+FS Class 310
+FS Class 396
+FS Class 400
+FS Class 410
+FS Class 420
+FS Class 470
+FS Class 480
+FS Class 552
+FS Class 600
+FS Class 625
+FS Class 640 II
+FS Class 650
+FS Class 670
+FS Class 680
+FS Class 685
+FS Class 690 II
+FS Class 691
+FS Class 735
+FS Class 740
+FS Class 741 II
+FS Class 744
+FS Class 745
+FS Class 746
+FS Class 835
+FS Class 910
+FS Class 940
+FS Class ALe 642
+FS Class ALn 772
+FS Class D.341
+FS Class D.345
+FS Class D.443
+FS Class D.445
+FS Class E.220
+FS Class E.320
+FS Class E.326
+FS Class E.330
+FS Class E.331
+FS Class E.332
+FS Class E.333
+FS Class E.360
+FS Class E.380
+FS Class E.402
+FS Class E.403
+FS Class E.405
+FS Class E.412
+FS Class E.414
+FS Class E.420
+FS Class E.421
+FS Class E.424
+FS Class E.428
+FS Class E.430
+FS Class E.431
+FS Class E.432
+FS Class E.444
+FS Class E.464
+FS Class E.470
+FS Class E.471
+FS Class E.491 and E.492
+FS Class E.550
+FS Class E.620
+FS Class E.621
+FS Class E.626
+FS Class E.632
+FS Class E.636
+FS Class E.646
+FS Class E.656
+Fablok TKh49
+Fairlie locomotive
+Fairy Queen
+Finnish Steam Locomotive Class A5
+Finnish Steam Locomotive Class B1
+Finnish Steam Locomotive Class C1
+Finnish Steam Locomotive Class C5
+Finnish Steam Locomotive Class F1
+Fire Queen
+Fireless locomotive
+Flagg Coal Company 75
+Float voltage
+Florida East Coast 153
+Flying Dutchman
+Flying Yankee
+Hunslet Austerity 0-6-0ST
+Hunslet DH60C
+Huntingdon and Broad Top 38
+James Kennedy
+Jazz
+Kempton Park Steam Engines
+List of Volkswagen Group engines
+Milwaukee Road 1004
+Milwaukee Road 261
+Milwaukee Road class A
+Milwaukee Road class A2
+Milwaukee Road class EF-1
+Milwaukee Road class EP-2
+Milwaukee Road class EP-3
+Milwaukee Road class ES-1
+Milwaukee Road class ES-2
+Milwaukee Road class F6
+Milwaukee Road class F7
+Milwaukee Road class L2
+Milwaukee Road class S3
+Mosbach–Mudau Nos. 1 to 4
+Prussian G 1
+Prussian G 10
+Prussian G 12
+Prussian G 12.1
+Prussian G 12
+Prussian G 2
+Prussian G 3
+Prussian G 4.1
+Prussian G 4.2
+Prussian G 4.3
+Prussian G 5.1
+Prussian G 5.2
+Prussian G 5.3
+Prussian G 5.4
+Prussian G 5.5
+Prussian G 7.1
+Prussian G 7.2
+Prussian G 7.3
+Prussian G 8
+Prussian G 8.1
+Prussian G 8.2
+Prussian G 8.3
+Prussian G 9
+Prussian G 9
+Prussian P 10
+Prussian P 2
+Prussian P 4
+Prussian P 6
+Prussian P 8
+Prussian S 10
+Prussian S 3
+Prussian S 4
+Prussian S 6
+Prussian S 9
+Prussian T 10
+Prussian T 11
+Prussian T 12
+Prussian T 13
+Prussian T 14
+Prussian T 14.1
+Prussian T 16
+Prussian T 16.1
+Prussian T 18
+Prussian T 20
+Prussian T 3
+Prussian T 37
+Prussian T 6
+Prussian T 7
+Prussian T 8
+Prussian T 9
+Psophometric voltage
+Puffing Billy
+Pug
+RD-0216
+RD-0233
+RD-253
+RENFE Class 276
+RENFE Class 310
+RENFE Class 311
+RENFE Class 333
+RENFE Class 353
+RENFE class 313
+RH&DR No.1 Green Goddess
+ROD 2-8-0
+RS3m
+Radial axle
+Rahway Valley 15
+Raykent LDH125
+Raykent LDH70
+Reading 1187
+Reading 1251
+Reading 2100
+Reading 2101
+Reading 2102
+Reading 2124
+Reading 902
+Reading 902 and 903
+Reading 903
+Reading Blue Mountain and Northern Railroad 425
+Reading Company C1a Class
+Reading T-1
+Salamanca
+The General
+The Glenbrook
+The Lion
+Tx26-427
+TÜLOMSAŞ
+U.S. Sugar 148
+UGL Rail C44aci
+UGL Rail PH37ACmai
+ALCO SB-8/SSB-9
+SBB Ee 3/3 IV
+Crocodile
+Croes Newydd
+Cutoff voltage
+Cycloped
+KSR 500 series locomotives
+KTM Class 19
+KTM Class 22
+KTM Class 29
+KUR EA class
+KUR EC1 class
+KUR EC2 class
+KUR EC3 class
+KUR EC4 class
+KUR EC5 class
+KUR EC class
+KUR ED1 class
+LAG Nos. 87 and 88
+LAG Nos. 9 and 10
+LB&SCR A1X Class W11 Newport
+LB&SCR A1X Class W8 Freshwater
+LB&SCR A1X class 55 Stepney
+LB&SCR A1 class
+LB&SCR B1 class
+LB&SCR B2 class
+LB&SCR B4 class
+LB&SCR Belgravia class
+LB&SCR C1 class
+LB&SCR C2 class
+LB&SCR C3 class
+LB&SCR C class
+LB&SCR D1 class
+LB&SCR D2 class
+LB&SCR D3 class
+LB&SCR E1 class
+LB&SCR E2 class
+LB&SCR E3 class
+LB&SCR E4 class
+LB&SCR E5 class
+LB&SCR E6 class
+LB&SCR G class
+LB&SCR H1 class
+LB&SCR H2 class
+LB&SCR I1 class
+LB&SCR I2 class
+LB&SCR I3 class
+LB&SCR J1 class
+LB&SCR K class
+LB&SCR L class
+LB&SCR Richmond class
+LBE Nos. 1 to 3
+LCDR A class
+LCDR Acis class
+LCDR Aeolus class
+LCDR B1 class
+LCDR B2 class
+LCDR B class
+LCDR Brigand class
+LCDR Engima class
+LCDR Enigma class
+LCDR Europa class
+LCDR M1 class
+LCDR M2 class
+LCDR M3 class
+LCDR M class
+LCDR R1 class
+LCDR R class
+LCDR Second Sondes class
+LCDR Sondes class
+LCDR T class
+LCDR Tiger class
+LCR No. 29
+LD&ECR Class A
+LD&ECR Class B
+LD&ECR Class C
+LD&ECR Class D
+LDE Nos. 3 to 6
+LDE – Borsdorf to Zittau
+LDE – Brüssel
+LDE – Columbus
+LDE – Comet
+LDE – Dresden to Riesa
+LDE – Edward Bury to Pfeil
+LDE – Elbe to Hayn
+LDE – Moldau to Mulde
+LDE – Pegasus
+LDE – Peter Rothwell to Nordlicht
+LDE – Renner to Greif
+LDE – Richard Hartmann to Zwickau
+LDE – Robert Stephenson
+LDE – Wurzen and Oschatz
+LEB G 3/3 2 and 5
+LMR 57 Lion
+LMR 600 Gordon
+LMS 2-Cylindered Stanier 2-6-4T
+LMS 3-Cylindered Stanier 2-6-4T
+LMS 6399 Fury
+LMS Class 2P 4-4-0
+LMS Class 7F 0-8-0
+LMS Compound 4-4-0
+LMS Coronation Class
+LMS Fairburn 2-6-4T
+LMS Fowler 2-6-2T
+LMS Fowler 2-6-4T
+LMS Fowler Class 3F
+LMS Fowler Class 4F
+LMS Fowler Dock Tank
+LMS Garratt
+LMS Hughes Crab
+LMS Ivatt Class 2 2-6-0
+LMS Ivatt Class 2 2-6-2T
+LMS Ivatt Class 2 2-6-2T 41241
+LMS Ivatt Class 2 2-6-2T 41312
+LMS Ivatt Class 4
+LMS Jubilee Class
+LMS Jubilee Class 5593 Kolhapur
+LMS Jubilee Class 5596 Bahamas
+LMS Jubilee Class 5690 Leander
+LMS Jubilee Class 5699 Galatea
+LMS Jubilee Class 5731 Perseverance
+LMS Kitson 0-4-0ST
+LMS Patriot Class
+LMS Patriot Class 5551 The Unknown Warrior
+LMS Princess Coronation Class 6229 Duchess of Hamilton
+LMS Princess Coronation Class 6233 Duchess of Sutherland
+LMS Princess Royal Class
+LMS Princess Royal Class 6201 Princess Elizabeth
+LMS Rebuilt Jubilee Class
+LMS Rebuilt Patriot Class
+LMS Rebuilt Royal Scot Class
+LMS Royal Scot Class
+LMS Royal Scot Class 6100 Royal Scot
+LMS Royal Scot Class 6115 Scots Guardsman
+LMS Royal Scot Class 6170 British Legion
+LMS Sentinel 7164
+LMS Sentinel 7192
+LMS Sentinels 7160–7163
+LMS Stanier 2-6-2T
+LMS Stanier Class 2 0-4-4T
+LMS Stanier Class 5 4-6-0
+LMS Stanier Class 5 4-6-0 4767
+LMS Stanier Class 5 4-6-0 4806
+LMS Stanier Class 5 4-6-0 4871
+LMS Stanier Class 5 4-6-0 4932
+LMS Stanier Class 5 4-6-0 5000
+LMS Stanier Class 5 4-6-0 5212
+LMS Stanier Class 5 4-6-0 5231
+LMS Stanier Class 8F
+LMS Stanier Class 8F 8151
+LMS Stanier Class 8F 8233
+LMS Stanier Mogul
+LMS Turbomotive
+LMS diesel shunter 1831
+LMS diesel shunter 7050
+LMS diesel shunter 7051
+LMS diesel shunter 7052
+LMS diesel shunter 7053
+LMS diesel shunter 7054
+LMS diesel shunter 7057
+LMS diesel shunter 7058
+LMS diesel shunters 7055/6
+LMS diesel shunters 7059-7068
+LMS ex-ROD 2-8-0
+LNER B17 Class 61673 Spirit of Sandringham
+LNER Class A2
+LNER Class A3 4472 Flying Scotsman
+LNER Class A4
+LNER Class A4 2509 Silver Link
+LNER Class A4 4464 Bittern
+LNER Class A4 4468 Mallard
+LNER Class A4 4469 Sir Ralph Wedgwood
+LNER Class A4 4483 Kingfisher
+LNER Class A4 4488 Union of South Africa
+LNER Class A4 4489 Dominion of Canada
+LNER Class A4 4496 Dwight D Eisenhower
+LNER Class A4 4498 Sir Nigel Gresley
+LNER Class A4 4902 Seagull
+LNER Class A4 60034 Lord Faringdon
+LNER Class A8
+LNER Class B17
+LNER Class D40
+LNER Class D49
+LNER Class EE1
+LNER Class ES1
+LNER Class J38
+LNER Class J39
+LNER Class J64
+LNER Class J94
+LNER Class K4
+LNER Class K5
+LNER Class O6
+LNER Class P1
+LNER Class P2
+LNER Class U1
+LNER Class V1/V3
+LNER Class V2
+LNER Class V2 4771 Green Arrow
+LNER Class V4
+LNER Class W1
+LNER Class Y1
+LNER Class Y10
+LNER Class Y11
+LNER Class Y3
+LNER Gresley Classes A1 and A3
+LNER Gresley K4 61994 The Great Marquess
+LNER P2 Class 2007 Prince of Wales
+LNER Peppercorn Class A1
+LNER Peppercorn Class A1 60163 Tornado
+LNER Peppercorn Class A2
+LNER Peppercorn Class A2 60532 Blue Peter
+LNER Thompson/Peppercorn Class K1
+LNER Thompson Class A1/1
+LNER Thompson Class A2/1
+LNER Thompson Class A2/2
+LNER Thompson Class A2/3
+LNER Thompson Class B1
+LNER Thompson Class B1
+LNER Thompson Class B1 61306
+LNER Thompson Class B2
+LNER Thompson Class L1
+LNER Thompson Class O1
+LNER Thompson Class Q1
+LNER class D41
+LNWR 1185 Class
+LNWR 1400 Class
+LNWR 17in Coal Engine
+LNWR 18in Goods Class
+LNWR 18in Tank Class
+LNWR 19in Express Goods Class
+LNWR 2-2-2 3020 Cornwall
+LNWR 380 Class
+LNWR 4ft 6in Tank Class
+LNWR 4ft Shunter
+LNWR 5ft 6in Tank Class
+LNWR Alfred the Great Class
+LNWR Bloomer Class
+LNWR Class A
+LNWR Class B
+LNWR Class C
+LNWR Class C1
+LNWR Class D
+LNWR Class E
+LNWR Class F
+LNWR Class G
+LNWR Class G1
+LNWR Class G2
+LNWR Class G2A
+LNWR Claughton Class
+LNWR DX Goods class
+LNWR Dock Tank
+LNWR Dreadnought Class
+LNWR George the Fifth Class
+LNWR George the Fifth class 2013 Prince George
+LNWR Greater Britain Class
+LNWR Improved Precedent Class
+LNWR John Hick Class
+LNWR Jubilee Class
+LNWR Lady of the Lake class
+LNWR Newton Class
+LNWR Precedent Class
+LNWR Precursor Tank Class
+LNWR Prince of Wales Class
+LNWR Prince of Wales Tank Class
+LNWR Renown Class
+LNWR Samson Class
+LNWR Special Tank
+LNWR Teutonic Class
+LNWR Waterloo Class
+LNWR Webb Coal Tank
+LNWR Webb Experiment Class
+LNWR Webb Precursor Class
+LNWR Whale Experiment Class
+LNWR Whale Precursor Class
+LPHC No.3 R.H. Smyth
+LRC
+LSWR 0298 Class
+LSWR 135 class
+LSWR 273 class
+LSWR 282 class
+LSWR 302 class
+LSWR 318 class
+LSWR 330 class
+LSWR 348 class
+LSWR 380 class
+LSWR 395 class
+LSWR 415 class
+LSWR 445 class
+LSWR 460 class
+LSWR 46 class
+LSWR 700 class
+LSWR A12 class
+LSWR B4 class
+LSWR C14 class
+LSWR C8 class
+LSWR D15 class
+LSWR E14 class
+LSWR F13 class
+LSWR F9 class
+LSWR G14 class
+LSWR G16 class
+LSWR G6 class
+LSWR H15 class
+LSWR H16 class
+LSWR K10 class
+LSWR L11 class
+LSWR L12 class
+LSWR M7 class
+LSWR N15 class
+LSWR O2 Class W24 Calbourne
+LSWR O2 class
+LSWR P14 class
+LSWR S11 class
+LSWR S15 class
+LSWR T14 class
+LSWR T1 class
+LSWR T3 class
+LSWR T6 class
+LSWR T7 class
+LSWR T9 class
+LSWR X2 class
+LSWR X6 class
+LT&SR 1 Class
+LT&SR 2100 Class
+LT&SR 37 Class
+LT&SR 49 Class
+LT&SR 51 Class
+LT&SR 69 Class
+LT&SR 79 Class
+LTM 51
+Laser voltage prober
+M&GN Class C
+M-10001
+M-497 Black Beetle
+M-K TE70-4S
+M62 locomotive
+MGWR Class 1
+MGWR Class 12
+MGWR Class 6
+MGWR Class 7
+MGWR Class 7–12
+MGWR Class 9
+MGWR Class A
+MGWR Class B
+MGWR Class D
+MGWR Class D-bogie
+MGWR Class E
+MGWR Class H
+MGWR Class K
+MGWR Class L
+MGWR Class P
+MGWR Class W
+MGWR Classes C and Cs
+MGWR Classes F, Fa, and Fb
+MIFERMA Class CC 01-21
+MK5000C
+MLW M-420
+MLW M-636
+MLW RS-10
+MLW RS-18
+MLW RS-23
+MLW RSC-13
+MLW RSC-14
+MLW RSC-24
+MNR Tehosa class locomotive
+MPI HSP46
+MPI MP14B
+MPI MP20B
+MPI MP20C
+MPI MP21B
+MPI MP33C
+MPI MP8AC-3
+MPI MPXpress
+MRWA A class
+MRWA B class
+MRWA C class
+MRWA D class
+MRWA E class
+MRWA F class
+MRWA G class
+MRWA P class
+MR 0-10-0 Lickey Banker
+MTH Racing engines
+MaK / Vossloh G1206
+MaK DE 1002
+MaK G 1201 BB
+MaK G 1202 BB
+MaK G 1203 BB
+MaK G 1204 BB
+MaK G 1205
+Manila Railroad 160 class
+Manila Railroad 170 class
+Manila Railroad 300 class
+Manila Railroad 45 class
+Manila Railroad 800 class USA
+Manila Railway 100 class
+Manila Railway 70 class
+Manila Railway Dagupan class
+Manila Railway Manila class
+Maschinenbau-Gesellschaft Karlsruhe
+Mason Bogie
+Northern Pacific 3617
+Northern Pacific Railway class T-1
+Northern Pacific class S-10
+Northumbrian
+Novelty
+PKP class EM10
+PKP class EP02
+PKP class EP03
+PKP class EP05
+PKP class EP07
+PKP class EP08
+PKP class EP09
+PKP class ET21
+PKP class ET22
+PKP class ET40
+PKP class ET41
+PKP class ET42
+PKP class EU06
+PKP class EU07
+PKP class EU20
+PKP class EW90
+PKP class Lxd2
+PKP class Lyd1
+PKP class Lyd2
+PKP class OKl27
+PKP class OKz32
+PKP class Ok1
+PKP class Ok22
+PKP class Ol49
+PKP class Pm36
+PKP class Pt31
+PKP class Pt47
+PKP class Pu29
+PKP class SM01
+PKP class SM02
+PKP class SM03
+PKP class SM04
+PKP class SM15
+PKP class SM25
+PKP class SM30
+PKP class SM31
+PKP class SM40
+PKP class SM42
+PKP class SM48
+PKP class SP30
+PKP class SP32
+PKP class SP42
+PKP class SP45
+PKP class SP47
+PKP class ST40
+PKP class ST43
+PKP class ST45
+PKP class SU42
+PKP class SU45
+PKP class SU46
+PKP class TKt48
+PKP class Ty2
+PLM 241.C.1
+PLM 241 B 1
+PNR 2500 Class
+PNR 2500 class
+PNR 5000 class
+PNR 900 Class
+PNR 900 class
+PPR 26 Tonner 0-6-0ST
+PPR 35 Tonner 4-6-0T Portuguese
+PRR 1361
+PRR 4800
+PRR 4859
+PRR 4876
+PRR 4877
+PRR 4935
+PRR A1
+PRR A3
+PRR D14
+PRR D7
+PRR DD2
+PRR E44
+PRR FF1
+PRR G5
+PRR GG1
+PRR M1
+PRR N1s
+PRR Odd D 10003
+PRR Q2
+PRR S1
+PRR S2
+Pacific National XRB class
+Selkirk locomotive
+Sentetsu 4-Wheel class locomotives
+Sentetsu Amei-class locomotives
+Sentetsu Barui-class locomotive
+Sentetsu Goroi-class locomotive
+Sentetsu Mate class locomotives
+Sentetsu Matei-class locomotive
+Sentetsu Mateni-class locomotive
+Sentetsu Mika class locomotives
+Sentetsu Mikai-class locomotive
+Sentetsu Mikani-class locomotive
+Sentetsu Mikasa-class locomotive
+Sentetsu Mikashi-class locomotive
+Sentetsu Mogai-class locomotive
+Sentetsu Pashi class locomotives
+Sentetsu Pashii-class locomotive
+Sentetsu Pashiko-class locomotive
+Sentetsu Pashini-class locomotive
+Sentetsu Pashisa-class locomotive
+Sentetsu Pashishi-class locomotive
+Sentetsu Pure class locomotives
+Sentetsu Pureha-class locomotives
+Sentetsu Purei-class locomotives
+Sentetsu Pureko-class locomotives
+Sentetsu Purena-class locomotives
+Sentetsu Pureni-class locomotives
+Sentetsu Purero-class locomotives
+Sentetsu Puresa-class locomotives
+Sentetsu Pureshi-class locomotives
+Sentetsu Satai-class locomotive
+Sentetsu Shiki class railcars
+Sentetsu Sorii-class locomotives
+Sentetsu Teho class locomotives
+Sentetsu Tehoi-class locomotive
+Sentetsu Tehoko-class locomotive
+Sentetsu Tehoni-class locomotive
+Sentetsu Tehoro-class locomotive
+Sentetsu Tehosa-class locomotive
+Sentetsu Tehoshi-class locomotive
+Skin bridge
+Timken 1111
+Toei Class E5000
+Willamette locomotive
+William Crooks
+Skarloey
+Greentrains
+Grid bias
+HNJ Mb
+HSH Class 31
+HSH Class 72
+HSH Class T211.0
+HSM Oldenbarneveldt - Simon Stevin
+Hahn Fire Apparatus
+Holy War
+Honda F20C engine
+James the Red Engine
+KkStB 112
+KkStB 229
+KkStB 269
+KkStB 270
+KkStB 30
+KkStB 429
+KkStB 6
+KkStB 73
+KkStB 97
+KkStB 99
+KkStB Class 265
+KkStB Class 429
+KkStB Class 97
+KkStB Class 99
+Little Joe
+Little Joe
+Mozambique–South Africa Oil Pipeline
+Mr. Smee
+Multi-system
+NSW Wallaby
+NS 1300
+NS 1600
+NS 1700
+NS 1900
+NS 3300
+NS 3400
+NS 3500
+NS 3500
+NS 3600
+NS 3700
+NS 3850
+NS 3900
+NS 4000
+NS 4300
+NS 5000
+NS 5000
+NS 5300
+NS 5600
+NS 600
+NS 6000
+NS 6100
+NS 700
+NS 7000
+NS 7100
+NS 7600
+NS 7700
+NS 8500
+NS Class 1100
+NS Class 1200
+NS Class 1300
+NS Class 1500
+NS Class 1600
+NS Class 1700
+NS Class 186
+NS Class 200
+NS Class 600
+NS Class 6400
+NS Class 8800
+NWE No. 21
+NWE Nos. 11 to 22
+NWE Nos. 6 and 7
+NYC Niagara
+NZASM 10 Tonner 0-4-0T
+NZASM 13 Tonner 0-4-0T
+NZASM 14 Tonner 0-4-0T
+NZASM 18 Tonner 0-6-0ST
+NZASM 19 Tonner 0-4-2T
+NZASM 32 Tonner 0-4-2RT
+NZASM 32 Tonner 0-4-2T
+NZASM 40 Tonner 0-6-2T
+NZR AA class
+NZR AB class
+NZR A class
+NZR A class
+NZR BA class
+NZR BB class
+NZR BC class
+NZR B class
+NZR B class
+NZR C class
+NZR C class
+NZR DF class
+NZR DI class
+NZR DSA class
+NZR DSB class
+NZR DS class
+NZR D class
+NZR D class
+NZR EC class
+NZR ED class
+NZR EO class
+NZR E class
+NZR E class
+NZR FA class
+NZR F class
+NZR G class
+NZR G class
+NZR H class
+NZR JA class
+NZR J class
+NZR J class
+NZR KA class
+NZR KB class
+NZR K class
+NZR LA class
+NZR L class
+NZR M class
+NZR NA class
+NZR NC class
+NZR N class
+NZR OA class
+NZR OB class
+NZR OC class
+NZR O class
+NZR P class
+NZR P class
+NZR Q class
+NZR RM class
+NZR RM class
+NZR RM class
+NZR RM class
+NZR R class
+NZR S class
+NZR T class
+NZR UA class
+NZR UB class
+NZR UC class
+NZR UD class
+NZR U class
+NZR V class
+NZR WAB class
+NZR WA class
+NZR WB class
+NZR WD class
+NZR WE class
+NZR WF class
+NZR WG class
+NZR WH class
+NZR WJ class
+NZR WW class
+NZR W class
+NZR X class
+NZR Y class
+Nahma and Northern Railway Locomotive No. 5
+Namaqualand 0-4-0WT Condenser
+Namaqualand 0-4-2IST Caledonia
+Namaqualand 0-4-2ST Pioneer
+Namaqualand 0-4-2T Britannia
+Namaqualand 0-6-0T
+Namaqualand 0-6-0T 1871
+Namaqualand 0-6-2 Clara Class
+Namaqualand 0-6-2 Scotia Class
+Nancy
+National Rail NR class
+Neath and Brecon Stephensons
+Rolls-Royce Meteorite
+Russell
+Russian locomotive class E el-2
+Russian locomotive class E el-8
+Russian locomotive class Izhitsa
+Russian locomotive class Kh
+Russian locomotive class O
+Russian locomotive class TE2
+Russian locomotive class TE3
+Russian locomotive class TE5
+Russian locomotive class U
+Russian locomotive class VM
+Russian locomotive class Ye
+Snelheid
+Softronic Transmontana
+Thomas Parker
+Thomas the Tank Engine
+V/Line A class
+V/Line G class
+V/Line N class
+V/Line P class
+V/Line RTL class
+VGN EL-C
+VIA FP9ARM
+VL10
+VL11
+VL15
+VL40U
+VL8
+VL80
+VL85
+VL class
+VR Class Dr12
+VR Class Dr13
+VR Class Dr14
+VR Class Dr16
+VR Class Dv12
+VR Class Hr1
+VR Class Hr11
+VR Class Hv1
+VR Class Pr1
+VR Class Pr2
+VR Class Rro
+VR Class Sk1
+VR Class Sk3
+VR Class Sr1
+VR Class Sr2
+VR Class Sr3
+VR Class Tk3
+VR Class Tr1
+VR Class Tve2
+VR Class Vk11
+VR Class Vk3
+VR Class Vk4
+VR Class Vr1
+VR Class Vr3
+VSFT G 322
+État 140-101 to 140-370
+État 141-001 to 141-250
+État 230-781 to 230-800
+État 231-011 to 231-060
+État 231-501 to 231-783
+État 3701 to 3755
+État 40-001 to 40-143
+État 42-001 to 42-020
+ÖBB Class 1014
+ÖBB Class 1042
+ÖBB Class 1043
+ÖBB Class 1044
+ÖBB Class 2043
+ÖBB Class 2070
+ÖBB Class 2143
+ÖBB Class 93
+ČD Class 242
+ČD Class 340
+ČD Class 380
+ČD Class 700
+ČD Class 749
+ČKD T-669 diesel locomotive
+ČSD Class 387.0
+ČSD Class 477.0
+ČSD Class ES 499.1
+ČSD Class ES 499.2
+ČSD Class E 422.0
+ČSD Class E 426.0
+ČSD Class E 458.1
+ČSD Class E 499.1
+ČSD Class E 499.3
+ČSD Class E 669.2
+ČSD Class M 290.0
+ČSD Class S 499.0
+ČSD Class T478.3
+ČSD Class T 448.0
+ČSD Class T 458.1
+ČSD Class T 466.2
+ČSD Class T 478.4
+ČSD Class T 499.0
+Đuro Đaković Series 732
+Škoda 109E
+Škoda Type 22E2
+ŽS series 412
+ŽS series 444
+ŽS series 621
+ŽS series 641
+China Railways ND5
+KTM Class 26
+Sir Handel
+Harley-Davidson Twin Cam engine
+Harman geared locomotive
+Harry Wainwright
+Heeresfeldbahnlokomotive HF 160 D
+Heilmann locomotive
+Hetch Hetchy 6
+Hibernia
+Hibernia 41-E
+High-pressure steam locomotive
+Highland Railway Ben Class
+Highland Railway Clan Class
+Highland Railway Clan Goods Class
+Highland Railway Cumming 4-4-0 Class
+Highland Railway Drummond 0-6-0 Class
+Highland Railway E Class
+Highland Railway F Class
+Highland Railway Jones Goods Class
+Highland Railway L Class
+Highland Railway Loch Class
+Highland Railway O Class
+Highland Railway P class
+Highland Railway River Class
+Highland Railway Strath Class
+Highland Railway W Class
+Highland Railway X Class
+JGR Class 150
+JGR Class 160
+JGR Class 2120
+JGR Class 3380
+JGR Class 3900
+JGR Class 5100
+JGR Class 5500
+JGR Class 7010
+JGR Class 7100
+JGR Class 7170
+JGR Class 8150
+JGR Class 860
+JGR Class 8620
+JGR Class 8900
+JNR Class 4110
+JNR Class 9600
+JNR Class B20
+JNR Class C10
+JNR Class C11
+JNR Class C12
+JNR Class C50
+JNR Class C51
+JNR Class C52
+JNR Class C53
+JNR Class C54
+JNR Class C55
+JNR Class C56
+JNR Class C57
+JNR Class C58
+JNR Class C59
+JNR Class C60
+JNR Class C61
+JNR Class C62
+JNR Class C63
+JNR Class D50
+JNR Class D51
+JNR Class D52
+JNR Class D61
+JNR Class D62
+JNR Class DD14
+JNR Class DD15
+JNR Class DD16
+JNR Class DD51
+JNR Class DE10
+JNR Class DE11
+JNR Class DE15
+JNR Class DF50
+JNR Class E10
+JNR Class ED10
+JNR Class ED15
+JNR Class ED60
+JNR Class ED62
+JNR Class ED73
+JNR Class ED74
+JNR Class ED75
+JNR Class ED76
+JNR Class ED78
+JNR Class ED79
+JNR Class EF10
+JNR Class EF55
+JNR Class EF57
+JNR Class EF58
+JNR Class EF60
+JNR Class EF62
+JNR Class EF63
+JNR Class EF64
+JNR Class EF65
+JNR Class EF66
+JNR Class EF67
+JNR Class EF70
+JNR Class EF81
+JNR Class EH10
+JR Freight Class DB500
+JR Freight Class DD200
+JR Freight Class DF200
+JR Freight Class ED500
+JR Freight Class EF200
+JR Freight Class EF210
+JR Freight Class EF500
+JR Freight Class EF510
+JR Freight Class EH200
+JR Freight Class EH500
+JR Freight Class EH800
+JR Freight Class HD300
+Pere Marquette 1223
+Pere Marquette 1225
+Perseverance
+Perseverance
+Pesa Gama
+Railpower GG20B
+Railpower RP14BD
+Railpower RP20BD
+Railpower RP20CD
+Watco Australia WRA Class
+Wellington and Manawatu Railway Trust
+Liberation Class
+Lima-Hamilton 2500HP Transfer Locomotive
+Lima 750 and 800 hp switchers
+Lima LRS-1200
+Lima LS-1000
+Lima LS-1200
+Manx Electric Locomotive 23
+Margate Train
+OKa1
+OKf100
+OR&N 197
+OSE Class 220
+OSE class 520
+OSE class A.101
+OSE class A.151
+OSE class A.201
+OSE class A.451
+OSE class A.501
+OSE class A.551
+OSE class AA.6001
+Omoto locomotive dump
+Oregon Pony
+Oregon Railroad and Navigation 197
+Orenstein & Koppel CSÉT Shunting Locomotives
+Pakistan CLP class locomotive
+Palatine G 1.I
+Palatine G 3/3
+Palatine L 1
+Palatine L 2
+Palatine Nos. 1–8, 21
+Palatine Nos. 26–63
+Palatine Nos. 9–20
+Palatine P 3.1
+Palatine P 3.I
+Palatine P 4
+Palatine Pts 2/2
+Palatine Pts 3/3 H
+Palatine R 4/4
+Palatine T 3
+Palatine T 4.I
+Palatine T 4.II
+Palatine T 5
+Palestine Railways H class
+Palestine Railways P class
+Renfe Class 250
+Renfe Class 251
+Renfe Class 252
+Renfe Class 269
+Renfe Class 276
+Renfe Class 309
+Renfe Class 310
+Renfe Class 311
+Renfe Class 319
+Renfe Class 319
+Renfe Class 321
+Renfe Class 333
+Renfe Class 334
+Renfe Class 340
+Renfe Class 352
+Renfe Class 353
+Renfe Class 354
+Rishra
+RjB 20–22
+RjB 9 and 10
+Road switcher
+Robert Absalom Thom
+Robert Dollar Co. No. 3
+Rock Island 886
+X1001
+Xiangjiaba–Shanghai HVDC system
+Endocochlear potential
+Union Pacific 4006
+Nord 2.121 to 2.180
+Nord 2.231 to 2.305
+Nord 2.311 to 2.380
+Nord 2.451 to 2.631
+Nord 2.821 to 2.911 and 2.201 to 2.212
+Nord 3.021 to 3.075
+Nord 3.1101 and 3.1102
+Nord 3.1201 to 3.1290
+Nord 3.401 to 3.512
+Nord 3.606 to 3.787
+Nord 360 to 399
+Nord 4.001 to 4.075 and 4.636 to 4.990
+Nord 4.061 to 4.340
+Nord 4.1201 to 4.1272
+Nord 4.2016 to 4.2095
+Nord 401 to 436
+Nord 5.1201 to 5.1230
+Norfolk & Western 1218
+Norfolk & Western 2156
+Norfolk Southern GP33ECO
+Norfolk and Western 1218
+Norfolk and Western 2156
+Norfolk and Western 433
+Norfolk and Western 475
+Norfolk and Western 578
+Norfolk and Western 611
+Norfolk and Western Railway 2300
+Norfolk and Western Railway class A
+Norfolk and Western Railway class J
+Norfolk and Western Railway class J
+Norfolk and Western Railway class J
+Norfolk and Western Railway class LC-1
+Norfolk and Western Railway class LC-2
+Norfolk and Western Railway class M
+Planet
+Platelet adhesiveness
+Plymouth CR-8 locomotives
+Port Elizabeth Harbour 0-4-0ST
+Port Talbot Railway 0-6-2T
+Port Talbot Railway 0-8-2T
+Port Talbot Railway 0-8-2T
+Pratt & Whitney GG4
+Prins August
+Progress Rail PR30C
+Progress Rail PR43C
+Reuben Wells
+Rhaetian Railway G 2/2+2/3
+Rhaetian Railway G 2/3+2/2
+Rhaetian Railway G 4/5
+Rhaetian Railway Ge 2/2
+Rhaetian Railway Ge 2/4
+Rhaetian Railway Ge 3/3
+Rhaetian Railway Ge 4/4 I
+Rhaetian Railway Ge 4/4 II
+Rhaetian Railway Ge 4/4 III
+Rhaetian Railway Ge 4/6
+Rhaetian Railway Ge 6/6 I
+Rhaetian Railway Ge 6/6 II
+Rhaetian Railway Gem 4/4
+Rheidol
+Rheneas
+Rhodesia Railways 15th class
+Rhodesia Railways 16A class
+Rhodesia Railways 20th class
+Rhodesia Railways class DE2
+Rhymney Railway A class
+Rhymney Railway M class
+Rhymney Railway P class
+Rhymney Railway R class
+Rhymney Railway S class
+Rotax 185
+Rotax 277
+Rotax 377
+Rotax 447
+SStB – Gutenberg
+SZU Be 510
+Saebyol-class locomotive
+Saebyŏl-class locomotive
+Sandusky
+Sans Pareil
+Santa Cruz Railroad 3
+Santa Fe 1010
+Santa Fe 108
+Santa Fe 1316
+Santa Fe 2913
+Santa Fe 2926
+Santa Fe 3415
+Santa Fe 3751
+Santa Fe 3759
+Santa Fe 5
+Santa Fe 5000
+Santa Fe 5017
+Santa Fe 769
+Santa Fe CF7
+Santa Fe Class 2900
+Santa Fe SD26
+Santa Fe class 1158
+Santa Fe class 3450
+Santa Fe class 3460
+Santa Fe class 5011
+Texas and Pacific 400
+Texas and Pacific 610
+Triplex
+Tubize 2069
+Tubize 2179
+Tubize Type 50
+Two- and four-stroke engines
+Union Pacific 1243
+Union Pacific 1982
+Union Pacific 1983
+Union Pacific 1988
+Union Pacific 1989
+Union Pacific 1996
+Union Pacific 3977
+Union Pacific 3985
+Union Pacific 4012
+Union Pacific 4014
+Union Pacific 4023
+Union Pacific 4141
+Union Pacific 4466
+Union Pacific 5511
+Union Pacific 618
+Union Pacific 6916
+Union Pacific 6922
+Union Pacific 6936
+Union Pacific 737
+Union Pacific 844
+Union Pacific 9000 Class
+Union Pacific Big Boy
+Union Pacific Challenger
+Union Pacific FEF Series
+Union Pacific GTELs
+Union Pacific No. 119
+Union Railroad 0-10-2
+United States Air Force Locomotive No. 1246
+United States Army 101
+United States Army 4039
+United States Army No. 101
+United States Army Transportation Corps class S118
+Vectron
+Voith Gravita
+Voith Maxima
+Vossloh DE 18
+Vossloh Euro
+Vossloh G1000 BB
+Vossloh G1700 BB
+Vossloh G2000 BB
+Vossloh G6
+Vossloh G 400 B
+W.G Bagnall 0-6-0ST "New Standard 18"
+WAB He 2/2 51–58
+WAGR A class
+WAGR A class
+WAGR B class
+WAGR B class
+WAGR C class
+WAGR C class
+WAGR C class
+WAGR D class
+WAGR D class
+WAGR D class
+WAGR Dd class
+WAGR Dm class
+WAGR E class
+WAGR E class
+WAGR Ec class
+WAGR F class
+WAGR G class
+WAGR G class G233 Leschenault Lady
+WAGR H class
+WAGR H class
+WAGR J class
+WAGR K class
+WAGR K class
+WAGR K class
+WAGR L class
+WAGR M class
+WAGR M class
+WAGR Msa class
+WAGR N class
+WAGR O class
+WAGR P and Pr classes
+WAGR Pm and Pmr classes
+WAGR Q class
+WAGR RA class
+WAGR R class
+WAGR R class
+WAGR S class
+WAGR T class
+WAGR T class
+WAGR U class
+WAGR U class
+WAGR V class
+WAGR W class
+WAGR X class
+WAGR Y class
+WAGR Z class
+WD Austerity 2-10-0
+WD Austerity 2-8-0
+WLs40/50
+WLs75
+WSK SO-3
+Wabash 534
+Wabash Alloys Locomotive
+Wabash class P1
+Walker railmotor
+Welshpool and Llanfair Light Railway No.1 The Earl and No.2 Countess
+Welshpool and Llanfair Light Railway steam locomotive number 19
+West Point
+Western Endeavour
+Western Maryland 202
+Western Maryland J-1 Class
+Western Maryland K-2
+Western Maryland Scenic Railroad 1309
+Western Maryland Scenic Railroad 734
+Western Pacific 805-A
+Western Pacific 94
+Westrail DB class
+Westrail N class
+Westrail P class
+Westrail S class
+New South Wales 71 class locomotive
+Peter Sam
+ALCO DL500B
+Emily
+Nickel Plate Road 190
+cylinder count
+boiler pressure
+locomotive
+boiler

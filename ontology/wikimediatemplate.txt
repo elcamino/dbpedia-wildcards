@@ -1,0 +1,2 @@
+template name
+wiki page uses template

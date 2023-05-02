@@ -1,0 +1,8 @@
+image
+sound
+file
+Date Last Updated
+document number
+gallery item
+Indicates an annotation associated with this document
+registry number

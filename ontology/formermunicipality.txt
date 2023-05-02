@@ -1,0 +1,601 @@
+Abontjeman
+Abram-Perezville, Texas
+Achasta, California
+Albersdorf
+Allamuchy-Panther Valley, New Jersey
+Allen Springs, California
+Allyn-Grapeview, Washington
+Alpha, California
+Alpine, Alaska
+Alton North, Texas
+Alyeupkigna, California
+Amesbury
+Amherstdale-Robinette, West Virginia
+Anderson Mill, Austin, Texas
+Argolis and Corinthia Prefecture
+Arnold, Minnesota
+Arroyo Gardens-La Tina Ranch, Texas
+Ashford Mill, California
+Asphalto, California
+Asuksa-nga, California
+Athens Prefecture
+Attica and Boeotia Prefecture
+Auckland City
+Aukrug
+Avenel-Hillandale, Maryland
+Awigna, California
+Fredericktown-Millsboro, Pennsylvania
+Freeman Junction, California
+Fremont, Illinois
+Fremont Landing, California
+French Lake, California
+Fresno City, California
+Friedrichstadt
+Hennstedt
+Hiwasse, Arkansas
+Hobart Mills, California
+Hodson, California
+Hohenwestedt-Land
+Hokokwito, California
+Indian Creek, West Virginia
+Indian Point – Golden Sands
+Indian Springs, Nevada County, California
+Irishtown, California
+Isabella, California
+Isaiah, California
+Isanthcogna, California
+John Sam Lake, Washington
+Jollyville, Texas
+Leeman, California
+Lehigh, Alberta
+Leliter, California
+Lemmon Valley–Golden Valley, Nevada
+Lexington, Edwards County, Illinois
+Badger Hill, California
+Bailey Flats, California
+Bakai, Kėdainiai
+Baldwin Harbor, New York
+Baltimore Town, California
+Bankview, Alberta
+Barclay-Kingston, New Jersey
+Barnes Lake-Millers Lake, Michigan
+Bartolo, California
+Bath, California
+Bausell and Ellis, Texas
+Bayview-Montalvin, California
+Beaverdam Lake–Salisbury Mills, New York
+Belo Monte, São Tomé and Príncipe
+Bend City, California
+Bethel, Illinois
+Bethesda, Suriname
+Bidwell's Bar, California
+Birchville, California
+Blackhawk-Camino Tassajara, California
+Bluetown-Iglesia Antigua, Texas
+Boca, California
+Bokhorst
+Bonadelle Ranchos-Madera Ranchos, California
+Bond-South City, Florida
+Boothville-Venice, Louisiana
+Borsselen
+Boston Ravine, California
+Botetourt Springs, Virginia
+Bothin, California
+Bourbonais, Illinois
+Box Canyon-Amistad, Texas
+Boyette, Florida
+Brasher Falls–Winthrop, New York
+Bredstedt-Land
+Bressler-Enhaut-Oberlin, Pennsylvania
+Bridgeport, Nevada County, California
+Bridgetown North, Ohio
+Bronco, California
+Brownsville-Brent-Goulding, Florida
+Buena Vista, Nevada County, California
+Burg-Süderhastedt
+Burnt Wagons, California
+Bynum, Alabama
+Byrd Station
+Bökingharde
+Bönningstedt
+Cabin John-Brookmont, Maryland
+Califa, California
+Calvert Beach-Long Beach, Maryland
+Camanche, California
+Cambria, Alberta
+Camp Lake, Wisconsin
+Canyon Rim, Utah
+Carbondale, California
+Carmelito, California
+Carmody Hills-Pepper Mill Village, Maryland
+Carnegie, California
+Carneros, California
+Castle Pines
+Gates-North Gates, New York
+Granger-Hunter, Utah
+Graniteville-East Barre, Vermont
+Great Meadows-Vienna, New Jersey
+Greater Landover, Maryland
+Hyperion, California
+Hütten
+Lake Goodwin, Washington
+Lake Lac La Belle, Wisconsin
+Lake Luzerne-Hadley, New York
+Lake Shangrila, Wisconsin
+Lancaster Mill, South Carolina
+Lancha Plana, California
+Locust Grove, New York
+Londontowne, Maryland
+Lookout, Wyoming
+Lookout City, California
+Loring Air Force Base
+Los Villareales, Texas
+Mack North, Ohio
+Mack South, Ohio
+Magnesia Prefecture
+Magnet, California
+Muroc, California
+Parker City, Illinois
+Parkway–South Sacramento, California
+Parris Island, South Carolina
+Parrotsville, Indiana
+Strool, South Dakota
+Study Butte-Terlingua, Texas
+Succasunna-Kenvil, New Jersey
+Sugartit, Kentucky
+Suitland-Silver Hill, Maryland
+Sunland, Inyo County, California
+Sunnyslope, California
+Sunset View, California
+Sunshine Acres, Florida
+Takuyumam, California
+Tanglewood, Florida
+Taromske
+Tasikoyo, California
+Teplychne, Zaporizhzhia
+Melones, California
+Mercers Saltworks, West Virginia
+Mercerville-Hamilton Square, New Jersey
+Mokelumne City, California
+Monfort Heights East, Ohio
+Monfort Heights South, Ohio
+New Salem-Buffington, Pennsylvania
+Newcastle, Alberta
+Olig, California
+Olompali, California
+Peart, California
+Pedley, California
+Pekwan, California
+Pekwuteu, California
+Pell Lake, Wisconsin
+Pokerville, California
+Pole of Inaccessibility research station
+Quaker Hill, California
+Quartz, California
+Richland, California
+Savage-Guilford, Maryland
+Savannah, California
+Shoreline Park, Mississippi
+Shregegon, California
+Shumig, California
+Shōwa, Akita
+Somersville, California
+Stimson Crossing, Washington
+Stollberg
+Stoneleigh-Rodgers Forge, Maryland
+Strachowice, Wrocław
+Süderlügum
+Tacaogane, Illinois
+Tortolita, Arizona
+Village Park, Hawaii
+Virgenes, California
+Willow Glen, Madera County, California
+Wilmington Beach, North Carolina
+Wilmot, Wisconsin
+Wilsona, California
+Wilsonville, California
+Windemere, Texas
+Yuman, California
+Yuri, Akita
+Yūwa, Akita
+Zeona, South Dakota
+Zephyr Cove–Round Hill Village, Nevada
+Caymus, California
+Centerville, Alpine County, California
+Centerville, Humboldt County, California
+Cephalonia Prefecture
+Chain O' Lakes-King, Wisconsin
+Chapel Oaks-Cedar Heights, Maryland
+Dodecanese
+Drawbridge, California
+Drexel-Alvernon, Arizona
+Ingram, Mississippi
+Junta, West Virginia
+Mill City, Mono County, California
+Mill Plain, Washington
+Nelson Bar, California
+Newtown, Mariposa County, California
+Osterrönfeld
+Red Dog, California
+Redbud Park, California
+Reeds Crossing, Illinois
+Reese Center, Texas
+Reilly, California
+Round Tent, Yuba County, California
+Round Valley, Plumas County, California
+Rubidoux, California
+Samos Prefecture
+San Francis Ranch
+Schwaub, California
+Scovern Hot Springs, California
+Seagate, North Carolina
+Shasta, Illinois
+Shelby Flat, California
+Shepard, Alberta
+Three Rivers, Massachusetts
+Tierra Buena, California
+Trandum leir
+Treene
+Del Sol-Loma Linda, Texas
+Democrat, California
+Desert Spring, California
+Falman-County Acres, Texas
+Faysville, Texas
+Fernway, Pennsylvania
+Föhr-Land
+Gabanes
+Gabilan, California
+Gold Run, California
+Gold Town, California
+Kerby, California
+Kern River Slough, California
+Kernville
+Khawina, California
+Khoonkhwuttunne, California
+Khwunrghunme, California
+Kworatem, California
+Kyōwa, Akita
+Les Révoires
+Lesbos Prefecture
+May, California
+Maybert, California
+Meadow Lake, Nevada County, California
+Meyers Chuck, Wrangell
+Naranja-Princeton, Florida
+Narbo, California
+St. Charles, Maryland
+St. Michael-Sidman, Pennsylvania
+Wanborough, Illinois
+Wankendorf
+Warford, West Virginia
+Wheaton–Glenmont, Maryland
+White Oak East, Ohio
+White Oak Springs, Illinois
+White Oak West, Ohio
+Whites Bridge, California
+Whitesboro-Burleigh, New Jersey
+Wiedingharde
+Woodlawn-Rockdale-Milford Mills, Maryland
+Woolsey Flat, California
+Cathan, Washington
+Coconino station
+Cold Lake Metis Settlement
+Condemned Bar, California
+Cooke City-Silver Gate, Montana
+Copperville, Alaska
+Cornwells Heights-Eddington, Pennsylvania
+Coso
+Cottonwood, Yolo County, California
+Cottonwood West, Utah
+Covington-Sawyer-Wilderness, Washington
+Coyoteville, Nevada County, California
+Crater, California
+Eldoradoville, California
+Electra, California
+Elizabethtown, California
+Elm Point, Illinois
+Emory-Meadowview, Virginia
+Enterprise, Butte County, California
+Erlands Point-Kitsap Lake, Washington
+Erlton-Ellisburg, New Jersey
+Forest Home, California
+Fort Miller, California
+Fort Riley-Camp Whiteside, Kansas
+Fountain Springs, California
+Fox Run, Pennsylvania
+Franklin District
+Gerber-Las Flores, California
+Gerlach–Empire, Nevada
+Glen Avon, California
+Glenbrook, Lake County, California
+Glenbrook, Nevada County, California
+Goulais Bay 15C
+Goumaz, California
+Iceland, California
+Lava Beds, California
+Lavelle-Locustdale, Pennsylvania
+Lavers' Crossing, California
+Lawyers Bar, California
+Le Pensie
+Leavitt, California
+Linganore-Bartonsville, Maryland
+Lunden
+Lutherville-Timonium, Maryland
+Malakoff, California
+Malibu Mar Vista, California
+Malone-Porter, Washington
+Malton, California
+Marlboro Metis Settlement
+Marne-Land
+Mars Hill-Blaine, Maine
+Meeker, Wisconsin
+Meldorf-Land
+Michigan Bar, California
+Michopdo, California
+Midlandvale, Alberta
+Midvale, Montana
+Piankashawtown, Illinois
+Picard, California
+Picnic Point-North Lynnwood, Washington
+Pine City, California
+Pinepoca, West Virginia
+Pinneberg-Land
+Pipers, California
+Shaker Church, Washington
+Shands, California
+Sibagna, California
+Signal Port, California
+Silongkoyo, California
+Silver Creek, California
+Silver Mountain, California
+South Fork, Butte County, California
+South Gate, Maryland
+South Middletown, Ohio
+South Woodbridge, California
+Sovetskaya
+Spenceville, California
+Spring Garden-Terra Verde, Texas
+Squirrel Creek, California
+Sylvan, Illinois
+Tome-Adelino, New Mexico
+Yardville-Groveville, New Jersey
+Zurich, California
+Chats, California
+Cheektowaga Northwest, New York
+Cheektowaga Southwest, New York
+Chehalis Village, Washington
+Cherokee, Nevada County, California
+Chesapeake Ranch Estates-Drum Point, Maryland
+Chowigna, California
+Chrysopolis, California
+Chula Vista-Orason, Texas
+Clackamas, Oregon
+Daggett, Illinois
+Damariscotta-Newcastle, Maine
+Devon-Berwyn, Pennsylvania
+Dhanushkodi
+Diamondville, California
+Discovery-Spring Garden, Maryland
+Dyson, Louisiana
+Eagle Bird, California
+Eagle Mountain, Texas
+East Blythe, California
+East Coulee, Alberta
+East Hill-Meridian, Washington
+East Millcreek, Utah
+East Sahuarita, Arizona
+East Wenatchee Bench, Washington
+Eastern Nile State
+Eckley, California
+Eddelak-Sankt Michaelisdonn
+Eder, California
+Edgeley, Vaughan
+Edgemont, Lassen County, California
+Edgewater-Paisano, Texas
+Egypt, Summers County, West Virginia
+El Prado, California
+Eskini, California
+Evergreen, Marathon County, Wisconsin
+Fairport, California
+Finlay Forks
+Flea Valley, California
+Florence-Roebling, New Jersey
+Hullville, California
+Hunt's Hill, California
+Huntsville, West Virginia
+Hurstville, New York
+Jewell, California
+Millham City, California
+Milligan District, California
+Mills Prairie, Illinois
+Milton, Brown County, Illinois
+Mineville-Witherbee, New York
+Mira Loma, California
+Mirabel, California
+Mono Mills, California
+Mono Village, Mono County, California
+Monroeville, California
+Monticello, California
+Moores Flat, California
+Moseley, California
+Motordrome, California
+Mount Bullion, Alpine County, California
+Mount Olympus, Utah
+Providence, Nevada County, California
+Saint Michel, Monaco
+Salmon Falls, California
+Tyler, California
+Cresaptown-Bel Air, Maryland
+Cube Cove, Alaska
+Cyclades
+La Barr Meadows, California
+La Casita-Garciasville, Texas
+La Colle, Monaco
+Langs, California
+Lanham-Seabrook, Maryland
+Lansdowne-Baltimore Highlands, Maryland
+Larga Vista, Texas
+Las Colonias, Texas
+Las Palmas-Juarez, Texas
+Las Plumas, California
+Las Tunas, California
+Laugenour, California
+Lovejoy, California
+Lowell Hill, California
+Lower Rancheria, California
+Machado, California
+Mango-Seffner, Florida
+Martins Ferry, California
+Marty, California
+Marumsco, Virginia
+Masonboro, North Carolina
+North Drumheller, Alberta
+North Fork Village, Ohio
+North Muroc, California
+North Vandergrift-Pleasant View, Pennsylvania
+North Woodbridge, California
+Northcliff, Texas
+Northwest Snohomish, Washington
+Nortons Landing, Arizona
+Oxon Hill-Glassmanor, Maryland
+Oyehut-Hogans Corner, Washington
+Selby-on-the-Bay, Maryland
+Sentinel, California
+Skafferhullet
+Tina, West Virginia
+Willamar, Texas
+Winschoterzijl
+Wittensee
+Witter Springs, California
+Wokodot, California
+Wolf Lake Metis Settlement
+Green Harbor-Cedar Crest, Massachusetts
+Green Haven, Maryland
+Grier City-Park Crest, Pennsylvania
+Griffin, Illinois
+Grimm
+Grindstone-Rowes Run, Pennsylvania
+Grub Gulch, California
+Guenoc, California
+Hachimori, Akita
+Hacketville, California
+Halasi
+Hamavaran
+Hampton, Missouri
+Hanerau-Hademarschen
+Holland Summit, California
+Holmengrå, Finnmark
+Holton, California
+Homewood Canyon-Valley Wells, California
+Howard Mill, California
+Jamison, California
+Jones Bar, California
+Karrharde
+Kavala Prefecture
+Kingston, California
+Knife River, Montana
+Little Jamison, California
+Little Lake, Inyo County, California
+Little Rock, LaSalle County, Illinois
+Little York, California
+Littletown, Arizona
+Liwaito, California
+Mullen, California
+Nacmine, Alberta
+Russell City, California
+Snow Point, California
+Snow Tent, California
+Solomon, Alaska
+Sutterville, California
+Swedes Flat, California
+Sweetland, California
+Tellingstedt
+Thoms Place, Wrangell
+Thorsborg, Minnesota
+Ustoma, California
+Ōmori, Akita
+Hattstedt
+Hawk Ravine, California
+Hazel Dell North, Washington
+Hazel Dell South, Washington
+Heide-Land
+Hickory Hills, Mississippi
+Highland Mills, New York
+Hillcrest, Alberta
+Hillsmere Shores, Maryland
+Hillview-Adeytown
+Pattersonville-Rotterdam Junction, New York
+Petersburg, California
+Phthiotis and Phocis Prefecture
+Watson's Ferry, California
+Watts Community, Oklahoma
+Waukell Flat, California
+Wayne, Alberta
+Weallup Lake, Washington
+Weddingstedt
+Lila C, California
+Lilly, West Virginia
+Lime Lake-Machias, New York
+Nusse
+Omega, California
+Omonogawa, Akita
+Onion Creek, Austin, Texas
+Opegoi, California
+Ore'q, California
+Orleans Flat, California
+Palisades del Rey, California
+Palmer
+Panamenik, California
+Reinerton-Orwin-Muir, Pennsylvania
+Rekwoi, California
+Remington Hill, California
+Riverton, Washington
+Riverton-Boulevard Park, Washington
+Roberts Landing, California
+Rockport, California
+Yamako, California
+Yamit
+Nordstrand
+Normansville, New York
+North Attleborough Center, Massachusetts
+Piraeus Prefecture
+Plumtree, California
+Prairie City, California
+Priest Point, Washington
+Prize, California
+Prosser, California
+Prosser Creek, California
+Ronda, California
+Rose's Corral, California
+Rosedale, Alberta
+Sandesneben
+Santa Cruz, Texas
+The Anchorage, Rhode Island
+Tsekankan, California
+Tsurau, California
+Tsurugi, Ishikawa
+Tulalip Bay, Washington
+Turtle Lake Lodge
+Union Hill, California
+University Park, Florida
+Unorganized Mainland Manitoulin District
+Vegas Creek, Nevada
+Verdi-Mogul, Nevada
+Wagners, California
+Wahoo, California
+Wailea-Makena, Hawaii
+Walcheren
+Waldon, California
+Walkermine, California
+Wesselburen
+West Goshen, Pennsylvania
+West Hartley, California
+West Kinderhook, Indiana
+West Lake Stevens, Washington
+West Side Highway, Washington
+West Smithfield, North Carolina
+West and East Lealman, Florida
+the previous municipality from which this one has been created or enlarged
+absorbed by
+present municipality
+a municipality's present name

@@ -1,0 +1,320 @@
+Accessory cephalic vein
+Accessory hemiazygos vein
+Angular vein
+Anterior accessory saphenous vein
+Anterior auricular veins
+Anterior cardiac veins
+Anterior intercostal veins
+Anterior jugular vein
+Anterior spinal veins
+Anterior tibial vein
+Apical lymph nodes
+Appendicular vein
+Arcuate vein
+Ascending lumbar vein
+Axillary vein
+Frontal vein
+Fronto-polar thalamic vein
+Hemiazygos vein
+Intervertebral veins
+Intestinal varices
+Intrascleral plexus
+Left colic vein
+Left gastric vein
+Left gastroepiploic vein
+Left marginal vein
+Azygos vein
+Basal vein
+Basilar plexus
+Basilic vein
+Basivertebral veins
+Batson venous plexus
+Brachial veins
+Brachiocephalic vein
+Bronchial veins
+Buccinator lymph node
+Great cardiac vein
+Great cerebral vein
+Great saphenous vein
+Hypophyseal portal system
+Lost Cement Mine
+Pulmonary vein
+Subclavian vein
+Subcostal vein
+Sublingual vein
+Suboccipital venous plexus
+Superficial cerebral veins
+Superficial dorsal veins of clitoris
+Superficial epigastric vein
+Superficial palmar venous arch
+Superficial temporal vein
+Superficial vein
+Superficial venous palmar arch
+Superior anastomotic vein
+Superior cerebellar veins
+Superior cerebral veins
+Superior deep cervical lymph nodes
+Superior epigastric vein
+Superior gluteal veins
+Superior intercostal vein
+Superior labial vein
+Superior laryngeal vein
+Superior mesenteric vein
+Superior ophthalmic vein
+Superior petrosal sinus
+Superior phrenic vein
+Superior rectal vein
+Superior rectal veins
+Superior sagittal sinus
+Superior thalamic vein
+Superior thalamostriate vein
+Superior thyroid vein
+Superior vena cava
+Supraorbital vein
+Suprarenal veins
+Suprascapular vein
+Supreme intercostal vein
+Right atrium
+Right colic vein
+Right gastric vein
+Right gastroepiploic vein
+Right lymphatic duct
+Right marginal vein
+Short gastric veins
+Straight sinus
+Straight venules of kidney
+Trabecular veins
+Vitelline veins
+Cavernous sinus
+Central lymph nodes
+Central retinal vein
+Central veins of liver
+Cephalic vein
+Cerebellar veins
+Cerebral veins
+Dorsal digital veins of the foot
+Dorsal lingual veins
+Dorsal metacarpal veins
+Dorsal metatarsal veins
+Dorsal scapular vein
+Dorsal veins of the penis
+Dorsal venous arch of the foot
+Dorsal venous network of hand
+Ductus venosus
+Dural venous sinuses
+Inferior anastomotic vein
+Inferior cerebellar veins
+Inferior cerebral veins
+Inferior deep cervical lymph nodes
+Inferior epigastric vein
+Inferior gluteal veins
+Inferior labial vein
+Inferior laryngeal vein
+Inferior mesenteric vein
+Inferior ophthalmic vein
+Inferior petrosal sinus
+Inferior phrenic vein
+Inferior pulvinary vein
+Inferior rectal veins
+Inferior sagittal sinus
+Inferior thyroid veins
+Inferior vena cava
+Intercapitular veins of the hand
+Intercavernous sinuses
+Intercostal veins
+Interlobar veins
+Interlobular veins
+Internal auditory veins
+Internal cerebral veins
+Internal iliac vein
+Internal jugular vein
+Internal pudendal veins
+Internal thoracic vein
+Internal vertebral venous plexuses
+Jejunal veins
+Jugular vein
+Jugular venous arch
+Rectal venous plexus
+Thymic veins
+Transverse cervical veins
+Transverse sinuses
+Deep cerebral veins
+Deep cervical vein
+Deep circumflex iliac vein
+Deep dorsal vein of clitoris
+Deep facial vein
+Deep lingual vein
+Deep palmar venous arch
+Deep vein
+Deep vein of the thigh
+Deep venous palmar arch
+Femoral vein
+Fibular vein
+Fibular veins
+Gastric varices
+Gonadal vein
+Maxillary veins
+Nasofrontal vein
+Varicose veins
+Dorsal digital veins of the hand
+Common digital veins
+Common facial vein
+Common iliac lymph nodes
+Common iliac vein
+Communicating vein
+Condylar emissary vein
+Confluence of sinuses
+Coronary sinus
+Emissary veins
+Giacomini vein
+Ileal veins
+Ileocolic vein
+Iliolumbar vein
+Lingual veins
+Lumbar veins
+Medial anterior thalamic vein
+Medial marginal vein
+Medial pulvinary vein
+Median antebrachial vein
+Median cubital vein
+Median sacral vein
+Middle cardiac vein
+Middle cerebral veins
+Middle colic vein
+Middle rectal veins
+Middle thyroid vein
+Sigmoid sinus
+Sphenoparietal sinus
+Spinal veins
+Splenic vein
+Stellate veins
+Systemic venous system
+Choroid veins
+Cisterna chyli
+Cystic vein
+Diploic veins
+Esophageal veins
+Ethmoidal veins
+External iliac vein
+External jugular vein
+External pudendal vein
+External pudendal veins
+External vertebral venous plexuses
+Facial vein
+Mother lode
+Pterygoid plexus
+Pudendal plexus
+Pudendal venous plexus
+Radial veins
+Lateral aortic lymph nodes
+Lateral marginal vein
+Lateral sacral veins
+Lateral thoracic vein
+Laterocaudal thalamic vein
+Laterodorsal thalamic vein
+Lateroventral thalamic vein
+Ovarian vein
+Small cardiac vein
+Small saphenous vein
+Smallest cardiac veins
+Middle meningeal vein
+Thoracic duct
+Thoracoepigastric vein
+Uterine veins
+Uterine venous plexus
+Vaginal venous plexus
+Intestinal trunk
+Hepatic portal vein
+Hepatic vein
+Hepatic veins
+Pericardiacophrenic veins
+Petrosquamous sinus
+Pharyngeal plexus
+Pharyngeal veins
+Ophthalmic veins
+Palmar digital veins
+Palmar metacarpal veins
+Pampiniform plexus
+Pancreatic veins
+Pancreaticoduodenal veins
+Paraumbilical vein
+Renal vein
+Retromandibular vein
+Inferior rectal vein
+Middle rectal vein
+Left renal vein
+Trabecular vein
+Oblique vein of the left atrium
+Obturator veins
+Occipital emissary vein
+Occipital sinus
+Occipital vein
+Plantar digital veins
+Plantar metatarsal veins
+Plantar venous arch
+Popliteal vein
+Portal vein
+Posterior auricular vein
+Posterior external jugular vein
+Posterior intercostal veins
+Posterior labial veins
+Posterior scrotal veins
+Posterior spinal veins
+Posterior tibial vein
+Posterior vein of the left ventricle
+Preaortic lymph node
+Preauricular deep parotid lymph nodes
+Profunda femoris vein
+Prostatic venous plexus
+Prostigma
+Testicular vein
+Thalamogeniculate vein
+Short saphenous vein
+Terminal vein
+Sigmoid sinuses
+Ulnar veins
+Umbilical vein
+Vein of bulb of penis
+Vena comitans
+Venae cavae
+Venous plexus
+Venule
+Vertebral vein
+Vesical veins
+Vesical venous plexus
+Vorticose veins
+Tail vein
+Inferior vesical vein
+Inferior thyroid vein
+Internal pudendal vein
+Bronchomediastinal lymph trunks
+Bronchomediastinal trunk
+Lateral lymph nodes
+Ulnar vein
+Brachial vein
+Deep dorsal vein of the penis
+Internal cerebral vein
+Intercapitular veins
+Vein of bulb of vestibule
+Jugular trunk
+Lingual vein
+Radial vein
+Arcuate veins
+Superior deep cervical glands
+External iliac glands
+Subclavian trunk
+Interlobar vein
+Long saphenous vein
+Superior gluteal vein
+Bronchial vein
+Inferior striate vein
+Anterior facial vein
+Posterior facial vein
+Temporal vein
+Maxillary vein
+Inferior gluteal vein
+Vena cava inferior
+Vena cava superior
+Internal jugular
+Vaginal vein
+vein

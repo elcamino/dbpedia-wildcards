@@ -1,0 +1,5610 @@
+(10115) 1992 SK
+(101429) 1998 VF31
+(101869) 1999 MM
+(10302) 1989 ML
+(111253) 2001 XU10
+(11435) 1931 UB
+(11436) 1969 QR
+(11474) 1982 SM2
+(11671) 1998 BG4
+(118228) 1996 TQ66
+(118378) 1999 HT11
+(118702) 2000 OM67
+(119068) 2001 KC77
+(119070) 2001 KP77
+(119878) 2002 CY224
+(119951) 2002 KX14
+(119979) 2002 WC19
+(120132) 2003 FY128
+(120178) 2003 OP32
+(120216) 2004 EW95
+(120348) 2004 TY364
+(121514) 1999 UJ7
+(12538) 1998 OH
+(126154) 2001 YH140
+(126155) 2001 YJ140
+(127546) 2002 XU93
+(130391) 2000 JG81
+(131696) 2001 XT254
+(131697) 2001 XH255
+(13366) 1998 US24
+(136120) 2003 LG7
+(136617) 1994 CC
+(137108) 1999 AN10
+(137295) 1999 RB216
+(137924) 2000 BD19
+(139775) 2001 QG298
+(143649) 2003 QQ47
+(143651) 2003 QO104
+(144897) 2004 UX10
+(144898) 2004 VD17
+(144908) 2004 YH32
+(145451) 2005 RM43
+(145452) 2005 RN43
+(145453) 2005 RR43
+(145480) 2005 TB190
+(148209) 2000 CR105
+(148975) 2001 XA255
+(152680) 1998 KJ9
+(153201) 2000 WO107
+(153591) 2001 SN263
+(153814) 2001 WN5
+(154276) 2002 SY50
+(15430) 1998 UR31
+(15502) 1999 NV27
+(155140) 2005 UD
+(15692) 1984 RA
+(15700) 1987 QD
+(15760) 1992 QB1
+(15788) 1993 SB
+(15789) 1993 SC
+(15807) 1994 GV9
+(15809) 1994 JS
+(15810) 1994 JR1
+(15820) 1994 TB
+(15836) 1995 DA2
+(15874) 1996 TL66
+(15875) 1996 TP66
+(15977) 1998 MA11
+(159857) 2004 LJ1
+(162058) 1997 AE12
+(162421) 2000 ET70
+(163132) 2002 CU11
+(163243) 2002 FB3
+(163249) 2002 GT
+(163348) 2002 NN4
+(163364) 2002 OD20
+(163899) 2003 SD220
+(164121) 2003 YT1
+(164207) 2004 GU9
+(16684) 1994 JQ1
+(16882) 1998 BO13
+(16960) 1998 QS52
+(172034) 2001 WR1
+(17511) 1992 QN
+(175113) 2004 PF115
+(175706) 1996 FG3
+(177049) 2003 EE16
+(179806) 2002 TD66
+(181708) 1993 FW
+(181902) 1999 RD215
+(182294) 2001 KU76
+(184212) 2004 PB112
+(185851) 2000 DP107
+(190166) 2005 UP156
+(19255) 1994 VK8
+(192642) 1999 RD32
+(19299) 1996 SZ4
+(19308) 1996 TO66
+(196256) 2003 EH1
+(20161) 1996 TR66
+(202421) 2005 UQ513
+(20729) 1999 XS143
+(208996) 2003 AZ84
+(214869) 2007 PA8
+(21601) 1998 XO89
+(219774) 2001 YY145
+(22149) 2000 WD49
+(225312) 1996 XB27
+(230965) 2004 XA192
+(231937) 2001 FO32
+(237442) 1999 TA10
+(23958) 1998 VD30
+(242450) 2004 QY2
+(24835) 1995 SM55
+(248835) 2006 SX368
+(24952) 1997 QJ4
+(24978) 1998 HJ151
+(251732) 1998 HG49
+(26308) 1998 SM165
+(26375) 1999 DE9
+(275809) 2001 QY297
+(276033) 2002 AJ129
+(277475) 2005 WK4
+(277810) 2006 FV35
+(278361) 2007 JJ43
+(285263) 1998 QE2
+(29075) 1950 DA
+(292220) 2006 SU49
+(300163) 2006 VW139
+(303775) 2005 QU182
+(307261) 2002 MS4
+(307463) 2002 VU130
+(307616) 2003 QW90
+(308193) 2005 CB79
+(308242) 2005 GO21
+(308635) 2005 YU55
+(308933) 2006 SQ372
+(309239) 2007 RW10
+(310071) 2010 KR59
+(311999) 2007 NS2
+(31345) 1998 PG
+(315530) 2008 AP129
+(315898) 2008 QD4
+(316179) 2010 EN65
+(31669) 1999 JT6
+(322756) 2001 CK32
+(323137) 2003 BM80
+(32326) 2000 QO62
+(32496) 2000 WX182
+(33001) 1997 CU29
+(332446) 2008 AF4
+(33340) 1998 VG44
+(33342) 1998 WT24
+(336756) 2010 NV1
+(341843) 2008 EV5
+(342842) 2008 YB3
+(343158) 2009 HC82
+(350462) 1998 KG3
+(35107) 1991 VH
+(35396) 1997 XF11
+(35671) 1998 SN165
+(357439) 2004 BL86
+(367789) 2011 AG5
+(369623) 2011 DY5
+(3708) 1974 FV1
+(38063) 1999 FH
+(38084) 1999 HB12
+(385185) 1993 RO
+(385250) 2001 DH47
+(385343) 2002 LV
+(385695) 2005 TO74
+(386454) 2008 XM
+(386723) 2009 YE7
+(388188) 2006 DP14
+(38984) 2000 UZ4
+(391211) 2006 HZ51
+(392741) 2012 SQ31
+(394130) 2006 HY51
+(39546) 1992 DT5
+(40314) 1999 KR16
+(4035) 1986 WD
+(410777) 2009 FD
+(415029) 2011 UL21
+(415713) 1998 XX2
+(416151) 2002 RQ25
+(416400) 2003 UZ117
+(417634) 2006 XG1
+(418993) 2009 MS9
+(419624) 2010 SO16
+(42301) 2001 UR163
+(432949) 2012 HH2
+(433953) 1997 XR2
+(434326) 2004 JG6
+(434620) 2005 VD
+(436724) 2011 UW158
+(444004) 2004 AS1
+(444030) 2004 NT33
+(445473) 2010 VZ98
+(44594) 1999 OX3
+(4489) 1988 AK
+(450894) 2008 BT18
+(454101) 2013 BP73
+(455502) 2003 UZ413
+(456938) 2007 YV56
+(457175) 2008 GO98
+(458732) 2011 MD5
+(459883) 2014 JX55
+(467336) 2002 LT38
+(468861) 2013 LU28
+(469306) 1999 CD158
+(469372) 2001 QF298
+(469987) 2006 HJ123
+(470308) 2007 JH43
+(470599) 2008 OG19
+(471240) 2011 BT15
+(471288) 2011 GM27
+(471325) 2011 KT19
+(4715) 1989 TS1
+(472271) 2014 UM33
+(472651) 2015 DB216
+(480808) 1994 XL1
+(481394) 2006 SF6
+(481482) 2007 CA19
+(48639) 1995 TL8
+(4953) 1990 MU
+(495603) 2015 AM281
+(496315) 2013 GP136
+(501546) 2014 JJ80
+(501581) 2014 OB394
+(501647) 2014 SD224
+(5025) 1986 TS6
+(505448) 2013 SA100
+(505478) 2013 UT15
+(505624) 2014 GU53
+(505657) 2014 SR339
+(506479) 2003 HB57
+(508338) 2015 SO20
+(508869) 2002 VT130
+(511002) 2013 MZ5
+(5119) 1988 RA1
+(516977) 2012 HZ84
+(523622) 2007 TG422
+(523635) 2010 DN93
+(523639) 2010 RE64
+(523643) 2010 TY53
+(523645) 2010 VK201
+(523662) 2012 MU2
+(523671) 2013 FZ27
+(523674) 2013 MA12
+(523676) 2013 UL10
+(523683) 2014 CP23
+(523684) 2014 CQ23
+(523687) 2014 DF143
+(523692) 2014 EZ51
+(523702) 2014 HW199
+(523706) 2014 HF200
+(523719) 2014 LM28
+(523727) 2014 NW65
+(523731) 2014 OK394
+(523759) 2014 WK509
+(523764) 2014 WC510
+(523775) 2014 YB35
+(523794) 2015 RR245
+(523972) 1999 CW8
+(524366) 2001 XR254
+(524435) 2002 CY248
+(524522) 2002 VE68
+(52747) 1998 HM151
+(52760) 1998 ML14
+(527603) 2007 VJ305
+(527604) 2007 VL305
+(52768) 1998 OR2
+(528219) 2008 KV42
+(528381) 2008 ST291
+(529366) 2009 WM1
+(532037) 2013 FY27
+(53319) 1999 JM8
+(533560) 2014 JM80
+(5407) 1992 AX
+(543354) 2014 AN55
+(5476) 1989 TO11
+(5496) 1973 NA
+(549948) 2011 WL2
+(55565) 2002 AW197
+(55636) 2002 TX300
+(55637) 2002 UX25
+(55638) 2002 VE95
+(556416) 2014 OE394
+(5590) 1990 VA
+(5604) 1992 FE
+(5645) 1990 SP
+(5646) 1990 TR
+(5648) 1990 VU1
+(574372) 2010 JO179
+(5836) 1993 MF
+(585310) 2017 YZ1
+(589683) 2010 RF43
+(59358) 1999 CL158
+(6002) 1988 RO
+(6037) 1988 EG
+(60621) 2000 FE8
+(606357) 2017 UV43
+(6090) 1989 DJ
+(612093) 1999 LE31
+(612095) 1999 OJ4
+(612243) 2001 QR322
+(612358) 2002 JE9
+(612533) 2002 XV93
+(612584) 2003 QX113
+(612600) 2003 SM84
+(612620) 2003 SQ317
+(612901) 2004 XP14
+(612911) 2004 XR190
+(613100) 2005 TN74
+(613490) 2006 RJ103
+(613766) 2007 NC7
+(614433) 2009 KK
+(614599) 2010 AB78
+(614689) 2020 XL5
+(6178) 1986 DA
+(6265) 1985 TW3
+(6382) 1988 EL
+(6491) 1991 OA
+(65407) 2002 RP120
+(66063) 1998 RO1
+(66391) 1999 KW4
+(68950) 2002 QF15
+(69986) 1998 WW24
+(69987) 1998 WA25
+(69988) 1998 WA31
+(69990) 1998 WU31
+(7025) 1993 QA
+(7335) 1989 JA
+(7341) 1991 VK
+(7348) 1993 FJ22
+(7352) 1994 CO
+(7474) 1992 TC
+(7482) 1994 PC1
+(75482) 1999 XC173
+(7563) 1988 BC
+(76146) 2000 EU16
+(78799) 2002 XW93
+(7888) 1993 UC
+(79969) 1999 CP133
+(79978) 1999 CC158
+(79983) 1999 DF9
+(8014) 1990 MF
+(8035) 1992 TB
+(8201) 1994 AH2
+(82075) 2000 YW134
+(82158) 2001 FP185
+(84522) 2002 TC302
+(84719) 2002 VR128
+(84922) 2003 VS2
+(85182) 1991 AQ
+(85627) 1998 HP151
+(85633) 1998 KR65
+(85640) 1998 OX4
+(85713) 1998 SS49
+(85770) 1998 UP1
+(85989) 1999 JD6
+(85990) 1999 JV6
+(86039) 1999 NC43
+(86047) 1999 OY3
+(8689) 1992 PU3
+(87269) 2000 OO67
+(88710) 2001 SL9
+(89830) 2002 CE
+(89958) 2002 LY45
+(89959) 2002 NT7
+(90075) 2002 VU94
+(90568) 2004 GV9
+(91133) 1998 HK151
+(91205) 1998 US43
+(95625) 2002 GX32
+(9857) 1991 EN
+(9901) 1997 NV
+(9918) 1979 MK3
+(9923) 1981 EB24
+(9924) 1981 EM24
+(9926) 1981 EU41
+(9928) 1981 WE9
+(9935) 1986 CP1
+(9939) 1988 VK
+(9940) 1988 VM3
+(9942) 1989 TM1
+(9944) 1990 DA3
+(9948) 1990 QB2
+(9952) 1991 AK
+(9955) 1991 PU11
+(9958) 1991 VL1
+(9959) 1991 VF2
+(9966) 1992 ES13
+(9977) 1994 AH
+(9978) 1994 AJ1
+(9980) 1995 BQ3
+(99907) 1989 VA
+(9992) 1997 TG19
+100000 Astronautica
+10000 Myriostos
+10001 Palermo
+1000 Piazzia
+1001 Gaussia
+100268 Rosenthal
+1002 Olbersia
+1003 Lilofee
+10046 Creighton
+1004 Belopolskya
+1005 Arago
+1006 Lagrangea
+1007 Pawlowia
+1008 La Paz
+1009 Sirene
+100P/Hartley
+100 Hekate
+1010 Marlene
+1011 Laodamia
+10121 Arzamas
+10128 Bro
+1012 Sarema
+10131 Stånga
+1013 Tombecka
+10140 Villon
+1014 Semphyra
+1015 Christa
+1016 Anitra
+1017 Jacqueline
+1018 Arnolda
+101955 Bennu
+10199 Chariklo
+1019 Strackea
+101P/Chernykh
+101 Helena
+10208 Germanicus
+1020 Arcadia
+1021 Flammario
+1022 Olympiada
+1023 Thomana
+10241 Miličević
+10244 Thüringer Wald
+10245 Inselsberg
+10246 Frankenwald
+10247 Amphiaraos
+10249 Harz
+1024 Hale
+10251 Mulisch
+10252 Heidigraf
+10254 Hunsrück
+10258 Sárneczky
+1025 Riema
+1026 Ingrid
+1027 Aesculapia
+1028 Lydina
+1029 La Plata
+102P/Shoemaker
+102 Miriam
+1030 Vitja
+10313 Vanessa-Mae
+1031 Arctica
+1032 Pafuri
+1033 Simona
+1034 Mozartia
+1035 Amata
+1036 Ganymed
+10370 Hylonome
+1037 Davidweilla
+1038 Tuckia
+1039 Sonneberga
+103P/Hartley
+103 Hera
+1040 Klumpkea
+10415 Mali Lošinj
+1041 Asta
+1042 Amazone
+1043 Beate
+1044 Teutonia
+1045 Michela
+1046 Edwin
+10476 Los Molinos
+1047 Geisha
+1048 Feodosia
+1049 Gotho
+104 Klymene
+10502 Armaghobs
+1050 Meta
+1051 Merope
+1052 Belgica
+1053 Vigdis
+1054 Forsytia
+10551 Göteborg
+1055 Tynka
+1056 Azalea
+1057 Wanda
+1058 Grubba
+1059 Mussorgskia
+105P/Singer Brewster
+105 Artemis
+1060 Magnolia
+1061 Paeonia
+10628 Feuerbacher
+1062 Ljuba
+1063 Aquilegia
+10645 Brač
+1064 Aethusa
+10656 Albrecht
+1065 Amundsenia
+10660 Felixhormuth
+1066 Lobelia
+1067 Lunaria
+1068 Nofretete
+1069 Planckia
+106 Dione
+1070 Tunica
+10711 Pskov
+1071 Brita
+1072 Malva
+10739 Lowman
+1073 Gellivara
+1074 Beljawskya
+1075 Helina
+1076 Viola
+1077 Campanula
+1078 Mentha
+1079 Mimosa
+107 Camilla
+1080 Orchis
+1081 Reseda
+1082 Pirola
+10830 Desforges
+1083 Salvia
+1084 Tamariwa
+1085 Amaryllis
+1086 Nata
+1087 Arabis
+1088 Mitaka
+1089 Tama
+108 Hecuba
+1091 Spiraea
+10928 Caprara
+1092 Lilium
+1093 Freda
+1094 Siberia
+1095 Tulipa
+1096 Reunerta
+10974 Carolalbert
+10979 Fristephenson
+1097 Vicia
+10988 Feinstein
+1098 Hakone
+1099 Figneria
+109 Felicitas
+109 Piscium b
+10P/Tempel
+10 Hygiea
+1100 Arnica
+1101 Clematis
+11020 Orwell
+1102 Pepita
+110393 Rammstein
+1103 Sequoia
+1104 Syringa
+1105 Fragaria
+11066 Sigurd
+1106 Cydonia
+1107 Lictoria
+11083 Caracas
+1108 Demeter
+1109 Tata
+110 Lydia
+11101 Českáfilharmonie
+1110 Jaroslawa
+11112 Cagnoli
+11118 Modra
+1111 Reinmuthia
+1112 Polonia
+11132 Horne
+11133 Kumotori
+11134 České Budějovice
+1113 Katja
+1114 Lorraine
+1115 Sabauda
+1116 Catriona
+1117 Reginita
+1118 Hanskya
+1119 Euboea
+111P/Helin–Roman–Crockett
+111 Ate
+1120 Cannonia
+1121 Natascha
+1122 Neith
+1123 Shapleya
+11248 Blériot
+1124 Stroobantia
+11252 Laërtes
+1125 China
+11264 Claudiomaccone
+1126 Otero
+11277 Ballard
+1127 Mimi
+1128 Astrid
+1129 Neujmina
+112P/Urata–Niijima
+112 Iphigenia
+1130 Skuld
+1131 Porzia
+1132 Hollandia
+113390 Helvetia
+1133 Lugduna
+1134 Kepler
+11351 Leucus
+1135 Colchis
+1136 Mercedes
+11371 Camley
+11373 Carbonaro
+1137 Raïssa
+1138 Attica
+11395 Iphinous
+1139 Atami
+113P/Spitaler
+11409 Horkheimer
+1140 Crimea
+1141 Bohmia
+11421 Cardano
+11429 Demodokus
+1142 Aetolia
+11433 Gemmafrisius
+1143 Odysseus
+11441 Anadiego
+1144 Oda
+1145 Robelmonte
+1146 Biarmia
+1147 Stavropolis
+1148 Rarahu
+1149 Volga
+114P/Wiseman–Skiff
+114 Kassandra
+11509 Thersilochos
+1150 Achaia
+1151 Ithaka
+1152 Pawona
+115312 Whither
+1153 Wallenbergia
+1154 Astronomia
+11552 Boucolion
+1155 Aënna
+1156 Kira
+11573 Helmholtz
+1157 Arabia
+115891 Scottmichael
+1158 Luda
+1159 Granada
+115P/Maury
+115 Thyra
+1160 Illyria
+1161 Thessalia
+1162 Larissa
+1163 Saga
+1164 Kobolda
+1165 Imprinetta
+11665 Dirichlet
+1166 Sakuntala
+1167 Dubiago
+1168 Brandia
+116903 Jeromeapt
+11694 Esterhuysen
+11696 Capen
+1169 Alwine
+116P/Wild
+116 Sirona
+1170 Siva
+11714 Mikebrown
+1171 Rusthawelia
+1172 Äneas
+1173 Anchises
+1174 Marmara
+11754 Herbig
+11755 Paczynski
+1175 Margo
+1176 Lucidor
+1177 Gonnessia
+1178 Irmela
+1179 Mally
+117P/Helin–Roman–Alu
+117 Lomia
+1180 Rita
+1181 Lilith
+11824 Alpaidze
+1182 Ilona
+1183 Jutta
+118401 LINEAR
+1184 Gaea
+1185 Nikko
+1186 Turnera
+1187 Afra
+11885 Summanus
+11887 Echemmon
+1188 Gothlandia
+11896 Camelbeeck
+1189 Terentia
+118P/Shoemaker–Levy
+118 Peitho
+1190 Pelagia
+1191 Alfaterna
+1192 Prisma
+1193 Africa
+11948 Justinehénin
+11949 Kagayayutaka
+1194 Aletta
+1195 Orangia
+1196 Sheba
+1197 Rhodesia
+1198 Atlantis
+1199 Geldonia
+119P/Parker–Hartley
+119 Althaea
+11P/Tempel–Swift–LINEAR
+11 Comae Berenices b
+11 Parthenope
+11 Ursae Minoris b
+12002 Suess
+1200 Imperatrix
+1202 Marina
+120347 Salacia
+120375 Kugel
+1203 Nanna
+1204 Renzia
+12052 Aretaon
+1205 Ebella
+1206 Numerowia
+1207 Ostenia
+1208 Troilus
+1209 Pumma
+120P/Mueller
+120 Lachesis
+1212 Francette
+1213 Algeria
+1214 Richilde
+1215 Boyer
+1216 Askania
+1217 Maximiliana
+1218 Aster
+1219 Britta
+121P/Shoemaker–Holt
+121 Hermione
+1220 Crocus
+1221 Amor
+1222 Tina
+12238 Actor
+1223 Neckar
+1225 Ariane
+1226 Golia
+1227 Geranium
+1229 Tilia
+122P/de Vico
+122 Gerda
+1230 Riceia
+12311 Ingemyr
+1231 Auricula
+1232 Cortusa
+1233 Kobresia
+12341 Calevoet
+1234 Elyna
+12359 Cajigal
+1235 Schorria
+1236 Thaïs
+12373 Lancearmstrong
+12374 Rakhat
+1237 Geneviève
+1238 Predappia
+1239 Queteleta
+123 Brunhild
+12409 Bukovanská
+1240 Centenaria
+1241 Dysona
+1242 Zambesia
+1243 Pamela
+12444 Prothoon
+1244 Deira
+1245 Calvinia
+1246 Chaka
+1247 Memoria
+12482 Pajka
+1248 Jugurtha
+1249 Rutherfordia
+124 Alkeste
+1250 Galanthus
+1251 Hedera
+1252 Celestia
+1253 Frisia
+12557 Caracol
+1255 Schilowa
+12564 Ikeller
+1256 Normannia
+1257 Móra
+1258 Sicilia
+1259 Ógyalla
+125P/Spacewatch
+125 Liberatrix
+1261 Legia
+12621 Alsufi
+1262 Sniadeckia
+1263 Varsavia
+1264 Letaba
+1266 Tone
+1267 Geertruida
+1268 Libya
+12696 Camus
+1269 Rollandia
+126 Velleda
+1270 Datura
+12714 Alkimos
+1271 Isergina
+1272 Gefion
+1274 Delportia
+1275 Cimbria
+1276 Ucclia
+1277 Dolores
+127 Johanna
+128065 Bartbenjamin
+1280 Baillauda
+1281 Jeanne
+1282 Utopia
+12838 Adamsmith
+1283 Komsomolia
+12848 Agostino
+1284 Latvia
+1286 Banachiewicza
+1287 Lorcia
+1289 Kutaïssi
+128P/Shoemaker–Holt
+128 Nemesis
+1291 Phryne
+12923 Zephyr
+12929 Periboea
+1293 Sonja
+1294 Antwerpia
+1295 Deflotte
+1296 Andrée
+1297 Quadea
+1298 Nocturna
+12999 Toruń
+1299 Mertona
+129P/Shoemaker–Levy
+129 Antigone
+12P/Pons–Brooks
+12 Victoria
+13003 Dickbeasley
+13006 Schwaar
+1300 Marcelle
+1301 Yvonne
+13025 Zürich
+1302 Werra
+13039 Awashima
+1303 Luthera
+1304 Arosa
+13058 Alfredstevens
+1305 Pongola
+13062 Podarkes
+1306 Scythia
+13070 Seanconnery
+1307 Cimmeria
+1308 Halleria
+1309 Hyperborea
+130P/McNaught–Hughes
+130 Elektra
+1310 Villigera
+13123 Tyson
+131245 Bakich
+1312 Vassar
+1313 Berna
+13154 Petermrva
+1316 Kasan
+13184 Augeias
+1318 Nerina
+1319 Disa
+131 Vala
+13208 Fraschetti
+13219 Cailletet
+1322 Coppernicus
+1323 Tugela
+13241 Biyo
+132524 APL
+1325 Inanda
+13260 Sabadell
+132661 Carlbaeker
+13274 Roygross
+1328 Devota
+1329 Eliane
+132P/Helin–Roman–Alu
+132 Aethra
+1330 Spiridonia
+1332 Marconia
+1333 Cevenola
+1334 Lundmarka
+133528 Ceragioli
+1335 Demoulina
+1336 Zeelandia
+1337 Gerarda
+1338 Duponta
+13390 Bouška
+1339 Désagneauxa
+133 Cyrene
+1340 Yvette
+1341 Edmée
+1345 Potomac
+1346 Gotha
+13474 V'yus
+1347 Patria
+1349 Bechuana
+134 Sophrosyne
+1350 Rosselia
+1353 Maartje
+1354 Botha
+1355 Magoeba
+1356 Nyanza
+1359 Prieska
+135 Hertha
+1361 Leuschneria
+1362 Griqua
+1364 Safara
+1365 Henyey
+1366 Piccolo
+1368 Numidia
+1369 Ostanina
+136P/Mueller
+136 Austria
+1370 Hella
+13722 Campobagatin
+1372 Haremari
+13732 Woodall
+1373 Cincinnati
+1374 Isora
+1376 Michelle
+1378 Leonce
+1379 Lomonosowa
+137 Meliboea
+1380 Volodia
+1382 Gerti
+1383 Limburgia
+1384 Kniertje
+1388 Aphrodite
+1389 Onnie
+138P/Shoemaker–Levy
+138 Tolosa
+1390 Abastumani
+1391 Carelia
+1392 Pierre
+1393 Sofala
+1394 Algoa
+13963 Euphrates
+1397 Umtata
+139P/Väisälä–Oterma
+139 Juewa
+13P/Olbers
+13 Egeria
+1400 Tirela
+1404 Ajax
+1405 Sibelius
+1407 Lindelöf
+14097 Capdepera
+1409 Isko
+140 Siwa
+1410 Margret
+1411 Brauna
+1412 Lagrula
+14145 Sciam
+1414 Jérôme
+1416 Renauxa
+14181 Koromházi
+1419 Danzig
+141 Lumen
+142084 Jamesdaniel
+1421 Esperanto
+14224 Gaede
+1422 Strömgrenia
+1423 Jose
+1424 Sundmania
+1425 Tuorla
+1426 Riviera
+1428 Mombasa
+1429 Pemba
+142 Polana
+14309 Defoy
+1430 Somalia
+14313 Dodaira
+1431 Luanda
+14335 Alexosipov
+1433 Geramtina
+1434 Margot
+1436 Salonta
+1437 Diomedes
+1439 Vogtia
+143P/Kowal–Mrkos
+143 Adria
+1441 Bolyai
+14436 Morishita
+1443 Ruppina
+1444 Pannonia
+1446 Sillanpää
+1447 Utra
+1449 Virtanen
+144P/Kushida
+144 Vibilia
+1450 Raimonda
+1451 Granö
+1452 Hunnia
+1453 Fennia
+145475 Rehoboth
+145523 Lulin
+145534 Jhongda
+145558 Raiatea
+145562 Zurbriggen
+1455 Mitchella
+14571 Caralexander
+1457 Ankara
+1459 Magnya
+145 Adeona
+1460 Haltia
+14617 Lasvergnas
+1461 Jean-Jacques
+14627 Emilkowalski
+1462 Zamenhof
+14632 Flensburg
+1466 Mündleria
+1467 Mashona
+1468 Zomba
+1469 Linzia
+146 Lucina
+1470 Carla
+147397 Bobhazel
+1473 Ounas
+1474 Beira
+1477 Bonsdorffia
+14789 GAISH
+1478 Vihuri
+1479 Inkeri
+147P/Kushida–Muramatsu
+147 Protogeneia
+1481 Tübingia
+14827 Hypnos
+14832 Alechinsky
+1484 Postrema
+1486 Marilyn
+14871 Pyramus
+148780 Altjira
+148 Gallia
+1490 Limpopo
+1493 Sigrid
+1494 Savo
+14968 Kubáček
+1496 Turku
+14974 Počátky
+1499 Pori
+149 Medusa
+14P/Wolf
+14 Andromedae b
+14 Herculis b
+14 Herculis c
+14 Irene
+150035 Williamson
+15005 Guerriero
+1500 Jyväskylä
+150145 Uvic
+15017 Cuppy
+1503 Kuopio
+1504 Lappeenranta
+1505 Koranna
+1506 Xosa
+1508 Kemi
+15092 Beegees
+15094 Polymele
+1509 Esclangona
+150 Nuwa
+1510 Charlois
+1511 Daléra
+1512 Oulu
+15139 Connormcarty
+1513 Mátra
+1514 Ricouxa
+1516 Henry
+1517 Beograd
+1518 Rovaniemi
+151997 Bauhinia
+151 Abundantia
+1520 Imatra
+152188 Morricone
+1521 Seinäjoki
+15224 Penttilä
+1522 Kokkola
+1523 Pieksämäki
+1524 Joensuu
+152559 Bodelschwingh
+15258 Alfilipenko
+1525 Savonlinna
+15262 Abderhalden
+15268 Wendelinefroger
+1527 Malmquista
+1529 Oterma
+152P/Helin–Lawrence
+152 Atala
+1530 Rantaseppä
+153298 Paulmyers
+1532 Inari
+1533 Saimaa
+1534 Näsi
+15350 Naganuma
+1535 Päijänne
+1536 Pielinen
+15374 Teta
+1537 Transylvania
+153P/Ikeya–Zhang
+153 Hilda
+1540 Kevola
+15415 Rika
+1541 Estonia
+1542 Schalén
+15436 Dexius
+1543 Bourgeois
+15440 Eioneus
+1544 Vinterhansenia
+1545 Thernöe
+15460 Manca
+1546 Izsák
+154 Bertha
+1550 Tito
+1551 Argelander
+1552 Bessel
+1553 Bauersfelda
+1554 Yugoslavia
+15553 Carachang
+1555 Dejan
+1556 Wingolfia
+1558 Järnefelt
+1559 Kustaanheimo
+155 Scylla
+1563 Noël
+1564 Srbija
+1565 Lemaître
+1566 Icarus
+1567 Alikoski
+1568 Aisleen
+1569 Evita
+156 Xanthippe
+1570 Brunonia
+1573 Väisälä
+1574 Meyer
+1575 Winifred
+15760 Albion
+157640 Baumeler
+1576 Fabiola
+1578 Kirkwood
+157P/Tritton
+157 Dejanira
+1580 Betulia
+15810 Arawn
+15811 Nüsslein-Volhard
+15817 Lucianotesi
+1581 Abanderada
+1582 Martir
+1583 Antilochus
+1585 Union
+1588 Descamisada
+1589 Fanatica
+158P/Kowal–LINEAR
+158 Koronis
+1590 Tsiolkovskaja
+1597 Laugier
+159P/LONEOS
+159 Aemilia
+15P/Finlay
+15 Eunomia
+1600 Vyssotsky
+1602 Indiana
+1604 Tombaugh
+1605 Milankovitch
+16070 Charops
+1607 Mavis
+1608 Muñoz
+1609 Brenda
+160P/LINEAR
+160 Una
+1611 Beyer
+1615 Bardwell
+1617 Alschmitt
+161989 Cacus
+16198 Búzios
+1619 Ueta
+161P/Hartley–IRAS
+161 Athor
+1620 Geographos
+162173 Ryugu
+1621 Druzhba
+1622 Chacornac
+1623 Vivian
+16246 Cantor
+1625 The NORC
+1626 Sadeya
+1627 Ivar
+1628 Strobel
+162 Laurentia
+1631 Kopff
+1632 Sieböhme
+1633 Chimay
+1635 Bohrmann
+163626 Glatfelter
+163693 Atira
+1637 Swings
+163P/NEAT
+163 Erigone
+1644 Rafita
+164589 La Sagra
+1646 Rosseland
+1647 Menelaus
+1648 Shajna
+164P/Christensen
+164 Eva
+1650 Heckmann
+1651 Behrens
+16525 Shumarinaiko
+1652 Hergé
+1655 Comas Solà
+16560 Daitor
+1656 Suomi
+1657 Roemera
+1658 Innes
+1659 Punkaharju
+165P/LINEAR
+165 Loreley
+1660 Wood
+1661 Granule
+1663 van den Bos
+1665 Gaby
+1669 Dagmar
+166P/NEAT
+166 Rhodope
+1671 Chaika
+1672 Gezelle
+1675 Simonida
+16765 Agnesi
+1677 Tycho Brahe
+167P/CINEOS
+167 Urda
+1680 Per Brahe
+1681 Steinmetz
+1682 Karel
+1683 Castafiore
+1684 Iguassú
+1685 Toro
+16879 Campai
+1687 Glarona
+1688 Wilkens
+1689 Floris-Jan
+168P/Hergenrother
+168 Sibylla
+1690 Mayrhofer
+1691 Oort
+1692 Subbotina
+1693 Hertzsprung
+1694 Kaiser
+1695 Walbeck
+1696 Nurmela
+16974 Iphthime
+169P/NEAT
+169 Zelia
+16P/Brooks
+16 Cygni Bb
+16 Psyche
+1700 Zvezdara
+17035 Velichko
+1703 Barry
+1704 Wachmann
+1707 Chantal
+1708 Pólit
+170906 Coluche
+1709 Ukraina
+170P/Christensen
+170 Maria
+17102 Begzhigitova
+1710 Gothard
+17119 Alexisrodrz
+1711 Sandrine
+1712 Angola
+1713 Bancilhon
+1714 Sy
+17163 Vasifedoseev
+1717 Arlon
+17198 Gorjup
+1719 Jens
+171P/Spahr
+171 Ophelia
+1720 Niels
+1721 Wells
+1722 Goffin
+17246 Christophedumas
+1724 Vladimir
+1726 Hoffmeister
+1727 Mette
+1728 Goethe Link
+1729 Beryl
+172P/Yeung
+172 Baucis
+17305 Caniff
+17314 Aisakos
+1731 Smuts
+1732 Heike
+1734 Zhongolovich
+1735 ITA
+1736 Floirac
+1737 Severny
+1739 Meyermann
+173P/Mueller
+173 Ino
+1740 Paavo Nurmi
+1741 Giclas
+1743 Schmidt
+174567 Varda
+1746 Brouwer
+17473 Freddiemercury
+1747 Wright
+1748 Mauderli
+17492 Hippasos
+1749 Telamon
+174 Phaedra
+1750 Eckert
+1751 Herget
+1753 Mieke
+1754 Cunningham
+1755 Lorbach
+1757 Porvoo
+1759 Kienle
+175 Andromache
+1760 Sandra
+1761 Edmondson
+1762 Russell
+1763 Williams
+1764 Cogshall
+1765 Wrubel
+1766 Slipher
+1767 Lampland
+17683 Kanagawa
+1768 Appenzella
+176 Iduna
+1771 Makover
+1772 Gagarin
+1775 Zimmerwald
+1776 Kuiper
+1777 Gehrels
+1778 Alfvén
+17795 Elysiasegal
+1779 Paraná
+177P/Barnard
+177 Irma
+1780 Kippes
+1781 Van Biesbroeck
+17836 Canup
+1783 Albitskij
+1784 Benguella
+1788 Kiess
+1789 Dobrovolsky
+178P/Hug–Bell
+178 Belisana
+1790 Volkov
+1791 Patsayev
+1793 Zoya
+17959 Camierickson
+1796 Riga
+1798 Watts
+1799 Koussevitzky
+179 Klytaemnestra
+17 Thetis
+1800 Aguilar
+1801 Titicaca
+1803 Zwicky
+1804 Chebotarev
+1805 Dirikis
+1806 Derice
+1807 Slovakia
+1809 Prometheus
+180 Garumna
+1810 Epimetheus
+18117 Jonhodge
+1815 Beethoven
+1817 Katanga
+1818 Brahms
+181 Eucharis
+1822 Waterman
+1823 Gliese
+1824 Haworth
+1825 Klare
+1826 Miller
+1827 Atkinson
+182 Elsa
+1830 Pogson
+1831 Nicholson
+1832 Mrkos
+1834 Palach
+1835 Gajdariya
+1836 Komarov
+1837 Osita
+183 Istria
+1840 Hus
+1841 Masaryk
+1842 Hynek
+184314 Mbabamwanawaresa
+1844 Susilva
+18458 Caesar
+1845 Helewalda
+1846 Bengt
+1847 Stobbe
+1848 Delvaux
+18493 Demoleon
+1849 Kresák
+184 Dejopeja
+18505 Caravelli
+1850 Kohoutek
+1851 Lacroute
+1852 Carpenter
+1853 McElroy
+1854 Skvortsov
+1855 Korolev
+185638 Erwinschwab
+1856 Růžena
+1857 Parchomenko
+1858 Lobachevskij
+1859 Kovalevskaya
+185 Eunike
+18610 Arthurdent
+1861 Komenský
+1862 Apollo
+1863 Antinous
+1864 Daedalus
+1865 Cerberus
+1866 Sisyphus
+1867 Deiphobus
+1868 Thersites
+1869 Philoctetes
+186 Celuta
+1870 Glaukos
+1873 Agenor
+1877 Marsden
+1879 Broederstroom
+187 Lamberta
+1881 Shao
+1887 Virton
+18880 Toddblumberg
+1889 Pakhmutova
+188 Menippe
+1897 Hind
+189 Phthia
+18D/Perrine–Mrkos
+18 Delphini b
+18 Melpomene
+19007 Nirajnathan
+1900 Katyusha
+1902 Shaposhnikov
+1904 Massevitch
+1905 Ambartsumian
+1906 Naef
+1907 Rudneva
+1909 Alekhin
+190 Ismene
+1910 Mikhailov
+1911 Schubart
+1912 Anubis
+19139 Apian
+1915 Quetzálcoatl
+1916 Boreas
+1917 Cuyo
+1918 Aiguillon
+1919 Clemence
+191 Kolga
+1921 Pala
+1922 Zulu
+1923 Osiris
+1924 Horus
+1925 Franklin-Adams
+1927 Suvanto
+1928 Summa
+1929 Kollaa
+192 Nausikaa
+1930 Lucifer
+1931 Čapek
+1933 Tinchen
+19367 Pink Floyd
+1936 Lugano
+19383 Rolling Stones
+1938 Lausanna
+1939 Loretta
+193 Ambrosia
+1940 Whipple
+1941 Wild
+1943 Anteros
+1944 Günter
+1946 Walraven
+1947 Iso-Heikkilä
+194 Prokne
+1951 Lick
+19521 Chaos
+1952 Hesburgh
+1953 Rupertwildt
+1954 Kukarkin
+1955 McMath
+1956 Artek
+1957 Angara
+1958 Chandra
+195 Eurykleia
+1960 Guisan
+1961 Dufour
+1965 van de Kamp
+1967 Menzel
+196 Philomela
+1971 Hagihara
+19738 Calinger
+19741 Callahan
+19763 Klimesh
+1977 Shura
+1979 Sakharov
+1979 XB
+197 Arete
+1980 Tezcatlipoca
+1981 Midas
+19822 Vonzielonka
+1982 Cline
+1983 Bok
+19848 Yeungchuchiu
+1985 Hopmann
+1987 Kaplan
+1988 Delores
+1989 Tatry
+198 Ampella
+1990 Pilcher
+1991 BA
+1991 Darwin
+1991 VG
+1992 Galvarino
+1993 DA
+1993 RP
+1994 Shane
+1994 WR12
+1995 GJ
+1995 Hajek
+1995 SN55
+1996 Adams
+1996 PW
+1997 Leverrier
+1997 SZ10
+19982 Barbaradoore
+1998 DK36
+1998 KY26
+1998 Titius
+1998 WW31
+1999 AO10
+1999 CD158
+1999 CW8
+1999 Hirayama
+1999 LE31
+1999 TR11
+1999 XS35
+199 Byblis
+19P/Borrelly
+19 Fortuna
+20000 Varuna
+2000 DG8
+2000 EM26
+2000 Herschel
+2000 SG344
+2000 YH2
+2001 AV43
+2001 Einstein
+2001 GO2
+2001 QF298
+2001 QR322
+2001 QW322
+2001 YB5
+2002 AA29
+2002 AT4
+2002 AY1
+2002 CY248
+2002 Euler
+2002 GB32
+2002 JE9
+2002 LT38
+2002 MN
+2002 NY40
+2002 RN109
+2002 XV93
+2003 BR47
+2003 Harding
+2003 LA7
+2003 QX113
+2003 SQ317
+2003 SS422
+2003 YN107
+2004 BX159
+2004 FH
+2004 FU162
+2004 HR56
+2004 KV18
+2004 Lexell
+2004 TG10
+2004 TN1
+2004 VN112
+2004 XP14
+2004 XR190
+2005 ED224
+2005 HC4
+2005 Hencke
+2005 NB56
+2005 RH52
+2005 TN53
+2005 TN74
+2005 VX3
+2005 WY55
+2006 BL8
+2006 BZ8
+2006 HH123
+2006 HJ123
+2006 JY26
+2006 LM1
+2006 Polonskaya
+2006 QH181
+2006 QQ23
+2006 QV89
+2006 RH120
+2006 RJ103
+2006 RJ2
+2007 BP102
+2007 CA19
+2007 EB26
+2007 FT3
+2007 JH43
+2007 McCuskey
+2007 NC7
+2007 TG422
+2007 TU24
+2007 UW1
+2007 VE191
+2007 VK184
+2007 VL305
+2007 WD5
+2008 AO112
+2008 CK70
+2008 FF5
+2008 HJ
+2008 HO3
+2008 HQ3
+2008 HR3
+2008 KV42
+2008 Konstitutsiya
+2008 LC18
+2008 OG19
+2008 ST291
+2008 TC3
+2008 VL14
+2009 BD
+2009 DD45
+2009 JF1
+2009 KK
+2009 RR
+2009 SE
+2009 SH2
+2009 VA
+2009 Voloshina
+2009 WM1
+200 Dynamene
+20103 de Vico
+2010 AA15
+2010 AB78
+2010 AL30
+2010 AU118
+2010 BK118
+2010 Chebyshev
+2010 EK139
+2010 EU65
+2010 FX86
+2010 GA6
+2010 GB174
+2010 GZ60
+2010 JL88
+2010 KZ39
+2010 MJ72
+2010 RF12
+2010 RF43
+2010 RX30
+2010 TD54
+2010 TJ
+2010 TK7
+2010 TY53
+2010 VK201
+2010 VR11
+2010 WC9
+2010 WG9
+2010 XC15
+2010 XG11
+2011 BT15
+2011 CQ1
+2011 EO40
+2011 ES4
+2011 FW62
+2011 GA
+2011 GM27
+2011 HM102
+2011 JY31
+2011 KW48
+2011 MD
+2011 MM4
+2011 QF99
+2011 SC191
+2011 SL25
+2011 SP189
+2011 UB256
+2011 UN63
+2011 Veteraniya
+2011 WL2
+2011 XC2
+2012 BX34
+2012 DR30
+2012 EG5
+2012 FC71
+2012 FN
+2012 FP35
+2012 GX17
+2012 Guo Shou-Jing
+2012 HE85
+2012 KP24
+2012 KT42
+2012 LZ1
+2012 MU2
+2012 TC4
+2012 TV
+2012 UE34
+2012 VP113
+2012 XE133
+2012 YQ1
+2013 AT183
+2013 AZ60
+2013 BL76
+2013 BS45
+2013 EC
+2013 ET
+2013 FQ28
+2013 FS28
+2013 FT28
+2013 FW13
+2013 FY27
+2013 FZ27
+2013 GM3
+2013 JX28
+2013 LA2
+2013 LX28
+2013 MZ5
+2013 ND15
+2013 PJ10
+2013 RA109
+2013 RF98
+2013 RH74
+2013 SK100
+2013 SL102
+2013 SY99
+2013 TV135
+2013 TX68
+2013 Tucapel
+2013 UH15
+2013 VZ70
+2013 XY8
+2013 YP139
+2014 AA
+2014 AF5
+2014 DX110
+2014 EC
+2014 ES57
+2014 FC69
+2014 FC72
+2014 FE72
+2014 FZ71
+2014 HQ124
+2014 JO25
+2014 LY21
+2014 MT69
+2014 MU69
+2014 MV67
+2014 OL339
+2014 OO6
+2014 OS393
+2014 PN70
+2014 RC
+2014 SC324
+2014 SR349
+2014 SS349
+2014 ST373
+2014 SV349
+2014 UE228
+2014 UM33
+2014 UR116
+2014 UZ224
+2014 Vasilevskis
+2014 XL7
+2014 YB35
+2014 YX49
+2015 AZ43
+2015 BP513
+2015 BP519
+2015 DB216
+2015 DR215
+2015 FG415
+2015 FJ345
+2015 GT50
+2015 HM10
+2015 KE172
+2015 KG163
+2015 KH162
+2015 KH163
+2015 KQ174
+2015 ME131
+2015 RX245
+2015 RY245
+2015 SO2
+2015 TB145
+2015 TC25
+2015 TH367
+2015 XJ351
+2015 XX169
+2015 XY261
+2015 YA
+2015 YQ1
+2015 YU9
+2016 AJ193
+2016 AZ8
+2016 CP31
+2016 DV1
+2016 EU85
+2016 Heinemann
+2016 NL56
+2016 PQ
+2016 WF9
+2017 AG13
+2017 BQ6
+2017 BS5
+2017 DB120
+2017 DR109
+2017 FO161
+2017 FZ2
+2017 MB7
+2017 MZ8
+2017 OF69
+2017 OO1
+2017 QC36
+2017 QP1
+2017 SG33
+2017 SN16
+2017 SV13
+2017 SX17
+2017 TD6
+2017 VL2
+2017 VR12
+2017 VW13
+2017 Wesson
+2017 XO2
+2017 XX61
+2017 YE5
+2018 AG37
+2018 AH
+2018 BD
+2018 BF3
+2018 CB
+2018 CC
+2018 CF2
+2018 CL
+2018 CN2
+2018 CY2
+2018 DV1
+2018 EC4
+2018 FC4
+2018 GE3
+2018 LA
+2018 LF16
+2018 PD20
+2018 RY7
+2018 UA
+2018 VG18
+2018 VM35
+2018 VP1
+2018 WV1
+2018 XB4
+2019 AQ3
+2019 AS5
+2019 BE5
+2019 BO
+2019 BZ3
+2019 EU5
+2019 GC6
+2019 LF6
+2019 MO
+2019 OK
+2019 OU1
+2019 PG1
+2019 SU3
+2019 TA7
+2019 TF7
+2019 UN13
+2019 XS
+2019 van Albada
+201 Penelope
+2020 AP1
+2020 BE102
+2020 BX12
+2020 CD3
+2020 CW
+2020 FA31
+2020 FY30
+2020 HA10
+2020 HS7
+2020 JJ
+2020 LD
+2020 MK4
+2020 OV1
+2020 OY4
+2020 PN1
+2020 PP1
+2020 QG
+2020 SL1
+2020 SO
+2020 SW
+2020 UA
+2020 VT1
+2020 VT4
+2020 VV
+2020 XR
+2021 AV7
+2021 DR15
+2021 DW1
+2021 EU
+2021 GW4
+2021 LL37
+2021 PH27
+2021 SG
+2021 TP21
+2021 UA1
+2022 AE1
+2022 BX1
+2022 EB5
+2022 FD1
+2022 NX1
+2022 West
+2023 Asaph
+2024 McLaughlin
+2026 Cottrell
+2028 Janequeo
+2029 Binomi
+202 Chryseïs
+2031 BAM
+20325 Julianoey
+2032 Ethel
+2033 Basilea
+2034 Bernoulli
+2035 Stearns
+2036 Sheragul
+2037 Tripaxeptalis
+2038 Bistro
+2039 Payne-Gaposchkin
+203 Pompeja
+2043 Ortutay
+2044 Wirt
+20461 Dioretsa
+2046 Leningrad
+2047 Smetana
+20488 Pic-du-Midi
+204 Kallisto
+2052 Tamriko
+2054 Gawain
+2055 Dvořák
+2056 Nancy
+2058 Róka
+2059 Baboquivari
+205 Martha
+2060 Chiron
+2061 Anza
+2062 Aten
+2063 Bacchus
+2064 Thomsen
+2065 Spicer
+2067 Aksnes
+2069 Hubble
+206P/Barnard–Boattini
+206 Hersilia
+2072 Kosmodemyanskaya
+2074 Shoemaker
+207 Hedda
+2080 Jihlava
+2085 Henan
+20898 Fountainhills
+208P/McMillan
+208 Lacrimosa
+2090 Mizuho
+2091 Sampo
+20936 Nemrut Dagi
+2093 Genichesk
+2094 Magnitka
+2098 Zyskin
+2099 Öpik
+209P/LINEAR
+209 Dido
+20D/Westphal
+20 Massalia
+2100 Ra-Shalom
+2101 Adonis
+2102 Tantalus
+2104 Toronto
+21062 Iasky
+21088 Chelyabinsk
+210 Isabella
+2111 Tselina
+2114 Wallenquist
+211 Isolda
+2120 Tyumenia
+2121 Sevastopol
+2122 Pyatiletka
+2123 Vltava
+2124 Nissen
+2126 Gerasimovich
+2127 Tanya
+212 Medea
+2131 Mayall
+2134 Dennispalm
+2135 Aristaeus
+21387 Wafakhalil
+2139 Makharadze
+213 Lilaea
+2140 Kemerovo
+21410 Cahill
+21436 Chaoyichi
+21438 Camibarnett
+2143 Jimarnold
+2145 Blaauw
+2146 Stentor
+2148 Epeios
+214 Aschera
+21501 Acevedo
+21509 Lucascavin
+2151 Hadwiger
+2153 Akiyama
+21558 Alisonliu
+21561 Masterman
+2156 Kate
+2159 Kukkamäki
+215 Oenone
+21617 Johnhagen
+216433 Milianleo
+2169 Taiwan
+216 Kleopatra
+21711 Wilfredwong
+2173 Maresjev
+2175 Andrea Doria
+21785 Méchain
+21795 Masi
+217 Eudora
+2181 Fogelin
+21873 Jindřichůvhradec
+2187 La Silla
+2188 Orlenok
+218 Bianca
+21900 Orus
+21921 Camdenmiller
+2195 Tengström
+2197 Shanghai
+219 Thusnelda
+21P/Giacobini–Zinner
+21 Lutetia
+2201 Oljato
+2202 Pele
+2204 Lyyli
+2207 Antenor
+220 Stephania
+2212 Hephaistos
+2213 Meeus
+221628 Hyatt
+221 Eos
+2223 Sarpedon
+2227 Otto Struve
+2228 Soyuz-Apollo
+222 Lucia
+223 Rosa
+2241 Alcathous
+2244 Tesla
+2246 Bowell
+224 Oceana
+225088 Gonggong
+2253 Espinette
+22577 Alfiuccio
+225 Henrietta
+2260 Neoptolemus
+226 Weringia
+22740 Rayleigh
+2278 Götz
+227 Philosophia
+22838 Darcyhampton
+2285 Ron Helin
+22899 Alconrad
+228 Agathe
+2296 Kugultinov
+229762 Gǃkúnǁʼhòmdímà
+229 Adelinda
+22P/Kopff
+22 Kalliope
+2301 Whitford
+2308 Schilt
+230 Athamantis
+2311 El Leoncito
+2312 Duboshin
+23131 Debenedictis
+23135 Pheidas
+231 Vindobona
+2324 Janice
+2325 Chernykh
+2328 Robeson
+2329 Orthos
+232 Russia
+23327 Luchernandez
+233 Asterope
+2340 Hathor
+23436 Alekfursenko
+2348 Michkovitch
+2349 Kurchenko
+234 Barbara
+2357 Phereclos
+235 Carolina
+2363 Cebriones
+2368 Beltrovata
+236 Honoria
+23712 Willpatrick
+23718 Horgos
+237 Coelestina
+2384 Schulhof
+238P/Read
+238 Hypatia
+2391 Tomita
+239 Adrastea
+23P/Brorsen–Metcalf
+23 Librae b
+23 Librae c
+23 Thalia
+240 Vanadis
+24101 Cassini
+24105 Broughton
+241 Germania
+2420 Čiurlionis
+2423 Ibarruri
+24260 Kriváň
+2429 Schürer
+242 Kriemhild
+2430 Bruce Helin
+2433 Sootiyo
+2436 Hatshepsut
+243 Ida
+2440 Educatio
+2442 Corbett
+2443 Tomeileen
+2449 Kenos
+244 Sita
+2456 Palamedes
+245 Vera
+24626 Astrowizard
+246P/NEAT
+246 Asporina
+2478 Tokai
+247 Eukrate
+24827 Maryphil
+2483 Guinevere
+2486 Metsähovi
+248 Lameia
+2490 Bussolini
+24988 Alainmilsztajn
+249 Ilse
+24P/Schaumasse
+24 Themis
+25000 Astrometria
+2500 Alascattalo
+25088 Yoshimura
+250 Bettina
+25108 Boström
+25109 Hofving
+2513 Baetslé
+25143 Itokawa
+2518 Rutllant
+251 Sophia
+252P/LINEAR
+252 Clementina
+2531 Cambridge
+2537 Gilmore
+253 Mathilde
+2542 Calpurnia
+254 Augusta
+25511 Annlipinsky
+25518 Paulcitrin
+25519 Bartolomeo
+25520 Deronchang
+2554 Skiff
+25593 Camillejordan
+255P/Levy
+255 Oppavia
+256 Walpurga
+2571 Geisei
+2572 Annschnell
+2575 Bulgaria
+2577 Litva
+2578 Saint-Exupéry
+257 Silesia
+258 Tyche
+2590 Mourão
+2591 Dworetsky
+25924 Douglasadams
+2594 Acamas
+2598 Merlin
+259 Aletheia
+25D/Neujmin
+25 Phocaea
+2606 Odessa
+26074 Carlwirtz
+2608 Seneca
+260 Huberta
+2613 Plzeň
+26195 Černohlávek
+261 Prymno
+2623 Zech
+2629 Rudra
+262 Valda
+2637 Bobrovnikoff
+263 Dresda
+2644 Victor Jara
+2648 Owa
+264 Libussa
+2658 Gingerich
+265 Anna
+2661 Bydžovský
+266 Aline
+2672 Písek
+2674 Pandarus
+2675 Tolkien
+2678 Aavasaksa
+267 Tirza
+26858 Misterrogers
+2685 Masursky
+268 Adorea
+2691 Sersic
+2696 Magion
+2697 Albina
+26986 Čáslavská
+269 Justitia
+26P/Grigg–Skjellerup
+26 Proserpina
+2708 Burns
+2709 Sagan
+270 Anahita
+271P/van Houten–Lemmon
+271 Penthesilea
+2726 Kotelnikov
+27270 Guidotti
+272 Antonia
+2730 Barks
+2732 Witt
+273P/Pons–Gambart
+273 Atropos
+2741 Valdivia
+274301 Wikipedia
+2744 Birgitta
+2747 Český Krumlov
+274 Philagoria
+2751 Campbell
+2752 Wu Chien-Shiung
+2754 Efimov
+2759 Idomeneus
+275 Sapientia
+276P/Vorobjov
+276 Adelheid
+277 Elvira
+278 Paulina
+2797 Teucer
+279 Thule
+27P/Crommelin
+27 Euterpe
+2807 Karl Marx
+280 Philia
+2815 Soma
+281 Lucretia
+2826 Ahti
+2829 Bobhope
+282 Clorinde
+2830 Greenwich
+2839 Annette
+283 Emma
+28439 Miguelreyes
+284996 Rosaparks
+284 Amalia
+285 Regina
+2862 Vavilov
+2865 Laurel
+2867 Šteins
+286 Iclea
+2873 Binzel
+2874 Jim Young
+287 Nephthys
+2882 Tedesco
+288 Glauke
+2892 Filipenko
+2893 Peiroos
+2895 Memnon
+28978 Ixion
+289P/Blanpain
+289 Nenetta
+28P/Neujmin
+28 Bellona
+2903 Zhuhai
+2905 Plaskett
+2906 Caltech
+2907 Nekrasov
+290 Bruna
+291 Alice
+2920 Automedon
+2926 Caldeira
+2927 Alamosa
+29292 Conniewalker
+292 Ludovica
+2934 Aristophanes
+2937 Gibbs
+2939 Coconino
+293 Brasilia
+2940 Bacon
+2942 Cordie
+294 Felicia
+29552 Chern
+2956 Yeomans
+2959 Scholl
+295 Theresia
+296 Phaëtusa
+2975 Spahr
+297 Caecilia
+2980 Cameron
+2981 Chagall
+2984 Chaucer
+2985 Shakespeare
+298 Baptistina
+2995 Taratuta
+2997 Cabrera
+299 Thora
+29 Amphitrite
+2M1207b
+2MASS J1155-7919 b
+2MASS J19383260+4603591 b
+2MASS J2126-8140
+2MASS J2126–8140
+2 Pallas
+30000 Camenzind
+3000 Leonardo
+300 Geraldina
+3015 Candy
+301 Bavaria
+302 Clarissa
+3031 Houston
+3034 Climenhaga
+3037 Alku
+303 Josephina
+3040 Kozai
+3043 San Diego
+3045 Alois
+3047 Goethe
+304 Olga
+3054 Strugatskia
+30564 Olomouc
+305 Gordonia
+3063 Makhaon
+3066 McFadden
+3067 Akhmatova
+306 Unitas
+30705 Idaios
+3070 Aitken
+30718 Records
+3073 Kursk
+3074 Popov
+30778 Döblin
+307 Nike
+308 Polyxo
+30942 Helicaon
+3099 Hergenrother
+309 Fraternitas
+30P/Reinmuth
+30 Urania
+3102 Krok
+3103 Eger
+310 Margarita
+31179 Gongju
+31192 Aigoual
+311P/PANSTARRS
+311P/PanSTARRS
+311 Claudia
+3122 Florence
+31249 Renéefleming
+312 Pierretta
+3131 Mason-Dixon
+3133 Sendai
+3137 Horky
+313 Chaldaea
+3141 Buchar
+31460 Jongsowfei
+314 Rosalia
+315 Constantia
+31641 Cevasco
+3169 Ostro
+316 Goberta
+3174 Alcock
+3176 Paolicchi
+317 Roxane
+3181 Ahnert
+31824 Elatus
+3184 Raab
+318 Magdalena
+3192 A'Hearn
+3198 Wallonia
+3199 Nefertiti
+319 Leona
+31P/Schwassmann–Wachmann
+31 Euphrosyne
+32008 Adriángalád
+3200 Phaethon
+3201 Sijthoff
+3202 Graff
+3204 Lindgren
+32072 Revanur
+320 Katharina
+3212 Agricola
+32145 Katberman
+321 Florentina
+32226 Vikulgupta
+3225 Hoag
+322P/SOHO
+322 Phaeo
+323 Brucia
+3240 Laocoon
+3247 Di Martino
+324 Bamberga
+32532 Thereus
+3254 Bus
+3255 Tholen
+325 Heidelberga
+3267 Glo
+3268 De Sanctis
+326 Tamara
+3277 Aaronson
+3278 Běhounek
+327 Columbia
+3281 Maupertuis
+3288 Seleucus
+328 Gudrun
+3290 Azabu
+329 Svea
+32P/Comas Solà
+32 Pomona
+3309 Brorfelde
+330 Adalberta
+33179 Arsènewenger
+3317 Paris
+3318 Blixen
+331 Etheridgea
+3322 Lidiya
+3325 TARDIS
+3327 Campins
+332P/Ikeya-Murakami
+332 Siri
+3330 Gantrisch
+3333 Schaber
+333 Badenia
+3343 Nedzel
+3345 Tarkovskij
+334 Chicago
+3350 Scobee
+3351 Smith
+33529 Henden
+3352 McAuliffe
+3353 Jarvis
+335 Roberta
+3360 Syrinx
+3361 Orpheus
+3362 Khufu
+3367 Alex
+336 Lacadiera
+337 Devosa
+338 Budrosa
+3391 Sinon
+339 Dorothea
+33P/Daniel
+33 Polyhymnia
+3401 Vanphilos
+3402 Wisdom
+3406 Omsk
+3409 Abramov
+340 Eduarda
+3412 Kafka
+341520 Mors–Somnus
+341 California
+3425 Hurukawa
+342843 Davidbowie
+3428 Roberts
+342 Endymion
+3430 Bradfield
+343158 Marsyas
+34351 Decatur
+343 Ostara
+344 Desiderata
+3451 Mentor
+345 Tercidina
+346 Hermentaria
+34718 Cantagalli
+34746 Thoon
+347 Pariana
+348 May
+3494 Purple Mountain
+349 Dembowska
+34D/Gale
+34 Circe
+350 Ornamenta
+351 Yrsa
+3529 Dowling
+352 Gisela
+3537 Jürgen
+353 Ruperto-Carola
+3540 Protesilaos
+3544 Borodino
+3548 Eurybates
+354P/LINEAR
+354 Eleonora
+3551 Verenia
+3552 Don Quixote
+3553 Mera
+3554 Amun
+3556 Lixiaohua
+355 Gabriella
+3563 Canterbury
+3564 Talthybius
+3567 Alvema
+3568 ASCII
+356 Liguria
+3578 Carestia
+357 Ninina
+3581 Alvarez
+358 Apollonia
+3596 Meriones
+359 Georgia
+35P/Herschel–Rigollet
+35 Leukothea
+3600 Archimedes
+360 Carlova
+361 Bononia
+3628 Božněmcová
+362 Havnia
+3635 Kreutz
+363 Padua
+3640 Gostin
+3642 Frieden
+364 Isara
+365 Corduba
+3669 Vertinskij
+366 Vincentina
+3671 Dionysus
+3673 Levy
+3674 Erbisbühl
+367943 Duende
+367 Amicitia
+3682 Welther
+3687 Dzus
+3688 Navajo
+3689 Yeates
+368 Haidea
+3691 Bede
+3697 Guyhurst
+369 Aëria
+36P/Whipple
+36 Atalante
+3700 Geowilliams
+37022 Robertovittori
+3703 Volkonskaya
+3708 Socus
+3709 Polypoites
+370 Modestia
+3710 Bogoslovskij
+3714 Kenrussell
+371 Bohemia
+3724 Annenskij
+3728 IRAS
+372 Palma
+3737 Beckman
+373 Melusina
+37432 Piszkéstető
+37452 Spirit
+3749 Balam
+374 Burgundia
+37519 Amphios
+3752 Camillo
+3753 Cruithne
+3754 Kathleen
+3757 Anagolay
+375 Ursula
+37655 Illapa
+376 Geometria
+3771 Alexejtolstoj
+377 Campania
+3782 Celle
+3785 Kitami
+3787 Aivazovskij
+3789 Zhongguo
+378 Holmia
+3790 Raywilson
+3793 Leonteus
+3794 Sthenelos
+379 Huenna
+37P/Forbes
+37 Fides
+3800 Karayusuf
+3801 Thrasymedes
+38050 Bias
+3806 Tremaine
+38083 Rhadamanthus
+380 Fiducia
+381 Myrrha
+3822 Segovia
+3823 Yorii
+382 Dodona
+383 Janina
+3841 Dicicco
+3844 Lujiaxi
+384 Burdigala
+3850 Peltier
+3851 Alhambra
+385446 Manwë
+3854 George
+385571 Otrera
+385695 Clete
+385 Ilmatar
+38628 Huya
+3868 Mendoza
+386 Siegena
+3872 Akirafujii
+3873 Roddy
+387 Aquitania
+388 Charybdis
+3893 DeLaeter
+389 Industria
+38P/Stephan–Oterma
+38 Leda
+38 Virginis b
+3905 Doppler
+3908 Nyx
+390 Alma
+3915 Fukushima
+3917 Franz Schubert
+391 Ingeborg
+3927 Feliciaplatt
+392 Wilhelmina
+39335 Caccin
+3936 Elst
+39382 Opportunity
+393 Lampetia
+39427 Charlottebrontë
+39428 Emilybrontë
+39429 Annebrontë
+394 Arduina
+3951 Zichichi
+3953 Perth
+395 Delia
+3960 Chaliubieju
+3962 Valyaev
+3963 Paradzhanov
+396 Aeolia
+39741 Komm
+397 Vienna
+3982 Kastel
+3982 Kastel'
+3988 Huma
+39890 Bobstephens
+398 Admete
+3996 Fugaku
+399 Persephone
+39 Laetitia
+3 Juno
+4000 Hipparchus
+4001 Ptolemaeus
+4003 Schumann
+4007 Euryalos
+4008 Corbin
+4009 Drobyshevskij
+400 Ducrosa
+4015 Wilson–Harrington
+401 Ottilia
+4022 Nonna
+4029 Bridges
+402 Chloë
+4031 Mueller
+4034 Vishnu
+4035 Thestor
+403 Cyane
+4045 Lowengrub
+40463 Frankkameny
+404 Arsinoë
+4055 Magellan
+4057 Demophon
+405 Thia
+4060 Deipylos
+4063 Euforbo
+4065 Meinel
+4068 Menestheus
+406 Erna
+407 Arachne
+4082 Swann
+4085 Weir
+4086 Podalirius
+408 Fama
+4090 Říšehvězd
+409 Aspasia
+40P/Väisälä
+40 Harmonia
+410 Chloris
+4118 Sveta
+411 Xanthe
+4121 Carlin
+412 Elisabetha
+4138 Kalchas
+413 Edburga
+4142 Dersu-Uzala
+4147 Lennon
+4149 Harrison
+414 Liriope
+4150 Starr
+4151 Alanhale
+415 Palatia
+416 Vaticana
+4175 Billbaum
+4176 Sudek
+4177 Kohman
+4179 Toutatis
+417 Suevia
+4183 Cuno
+4185 Phystech
+418 Alemannia
+4197 Morpheus
+419 Aurelia
+41P/Tuttle–Giacobini–Kresák
+41 Lyncis b
+420356 Praamzius
+4205 David Hughes
+4209 Briggs
+420 Bertholda
+4217 Engelhardt
+421 Zähringia
+4222 Nancita
+422 Berolina
+4230 van den Bergh
+42355 Typhon
+42365 Caligiuri
+423 Diotima
+4241 Pappalardo
+424 Gratia
+4257 Ubasti
+425 Cornelia
+4263 Abashiri
+4265 Kani
+426 Hippo
+4276 Clifford
+427 Galene
+4282 Endate
+428 Monachia
+429 Lotis
+42P/Neujmin
+42 Draconis b
+42 Isis
+430 Hybris
+4318 Baťa
+431 Nephele
+4324 Bickel
+432 Pythia
+4332 Milton
+4336 Jasniewicz
+4337 Arecibo
+433 Eros
+4340 Dence
+4341 Poseidon
+4348 Poulydamas
+4349 Tibúrcio
+434 Hungaria
+4354 Euclides
+4358 Lynn
+435 Ella
+4362 Carlisle
+4364 Shkodrov
+436 Patricia
+437 Rhodia
+4383 Suruga
+4388 Jürgenstock
+438 Zeuxo
+4391 Balodis
+43954 Chýnov
+439 Ohio
+43P/Wolf–Harrington
+43 Ariadne
+4401 Aditi
+440 Theodora
+441 Bathilde
+4429 Chinmoy
+442 Eichsfeldia
+4432 McGraw-Hill
+4435 Holt
+443 Photographica
+4440 Tchantchès
+4446 Carolyn
+444 Gyptis
+4450 Pan
+4451 Grieve
+445 Edna
+446 Aeternitas
+447 Valentine
+4486 Mithra
+4489 Dracius
+448 Natalie
+4492 Debussy
+449 Hamburga
+44P/Reinmuth
+44 Nysa
+4501 Eurypylos
+450 Brigitta
+451 Patientia
+4524 Barklajdetolli
+4525 Johnbauer
+452 Hamiltonia
+45300 Thewrewk
+453 Tea
+4543 Phoinix
+4544 Xanthus
+4547 Massachusetts
+454 Mathesis
+455 Bruchsalia
+456 Abnoba
+45737 Benita
+457 Alleghenia
+4581 Asclepius
+4585 Ainonai
+4587 Rees
+458 Hercynia
+459 Signe
+45P/Honda–Mrkos–Pajdušáková
+45 Eugenia
+4606 Saheki
+4607 Seilandfarm
+4608 Wodehouse
+460 Scania
+461 Saskia
+462 Eriphyla
+463 Lola
+4647 Syuji
+464 Megaira
+4659 Roddenberry
+465 Alekto
+4660 Nereus
+46610 Bésixdouze
+466 Tisiphone
+4672 Takuboku
+4674 Pauling
+467 Laura
+468 Lina
+469219 Kamoʻoalewa
+469705 ǂKá̦gára
+469 Argentina
+46P/Wirtanen
+46 Hestia
+4707 Khryses
+4708 Polydoros
+4709 Ennomos
+470 Kilia
+471143 Dziewanna
+4713 Steel
+4715 Medesicaste
+47171 Lempo
+471 Papagena
+4722 Agelaos
+472 Roma
+473 Nolli
+4742 Caliumi
+474640 Alicanto
+474 Prudentia
+4754 Panthoos
+4756 Asaramas
+475 Ocllo
+4760 Jia-xiang
+4765 Wasserburg
+4769 Castalia
+476 Hedwig
+4776 Luyi
+477 Italia
+4786 Tatianina
+4789 Sprattia
+478 Tergeste
+4790 Petrpravec
+4791 Iphidamas
+4792 Lykaon
+4797 Ako
+479 Caprera
+47P/Ashbrook–Jackson
+47 Aglaja
+47 Ursae Majoris b
+47 Ursae Majoris c
+47 Ursae Majoris d
+4804 Pasteur
+4805 Asteropaios
+480 Hansa
+481 Emita
+4822 Karge
+4827 Dares
+4828 Misenus
+482 Petrina
+4831 Baldwin
+4832 Palinurus
+4833 Meges
+4834 Thoas
+4836 Medon
+483 Seppina
+484 Pittsburghia
+485 Genua
+4867 Polites
+4868 Knushevia
+486958 Arrokoth
+486 Cremona
+487 Venetia
+488 Kreusa
+4897 Tomhamilton
+4899 Candace
+489 Comacina
+48P/Johnson
+48 Doris
+4902 Thessandrus
+4904 Makio
+490 Veritas
+491 Carina
+4923 Clarke
+492 Gismonda
+4936 Butakov
+493 Griseldis
+4942 Munroe
+4944 Kozlovskij
+4946 Askalaphus
+4947 Ninkasi
+4949 Akasofu
+494 Virtus
+4951 Iwamoto
+4954 Eric
+4957 Brucemurray
+4959 Niinoama
+495 Eulalia
+4962 Vecherka
+496 Gryphia
+49777 Cappi
+497 Iva
+498 Tokio
+4997 Ksana
+499 Venusia
+49P/Arend–Rigaux
+49 Pales
+4P/Faye
+4 Ursae Majoris b
+4 Vesta
+5-cell
+50000 Quaoar
+500 Selinur
+5010 Amenemhêt
+5011 Ptah
+5012 Eurymedon
+501 Urhixidur
+5023 Agapenor
+5025 Mecisteus
+5026 Martes
+5027 Androgeos
+5028 Halaesus
+502 Sigune
+503 Evelyn
+5040 Rabinowitz
+5041 Theotes
+5046 Carletonmoore
+504 Cora
+505 Cava
+506 Marion
+50719 Elizabethgriffin
+507 Laodica
+5080 Oja
+5088 Tancredi
+508 Princetonia
+509 Iolanda
+50P/Arend
+50 Virginia
+5101 Akhmerov
+510 Mabella
+5119 Imbrius
+511 Davida
+5120 Bitias
+5126 Achaemenides
+512 Taurinensis
+5130 Ilioneus
+513 Centesima
+514107 Kaʻepaokaʻawela
+5143 Heracles
+5144 Achates
+5145 Pholus
+5148 Giordano
+514 Armida
+5159 Burbine
+515 Athalia
+5160 Camoes
+516 Amherstia
+5171 Augustesen
+5175 Ables
+5176 Yoichi
+517 Edith
+51823 Rickhusband
+51824 Mikeanderson
+51825 Davidbrown
+51826 Kalpanachawla
+51827 Laurelclark
+51828 Ilanramon
+51829 Williemccool
+5184 Cavaillé-Coll
+5185 Alerossi
+518 Halawe
+5194 Böttger
+5196 Bustelli
+51983 Hönig
+519 Sylvania
+51P/Harrington
+51 Eridani b
+51 Nemausa
+51 Pegasi b
+5201 Ferraz-Mello
+5208 Royer
+520 Franziska
+521 Brixia
+5222 Ioffe
+52246 Donaldjohanson
+52266 Van Flandern
+522 Helga
+523 Ada
+5244 Amphilochos
+524 Fidelio
+5254 Ulysses
+5256 Farquhar
+5258 Rhoeo
+5259 Epeigeus
+525 Adelaide
+5261 Eureka
+5264 Telephus
+526 Jena
+527 Euryanthe
+5283 Pyrrhus
+5284 Orsilocus
+5285 Krethon
+52872 Okyrhoe
+528 Rezia
+52975 Cyllarus
+529 Preziosa
+52P/Harrington–Abell
+52 Europa
+530 Turandot
+5316 Filatov
+5318 Dientzenhofer
+531 Zerlina
+532 Herculina
+53311 Deucalion
+5331 Erimomisaki
+5333 Kanaya
+5335 Damocles
+533 Sara
+534 Nassovia
+5357 Sekiguchi
+535 Montague
+536 Merapi
+5370 Taranis
+537 Pauly
+5380 Sprigg
+5381 Sekhmet
+5385 Kamenka
+538 Friederike
+5391 Emmons
+539 Pamina
+53P/Van Biesbroeck
+53 Kalypso
+540 Rosamunde
+541132 Leleākūhonua
+541 Deborah
+5426 Sharp
+542 Susanna
+5430 Luu
+5436 Eumelos
+543 Charlotte
+544 Jetta
+54509 YORP
+54598 Bienor
+545 Messalina
+546 Herodias
+5474 Gingasen
+5475 Hanskennedy
+5476 Mulius
+5477 Holmes
+547 Praxedis
+5481 Kiuchi
+548 Kressida
+549 Jessonda
+54P/de Vico–Swift–NEAT
+54 Alexandra
+54 Piscium b
+550 Senta
+5511 Cloanthus
+551 Ortrud
+552 Sigelinde
+5535 Annefrank
+553 Kundry
+55428 Cappellaro
+5542 Moffatt
+554 Peraga
+55576 Amycus
+555 Norma
+556 Phyllis
+55701 Ukalegon
+557 Violetta
+5583 Braunerová
+558 Carmen
+5592 Oshima
+559 Nanon
+55P/Tempel–Tuttle
+55 Cancri b
+55 Cancri c
+55 Cancri d
+55 Cancri e
+55 Cancri f
+55 Pandora
+560 Delila
+561 Ingwelde
+562 Salome
+5635 Cole
+5638 Deikoon
+563 Suleika
+5642 Bobbywilliams
+5644 Maureenbell
+5648 Axius
+564 Dudu
+5652 Amphimachus
+5653 Camarillo
+5655 Barney
+5656 Oldfield
+565 Marbachia
+566 Stereoskopia
+5677 Aberdonia
+567 Eleutheria
+5682 Beresford
+568 Cheruskia
+5692 Shirao
+5694 Berényi
+569 Misa
+56P/Slaughter–Burnham
+56 Melete
+570 Kythera
+571 Dulcinea
+572 Rebekka
+5731 Zeus
+573 Recha
+57424 Caelumnoctu
+5748 Davebrin
+574 Reginhild
+5751 Zao
+5756 Wassenbergh
+575 Renate
+576 Emanuela
+5771 Somerville
+577 Rhea
+57868 Pupin
+5786 Talos
+578 Happelia
+579 Sidonia
+57 Mnemosyne
+5805 Glasgow
+5806 Archieroy
+58097 Alimov
+580 Selene
+581 Tauntonia
+582 Olympia
+583 Klotilde
+584 Semiramis
+58534 Logos
+5855 Yukitsuna
+585 Bilkis
+586 Thekla
+587 Hypsipyle
+588 Achilles
+5899 Jedicke
+589 Croatia
+58P/Jackson–Neujmin
+58 Concordia
+5900 Jensen
+5905 Johnson
+590 Tomyris
+591 Irmgard
+592 Bathseba
+593 Titania
+594913 ꞌAylóꞌchaxnim
+594 Mireille
+5951 Alicemonet
+595 Polyxena
+596 Scheila
+59793 Clapiès
+597 Bandusia
+598 Octavia
+599 Luisa
+59P/Kearns–Kwee
+59 Elpis
+5D/Brorsen
+5 Astraea
+6002 Eetion
+600 Musa
+601 Nerthus
+6025 Naotosato
+602 Marianna
+603 Timandra
+6042 Cheshirecat
+604 Tekmessa
+60558 Echeclus
+605 Juvisia
+6063 Jason
+606 Brangäne
+6070 Rheinland
+6075 Zajtsev
+607 Jenny
+6084 Bascom
+608 Adolfine
+6090 Aulis
+609 Fulvia
+60P/Tsuchinshan
+60 Echo
+6102 Visby
+610 Valeska
+6117 Brevardastro
+611 Valeria
+612 Veronika
+613 Ginevra
+6141 Durda
+6144 Kondojiro
+614 Pia
+6159 Andréseloy
+615 Roswitha
+616 Elly
+6170 Levasseur
+617 Patroclus
+6181 Bobweber
+6189 Völk
+618 Elfriede
+619 Triberga
+61P/Shajn–Schaldach
+61 Danaë
+61 Virginis b
+61 Virginis c
+61 Virginis d
+620 Drakonia
+6216 San Jose
+621 Werdandi
+6223 Dahl
+6229 Tursachan
+622 Esther
+6235 Burney
+6239 Minos
+623 Chimaera
+6244 Okamoto
+6247 Amanogawa
+624 Hektor
+6250 Saekohayashi
+6255 Kuma
+6256 Canova
+6257 Thorvaldsen
+625 Xenia
+6267 Rozhen
+626 Notburga
+627 Charis
+628 Christine
+6296 Cleveland
+629 Bernardina
+62P/Tsuchinshan
+62 Erato
+630 Euphemia
+6312 Robheinlein
+631 Philippina
+632 Pyrrha
+63305 Bobkepple
+633 Zelima
+6344 P-L
+6344 P–L
+6349 Acapulco
+634 Ute
+635 Vundtia
+636 Erika
+6376 Schamp
+6377 Cagney
+637 Chrysothemis
+638 Moira
+6395 Hilliard
+6398 Timhunter
+639 Latona
+63P/Wild
+63 Ausonia
+640 Brambilla
+641 Agnes
+642 Clara
+6433 Enya
+643 Scheherezade
+644 Cosima
+645 Agrippina
+6460 Bassano
+6469 Armstrong
+646 Kastalia
+6470 Aldrin
+6473 Winkler
+6478 Gault
+647 Adelgunde
+6489 Golevka
+648 Pippa
+6498 Ko
+649 Josefa
+64P/Swift–Gehrels
+64 Angelina
+6500 Kodaira
+650 Amalasuntha
+651 Antikleia
+6522 Aci
+652 Jubilatrix
+6537 Adamovich
+653 Berenike
+6545 Leitus
+6546 Kaye
+65489 Ceto
+654 Zelinda
+655 Briseïs
+6566 Shafter
+656 Beagle
+657 Gunlöd
+65803 Didymos
+658 Asteria
+659 Nestor
+65P/Gunn
+65 Cybele
+660 Crescentia
+6615 Plutarchos
+661 Cloelia
+662 Newtonia
+66391 Moshup
+663 Gerlinde
+664 Judith
+665 Sabine
+66652 Borasisi
+666 Desdemona
+6674 Cézanne
+667 Denise
+668 Dora
+6695 Barrettduff
+6696 Eubanks
+669 Kypria
+66P/du Toit
+66 Maja
+6708 Bobbievaile
+6709 Hiromiyuki
+670 Ottegebe
+671 Carnegia
+6726 Suthers
+672 Astarte
+673 Edda
+674 Rachele
+675 Ludmilla
+676 Melitta
+677 Aaltje
+678 Fredegundis
+6793 Palazzolo
+679 Pax
+67P/Churyumov–Gerasimenko
+67 Asia
+6805 Abstracta
+6807 Brünnow
+680 Genoveva
+68109 Naomipasachoff
+681 Gorgo
+6828 Elbsteel
+682 Hagar
+683 Lanzia
+6841 Gottfriedkirch
+684 Hildburg
+685 Hermia
+686 Gersuind
+687 Tinette
+6882 Sormano
+688 Melanie
+6894 Macreid
+689 Zita
+68P/Klemola
+68 Leto
+690 Wratislavia
+691 Lehigh
+69230 Hermes
+692 Hippodamia
+693 Zerbinetta
+694 Ekard
+695 Bella
+696 Leonora
+697 Galilea
+6980 Kyusakamoto
+698 Ernestina
+699 Hela
+69P/Taylor
+69 Hesperia
+6P/d'Arrest
+6Q0B44E
+6 Hebe
+6 Lyncis b
+700 Auravictrix
+701 Oriola
+702 Alauda
+7037 Davidlean
+703 Noëmi
+704 Interamnia
+705 Erminia
+7066 Nessus
+706 Hirundo
+707 Steina
+7088 Ishtar
+708 Raphaela
+7092 Cadmus
+709 Fringilla
+70P/Kojima
+70 Panopaea
+70 Virginis b
+710 Gertrud
+7119 Hiera
+711 Marmulla
+712 Boliviana
+713 Luscinia
+714 Ulula
+7152 Euneus
+715 Transvaalia
+7166 Kennedy
+7167 Laupheim
+716 Berkeley
+717 Wisibada
+7187 Isobe
+718 Erida
+7194 Susanrose
+719 Albert
+71P/Clark
+71 Niobe
+7204 Ondřejov
+720 Bohlinia
+721 Tabora
+7225 Huntress
+722 Frieda
+723 Hammonia
+724 Hapag
+725 Amanda
+7266 Trefftz
+7268 Chigorin
+726 Joëlla
+727 Nipponia
+72804 Caldentey
+728 Leonisis
+729 Watsonia
+72P/Denning–Fujikawa
+72 Feronia
+7307 Takei
+730 Athanasia
+7317 Cabot
+731 Sorga
+732 Tjilaki
+7336 Saunders
+733 Mocia
+7345 Happer
+7346 Boulanger
+734 Benda
+7352 Hypsenor
+735 Marghanna
+7369 Gavrilin
+736 Harvard
+737 Arequipa
+7385 Aktsynovia
+7387 Malbil
+7389 Michelcombes
+738 Alagasta
+739 Mandeville
+73P/Schwassmann–Wachmann
+73 Klytia
+7403 Choustník
+740 Cantabia
+741 Botolphia
+742 Edisona
+743 Eugenisis
+7440 Závist
+7449 Döllen
+744 Aguntina
+74503 Madola
+745 Mauritia
+746 Marlu
+7476 Ogilsbie
+747 Winchester
+748 Simeïsa
+749 Malzovia
+74P/Smirnova–Chernykh
+74 Galatea
+7505 Furusho
+750 Oskar
+7517 Alisondoane
+751 Faïna
+7526 Ohtsuka
+7529 Vagnozzi
+752 Sulamitis
+753 Tiflis
+7543 Prylis
+7545 Smaklösa
+7548 Engström
+754 Malabar
+7553 Buie
+755 Quintilla
+756 Lilliana
+757 Portlandia
+758 Mancunia
+759 Vinifera
+75D/Kohoutek
+75 Eurydike
+7604 Kridsadaporn
+760 Massinga
+761 Brendelia
+762 Pulcova
+7638 Gladman
+763 Cupido
+7641 Cteatus
+7648 Tomboles
+764 Gedania
+7655 Adamries
+765 Mattiaca
+766 Moguntia
+7675 Gorizia
+767 Bondia
+7680 Cari
+7687 Matthias
+768 Struveana
+769 Tatjana
+76P/West–Kohoutek–Ikemura
+76 Freia
+770 Bali
+77185 Cherryh
+771 Libera
+772 Tanete
+7739 Čech
+773 Irmintraud
+7742 Altamira
+774 Armor
+775 Lumière
+776 Berbericia
+7776 Takeishi
+777 Gutemberga
+7784 Watterson
+778 Theobalda
+7794 Sanvito
+7796 Járacimrman
+779 Nina
+77P/Longmore
+77 Frigga
+7803 Adachi
+780 Armenia
+7816 Hanoi
+781 Kartvelia
+78249 Capaccioni
+782 Montefiore
+7835 Myroncope
+783 Nora
+78431 Kemble
+7846 Setvák
+784 Pickeringia
+785 Zwetana
+7866 Sicoli
+786 Bredichina
+787 Moskva
+78816 Caripito
+788 Hohensteina
+789 Lena
+78P/Gehrels
+78 Diana
+790 Pretoria
+791 Ani
+79254 Tsuda
+792 Metcalfia
+79360 Sila–Nunam
+793 Arizona
+794 Irenaea
+7958 Leakey
+7959 Alysecherri
+795 Fini
+7968 Elst–Pizarro
+796 Sarita
+797 Montana
+7985 Nedelcu
+798 Ruth
+79912 Terrell
+799 Gudula
+79P/du Toit–Hartley
+79 Ceti b
+79 Eurynome
+7P/Pons–Winnecke
+7 Iris
+800 Kressmannia
+8013 Gordonmoore
+801 Helwerthia
+8026 Johnmckay
+802 Epyaxa
+8034 Akka
+803 Picka
+804 Hispania
+805 Hormuthia
+806 Gyldénia
+807 Ceraskia
+808 Merxia
+809 Lundia
+80P/Peters–Hartley
+80 Sappho
+810 Atossa
+8116 Jeanperrin
+811 Nauheima
+8121 Altdorfer
+8123 Canaletto
+812 Adele
+813 Baumeia
+8148 Golding
+814 Tauris
+815 Coppelia
+816 Juliana
+817 Annika
+8187 Akiramisawa
+818 Kapteynia
+819 Barnardiana
+81P/Wild
+81 Ceti b
+81 Terpsichore
+820 Adriana
+821 Fanny
+822 Lalage
+823 Sisigambis
+824 Anastasia
+825 Tanina
+8262 Carcich
+8269 Calandrelli
+826 Henrika
+827 Wolfiana
+828 Lindemannia
+829 Academia
+82P/Gehrels
+82 Alkmene
+8306 Shoko
+830 Petropolitana
+8318 Averroes
+831 Stateira
+832 Karin
+833 Monica
+834 Burnhamia
+835 Olivia
+836 Jole
+8373 Stephengould
+837 Schwarzschilda
+838 Seraphina
+83982 Crantor
+839 Valborg
+83D/Russell
+83 Beatrix
+83 Leonis Bb
+8405 Asbolus
+840 Zenobia
+841 Arabella
+842 Kerstin
+843 Nicolaia
+8441 Lapponica
+844 Leontina
+845 Naëma
+846 Lipperta
+847 Agnia
+84882 Table Mountain
+848 Inna
+849 Ara
+84P/Giclas
+84 Klio
+850 Altona
+851 Zeissia
+852 Wladilena
+853 Nansenia
+8549 Alcide
+854 Frostia
+855 Newcombia
+856 Backlunda
+857 Glasenappia
+858 El Djezaïr
+859 Bouzaréah
+85P/Boethin
+85 Io
+860 Ursina
+861 Aïda
+862 Franzia
+863 Benkoela
+864 Aase
+865 Zubaida
+8661 Ratzinger
+866 Fatme
+867 Kovacia
+868 Lova
+869 Mellena
+86P/Wild
+86 Semele
+870 Manto
+871 Amneris
+872 Holda
+873 Mechthild
+874 Rotraut
+875 Nymphe
+876 Scott
+8776 Campestris
+877 Walküre
+878 Mildred
+879 Ricarda
+87P/Bus
+87 Sylvia
+880 Herba
+8815 Deanregas
+881 Athene
+882 Swetlana
+883 Matterania
+884 Priamus
+885 Ulrike
+88611 Teharonhiawako
+886 Washingtonia
+887 Alinda
+888 Parysatis
+8898 Linnaea
+889 Erynia
+88P/Howell
+88 Thisbe
+8900 AAVSO
+890 Waltraut
+891 Gunhild
+892 Seeligeria
+893 Leopoldina
+894 Erda
+895 Helio
+8967 Calandra
+896 Sphinx
+897 Lysistrata
+898 Hildegard
+8990 Compassion
+8991 Solidarity
+8992 Magnanimity
+899 Jokaste
+89P/Russell
+89 Julia
+8P/Tuttle
+8 Flora
+9000 Hal
+900 Rosalinde
+901 Brunsia
+9023 Mnesthus
+902 Probitas
+90377 Sedna
+903 Nealley
+90482 Orcus
+904 Rockefellia
+90525 Karijanberg
+905 Universitas
+9069 Hovland
+906 Repsolda
+907 Rhoda
+9084 Achristou
+908 Buda
+909 Ulla
+90P/Gehrels
+90 Antiope
+910 Anneliese
+9115 Battisti
+911 Agamemnon
+9128 Takatumuzi
+912 Maritima
+9134 Encke
+913 Otila
+9142 Rhesus
+914 Palisana
+915 Cosette
+9165 Raup
+916 America
+9175 Graun
+917 Lyka
+918 Itha
+919 Ilsebill
+91P/Russell
+91 Aegina
+91 Aquarii b
+920 Rogeria
+921 Jovita
+9223 Leifandersson
+922 Schlutia
+923 Herluga
+924 Toni
+925 Alphonsina
+9260 Edwardolson
+926 Imhilde
+927 Ratisbona
+928 Hildrun
+9298 Geake
+929 Algunde
+92P/Sanguin
+92 Undina
+930 Westphalia
+931 Whittemora
+9321 Alexkonopliv
+932 Hooveria
+933 Susi
+9344 Klopstock
+934 Thüringia
+935 Clivia
+936 Kunigunde
+937 Bethgea
+938 Chlosinde
+939 Isberga
+93P/Lovas
+93 Minerva
+9403 Sanduleak
+940 Kordula
+941 Murray
+9423 Abt
+942 Romilda
+943 Begonia
+944 Hidalgo
+945 Barcelona
+946 Poësia
+9478 Caldeyro
+947 Monterosa
+948 Jucunda
+949 Hel
+94P/Russell
+94 Aurora
+94 Ceti b
+95008 Ivanobertini
+9500 Camelot
+950 Ahrensa
+95179 Berkó
+951 Gaspra
+9524 O'Rourke
+952 Caia
+953 Painleva
+9549 Akplatonov
+954 Li
+955 Alstede
+9564 Jeffwynn
+956 Elisa
+957 Camelia
+958 Asplinda
+959 Arne
+95 Arethusa
+960 Birgit
+9617 Grahamchapman
+961 Gunnie
+962 Aslög
+963 Iduberga
+9641 Demazière
+964 Subamara
+965 Angelica
+966 Muschi
+96747 Crespodasilva
+967 Helionape
+968 Petunia
+9694 Lycomedes
+969 Leocadia
+96P/Machholz
+96 Aegle
+9708 Gouka
+970 Primula
+9712 Nauplius
+9713 Oceax
+971 Alsatia
+972 Cohnia
+973 Aralia
+974 Lioba
+975 Perseverantia
+9767 Midsomer Norton
+976 Benjamina
+977 Philippa
+978 Aidamina
+9799 Thronium
+979 Ilsewa
+97 Klotho
+980 Anacostia
+98127 Vilgusová
+9817 Thersander
+981 Martina
+9823 Annantalová
+9826 Ehrenfreund
+982 Franklina
+983 Gunila
+9844 Otani
+984 Gretia
+985 Rosina
+986 Amelia
+987 Wallia
+9885 Linux
+988 Appella
+989 Schwassmannia
+98P/Takamizawa
+98 Ianthe
+9902 Kirkpatrick
+9903 Leonhardt
+9904 Mauratombelli
+9905 Tiziano
+9906 Tintoretto
+9907 Oileus
+9908 Aue
+9909 Eschenbach
+990 Yerkes
+9910 Vogelweide
+9911 Quantz
+9912 Donizetti
+9913 Humperdinck
+9914 Obukhova
+9915 Potanin
+9916 Kibirev
+9917 Keynes
+991 McDonalda
+9920 Bagnulo
+9921 Rubincam
+9922 Catcheller
+9927 Tyutchev
+9929 McConnell
+992 Swasey
+9930 Billburrows
+9931 Herbhauptman
+9932 Kopylov
+9934 Caccioppoli
+9936 Al-Biruni
+9938 Kretlow
+993 Moultona
+9941 Iguanodon
+9945 Karinaxavier
+9947 Takaishuji
+9949 Brontosaurus
+994 Otthild
+9950 ESA
+9951 Tyrannosaurus
+9954 Brachiosaurus
+9957 Raffaellosanti
+995 Sternberga
+9962 Pfau
+9963 Sandage
+9964 Hideyonoguchi
+9965 GNU
+9967 Awanoyumi
+9968 Serpe
+9969 Braille
+996 Hilaritas
+9971 Ishihara
+9972 Minoruoda
+997 Priska
+9983 Rickfienberg
+9986 Hirokun
+998 Bodea
+99906 Uofalberta
+9991 Anežka
+99942 Apophis
+99949 Miepgies
+9994 Grotius
+9995 Alouette
+9996 ANS
+9998 ISO
+9999 Wiles
+999 Zachia
+99P/Kowal
+99 Dike
+9 Metis
+AAAW Single Championship
+AB Aurigae b
+AJW Championship
+Abeir-Toril
+Abstract Wiener space
+Abstract structure
+Accropode
+Actaea
+Active message
+Aegaeon
+Aegir
+Aethusa
+Affine connection
+Aitne
+Albiorix
+Aldebaran b
+Alderaan
+Alexander horned sphere
+Algebraic variety
+Alpha Centauri Bb
+Alureon
+Alvaldi
+Amalthea
+Ananke
+Andean Volcanic Belt
+Anglo-Australian Planet Search
+Angrboda
+Animal Planet Poland
+Anthe
+Anti-ballistic weapon
+Antiquities
+Aoede
+Apohele asteroid
+Apokolips
+Arche
+Arctic realm
+Argentina Wine Route
+Ariel
+Arjuna asteroid
+Ark
+Arktos
+Arma Christi
+Arrakis
+Art doll
+Asbolus
+Asteroid
+Astronomical radio source
+Astrophysical X-ray source
+Atlantic semi-deciduous forests
+Atlas
+Autonoe
+Award pin
+Frying pan
+Hiʻiaka
+Hofstadter's butterfly
+Imitation pearl
+Indiscernibles
+Interstellar comet
+Io
+Ionaco
+Iota Draconis b
+Iota Horologii b
+Iron planet
+Isonoe
+Isua Greenstone Belt
+Legal drug trade
+BD+14 4559 b
+BD+14°4559 b
+BD+20594b
+BD+20 274 b
+BD+20 594b
+BD+48 738 b
+BD+60 1417b
+BD-08°2823 b
+BD-08°2823 c
+BD-10°3166 b
+BD-17°63 b
+BD−17 63 b
+Backdoor:Win32.Hupigon
+Bad boy
+Baldric
+Bandolier
+Barloc of Norbury
+Barnard's Star b
+Battleworld
+Batu Batikam
+Bebhionn
+Beli
+Belinda
+Bendle
+Beornstan the Archdeacon
+Bergelmir
+Besieged planet
+Bespin
+Bestla
+Beta Pictoris b
+Beta Pictoris c
+Biela's Comet
+Big Fight: Big Trouble in the Atlantic Ocean
+Big Gold Belt
+Biordered set
+Bird River greenstone belt
+Bizarro World
+Black star
+Black triangle
+Blue moon
+Boy next door
+Brane
+Bravo Lake Formation
+Brez
+Brown dwarf
+Bédélia
+C-type asteroid
+C/1702 H1
+C/1769 P1
+C/1807 R1
+C/1847 T1
+C/1861 G1
+C/1861 J1
+C/1865 B1
+C/1874 H1
+C/1881 K1
+C/1890 V1
+C/1911 O1
+C/1980 E1
+C/1989 X1
+C/1992 J1
+C/1999 F1
+C/1999 S4
+C/2000 U5
+C/2000 W1
+C/2001 OG108
+C/2001 Q4
+C/2002 T7
+C/2002 V1
+C/2003 A2
+C/2006 P1
+C/2006 VZ13
+C/2007 E2
+C/2007 F1
+C/2007 K5
+C/2007 Q3
+C/2007 W1
+C/2008 T2
+C/2009 R1
+C/2011 J2
+C/2011 L4
+C/2011 W3
+C/2012 F6
+C/2012 K1
+C/2012 S4
+C/2013 A1
+C/2013 R1
+C/2013 UQ4
+C/2013 US10
+C/2013 V5
+C/2014 E2
+C/2014 G3
+C/2014 Q1
+C/2014 Q2
+C/2014 Q3
+C/2015 ER61
+C/2015 G2
+C/2015 V2
+C/2016 R2
+C/2017 U7
+C/2018 C2
+C/2018 F4
+C/2018 V1
+CFBDSIR 2149−0403
+COCONUTS-2b
+COROT-4b
+COROT-5b
+COROT-6b
+COROT-7b
+COROT-7c
+COROT-9b
+Caladan
+Caliban
+Calling card
+Callirrhoe
+Callisto
+Calypso
+Cameron River Volcanic Belt
+Candidate 1
+Cape Smith Belt
+Cariri Velhos belt
+Carme
+Carpo
+Cash-Landrum incident
+Geirrod
+Generalized conic
+Generalized function
+Generational planet
+Geodynamics of Venus
+Geology of Venus
+Great Bear Magmatic Zone
+Great Comet of 1556
+Great Comet of 1577
+Great Comet of 1811
+Great Comet of 1823
+Great Comet of 1843
+Great Comet of 1882
+Great Comet of 1901
+Great Southern Comet of 1887
+Great comet
+Hydra
+Hylonome
+Hyperion
+Hyrrokkin
+Iapetus
+Loathly lady
+Lobster Telephone
+Loge
+Lokaloka
+Long Boiler locomotive
+Lost Pines Forest
+Lost minor planet
+Magic Mirror
+Miranda
+Mixed graph
+Mneme
+Musgrave Block
+Particle
+Patched
+Pulsar planet
+Purse cover from Sutton Hoo burial
+Qatar-4b
+Qatar-5b
+Qatar Exoplanet Survey
+Stage weight
+Stamp seal
+Standard column family
+Standard wind tunnel models
+String
+Stun belt
+Styx
+Sub-Earth
+Subshift of finite type
+Subtropical ridge
+Sudanian Savanna
+Sungrazing comet
+Super-Earth
+Super-Jupiter
+Super-Neptune
+Super-puff
+Super column family
+Supermembranes
+Surcingle belt
+Taman Pintar Yogyakarta
+Tarqeq
+Tarvos
+Tatooine
+Tau1 Gruis b
+Tau Boötis b
+Tau Ceti e
+Tau Ceti f
+Taygete
+Tenterhooks
+Terminus
+Terrestrial planet
+Territorial waters
+Mental radio
+Mercury
+Mesklin
+Mock object
+Mocmex
+Mondas
+Money belt
+Mongo
+New Genesis
+Okhotsk-Chukotka Volcanic Belt
+Pearl
+Police duty belt
+Pollux b
+Polydeuces
+Polytope
+Quasi-Hilda comet
+Quasiprobability distribution
+Quimbaya artifacts
+Rickson Gracie
+Rigan Machado
+S/2000
+S/2003 J 10
+S/2003 J 12
+S/2003 J 16
+S/2003 J 2
+S/2003 J 23
+S/2003 J 24
+S/2003 J 4
+S/2003 J 9
+S/2004 N 1
+S/2004 S 12
+S/2004 S 13
+S/2004 S 17
+S/2004 S 21
+S/2004 S 24
+S/2004 S 28
+S/2004 S 3
+S/2004 S 31
+S/2004 S 36
+S/2004 S 37
+S/2004 S 39
+S/2004 S 4
+S/2004 S 6
+S/2004 S 7
+S/2006 S 1
+S/2006 S 3
+S/2007 S 2
+S/2007 S 3
+S/2009 S 1
+S/2015
+S/2019 S 1
+SDSS J1228+1040 b
+SOHO 2333
+Saturn
+Saturn LVIII
+Saturn LX
+Saturn LXIV
+Saulo Ribeiro
+Scadrial
+Shintai
+Shooting target
+Sound generator
+Strand plain
+Straw painting
+T-type asteroid
+TOI-1333 b
+TOI-1452 b
+TOI-1478 b
+TOI-1601 b
+TOI-178c
+TOI-4138b
+TOI-628 b
+TOI-640 b
+TOI 677 b
+TOI 700 d
+TRAPPIST-1b
+TRAPPIST-1c
+TRAPPIST-1d
+TRAPPIST-1e
+TRAPPIST-1f
+TRAPPIST-1g
+TRAPPIST-1h
+TW Hydrae b
+The sensory enhancement theory of object-based attention
+Thebe
+Thelxinoe
+Themisto
+Thermal equator
+Theta Orionis
+Thiazzi
+Toothed belt
+Topological monoid
+Town Belt
+TrES-1b
+TrES-2b
+TrES-3b
+TrES-4b
+Vinicius Magalhães
+Viral phenomenon
+Virtual goods
+Young tableau
+Yuggoth
+ZIMPOL/CHEOPS
+Medoid
+Rainbow
+Centaur
+Central Lapland Greenstone Belt
+Ceres
+Cetiya
+Chaldene
+Distributed object
+Distribution
+Dora Kent
+Downbelow
+Dreamcatcher
+Duck decoy
+HAT-P-11b
+HAT-P-12b
+HAT-P-13b
+HAT-P-13c
+HAT-P-14b
+HAT-P-1b
+HAT-P-24b
+HAT-P-2b
+HAT-P-32b
+HAT-P-33b
+HAT-P-3b
+HAT-P-4b
+HAT-P-50b
+HAT-P-5b
+HAT-P-6b
+HAT-P-7b
+HAT-P-8b
+HAT-P-9b
+HATS-11b
+HATS-36b
+HD 100777 b
+HD 10180 c
+HD 101930 b
+HD 102117 b
+HD 102195 b
+HD 102272 b
+HD 102272 c
+HD 102956 b
+HD 103197 b
+HD 104067 b
+HD 104985 b
+HD 106252 b
+HD 10647 b
+HD 106906 b
+HD 107148 b
+HD 108147 b
+HD 108874 b
+HD 108874 c
+HD 109749 b
+HD 111232 b
+HD 113538 b
+HD 113538 c
+HD 114386 b
+HD 114729 b
+HD 114762 b
+HD 114783 b
+HD 11506 b
+HD 11506 c
+HD 117207 b
+HD 117618 b
+HD 118203 b
+HD 11964 b
+HD 11964 c
+HD 121504 b
+HD 122430 b
+HD 125612 b
+HD 125612 c
+HD 125612 d
+HD 126614 Ab
+HD 12661 b
+HD 12661 c
+HD 128311 b
+HD 128311 c
+HD 129445 b
+HD 130322 b
+HD 132406 b
+HD 136418 b
+HD 13931 b
+HD 139357 b
+HD 141937 b
+HD 142022 Ab
+HD 142415 b
+HD 142 b
+HD 143361 b
+HD 145377 b
+HD 1461 b
+HD 147018 b
+HD 147018 c
+HD 147513 b
+HD 148156 b
+HD 148427 b
+HD 149026 b
+HD 149143 b
+HD 152079 b
+HD 153950 b
+HD 154345 b
+HD 154672 b
+HD 154857 b
+HD 154857 c
+HD 155233 b
+HD 155358 b
+HD 155358 c
+HD 156411 b
+HD 156668 b
+HD 156846 b
+HD 159868 b
+HD 16175 b
+HD 163607 b
+HD 163607 c
+HD 16417 b
+HD 164595 b
+HD 164604 b
+HD 164922 b
+HD 164922 c
+HD 167042 b
+HD 168443 b
+HD 169830 b
+HD 169830 c
+HD 170469 b
+HD 17092 b
+HD 171028 b
+HD 171238 b
+HD 17156 b
+HD 173416 b
+HD 175167 b
+HD 175541 b
+HD 178911 Bb
+HD 179079 b
+HD 179949 b
+HD 180902 b
+HD 181342 b
+HD 181433 b
+HD 181433 c
+HD 181433 d
+HD 181720 b
+HD 183263 b
+HD 183263 c
+HD 185269 b
+HD 187085 b
+HD 187123 b
+HD 187123 c
+HD 188015 b
+HD 189733 b
+HD 190647 b
+HD 190984 b
+HD 191806 b
+HD 192263 b
+HD 192310 b
+HD 192310 c
+HD 192699 b
+HD 19467 B
+HD 195019 b
+HD 196050 b
+HD 196885 Ab
+HD 202206 b
+HD 202206 c
+HD 203473 b
+HD 20367 b
+HD 2039 b
+HD 204313 b
+HD 205739 b
+HD 206610 b
+HD 20781 b
+HD 20781 c
+HD 20782 b
+HD 208487 b
+HD 20868 b
+HD 209458 b
+HD 210277 b
+HD 210702 b
+HD 212301 b
+HD 212771 b
+HD 213240 b
+HD 215497 b
+HD 215497 c
+HD 216770 b
+HD 217107 b
+HD 217107 c
+HD 219134 b
+HD 219134 c
+HD 219134 d
+HD 219134 f
+HD 219134 g
+HD 219134 h
+HD 219828 b
+HD 221287 b
+HD 222582 b
+HD 224693 b
+HD 23079 b
+HD 23127 b
+HD 231701 b
+HD 23596 b
+HD 240210 b
+HD 240237 b
+HD 24040 b
+HD 2638 b
+HD 27631 b
+HD 27894 b
+HD 28185 b
+HD 28254 b
+HD 290327 b
+HD 30177 b
+HD 30562 b
+HD 32518 b
+HD 330075 b
+HD 33283 b
+HD 33564 b
+HD 34445 b
+HD 37124 b
+HD 37124 c
+HD 37124 d
+HD 37605 b
+HD 38283 b
+HD 38529 b
+HD 38801 b
+HD 40307 b
+HD 40307 c
+HD 40307 d
+HD 40307 e
+HD 40307 f
+HD 40307 g
+HD 40979 b
+HD 41004 Ab
+HD 4113 b
+HD 4203 b
+HD 4208 b
+HD 4308 b
+HD 4313 b
+HD 43197 b
+HD 43691 b
+HD 44219 b
+HD 45350 b
+HD 45364 b
+HD 45364 c
+HD 45652 b
+HD 46375 b
+HD 47186 b
+HD 47186 c
+HD 47536 b
+HD 47536 c
+HD 48265 b
+HD 49674 b
+HD 50499 b
+HD 50554 b
+HD 52265 b
+HD 5319 b
+HD 59686 b
+HD 60532 b
+HD 60532 c
+HD 63454 b
+HD 6434 b
+HD 65216 b
+HD 66428 b
+HD 6718 b
+HD 68988 b
+HD 68988 c
+HD 69830 b
+HD 69830 c
+HD 69830 d
+HD 70573 b
+HD 70642 b
+HD 72659 b
+HD 73256 b
+HD 73267 b
+HD 73526 b
+HD 73526 c
+HD 73534 b
+HD 74156 b
+HD 74156 c
+HD 75289 b
+HD 76700 b
+HD 7924 b
+HD 80606 b
+HD 81040 b
+HD 82943 b
+HD 82943 c
+HD 83443 b
+HD 8535 b
+HD 85390 b
+HD 85512 b
+HD 8574 b
+HD 86081 b
+HD 86226 b
+HD 86264 b
+HD 87883 b
+HD 88133 b
+HD 89307 b
+HD 89345 b
+HD 89744 b
+HD 90156 b
+HD 92788 b
+HD 93083 b
+HD 9446 b
+HD 9446 c
+HD 95086 b
+HD 9578 b
+HD 96167 b
+HD 99109 b
+HH 47
+HIP 116454 b
+HIP 11915 b
+HIP 14810 b
+HIP 14810 c
+HIP 14810 d
+HIP 41378 b
+HIP 41378 c
+HIP 41378 d
+HIP 41378 e
+HIP 41378 f
+HIP 5158 b
+HIP 5158 c
+HIP 57274 d
+HIP 65426 b
+HIP 67522 b
+HIP 70849 b
+HIP 78530 b
+HIP 79431 b
+Inferior and superior planets
+Juju
+Julia Cross
+Juliet
+Jungle girl
+Jupiter
+Jupiter LI
+Jupiter LII
+Jupiter LIV
+Jupiter LIX
+Jupiter LV
+Jupiter LVI
+Jupiter LXI
+Jupiter LXIII
+Jupiter LXIV
+Jupiter LXIX
+Jupiter LXVI
+Jupiter LXVII
+Jupiter LXVIII
+Jupiter LXX
+Jupiter LXXII
+Materialized view
+Mike Fowler
+Negatives 2
+Neptune
+Nereid
+Neso
+Nessus
+Nielsen–Olesen vortex
+Nielsen–Olsen string
+Nix
+Realia
+Red Lake greenstone belt
+Red Square Nebula
+Reeb graph
+Samuel Braga
+Scottish inventions and discoveries
+Sednoid
+Thrymr
+Thyone
+Timeline of Irish inventions and discoveries
+Trans-Mexican Volcanic Belt
+Alpha Centauri Bc
+Diipetes
+Xolnar
+Deep-sky object
+Deimos
+Delivery point
+Delta set
+Demetrius Havanas
+Denkmalgeschütztes Objekt
+Desdemona
+Design tool
+Despina
+Destroyer
+Farbauti
+Felicia Oh
+Fenrir
+Ferdinand
+Fermi ball
+Fynbos
+GQ Lupi b
+GU Piscium b
+G 9-40 b
+Galatea
+Galilean moons
+Gallifrey
+Gamma Cephei Ab
+Gamma Leonis b
+Ganymede
+Gartel
+Gas dwarf
+Gas giant
+Golden Girdle of Gaea
+Kepler-10b
+Kepler-10c
+Kepler-11b
+Kepler-11c
+Kepler-11d
+Kepler-11e
+Kepler-11f
+Kepler-11g
+Kepler-1229b
+Kepler-124b
+Kepler-12b
+Kepler-14b
+Kepler-1520b
+Kepler-1544 b
+Kepler-15b
+Kepler-1625b
+Kepler-1625b I
+Kepler-1647b
+Kepler-1649c
+Kepler-1652b
+Kepler-16b
+Kepler-1704b
+Kepler-1708b
+Kepler-1708b I
+Kepler-174
+Kepler-174b
+Kepler-174c
+Kepler-174d
+Kepler-17b
+Kepler-186b
+Kepler-186e
+Kepler-186f
+Kepler-19b
+Kepler-19c
+Kepler-20b
+Kepler-20c
+Kepler-20d
+Kepler-20e
+Kepler-20f
+Kepler-20g
+Kepler-22b
+Kepler-23b
+Kepler-23c
+Kepler-24b
+Kepler-24c
+Kepler-24d
+Kepler-24e
+Kepler-25b
+Kepler-25c
+Kepler-26e
+Kepler-277b
+Kepler-277c
+Kepler-283c
+Kepler-28b
+Kepler-296b
+Kepler-296c
+Kepler-296e
+Kepler-296f
+Kepler-298d
+Kepler-32b
+Kepler-32c
+Kepler-33b
+Kepler-345b
+Kepler-34b
+Kepler-36b
+Kepler-371b
+Kepler-371c
+Kepler-37b
+Kepler-37c
+Kepler-37d
+Kepler-390c
+Kepler-395c
+Kepler-39b
+Kepler-40b
+Kepler-413b
+Kepler-419b
+Kepler-419c
+Kepler-41b
+Kepler-421b
+Kepler-42c
+Kepler-432b
+Kepler-438b
+Kepler-440b
+Kepler-442b
+Kepler-443b
+Kepler-445b
+Kepler-445c
+Kepler-445d
+Kepler-447b
+Kepler-451b
+Kepler-452b
+Kepler-453b
+Kepler-47b
+Kepler-47c
+Kepler-4b
+Kepler-560b
+Kepler-56b
+Kepler-56c
+Kepler-59b
+Kepler-5b
+Kepler-60d
+Kepler-61b
+Kepler-62b
+Kepler-62c
+Kepler-62d
+Kepler-62e
+Kepler-62f
+Kepler-68b
+Kepler-68c
+Kepler-68d
+Kepler-69b
+Kepler-69c
+Kepler-6b
+Kepler-705b
+Kepler-70b
+Kepler-70c
+Kepler-737b
+Kepler-76b
+Kepler-78b
+Kepler-7b
+Kepler-87c
+Kepler-89e
+Kepler-8b
+Kepler-90e
+Kepler-90f
+Kepler-90g
+Kepler-90h
+Kepler-90i
+Kepler-91b
+Kepler-93b
+Kepler-9b
+Kepler-9c
+Kepler-9d
+Kerberos
+Krypton
+Kuray Mountains
+Leticia Ribeiro
+Lexell's Comet
+Mauricio Villardo
+Mawashi
+Methone
+Metis
+Metrical task system
+Metropolitan Green Belt
+Mystery airship
+Mythological king
+NGC 122
+NGC 123
+NGC 2423-3 b
+NGTS-13b
+NGTS-14Ab
+NGTS-1b
+NGTS-3Ab
+Narvi
+St. Tropez belt
+Valetudo
+Value object
+Vanth
+Variant object
+Warworld
+Darwin IV
+Gliese 229 Ab
+Outer planets
+CoRoT-10b
+CoRoT-11b
+CoRoT-12b
+CoRoT-13b
+CoRoT-14b
+CoRoT-16b
+CoRoT-17b
+CoRoT-18b
+CoRoT-19b
+CoRoT-1b
+CoRoT-20b
+CoRoT-20c
+CoRoT-21b
+CoRoT-22b
+CoRoT-23b
+CoRoT-24b
+CoRoT-24c
+CoRoT-2b
+CoRoT-3b
+CoRoT-4b
+CoRoT-5b
+CoRoT-6b
+CoRoT-7b
+CoRoT-7c
+CoRoT-7d
+CoRoT-8b
+CoRoT-9b
+Cognate object
+Colin Moon
+Colu
+Column
+Column family
+Combinatorial map
+Comet Encke
+Comet Holmes
+Comet Hyakutake
+Comet IRAS–Araki–Alcock
+Comet ISON
+Comet Lulin
+Comet Machholz
+Comet McNaught–Russell
+Comet Morehouse
+Comet Pojmański
+Comet Shoemaker–Levy 9
+Comet Skjellerup–Maristany
+Comet Stonehouse
+Comet Swift–Tuttle
+Comet White–Ortiz–Bolelli
+Comet Yi–SWAN
+Comet Zhu–Balam
+Comet of 1729
+Computable function
+Computational problem
+Conduit
+Congolian forests
+Convex lattice polytope
+Cordelia
+Coruscant
+Cosmic Cube
+Cosmic pluralism
+Elara
+Electromagnetic tensor
+Elunetru
+Enceladus
+Endor
+Entellus
+Epimetheus
+Epsilon Eridani b
+Epsilon Reticuli b
+Epsilon Tauri b
+Erinome
+Eris
+Fornjot
+Francisco
+Gerd
+Giedi Prime
+Girl next door
+Gliese 1132 b
+Gliese 1214 b
+Gliese 15 Ab
+Gliese 15 Ac
+Gliese 163 c
+Gliese 176 b
+Gliese 179 b
+Gliese 3021 b
+Gliese 317 b
+Gliese 3470 b
+Gliese 357 d
+Gliese 3634 b
+Gliese 367 b
+Gliese 422 b
+Gliese 436 b
+Gliese 504 b
+Gliese 536 b
+Gliese 581 c
+Gliese 581 d
+Gliese 581 e
+Gliese 581 g
+Gliese 581b
+Gliese 581c
+Gliese 581d
+Gliese 581e
+Gliese 581g
+Gliese 649 b
+Gliese 667 Cb
+Gliese 667 Cc
+Gliese 674 b
+Gliese 777 b
+Gliese 777 c
+Gliese 832 b
+Gliese 832 c
+Gliese 849 b
+Gliese 86 b
+Gliese 876 b
+Gliese 876 c
+Gliese 876 d
+Gliese 876 e
+Gope boards
+Ice giant
+Ice planet
+Ijiraq
+Ilargi
+Ilmarë
+Jyotirlinga
+Júlio 'Foca' Fernandez
+K2-138b
+K2-141b
+K2-146b
+K2-148b
+K2-155d
+K2-18b
+K2-21b
+K2-21c
+K2-229b
+K2-22b
+K2-236b
+K2-24b
+K2-24c
+K2-288Bb
+K2-296b
+K2-315b
+K2-33b
+K2-38b
+K2-3b
+K2-3c
+K2-3d
+K2-66b
+K2-72b
+K2-72c
+K2-72d
+K2-72e
+KELT-10b
+KELT-11b
+KELT-18b
+KELT-2Ab
+KELT-3b
+KELT-4Ab
+KELT-6b
+KELT-9b
+KOI-4878.01
+KOI-7617.01
+Kamino
+Kappa Andromedae b
+Kappa Coronae Borealis b
+Kapteyn b
+Kapteyn c
+Kari
+Kobol
+Kojima-1Lb
+Kore
+Lawn ornament
+Leda
+Lincolnshire Marsh
+Linus
+List of Jupiter-crossing minor planets
+List of Mars-crossing minor planets
+List of Mercury-crossing minor planets
+List of Mexican inventions and discoveries
+List of Neptune-crossing minor planets
+List of Saturn-crossing minor planets
+List of craters on Ganymede
+List of hypothetical Solar System objects
+Lunula
+Lupus-TR-3b
+Luristan bronze
+Luyten b
+Lysithea
+Makemake
+Mars
+Mega-Earth
+Megaclite
+Megingjörð
+Micromachinery
+Micrometeoroid
+Midnight Blue Belt
+Pignora imperii
+Serpentine belt
+Setebos
+Setouchi Volcanic Belt
+Shadow table
+Siarnaq
+Sierra de los Tuxtlas
+Simplicial Lie algebra
+Simplicial group
+Simplicial space
+Sinope
+Spell-caster
+Sponde
+Stephano
+Sycorax
+Token
+Token coin
+Yavin
+Yellowknife greenstone belt
+Yiqiejing yinyi
+Ymir
+Zunnar
+Charon
+Chi Virginis b
+Chiwara
+Christingle
+Cindy Omatsu
+Circumbinary planet
+Classical Kuiper belt object
+Classical planet
+Classification theorem
+Czarnia
+D-brane
+DENIS-P J082303.1-491201 b
+DENIS-P J082303.1−491201 b
+DN160822 03
+DP Leonis b
+Dactyl
+Damocloid
+Dantooine
+Daphnis
+DarkComet
+Dark star
+Darkover
+David Vieira
+Daxam
+Dia
+Dice
+Diffiety
+Diffuson
+Dimorphos
+Dione
+Discoveries of exoplanets
+Dwarf planet
+Dysnomia
+E-type asteroid
+EPIC 2037 b
+EPIC 2037 c
+Eadgyth of Aylesbury
+Earth
+Earth-grazing meteoroid of 13 October 1990
+Earth phase
+Earth trojan
+East-Asian Planet Search Network
+Ebony Wall
+Eccentric Jupiter
+Ecstall Greenstone Belt
+Eduardo de Lima
+Eggther
+Eirene
+Erriapus
+Ersa
+Eta2 Hydri b
+Eternal feminine
+Eternia
+Ethnotaxonomy
+Euanthe
+Eukelade
+Eupheme
+Euporie
+Europa
+Eurydome
+Event
+Exocomet
+Exoplanet
+Extragalactic planet
+Fakeflash
+Film memorabilia
+Fish aggregating device
+Fixed stars
+Fixes that fail
+Flin Flon greenstone belt
+Foil
+Fomalhaut b
+Humanistic coefficient
+Hwang Hyun-chul
+Janus
+Jarnsaxa
+Jerusalem Cube
+List of Uranus-crossing minor planets
+List of Venus-crossing minor planets
+Mimas
+Mini-Neptune
+Mons Huygens
+Moon
+Moons of Jupiter
+Mount Read Volcanics
+Proxima Centauri b
+Proxima Centauri c
+Proxima Centauri d
+Psamathe
+Pseudofossil
+Puck
+ROXs 42Bb
+Radio star
+Radon–Nikodym set
+Rann
+RavMonE.exe
+Readymades of Marcel Duchamp
+Salusa Secundus
+Sam Browne belt
+Cressida
+CryptoLocker
+Cult image
+Cupid
+Cybertron
+Cyllarus
+Cyllene
+Kaitain
+Kallichore
+Kalyke
+LHS 1140 b
+LHS 1815b
+LHS 3844 b
+LTT 1445Ab
+L 98-59 b
+La belle juive
+Lacaille 9352 c
+Lacquerware
+Laomedeia
+Larin
+Larissa
+Lúcio Rodrigues
+M-type asteroid
+MG 81 machine gun
+MOA-2007-BLG-192Lb
+MOA-2007-BLG-197Lb
+MOA-2007-BLG-400Lb
+MOA-2008-BLG-310Lb
+MOA-2009-BLG-387Lb
+MOA-2011-BLG-262L
+MOA-2011-BLG-262Lb
+Mab
+MacDowell–Mansouri action
+Manikin scepter
+Manuport
+Noumenon
+P/2010 B2
+P/2011 NO1
+P/2019 LD2
+PGPCoder
+PH1b
+PRL Advanced Radial-velocity All-sky Search
+PSO J318.5-22
+PSO J318.5−22
+PSR B1257+12 A
+PSR B1257+12 B
+PSR B1257+12 C
+PSR B1620-26 b
+PSR B1620−26 b
+PSR J1719-1438 b
+PSR J1719−1438 b
+Paaliaq
+Semi-infinite
+Sepulka
+Skaro
+Skathi
+Skeuomorph
+Skoll
+Skrymir
+Tipler cylinder
+Titan
+Titan in fiction
+Titania
+Winnipegosis komatiite belt
+Wise old man
+Wolf 1061b
+Wolf 1061c
+Wolf 1061d
+Comet Pereyra
+Terminal action codes
+Greip
+Gridr
+Gulf of Aden
+Gunnlod
+Gustavo Dantas
+HMS Garland
+HR 2562 b
+HR 5183 b
+HR 7722 b
+HR 7722 c
+HR 8799 b
+HR 8799 c
+HR 8799 d
+HR 8799 e
+Halimede
+Halley's Comet
+Holly King
+Holomorphic function
+Hot Jupiter
+Hot Neptune
+Hoth
+Jorune
+Kashyyyk
+Kathleen Dorsett
+Kite types
+Kiviuq
+Klerksdorp sphere
+List of planet killers
+List of polygons, polyhedra and polytopes
+LkCa 15 b
+Mountains of Central Asia
+Mu Arae b
+Mu Arae c
+Mu Arae d
+Mu Arae e
+Multipliers and centralizers
+Mundilfari
+NTFS symbolic link
+NTFS volume mount point
+NY Vir b
+Naboo
+Naiad
+Nail
+Nail
+Namaka
+National redoubt of Belgium
+Necklace of Harmonia
+Rodrigo Medeiros
+Rogue planet
+Runtime Callable Wrapper
+Ryan Hall
+Snowball
+Social objects
+Solar System in fiction
+Solaria
+Surtur
+Survey marker
+Suttungr
+Swashbuckler
+Swayze greenstone belt
+Teegarden's Star b
+Teegarden's Star c
+Telesto
+Telos
+Tempel 1
+The Night Watch
+The Quiet Hype
+Upsilon Andromedae b
+Upsilon Andromedae c
+Upsilon Andromedae d
+Upsilon Andromedae e
+Uranus
+V391 Pegasi b
+V774104
+V830 Tauri b
+VP-94
+Harpalyke
+Hati
+Haumea
+Hegemone
+Helene
+Helike
+Helion
+Helium planet
+Hercolubus
+Heritage objects
+Hermippe
+Herse
+Higraph
+Hilbert C*-module
+Hilton Leão
+Himalia
+HippoDraw
+Hippocamp
+Ix
+J-type asteroid
+JMASS J2126-8140
+List of Austrian inventions and discoveries
+List of Earth-crossing minor planets
+List of English inventions and discoveries
+Paulo Miyao
+Perdita
+Pern
+Peter Letsos
+Petit-Prince
+Phaeton
+Philophrosyne
+Phobos
+Phoebe
+Pholus
+Photometeor
+Pi Mensae b
+Raimondi Stele
+Ranger
+Wave function
+Webbed belt
+KOI-7599.01
+30 Arietis Bb
+Sacramentals
+Dar Sai
+Trom
+Bismoll
+Halvmörk
+Weber's World
+Lie group–Lie algebra correspondence
+Margaret
+Nu2 Canis Majoris b
+Nuage articulé
+OGLE-2003-BLG-235Lb/MOA-2003-BLG-53Lb
+OGLE-2005-BLG-071Lb
+OGLE-2005-BLG-169Lb
+OGLE-2005-BLG-390Lb
+OGLE-2006-BLG-109Lb
+OGLE-2006-BLG-109Lc
+OGLE-2007-BLG-349(AB)b
+OGLE-2007-BLG-368Lb
+OGLE-2014-BLG-0124Lb
+OGLE-2016-BLG-1190Lb
+OGLE-2016-BLG-1195Lb
+OGLE-2017-BLG-1522Lb
+OGLE-2018-BLG-0799Lb
+OGLE-2018-BLG-1119Lb
+OGLE-2019-BLG-0960Lb
+OGLE-TR-10b
+OGLE-TR-111b
+OGLE-TR-113b
+OGLE-TR-132b
+OGLE-TR-182b
+OGLE-TR-211b
+OGLE-TR-56b
+OGLE2-TR-L9b
+Oa
+Operand
+Ophelia
+Orando
+Orthosie
+Pallene
+Pan
+Pandia
+Pandora
+Paper knife
+Paquet congo
+Reinventing the wheel
+Religious images in Christian theology
+Reluctant hero
+Remus
+Renato Verissimo
+Representations of Anne of Brittany
+Resonant trans-Neptunian object
+Riverworld
+Robert Drysdale
+X-ray pulsar
+X/1106 C1
+XO-1b
+XO-2Nb
+XO-3b
+XO-4b
+XO-5b
+XO-6b
+XO Telescope
+Xandar
+Xi Aquilae b
+Xiangliu
+YSES 2 b
+Yahoo! Assistant
+Non-solid
+Oberon
+PlanetPol
+Planet Nine
+Planet V
+Planetesimal
+Planets in science fiction
+Plutino
+Pluto
+Plutoid
+Portia
+Potentially hazardous object
+Pottsville Escarpment
+Power-up
+Pr0201 b
+Pr0211 b
+Pr0211 c
+Praxidike
+Prayer stick
+Prince Rupert's Drop
+Principal bundle
+Prometheus
+Prospero
+Proteus
+Rhea
+Rho Indi b
+Romantic hero
+Rosalind
+Ross 128 b
+SWAP
+SWEEPS-04
+SWEEPS-11
+Sangre
+Sao
+TeslaCrypt
+Tethys
+Thalassa
+Trinculo
+Triton
+Trojan
+Clay drum
+Gaia
+HD 168746 b
+HD 17156 c
+HD 75898 b
+Trantor
+Issuer action codes
+Tucson artifacts
+Tulks Volcanic Belt
+Umbriel
+Unicorn horn
+Venus
+Vexillum
+Volcanic plug
+Vortis
+Vulcan
+WASP-104b
+WASP-107b
+WASP-10b
+WASP-11b/HAT-P-10b
+WASP-121b
+WASP-12b
+WASP-13b
+WASP-14b
+WASP-15b
+WASP-16b
+WASP-17b
+WASP-189 b
+WASP-18b
+WASP-19b
+WASP-1b
+WASP-22b
+WASP-24b
+WASP-28b
+WASP-2b
+WASP-31b
+WASP-33b
+WASP-39b
+WASP-3b
+WASP-43b
+WASP-44b
+WASP-48b
+WASP-4b
+WASP-5b
+WASP-6b
+WASP-76b
+WASP-79b
+WASP-7b
+WASP-85 Ab
+WASP-8b
+WASP-96b
+WD 1145+017 b
+WT1190F
+Waist cincher
+Weywot
+Prehistoric grave goods in the Philippines
+Takis
+Chicxulub impactor
+Vinea
+Sorcerers' World
+Counter-Earth
+Delver
+Heart of the Universe
+H'lven
+Set notation
+Athas
+Dark is the Moon
+Oerth
+Gliese 682 c
+Saraksh
+HD 180314 b
+Beta Circini b
+apparent magnitude
+escape velocity
+mean radius
+Method of discovery
+maximum temperature
+mean temperature
+minimum temperature
+surface area
+HD 219134 e
+albedo
+epoch
+orbital period
+rotation period
+apoapsis
+average speed
+density
+mass
+mean radius
+orbital period
+periapsis
+surface area
+temperature
+volume
+satellite
+surface gravity

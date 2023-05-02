@@ -1,0 +1,3418 @@
+$50SAT
+14-XS
+1KUNS-PF
+2001 Mars Odyssey
+A-001
+A-002
+A-003
+A-004
+AAUSat-2
+AAUSat-3
+AAU CubeSat
+ABRIXAS
+ABS-2A
+ABS-3
+ABS-3A
+ABS-7
+ACRIMSAT
+ADAHELI
+ADEOS I
+ADEOS II
+ADM-Aeolus
+AEROS
+AESP-14
+AGILE
+AIDA
+AISSat-1
+ALMASat-1
+ALOS-2
+ALTIUS
+AMC-1
+AMC-10
+AMC-11
+AMC-12
+AMC-14
+AMC-15
+AMC-16
+AMC-18
+AMC-2
+AMC-21
+AMC-23
+AMC-3
+AMC-4
+AMC-5
+AMC-6
+AMC-7
+AMC-8
+AMC-9
+AMOS-17
+AMOS-1
+AMOS-2
+AMOS-3
+AMOS-4
+AMOS-5
+AMOS-6
+AMOS-8
+AMPTE-CCE
+AMPTE-IRM
+AMPTE-UKS
+AMSAT-OSCAR 10
+AMSAT-OSCAR 16
+AMSAT-OSCAR 51
+AMSAT-OSCAR 7
+ANASIS-II
+ANNA 1B
+ANUSAT
+ARIEL
+ARSAT-1
+ARSAT-2
+ARSAT SG-1
+ART-XC
+AS-101
+AS-102
+AS-103
+AS-104
+AS-105
+AS-201
+AS-202
+AS-203
+ASTERIA
+ASTERISC
+ASTER
+ASTRO
+ASUSat
+ATS-1
+ATS-2
+ATS-3
+ATS-4
+ATS-6
+AVIATR
+Aalto-1
+Aditya-L1
+Advanced Composition Explorer
+Advanced Land Observation Satellite
+Advanced Photovoltaic & Electronic Experiment
+Advanced Satellite for Cosmology and Astrophysics
+Advanced Telescope for High Energy Astrophysics
+Aerial Regional-scale Environmental Survey
+AeroCube-3
+Aeronomy of Ice in the Mesosphere
+Afghansat 1
+AfriStar
+Agila-1
+Aist 1
+Ajisai
+Akari
+Akatsuki
+Akebono
+Al-Ta'ir
+AlSAT-1
+Albert Einstein ATV
+Alcomsat-1
+Alexander
+Alouette 1
+Alouette 2
+Alsat-1B
+Alsat-2A
+Altair
+Amazonas 1
+Amazonas 3
+Amazonas 4A
+Amazonas 5
+Amazônia-1
+Angara-1.2pp
+AngoSat 1
+Antares A-ONE
+Apollo 1
+Apollo 10
+Apollo 11
+Apollo 12
+Apollo 13
+Apollo 14
+Apollo 15
+Apollo 16
+Apollo 17
+Apollo 4
+Apollo 5
+Apollo 6
+Apollo 7
+Apollo 8
+Apollo 9
+Apollo–Soyuz
+Apstar 2
+Apstar 6
+Apstar 6C
+Apstar 7
+Aqua
+Arabsat-1A
+Arabsat-1B
+Arabsat-5A
+Arabsat-6A
+Arase
+Arcus
+ArduSat
+ArgoMoon
+Argo
+Ariane Passenger Payload Experiment
+Ariane flight V88
+Ariel 1
+Ariel 2
+Ariel 3
+Ariel 4
+Ariel 5
+Ariel 6
+Artemis
+Artemis 1
+Artemis 2
+Artemis 3
+Artemis 4
+Artemis 5
+Aryabhata
+Ascent Abort-2
+Asgardia
+AsiaSat 1
+AsiaSat 2
+AsiaSat 3S
+AsiaSat 4
+AsiaSat 5
+AsiaSat 6
+AsiaSat 7
+AsiaSat 8
+AsiaSat 9
+AsiaStar
+Astra 1A
+Astra 1B
+Astra 1C
+Astra 1D
+Astra 1E
+Astra 1F
+Astra 1G
+Astra 1H
+Astra 1K
+Astra 1KR
+Astra 1L
+Astra 1M
+Astra 1N
+Astra 2A
+Astra 2B
+Astra 2C
+Astra 2D
+Astra 2E
+Astra 2F
+Astra 2G
+Astra 3A
+Astra 3B
+Astra 4A
+Astra 5A
+Astra 5B
+Astrid
+Astrobiology Field Laboratory
+Astron
+Astronomical Netherlands Satellite
+Astrosat
+Astrosat-2
+Astérix
+Athena-Fidus
+Atmospheric Neutral Density Experiment
+AubieSat-1
+Aura
+Australis-OSCAR 5
+Autonomous Nanosatellite Guardian for Evaluating Local Space
+Axiom Mission 1
+Axiom Mission 2
+Freja
+Hitchhiker 1
+Hitchhiker 2
+Hiten
+Hitomi
+Hodoyoshi 1
+Hodoyoshi 3
+Hodoyoshi 4
+InSight
+IndoStar-1
+International Ultraviolet Explorer
+International X-ray Observatory
+Interstellar Boundary Explorer
+Interstellar Express
+Interstellar Mapping and Acceleration Probe
+Interstellar Probe
+Io Volcano Observer
+Iodine Satellite
+Ionosat-Micro
+Ionosphere-Thermosphere Storm Probes
+Ionospheric Connection Explorer
+Irazú
+Iridium 33
+Iridium 7
+Iridium 77
+Johannes Kepler ATV
+Lem
+AzaadiSAT
+Azersky
+Azerspace-1/Africasat-1a
+Azerspace-2
+Azur
+BGUSAT
+BHUTAN-1
+BILSAT-1
+BLITS
+BOLAS
+BRAC Onnesha
+BRICSat-2
+BRICSat-P
+BSAT-1a
+BSAT-1b
+BSAT-2a
+BSAT-2b
+BSAT-2c
+BSAT-3a
+BSAT-3b
+BSAT-3c
+BSAT-4a
+BSAT-4b
+Badr-1
+Badr-4
+Badr-B
+Badr
+Bangabandhu-1
+Banxing
+Beach Abort
+Beagle 2
+BeeSat-1
+BeiDou-3 M1
+BelKA
+Belintersat-1
+Bell
+BepiColombo
+BeppoSAX
+Beresheet
+Beresheet 2
+Bhaskara
+Big Joe 1
+Bilibili Video Satellite
+BioSentinel
+Biological Oxidant and Life Detection
+Biomass
+Bion-M No.1
+Bion-M No.2
+Bion 11
+Biosatellite 1
+Biosatellite 2
+Biosatellite 3
+BlackSky Pathfinder-1
+Blackjack
+Blue Moon
+Blue Origin NS-16
+Blue Origin NS-18
+Blue Origin NS-19
+Blue Origin NS-20
+Blue Origin NS-21
+Blue Origin NS-22
+Boeing Crewed Flight Test
+Boeing Orbital Flight Test 2
+Boeing Starliner-1
+Brasilsat A1
+Brasilsat A2
+Brasilsat B1
+Brasilsat B2
+Brasilsat B3
+Brik-II
+BugSat 1
+BulgariaSat-1
+Bulgaria 1300
+C/NOFS
+CAESAR
+CALIPSO
+CAPE-1
+CAPE-2
+CAPSTONE
+CAS500
+CASSIOPE
+CASTOR
+CAT-1
+CBERS-1
+CBERS-2
+CBERS-2B
+CBERS-3
+CBERS-4
+CERES
+CHEOPS
+CHIPS
+CMS-01
+CMS-02
+CONTOUR
+COSMIC-2
+COSMO-1
+CP6
+CRRES
+CUTE-1.7 + APD
+CUTE-1.7 + APD II
+CXBN
+CXBN-2
+Cartosat-1
+Cartosat-2
+Cartosat-2A
+Cartosat-2B
+Cartosat-2C
+Cartosat-2D
+Cartosat-2E
+Cartosat-2F
+Cartosat-3
+Cassini–Huygens
+Castalia
+Gemini 1
+Gemini 10
+Gemini 11
+Gemini 12
+Gemini 2
+Gemini 3
+Gemini 4
+Gemini 5
+Gemini 6A
+Gemini 7
+Gemini 8
+Gemini 9A
+GeneSat-1
+Genesis
+Genesis I
+Genesis II
+GeoEye-1
+Graham
+Granat
+Gravity Field and Steady-State Ocean Circulation Explorer
+Gravity Gradient Technology Satellite
+Gravity Probe A
+Gravity Probe B
+Gravity and Extreme Magnetism Small Explorer
+HySIS
+Hypersonic Flight Experiment
+ICESat
+ICESat-2
+ICube-1
+IKAROS
+IMAGE
+IMS-1
+INSAT-1A
+INSAT-1B
+INSAT-1C
+INSAT-1D
+INSAT-2A
+INSAT-2D
+INSAT-2DT
+INSAT-2E
+INSAT-3A
+INSAT-3B
+INSAT-3C
+INSAT-3D
+INSAT-3DR
+INSAT-3E
+INSAT-4A
+INSAT-4B
+INSAT-4C
+INSAT-4CR
+INSAT-4E
+INSAT 2B
+INTEGRAL
+INVADER
+ION Satellite Carrier
+IRAS
+IRNSS-1A
+IRNSS-1B
+IRNSS-1C
+IRNSS-1D
+IRNSS-1E
+IRNSS-1F
+IRNSS-1G
+IRNSS-1H
+IRNSS-1I
+IRS-1A
+IRS-1B
+IRS-1C
+IRS-1D
+IRS-1E
+IRS-P2
+IRS-P3
+ISEE-1
+ISEE-2
+ISIS
+ISOCHRON
+ISRO Pad Abort Test
+ISS year-long mission
+ITF-1
+ITOS-B
+ITOS-E
+ITUpSAT1
+IceCube
+Landsat 1
+Landsat 2
+Landsat 3
+Landsat 4
+Landsat 5
+Landsat 6
+Landsat 7
+Landsat 8
+Landsat 9
+Long Duration Exposure Facility
+Magellan
+Magnetospheric Multiscale Mission
+Miranda
+Missão Centenário
+Parker Solar Probe
+ParkinsonSAT
+Pathfinder Technology Demonstrator
+Q-PACE
+QZS-1R
+Star One B4
+Star One C1
+Star One C12
+Star One C2
+Star One C3
+Star One C4
+Star One D1
+Star One D2
+Stardust
+Starlette and Stella
+Stars-AO
+Starshine 3
+StudSat
+Student Nitric Oxide Explorer
+Submillimeter Wave Astronomy Satellite
+Suisei
+SumbandilaSat
+Sunjammer
+Sunrise
+Suomi NPP
+Super Low Altitude Test Satellite
+Superbird-9
+Superbird-A
+Superbird-A1
+Superbird-A2
+Superbird-B
+Superbird-B1
+Superbird-B2
+Superbird-B3
+Superbird-C
+Superbird-C2
+Surface Water and Ocean Topography
+TanDEM-X
+TanSat
+Tancredo-1
+Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites
+TeLEOS-1
+Team Miles
+Tempsat-1
+Tera-hertz Explorer
+TerraSAR-X
+Terra
+TerreStar-1
+Mercury-Atlas 1
+Mercury-Atlas 10
+Mercury-Atlas 2
+Mercury-Atlas 3
+Mercury-Atlas 4
+Mercury-Atlas 5
+Mercury-Atlas 6
+Mercury-Atlas 7
+Mercury-Atlas 8
+Mercury-Atlas 9
+Mercury-P
+Mercury-Redstone 1
+Mercury-Redstone 1A
+Mercury-Redstone 2
+Mercury-Redstone 3
+Mercury-Redstone 4
+Mercury-Redstone BD
+Mercury-Scout 1
+Meridian 1
+Meridian 2
+Meridian 3
+Meridian 4
+Meridian 5
+Meridian 6
+Mohammed VI
+Molniya-1 No.2
+Neutron Star Interior Composition Explorer
+New Horizons
+Ohsumi
+Olymp-K
+Paz
+Pegasus 1
+Pegasus 2
+Polar
+Polarimeter to Unify the Corona and Heliosphere
+Polaris Dawn
+Quakesat
+Quantum Experiments at Space Scale
+Queqiao relay satellite
+QuetzSat 1
+QuikSCAT
+RADARSAT Constellation
+RADCAL
+RAIKO
+RAISE-2
+RAPIS-1
+RASAT
+RAX-2
+SABIA-Mar
+SAC-D
+SACI-1
+SACI-2
+SAOCOM
+SAPPHIRE
+SARAL
+SBS 1
+SBS 2
+SBS 3
+SBS 4
+SBS 6
+SBUDNIC
+SCISAT-1
+SCORE
+SDS-1
+SDS-4
+SEATEST II
+SEDSAT-1
+SEEDS-2
+SELENE
+SELENE-2
+SEOSat-Ingenio
+SERT-1
+SERVIS-1
+SERVIS-2
+SES-1
+SES-10
+SES-11
+SES-12
+SES-14
+SES-15
+SES-16
+SES-17
+SES-2
+SES-3
+SES-4
+SES-5
+SES-6
+SES-7
+SES-8
+SES-9
+SGDC-1
+SHALOM
+SICRAL 1B
+SKIM
+SMART-1
+SMILE
+SNAP-1
+SNAP-10A
+SNC Demo-1
+SOCRATES
+SOLRAD 1
+SOLRAD 10
+SOLRAD 2
+SOLRAD 3
+SOLRAD 4
+SOLRAD 4B
+SOLRAD 6
+SOLRAD 7A
+SOLRAD 7B
+SOLRAD 8
+SOLRAD 9
+SPADEX
+SPHEREx
+SPICA
+SPRITE
+SRMSAT
+SSETI Express
+SSOT
+SathyabamaSat
+Saturn Atmospheric Entry Probe
+Saturn I SA-1
+Saturn I SA-2
+Saturn I SA-3
+Saturn I SA-4
+Saturn I SA-5
+Satélite Tecnológico
+Satélite de Coleta de Dados
+Satélite de Reentrada Atmosférica
+Saudi-OSCAR 50
+SaudiGeoSat-1/HellasSat-4
+SaudiSat-4
+Shin'en
+Shukrayaan-1
+Solwind
+T10
+T11
+T12
+T14
+T5
+TACOMSAT
+TARANIS
+TD-1A
+TDF 1
+TDF 2
+TDRS-1
+TDRS-10
+TDRS-11
+TDRS-12
+TDRS-13
+TDRS-3
+TDRS-4
+TDRS-5
+TDRS-6
+TDRS-7
+TDRS-8
+TDRS-9
+TDRS-B
+TET-1
+THEMIS
+THEO
+THEOS
+THESEUS
+TIMED
+TIROS-1
+TIROS-10
+TIROS-2
+TIROS-3
+TIROS-4
+TIROS-5
+TIROS-6
+TIROS-7
+TIROS-8
+TIROS-9
+TIROS-M
+TIROS-N
+TMK
+TOPEX/Poseidon
+TRACE
+TUGSAT-1
+TUMnanoSAT
+TV-SAT 1
+TV-Sat 2
+TabletSat-Aurora
+TacSat-1
+TacSat-2
+TacSat-3
+TacSat-4
+TacSat-5
+TacSat-6
+TopSat
+Trace Gas Orbiter
+UPSat
+USA-10
+USA-100
+USA-117
+USA-126
+USA-128
+USA-130
+USA-132
+USA-135
+USA-145
+USA-150
+USA-151
+USA-154
+USA-156
+USA-165
+USA-166
+USA-168
+USA-175
+USA-177
+USA-178
+USA-180
+USA-183
+USA-184
+USA-190
+USA-192
+USA-193
+USA-195
+USA-196
+USA-197
+USA-198
+USA-199
+USA-1
+USA-200
+USA-201
+USA-202
+USA-203
+USA-204
+USA-205
+USA-206
+USA-207
+USA-211
+USA-212
+USA-213
+USA-214
+USA-215
+USA-221
+USA-223
+USA-224
+USA-225
+USA-226
+USA-227
+USA-229
+USA-230
+USA-231
+USA-232
+USA-233
+USA-234
+USA-235
+USA-239
+USA-240
+USA-241
+USA-242
+USA-243
+USA-244
+USA-245
+USA-246
+USA-247
+USA-248
+USA-251
+USA-256
+USA-258
+USA-260
+USA-261
+USA-262
+USA-263
+USA-265
+USA-266
+USA-268
+USA-272
+USA-273
+USA-275
+USA-277
+USA-282
+USA-288
+USA-289
+USA-291
+USA-292
+USA-293
+USA-298
+USA-299
+USA-304
+USA-309
+USA-35
+USA-38
+USA-42
+USA-47
+USA-49
+USA-5
+USA-50
+USA-54
+USA-63
+USA-64
+USA-66
+USA-71
+USA-79
+USA-80
+USA-83
+USA-84
+USA-85
+USA-87
+USA-88
+USA-90
+USA-91
+USA-92
+USA-94
+USA-96
+UWE-1
+UWE-2
+Uhuru
+UiTMSAT-1
+Viking
+Viking 1
+Viking 2
+Vinasat-1
+Vinasat-2
+Virgin Galactic Unity 21
+Virgin Galactic Unity 22
+Virgin Galactic Unity 23
+Yubileiny
+Yutu-2
+Yutu
+ZACube-1
+Zephyr
+Centaurus
+Cerise
+Chandra X-ray Observatory
+Chandrayaan-1
+Chandrayaan-2
+Chandrayaan-3
+Chang'e 1
+Chang'e 2
+Chang'e 3
+Chang'e 4
+Chang'e 5
+Chang'e 5-T1
+Chang'e 6
+Chang'e 7
+Diwata-1
+Diwata-2
+Don Quijote
+Dong Fang Hong 1
+Double Asteroid Redirection Test
+Double Star
+Dove-2
+Dove-OSCAR 17
+Drag and Atmospheric Neutral Density Explorer
+Dragon Spacecraft Qualification Unit
+Dragonfly
+Dual Air Density Explorer
+DubaiSat-1
+DubaiSat-2
+Göktürk-1
+Göktürk-2
+Göktürk-3
+HADES
+HALCA
+HETE 2
+HIBARI
+InflateSail
+Infrared Space Observatory
+Inmarsat-3 F4
+Inmarsat-4A F4
+Inmarsat-4 F1
+Inmarsat-4 F3
+Inmarsat-6 F1
+Innovative Space-based Radar Antenna Technology
+Inspiration4
+Intelsat 10-02
+Intelsat 11
+Intelsat 14
+Intelsat 15
+Intelsat 16
+Intelsat 19
+Intelsat 1R
+Intelsat 2
+Intelsat 20
+Intelsat 21
+Intelsat 22
+Intelsat 23
+Intelsat 27
+Intelsat 28
+Intelsat 29e
+Intelsat 33e
+Intelsat 34
+Intelsat 35e
+Intelsat 36
+Intelsat 3R
+Intelsat 5
+Intelsat 601
+Intelsat 602
+Intelsat 603
+Intelsat 604
+Intelsat 605
+Intelsat 6B
+Intelsat 7
+Intelsat 701
+Intelsat 702
+Intelsat 704
+Intelsat 705
+Intelsat 706
+Intelsat 707
+Intelsat 708
+Intelsat 709
+Intelsat 8
+Intelsat 801
+Intelsat 802
+Intelsat 804
+Intelsat 805
+Intelsat 9
+Intelsat 901
+Intelsat 902
+Intelsat 903
+Intelsat 904
+Intelsat 905
+Intelsat 906
+Intelsat 907
+Intelsat I
+Intelsat III F-1
+Intelsat III F-2
+Intelsat III F-3
+Intelsat III F-4
+Intelsat III F-5
+Intelsat III F-6
+Intelsat III F-7
+Intelsat III F-8
+Intelsat II F-1
+Intelsat II F-2
+Intelsat II F-3
+Intelsat II F-4
+Intelsat IVA F-1
+Intelsat IVA F-2
+Intelsat IVA F-3
+Intelsat IVA F-4
+Intelsat IVA F-5
+Intelsat IVA F-6
+Intelsat IV F-1
+Intelsat IV F-2
+Intelsat IV F-3
+Intelsat IV F-4
+Intelsat IV F-5
+Intelsat IV F-6
+Intelsat IV F-7
+Intelsat IV F-8
+Intelsat K
+Intelsat VA F-10
+Intelsat VA F-11
+Intelsat VA F-12
+Intelsat VA F-13
+Intelsat VA F-14
+Intelsat VA F-15
+Intelsat V F-1
+Intelsat V F-2
+Intelsat V F-3
+Intelsat V F-4
+Intelsat V F-5
+Intelsat V F-6
+Intelsat V F-7
+Intelsat V F-8
+Intelsat V F-9
+Intermediate eXperimental Vehicle
+International Cometary Explorer
+International Habitation Module
+International Lunar Observatory
+Jugnu
+Jules Verne ATV
+Juno
+Jupiter Ganymede Orbiter
+Jupiter Icy Moons Explorer
+Jupiter Magnetospheric Orbiter
+MightySat-1
+MightySat-2.1
+Mikhailo Lomonosov
+Negai
+Neil Gehrels Swift Observatory
+Nepal PQ-1
+NepaliSat-1
+Neptune Odyssey
+NigComSat-1
+Nigeria EduSat-1
+Nilesat 101
+Nilesat 102
+Nilesat 201
+Nimbus 1
+Nimbus 2
+Nimbus 3
+Nimbus 4
+Nimbus 5
+Nimbus 6
+Nimbus 7
+Nimbus B
+Nimiq-4
+Nimiq 5
+Niwaka
+Reimei
+Rubin-8
+Samos 2
+Samos 3
+Samos 4
+San Marco 1
+ScatSat-1
+Schiaparelli EDM
+Science-Enabling Technologies for Heliophysics
+Seasat
+Shenzhou 1
+Shenzhou 10
+Shenzhou 11
+Shenzhou 12
+Shenzhou 13
+Shenzhou 14
+Shenzhou 15
+Shenzhou 2
+Shenzhou 3
+Shenzhou 4
+Shenzhou 5
+Shenzhou 6
+Shenzhou 7
+Shenzhou 8
+Shenzhou 9
+Shijian-18
+Shijian 11-01
+Tianhui 1B
+Tiankun-1
+Tianwen-1
+Tianzhou 1
+Tianzhou 2
+Tianzhou 3
+Tianzhou 4
+Tianzhou 5
+TigriSat
+Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats
+Trailblazer
+Transit 3B
+Transit 5E-1
+Transit Research and Attitude Control
+Transiting Exoplanet Survey Satellite
+Deep Impact
+Deep Space 1
+Deep Space 2
+Deep Space Atomic Clock
+Deep Space Climate Observatory
+Deep Space Transport
+Deimos-1
+Deimos-2
+Deimos and Phobos Interior Explorer
+Delfi-C3
+Delfi-n3Xt
+Demonstration and Science Experiments
+Denpa
+FalconSAT-2
+Far Ultraviolet Spectroscopic Explorer
+Fast Auroral SnapshoT Explorer
+Fast Infrared Exoplanet Spectroscopy Survey Explorer
+Fengyun 2-05
+Fengyun 2-07
+Fermi Gamma-ray Space Telescope
+GALEX
+GASPACS
+GEOS-3
+GGSE-1
+GOES-16
+GOES-17
+GOES-18
+GOES-G
+GOES-U
+GOES 1
+GOES 10
+GOES 11
+GOES 12
+GOES 13
+GOES 14
+GOES 15
+GOES 2
+GOES 3
+GOES 4
+GOES 5
+GOES 6
+GOES 7
+GOES 8
+GOES 9
+GPS IIR-1
+GRACE and GRACE-FO
+GRAIL
+GSAT-1
+GSAT-10
+GSAT-11
+GSAT-12
+GSAT-14
+GSAT-15
+GSAT-16
+GSAT-17
+GSAT-18
+GSAT-19
+GSAT-2
+GSAT-20
+GSAT-29
+GSAT-3
+GSAT-30
+GSAT-31
+GSAT-4
+GSAT-5P
+GSAT-6A
+GSAT-7
+GSAT-7A
+GSAT-7R
+GSAT-8
+Gaia
+Galaxy 1
+Galaxy 10R
+Galaxy 11
+Galaxy 15
+Galaxy 17
+Galaxy 18
+Galaxy 19
+Galaxy 23
+Galaxy 25
+Galaxy 26
+Galaxy 27
+Galaxy 28
+Galaxy 30
+Galaxy 3C
+Galaxy 4R
+Galaxy 5
+Galaxy 9
+Galaxy IV
+Galileo
+Galileo project
+Gamma
+Gan De
+Gaofen 1
+Garatéa-L
+Garuda 1
+Goliat
+Kepler space telescope
+KhalifaSat
+Kounotori 2
+Kounotori 3
+Kounotori 4
+Kounotori 5
+Kounotori 6
+Kounotori 7
+Kounotori 8
+Kounotori 9
+Kwangmyŏngsŏng-1
+Kwangmyŏngsŏng-2
+Kwangmyŏngsŏng-3
+Kwangmyŏngsŏng-3 Unit 2
+Kwangmyŏngsŏng-4
+KySat-1
+Lewis
+Max Valier
+Maya-1
+Maya-2
+Mazaalai
+Meteor-3M No.1
+Meteor-M No.1
+Meteor-M No.2
+Meteor-M No.2-1
+Meteosat 8
+MethaneSAT
+Mexsat-3
+N-STAR a
+N-STAR b
+N-STAR c
+NEAR Shoemaker
+NEE-01 Pegaso
+NEE-02 Krysaor
+NEO Surveyor
+NEXTSat
+NIRSpec
+NISAR
+NOAA-1
+NOAA-10
+NOAA-11
+NOAA-12
+NOAA-13
+NOAA-14
+NOAA-15
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-19
+NOAA-2
+NOAA-20
+NOAA-3
+NOAA-4
+NOAA-5
+NOAA-6
+NOAA-7
+NOAA-8
+NOAA-9
+NOAA-B
+NSS-5
+NSS-6
+NSS-7
+NSS-703
+NSS-8
+NSS-806
+NSS-9
+Van Allen Probes
+Vanguard 1
+Vanguard 2
+Vanguard 3
+Vanguard SLV-1
+Vanguard SLV-2
+Vanguard SLV-3
+Vanguard SLV-5
+Vanguard SLV-6
+Vanguard TV-0
+Vanguard TV-1
+Vanguard TV-2
+Vanguard TV-3
+Vanguard TV-3BU
+Vanguard TV-5
+Waseda-SAT2
+Wide-field Infrared Survey Explorer
+Wide Field Infrared Explorer
+WorldView-1
+WorldView-2
+WorldView-3
+WorldView-4
+X-15 Flight 3-65-97
+X-15 Flight 87
+X-15 Flight 90
+X-15 Flight 91
+CoRoT
+Colorado Student Space Weather Experiment
+Comet Hopper
+Comet Interceptor
+Communication-Centric Intelligence Satellite
+Communications Technology Satellite
+Compass-1
+Compass-G1
+Compass-IGSO1
+Composante Spatiale Optique
+Compton Gamma Ray Observatory
+Compton Spectrometer and Imager
+Constellation Observing System for Meteorology, Ionosphere, and Climate
+Coriolis
+Cornell University Satellite
+Cos-B
+Cosmic Background Explorer
+Cosmos 1
+Courier 1B
+Elektro-L No.1
+Elektro-L No.2
+Elektron
+Elon Musk's Tesla Roadster
+Emirates Lunar Mission
+Emirates Mars Mission
+EnVision
+Energia-100
+Envisat
+Equator-S
+Formosat-1
+Formosat-2
+Formosat-5
+Foton-M No.2
+Foton-M No.4
+Fox-1A
+Fox-1B
+Fox-1Cliff
+Fox-1D
+Fox-1E
+Georges Lemaître ATV
+Geosat
+Geotail
+Getaway Special
+GhanaSat-1
+GiSAT-1
+Ginga
+Ginrei
+Giotto
+Global-scale Observations of the Limb and Disk
+Global Precipitation Measurement
+Globus-1M No.12L
+Glory
+Gorizont
+Gorizont 33
+Icebreaker Life
+Ikonos
+KA-SAT
+KH-8 Gambit 3
+KH-9 Hexagon
+KITSAT-1
+KITSAT-2
+KITSAT-3
+KITSUNE
+KOMPSAT-1
+KOMPSAT-2
+KOMPSAT-3
+KOSEN-1
+Kanopus-V-IK
+Korabl-Sputnik 1
+Korabl-Sputnik 2
+Korabl-Sputnik 3
+Korabl-Sputnik 4
+Korabl-Sputnik 5
+Koreasat 1
+Koreasat 5
+Koreasat 5A
+Koreasat 7
+Koronas-Foton
+Kosmos 1
+Kosmos 10
+Kosmos 101
+Kosmos 1024
+Kosmos 1030
+Kosmos 104
+Kosmos 105
+Kosmos 106
+Kosmos 107
+Kosmos 108
+Kosmos 11
+Kosmos 110
+Kosmos 1109
+Kosmos 111
+Kosmos 112
+Kosmos 1124
+Kosmos 1129
+Kosmos 115
+Kosmos 116
+Kosmos 1164
+Kosmos 117
+Kosmos 1171
+Kosmos 1172
+Kosmos 1188
+Kosmos 119
+Kosmos 1191
+Kosmos 12
+Kosmos 120
+Kosmos 1217
+Kosmos 122
+Kosmos 1223
+Kosmos 123
+Kosmos 124
+Kosmos 1241
+Kosmos 1247
+Kosmos 1261
+Kosmos 1278
+Kosmos 1285
+Kosmos 129
+Kosmos 13
+Kosmos 1300
+Kosmos 1317
+Kosmos 132
+Kosmos 133
+Kosmos 1341
+Kosmos 1348
+Kosmos 135
+Kosmos 136
+Kosmos 1367
+Kosmos 137
+Kosmos 1375
+Kosmos 1378
+Kosmos 1379
+Kosmos 138
+Kosmos 1382
+Kosmos 14
+Kosmos 140
+Kosmos 1402
+Kosmos 1408
+Kosmos 1409
+Kosmos 142
+Kosmos 143
+Kosmos 144
+Kosmos 145
+Kosmos 1456
+Kosmos 146
+Kosmos 147
+Kosmos 148
+Kosmos 1481
+Kosmos 1484
+Kosmos 149
+Kosmos 15
+Kosmos 1514
+Kosmos 1518
+Kosmos 152
+Kosmos 154
+Kosmos 1541
+Kosmos 1546
+Kosmos 1547
+Kosmos 156
+Kosmos 1569
+Kosmos 1581
+Kosmos 1586
+Kosmos 159
+Kosmos 1596
+Kosmos 16
+Kosmos 1604
+Kosmos 1629
+Kosmos 163
+Kosmos 165
+Kosmos 1658
+Kosmos 166
+Kosmos 1661
+Kosmos 1667
+Kosmos 1669
+Kosmos 167
+Kosmos 1675
+Kosmos 1684
+Kosmos 1687
+Kosmos 1698
+Kosmos 17
+Kosmos 1701
+Kosmos 1729
+Kosmos 173
+Kosmos 176
+Kosmos 1761
+Kosmos 1774
+Kosmos 1783
+Kosmos 1785
+Kosmos 1792
+Kosmos 1793
+Kosmos 18
+Kosmos 1806
+Kosmos 1818
+Kosmos 1849
+Kosmos 1851
+Kosmos 1867
+Kosmos 186 and Kosmos 188
+Kosmos 1887
+Kosmos 1894
+Kosmos 19
+Kosmos 1903
+Kosmos 191
+Kosmos 1922
+Kosmos 196
+Kosmos 1966
+Kosmos 197
+Kosmos 1974
+Kosmos 1977
+Kosmos 2
+Kosmos 20
+Kosmos 2001
+Kosmos 202
+Kosmos 204
+Kosmos 2044
+Kosmos 205
+Kosmos 2050
+Kosmos 2063
+Kosmos 2076
+Kosmos 2084
+Kosmos 2087
+Kosmos 2097
+Kosmos 21
+Kosmos 2105
+Kosmos 211
+Kosmos 212
+Kosmos 213
+Kosmos 2133
+Kosmos 214
+Kosmos 215
+Kosmos 2155
+Kosmos 2175
+Kosmos 2176
+Kosmos 219
+Kosmos 2196
+Kosmos 2209
+Kosmos 221
+Kosmos 2217
+Kosmos 222
+Kosmos 2222
+Kosmos 2224
+Kosmos 2229
+Kosmos 2232
+Kosmos 2241
+Kosmos 225
+Kosmos 2251
+Kosmos 2261
+Kosmos 2282
+Kosmos 2286
+Kosmos 23
+Kosmos 230
+Kosmos 2312
+Kosmos 233
+Kosmos 2340
+Kosmos 2342
+Kosmos 2345
+Kosmos 2350
+Kosmos 2351
+Kosmos 2368
+Kosmos 2379
+Kosmos 2380
+Kosmos 2381
+Kosmos 2382
+Kosmos 2388
+Kosmos 2393
+Kosmos 2394
+Kosmos 2395
+Kosmos 2396
+Kosmos 2397
+Kosmos 24
+Kosmos 2402
+Kosmos 2403
+Kosmos 2404
+Kosmos 2411
+Kosmos 2412
+Kosmos 2413
+Kosmos 2417
+Kosmos 2418
+Kosmos 2419
+Kosmos 242
+Kosmos 2422
+Kosmos 2424
+Kosmos 2425
+Kosmos 2426
+Kosmos 2430
+Kosmos 2431
+Kosmos 2432
+Kosmos 2433
+Kosmos 2434
+Kosmos 2435
+Kosmos 2436
+Kosmos 2440
+Kosmos 2441
+Kosmos 2442
+Kosmos 2443
+Kosmos 2444
+Kosmos 2445
+Kosmos 2446
+Kosmos 2447
+Kosmos 2448
+Kosmos 2449
+Kosmos 245
+Kosmos 2456
+Kosmos 2457
+Kosmos 2458
+Kosmos 2459
+Kosmos 2460
+Kosmos 2461
+Kosmos 2464
+Kosmos 2465
+Kosmos 2466
+Kosmos 2467
+Kosmos 2468
+Kosmos 2469
+Kosmos 2470
+Kosmos 2471
+Kosmos 2472
+Kosmos 2473
+Kosmos 2474
+Kosmos 2475
+Kosmos 2476
+Kosmos 2477
+Kosmos 2478
+Kosmos 2479
+Kosmos 2480
+Kosmos 2481
+Kosmos 2482
+Kosmos 2483
+Kosmos 2484
+Kosmos 2485
+Kosmos 2494
+Kosmos 2499
+Kosmos 25
+Kosmos 2500
+Kosmos 2501
+Kosmos 2514
+Kosmos 2516
+Kosmos 2522
+Kosmos 2524
+Kosmos 2527
+Kosmos 2529
+Kosmos 257
+Kosmos 259
+Kosmos 26
+Kosmos 261
+Kosmos 262
+Kosmos 265
+Kosmos 268
+Kosmos 27
+Kosmos 275
+Kosmos 277
+Kosmos 28
+Kosmos 283
+Kosmos 285
+Kosmos 29
+Kosmos 291
+Kosmos 295
+Kosmos 303
+Kosmos 307
+Kosmos 308
+Kosmos 31
+Kosmos 311
+Kosmos 314
+Kosmos 319
+Kosmos 32
+Kosmos 320
+Kosmos 321
+Kosmos 324
+Kosmos 327
+Kosmos 33
+Kosmos 334
+Kosmos 335
+Kosmos 347
+Kosmos 348
+Kosmos 35
+Kosmos 351
+Kosmos 356
+Kosmos 357
+Kosmos 359
+Kosmos 36
+Kosmos 362
+Kosmos 369
+Kosmos 37
+Kosmos 378
+Kosmos 379
+Kosmos 380
+Kosmos 388
+Kosmos 391
+Kosmos 393
+Kosmos 394
+Kosmos 396
+Kosmos 398
+Kosmos 3
+Kosmos 4
+Kosmos 400
+Kosmos 408
+Kosmos 419
+Kosmos 421
+Kosmos 423
+Kosmos 426
+Kosmos 434
+Kosmos 435
+Kosmos 440
+Kosmos 453
+Kosmos 455
+Kosmos 458
+Kosmos 459
+Kosmos 46
+Kosmos 461
+Kosmos 467
+Kosmos 47
+Kosmos 472
+Kosmos 48
+Kosmos 481
+Kosmos 482
+Kosmos 485
+Kosmos 487
+Kosmos 49
+Kosmos 497
+Kosmos 498
+Kosmos 5
+Kosmos 50
+Kosmos 501
+Kosmos 51
+Kosmos 52
+Kosmos 520
+Kosmos 521
+Kosmos 523
+Kosmos 524
+Kosmos 526
+Kosmos 53
+Kosmos 545
+Kosmos 553
+Kosmos 558
+Kosmos 562
+Kosmos 57
+Kosmos 580
+Kosmos 6
+Kosmos 60
+Kosmos 601
+Kosmos 605
+Kosmos 606
+Kosmos 608
+Kosmos 611
+Kosmos 613
+Kosmos 615
+Kosmos 633
+Kosmos 634
+Kosmos 64
+Kosmos 656
+Kosmos 66
+Kosmos 662
+Kosmos 665
+Kosmos 668
+Kosmos 68
+Kosmos 686
+Kosmos 690
+Kosmos 695
+Kosmos 7
+Kosmos 70
+Kosmos 703
+Kosmos 705
+Kosmos 706
+Kosmos 725
+Kosmos 745
+Kosmos 750
+Kosmos 76
+Kosmos 775
+Kosmos 78
+Kosmos 782
+Kosmos 8
+Kosmos 801
+Kosmos 803
+Kosmos 818
+Kosmos 839
+Kosmos 849
+Kosmos 850
+Kosmos 862
+Kosmos 880
+Kosmos 9
+Kosmos 901
+Kosmos 903
+Kosmos 909
+Kosmos 917
+Kosmos 919
+Kosmos 93
+Kosmos 931
+Kosmos 936
+Kosmos 95
+Kosmos 954
+Kosmos 959
+Kosmos 96
+Kosmos 967
+Kosmos 97
+Kosmos 98
+Kosmos 99
+Lincoln Calibration Sphere 1
+Lume-1
+LunIR
+Luna 1
+Luna 10
+Luna 11
+Luna 12
+Luna 13
+Luna 14
+Luna 15
+Luna 16
+Luna 17
+Luna 18
+Luna 19
+Luna 2
+Luna 20
+Luna 21
+Luna 22
+Luna 23
+Luna 24
+Luna 25
+Luna 26
+Luna 28
+Luna 3
+Luna 4
+Luna 5
+Luna 6
+Luna 7
+Luna 8
+Luna 9
+Luna E-1A No.1
+Luna E-1 No.1
+Luna E-1 No.2
+Luna E-1 No.3
+Luna E-3 No.1
+Luna E-3 No.2
+Luna E-6LS No.112
+Luna E-6 No.2
+Luna E-6 No.3
+Luna E-6 No.5
+Luna E-6 No.6
+Luna E-6 No.8
+Luna E-8-5M No. 412
+Luna E-8-5 No. 402
+Luna E-8-5 No. 405
+Luna E-8 No.201
+Lunar-A
+Lunar Flashlight
+Lunar IceCube
+Lunar Lander
+Lunar Orbiter 1
+Lunar Orbiter 2
+Lunar Orbiter 3
+Lunar Orbiter 4
+Lunar Orbiter 5
+Lunar Polar Hydrogen Mapper
+Lunar Prospector
+Lunar Reconnaissance Orbiter
+Lunar Terrain Vehicle
+Lunar Trailblazer
+Lunar Ultraviolet Cosmic Imager
+Lunokhod 1
+Lunokhod 2
+Lybid 1
+Lynx X-ray Observatory
+Mariner 1
+Mariner 10
+Mariner 2
+Mariner 3
+Mariner 4
+Mariner 5
+Mariner 6 and 7
+Mariner 8
+Mariner 9
+Marisat 1
+Marisat 2
+Marisat 3
+Maritime Monitoring and Messaging Microsatellite
+Mars-Grunt
+Mars 1M No.1
+Mars 1M No.2
+Mars 2
+Mars 2020
+Mars 2MV-3 No.1
+Mars 2MV-4 No.1
+Mars 2M No.521
+Mars 2M No.522
+Mars 3
+Mars 4
+Mars 5
+Mars 6
+Mars 7
+Mars 96
+Mars Astrobiology Explorer-Cacher
+Mars Base Camp
+Mars Climate Orbiter
+Mars Cube One
+Mars Exploration Ice Mapper
+Mars Express
+Mars Geyser Hopper
+Mars Global Surveyor
+Mars MetNet
+Mars Observer
+Mars Orbiter Mission
+Mars Orbiter Mission 2
+Mars Pathfinder
+Mars Polar Lander
+Mars Reconnaissance Orbiter
+Mars Science Laboratory
+Mars Surveyor '98
+Mars Surveyor 2001
+Mars Telecommunications Orbiter
+Martian Moons eXploration
+Megha-Tropiques
+Microsat-R
+Midcourse Space Experiment
+PicSat
+Picard
+PicoDragon
+PicoSAT
+Pioneer 0
+Pioneer 1
+Pioneer 10
+Pioneer 11
+Pioneer 2
+Pioneer 3
+Pioneer 4
+Pioneer 5
+Pioneer 6, 7, 8, and 9
+Pioneer P-1
+Pioneer P-3
+Pioneer P-30
+Pioneer P-31
+Pioneer Venus Multiprobe
+Pioneer Venus Orbiter
+Sich-1
+Sich-1M
+Simulation-to-Flight 1
+Sina-1
+Sirius FM-1
+Sirius FM-2
+Sirius FM-3
+Sirius FM-5
+South Asia Satellite
+Soyuz 1
+Soyuz 10
+Soyuz 12
+Soyuz 13
+Soyuz 14
+Soyuz 15
+Soyuz 16
+Soyuz 17
+Soyuz 18
+Soyuz 20
+Soyuz 21
+Soyuz 22
+Soyuz 23
+Soyuz 24
+Soyuz 25
+Soyuz 26
+Soyuz 27
+Soyuz 28
+Soyuz 29
+Soyuz 3
+Soyuz 30
+Soyuz 31
+Soyuz 32
+Soyuz 33
+Soyuz 34
+Soyuz 35
+Soyuz 36
+Soyuz 37
+Soyuz 38
+Soyuz 39
+Soyuz 4
+Soyuz 40
+Soyuz 5
+Soyuz 6
+Soyuz 7
+Soyuz 7K-L1 No.4L
+Soyuz 7K-L1 No.5L
+Soyuz 7K-OK No.1
+Soyuz 7K-ST No.16L
+Soyuz 7K-T No.39
+Soyuz 8
+Soyuz 9
+Soyuz MS-01
+Soyuz MS-03
+Soyuz MS-04
+Soyuz MS-05
+Soyuz MS-06
+Soyuz MS-07
+Soyuz MS-08
+Soyuz MS-09
+Soyuz MS-10
+Soyuz MS-11
+Soyuz MS-12
+Soyuz MS-13
+Soyuz MS-14
+Soyuz MS-15
+Soyuz MS-16
+Soyuz MS-17
+Soyuz MS-18
+Soyuz MS-19
+Soyuz MS-20
+Soyuz MS-21
+Soyuz MS-22
+Soyuz MS-23
+Soyuz T-1
+Soyuz T-10
+Soyuz T-12
+Soyuz T-13
+Soyuz T-14
+Soyuz T-15
+Soyuz T-3
+Soyuz T-4
+Soyuz T-5
+Soyuz T-6
+Soyuz T-7
+Soyuz T-8
+Soyuz T-9
+Soyuz TM-1
+Soyuz TM-10
+Soyuz TM-12
+Soyuz TM-13
+Soyuz TM-14
+Soyuz TM-15
+Soyuz TM-16
+Soyuz TM-17
+Soyuz TM-18
+Soyuz TM-19
+Soyuz TM-20
+Soyuz TM-21
+Soyuz TM-22
+Soyuz TM-23
+Soyuz TM-24
+Soyuz TM-25
+Soyuz TM-26
+Soyuz TM-27
+Soyuz TM-28
+Soyuz TM-29
+Soyuz TM-3
+Soyuz TM-30
+Soyuz TM-31
+Soyuz TM-32
+Soyuz TM-33
+Soyuz TM-34
+Soyuz TM-4
+Soyuz TM-5
+Soyuz TM-6
+Soyuz TM-7
+Soyuz TM-8
+Soyuz TM-9
+Soyuz TMA-01M
+Soyuz TMA-03M
+Soyuz TMA-04M
+Soyuz TMA-05M
+Soyuz TMA-06M
+Soyuz TMA-07M
+Soyuz TMA-08M
+Soyuz TMA-09M
+Soyuz TMA-1
+Soyuz TMA-10
+Soyuz TMA-10M
+Soyuz TMA-12
+Soyuz TMA-12M
+Soyuz TMA-13
+Soyuz TMA-13M
+Soyuz TMA-14
+Soyuz TMA-14M
+Soyuz TMA-15
+Soyuz TMA-15M
+Soyuz TMA-16
+Soyuz TMA-16M
+Soyuz TMA-17
+Soyuz TMA-17M
+Soyuz TMA-18
+Soyuz TMA-18M
+Soyuz TMA-19
+Soyuz TMA-19M
+Soyuz TMA-20
+Soyuz TMA-20M
+Soyuz TMA-21
+Soyuz TMA-22
+Soyuz TMA-3
+Soyuz TMA-4
+Soyuz TMA-5
+Soyuz TMA-6
+Soyuz TMA-7
+Soyuz TMA-8
+Soyuz TMA-9
+SpaceShipOne flight 15P
+SpaceShipOne flight 16P
+SpaceShipOne flight 17P
+SpaceX COTS Demo Flight 1
+SpaceX COTS Demo Flight 2
+SpaceX CRS-1
+SpaceX CRS-10
+SpaceX CRS-11
+SpaceX CRS-12
+SpaceX CRS-13
+SpaceX CRS-14
+SpaceX CRS-15
+SpaceX CRS-16
+SpaceX CRS-17
+SpaceX CRS-18
+SpaceX CRS-19
+SpaceX CRS-2
+SpaceX CRS-20
+SpaceX CRS-21
+SpaceX CRS-22
+SpaceX CRS-23
+SpaceX CRS-24
+SpaceX CRS-25
+SpaceX CRS-26
+SpaceX CRS-3
+SpaceX CRS-4
+SpaceX CRS-5
+SpaceX CRS-6
+SpaceX CRS-7
+SpaceX CRS-8
+SpaceX CRS-9
+SpaceX Crew-3
+SpaceX Crew-4
+SpaceX Crew-5
+SpaceX Crew-6
+SpaceX Crew-7
+SpaceX Starship orbital test flight
+Space Capsule Recovery Experiment
+Space Capsule Recovery Experiment II
+Space Flyer Unit
+Space Interferometry Mission
+Space Rider
+Space Technology 5
+Space Technology Research Vehicle
+Space Tracking and Surveillance System
+Space Variable Objects Monitor
+Space Weather Follow On-Lagrange 1
+Spaceborne Imaging Radar
+Spaceway-1
+Spaceway-2
+Spaceway-3
+Spainsat
+Sparkie
+Spektr-M
+Spektr-R
+Spektr-RG
+Spektr-UV
+Sphinx
+Spirit
+Spitzer Space Telescope
+Sputnik 1
+Sputnik 2
+Sputnik 3
+Sputnik 40
+Sputnik 41
+Sputnik 99
+SwissCube-1
+Yinghuo-1
+Yohkoh
+ZhengHe
+Ziyuan 3-01
+Zond 1
+Zond 2
+Zond 3
+Zond 3MV-1 No.2
+Zond 4
+Zond 5
+Zond 6
+Zond 7
+Zond 8
+Zond L1S-1
+Zuma
+Chasqui I
+Chimera
+ChinaSat 10
+ChinaSat 12
+ChinaSat 9
+ChinaSat 9A
+Chinese reusable experimental spacecraft
+Chollian
+Ciel-2
+Cislunar Explorers
+Clementine
+CloudSat
+Cluster II
+Clémentine
+DAVINCI
+DESTINY+
+DFS Kopernikus-3
+DISHA
+DLR-Tubsat
+DODGE
+DRAGONSat
+DRUMS
+DS-P1-Yu
+DSN-2
+Danuri
+Dark Matter Particle Explorer
+Darwin
+Dawn
+DearMoon project
+Deci-hertz Interferometer Gravitational wave Observatory
+Discoverer 1
+Discoverer 10
+Discoverer 11
+Discoverer 12
+Discoverer 13
+Discoverer 14
+Discoverer 15
+Discoverer 16
+Discoverer 17
+Discoverer 18
+Discoverer 19
+Discoverer 2
+Discoverer 20
+Discoverer 21
+Discoverer 22
+Discoverer 23
+Discoverer 24
+Discoverer 25
+Discoverer 26
+Discoverer 27
+Discoverer 28
+Discoverer 29
+Discoverer 3
+Discoverer 30
+Discoverer 31
+Discoverer 32
+Discoverer 33
+Discoverer 34
+Discoverer 35
+Discoverer 36
+Discoverer 37
+Discoverer 4
+Discoverer 5
+Discoverer 6
+Discoverer 7
+Discoverer 8
+Discoverer 9
+Dynamics Explorer 1
+Dynamics Explorer 2
+E-ASTROGAM
+E-st@r
+E-st@r-II
+E.Deorbit
+EChO
+EIRSAT-1
+EMISAT
+EOS-01
+EOS-04
+EOS 02
+EPOXI
+EQUULEUS
+EQUiSat
+EROS A
+EROS B
+ESA Vigil
+ESRO 2B
+ESSA-1
+ESSA-2
+ESSA-3
+ESSA-4
+ESSA-8
+ESSA-9
+ESTCube-1
+ESTCube-2
+ETRSS-1
+ETS-VIII
+EUTELSAT II F-1
+EXOSAT
+EarthCARE
+Earth Escape Explorer
+Earth Observing-1
+Earth Observing-3
+Earth Radiation Budget Satellite
+EcAMSat
+EchoStar I
+EchoStar II
+EchoStar III
+EchoStar IV
+EchoStar V
+EchoStar VI
+EchoStar VII
+EchoStar VIII
+EchoStar X
+EchoStar XI
+EchoStar XIV
+EchoStar XV
+EchoStar XVI
+EchoStar XVII
+EchoStar XXI
+Edoardo Amaldi ATV
+EduSAT
+EgyptSat-A
+EgyptSat 1
+EgyptSat 2
+Einstein Observatory
+Ekspress-103
+Ekspress-80
+Ekspress-A1
+Ekspress-A2
+Ekspress-A3
+Ekspress-A4
+Ekspress-AM1
+Ekspress-AM11
+Ekspress-AM2
+Ekspress-AM22
+Ekspress-AM3
+Ekspress-AM33
+Ekspress-AM4
+Ekspress-AM44
+Ekspress-AM4R
+Ekspress-AM6
+Ekspress-AM7
+Ekspress-AMU1
+Ekspress-AMU3
+Ekspress-AMU7
+Ekspress-AT1
+Ekspress-AT2
+Ekspress-MD1
+Ekspress AM5
+Ekspress AM8
+Ekspress MD2
+Es'hail 2
+Etalon
+EuCROPIS
+Euclid
+Europa Clipper
+Europa Jupiter System Mission – Laplace
+Europa Lander
+European Data Relay System
+European Lunar Explorer
+European Remote-Sensing Satellite
+European Retrievable Carrier
+Eutelsat 113 West A
+Eutelsat 115 West B
+Eutelsat 117 West A
+Eutelsat 12 West B
+Eutelsat 16B
+Eutelsat 16C
+Eutelsat 172B
+Eutelsat 21B
+Eutelsat 25B/Es'hail 1
+Eutelsat 31A
+Eutelsat 33B
+Eutelsat 33C
+Eutelsat 33E
+Eutelsat 36A
+Eutelsat 36B
+Eutelsat 3D
+Eutelsat 4A
+Eutelsat 5 West A
+Eutelsat 5 West B
+Eutelsat 70B
+Eutelsat 8 West B
+Eutelsat 8 West C
+Eutelsat I F-1
+Eutelsat I F-2
+Eutelsat I F-3
+Eutelsat I F-4
+Eutelsat I F-5
+Eutelsat Konnect
+Eutelsat Quantum
+Eutelsat W3A
+ExoMars
+Exoplanetary Circumstellar Environments and Disk Explorer
+Expedition 1
+Expedition 10
+Expedition 11
+Expedition 12
+Expedition 13
+Expedition 14
+Expedition 15
+Expedition 16
+Expedition 17
+Expedition 18
+Expedition 19
+Expedition 2
+Expedition 20
+Expedition 21
+Expedition 22
+Expedition 23
+Expedition 24
+Expedition 25
+Expedition 26
+Expedition 27
+Expedition 28
+Expedition 29
+Expedition 3
+Expedition 30
+Expedition 31
+Expedition 32
+Expedition 33
+Expedition 34
+Expedition 35
+Expedition 36
+Expedition 37
+Expedition 38
+Expedition 39
+Expedition 4
+Expedition 40
+Expedition 41
+Expedition 42
+Expedition 43
+Expedition 44
+Expedition 45
+Expedition 46
+Expedition 47
+Expedition 48
+Expedition 49
+Expedition 5
+Expedition 50
+Expedition 51
+Expedition 52
+Expedition 53
+Expedition 54
+Expedition 55
+Expedition 56
+Expedition 57
+Expedition 58
+Expedition 59
+Expedition 6
+Expedition 60
+Expedition 61
+Expedition 62
+Expedition 63
+Expedition 64
+Expedition 65
+Expedition 66
+Expedition 67
+Expedition 7
+Expedition 8
+Expedition 9
+Exploration Flight Test-1
+Explorer-1 Prime
+Explorer 1
+Explorer 10
+Explorer 12
+Explorer 13
+Explorer 14
+Explorer 15
+Explorer 16
+Explorer 17
+Explorer 19
+Explorer 2
+Explorer 20
+Explorer 21
+Explorer 22
+Explorer 23
+Explorer 24
+Explorer 25
+Explorer 26
+Explorer 27
+Explorer 28
+Explorer 29
+Explorer 3
+Explorer 31
+Explorer 32
+Explorer 33
+Explorer 34
+Explorer 35
+Explorer 36
+Explorer 38
+Explorer 39
+Explorer 4
+Explorer 40
+Explorer 41
+Explorer 45
+Explorer 46
+Explorer 47
+Explorer 49
+Explorer 5
+Explorer 50
+Explorer 51
+Explorer 52
+Explorer 54
+Explorer 55
+Explorer 6
+Explorer 60
+Explorer 61
+Explorer 7
+Explorer 8
+Explorer 9
+Explorer S-1
+Explorer S-45A
+Explorer S-45
+Explorer S-46
+Explorer S-55
+Explorer S-56
+Explorer S-66
+Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and Evolution
+Extreme Ultraviolet Explorer
+Eyesat-1
+FASTRAC
+FASTSAT
+FLEX
+FTV-1126
+FTV-1132
+FTV-2203
+FUNcube-1
+Fajr
+Flock-1
+Flora Hiperspectral
+Flyby of Io with Repeat Encounters
+Fobos-Grunt
+Humanity Star
+Huygens
+JY1-SAT
+Janus
+Jason-1
+Jason-3
+KazEOSat 2
+KazSat-1
+KazSat-2
+KazSat-3
+Kazachok
+Kedr
+Miniature Sensor Technology Integration-3
+Miniature X-ray Solar Spectrometer CubeSat
+Minisat 01
+Mir EO-12
+Mir EO-19
+Mir EO-2
+Mir EO-21
+Mir EO-23
+Mir EO-24
+Mir EO-3
+Mir EO-4
+Mir EO-5
+Mir EO-6
+Mir EO-7
+Mir EO-8
+Mir EP-2
+Mir EP-3
+Monitor-E
+MoonLITE
+MoonRise
+Moon Diver
+Morelos Satellite System
+Proton
+Prowler
+Psyche
+Pujiang-1
+RISAT-1
+RISAT-2
+RISAT-2B
+RISAT-2BR1
+ROBUSTA
+ROBUSTA-1B
+ROSAT
+RSP-01
+RaInCube
+Raavana 1
+Radar Fence Transponder
+Radarsat-1
+Radarsat-2
+Radio Aurora Explorer
+Raduga-1M
+Raffaello MPLM
+Raijin-2
+Rasad 1
+RatSat
+RazakSAT
+Sakigake
+Salyut 6 EO-1
+Salyut 6 EP-1
+Tyazhely Sputnik
+TürkmenÄlem 52°E / MonacoSAT
+Türksat 1A
+Türksat 1B
+Türksat 1C
+Türksat 2A
+Türksat 3A
+Türksat 4A
+Türksat 4B
+Türksat 5A
+Türksat 5B
+Türksat 6A
+UAPSat-1
+UBAKUSAT
+UGATUSAT
+UK-DMC
+UK-DMC 2
+UK-DMC 3
+UNIFORM-1
+UNITE
+UNOSAT
+UPM-Sat
+Crew Dragon Demo-1
+Crew Dragon Demo-2
+Crew Dragon In-Flight Abort Test
+Crew Dragon Pad Abort Test
+Crew Module Atmospheric Re-entry Experiment
+CryoSat-1
+CryoSat-2
+CubETH
+CubeRover
+CubeSail
+CubeSail
+CubeSat UV Experiment
+CubeSat for Solar Particles
+Cyclone Global Navigation Satellite System
+Cygnus NG-10
+Cygnus NG-11
+Cygnus NG-12
+Cygnus NG-13
+Cygnus NG-14
+Cygnus NG-15
+Cygnus NG-16
+Cygnus NG-17
+Cygnus NG-18
+Cygnus NG-19
+Cygnus OA-4
+Cygnus OA-5
+Cygnus OA-6
+Cygnus OA-7
+Cygnus OA-8E
+Cygnus OA-9E
+Cygnus Orb-1
+Cygnus Orb-2
+Cygnus Orb-3
+Cygnus Orb-D1
+KSAT-2
+Kalpana-1
+LADEE
+LAGEOS
+LARES
+LCROSS
+LEO
+LES-1
+LES-2
+LES-3
+LES-4
+LISA Pathfinder
+LOFT
+LOFTI-1
+LUCID
+Laplace-P
+Large Interferometer For Exoplanets
+Large Ultraviolet Optical Infrared Surveyor
+Laser Interferometer Space Antenna
+Luch 5A
+Luch 5B
+Luch 5V
+Lucy
+M-Cubed
+MABES
+MANTIS
+MAVEN
+MEASAT-3
+MEASAT-3a
+MEASAT-3b
+MELOS
+MESSENGER
+MICROSCOPE
+MMSAT-1
+MOS-1
+MOST
+MUBLCOM
+MUSE
+MW 18014
+MaSat-1
+Manfred Memorial Moon Mission
+Northern Light
+PAGEOS
+PANSAT
+PAS-1
+PAS-22
+PAS-3
+PAS-4
+PAS-6
+PETREL
+PLATO
+POLDER
+PRESat
+PRISMA
+PROBA
+PROBA-2
+PROBA-3
+PROBA-V
+PROCYON
+PROITERES
+PSAT-2
+PSLV-C1
+PSLV-C2
+PSLV-C28
+PSLV-C3
+PSLV-C34
+PSLV-C35
+PSLV-C38
+PSLV-C39
+PSLV-C4
+PSLV-C40
+PSLV-C5
+PSLV-C6
+PSLV-D1
+PSLV-D2
+PSLV-D3
+PSSC-2
+PW-Sat
+PW-Sat2
+Sentinel-1A
+Sentinel-1B
+Sentinel-2A
+Sentinel-2B
+Sentinel-3A
+Sentinel-3B
+Sentinel-6 Michael Freilich
+Sentinel Space Telescope
+SkyCube
+Sky Muster
+Skylab 2
+Skylab 3
+Skylab 4
+Skylab Rescue
+Skynet 5A
+Skynet 5B
+Skynet 5C
+Skynet 5D
+Sloshsat-FLEVO
+Small Astronomy Satellite 2
+Small Astronomy Satellite 3
+Small Satellite Research Laboratory
+Smart Lander for Investigating Moon
+Titan Mare Explorer
+Titan Saturn System Mission
+Wilkinson Microwave Anisotropy Probe
+Green Propellant Infusion Mission
+Greenhouse Gases Observing Satellite
+Greenhouse Gases Observing Satellite-2
+GuaraníSat-1
+HTV-1
+HTV-X1
+HYFLEX
+HYLAS-1
+HYLAS-4
+HYLAS 2
+Habitable Exoplanet Imaging Mission
+Habitation and Logistics Outpost
+Hakucho
+Hopkins Ultraviolet Telescope
+Horizons-1
+Horizons-2
+Horizons-3e
+Hot Bird 13B
+Hot Bird 13C
+Hot Bird 7
+Hubble Space Telescope
+James Webb Space Telescope
+LitSat-1
+LiteBIRD
+Little Joe 1
+Little Joe 1A
+Little Joe 1B
+Little Joe 2
+Little Joe 5
+Little Joe 5A
+Little Joe 5B
+Little Joe 6
+LituanicaSAT-1
+LituanicaSAT-2
+Living Interplanetary Flight Experiment
+Multi-Angle Imager for Aerosols
+Multispectral Unit for Land Assessment
+NUTS 1
+Nahid-1
+Nahuel 1A
+Nancy Grace Roman Space Telescope
+Nano-JASMINE
+NanoDragon
+NanoSail-D
+NanoSail-D2
+Nanosat-1B
+Nanosat 01
+Nautilus Deep Space Observatory
+Navid
+Navstar 7
+Near-Earth Asteroid Scout
+Near Earth Object Surveillance Satellite
+Near Field Infrared Experiment
+Sohla
+Soil Moisture Active Passive
+Soil Moisture and Ocean Salinity
+Sojourner
+Solar Anomalous and Magnetospheric Particle Explorer
+Solar Cruiser
+Solar Dynamics Observatory
+Solar Maximum Mission
+Solar Mesosphere Explorer
+Solar Orbiter
+Solar Radiation and Climate Experiment
+Solar and Heliospheric Observatory
+Surveyor 1
+Surveyor 2
+Surveyor 3
+Surveyor 4
+Surveyor 5
+Surveyor 6
+Surveyor 7
+Suzaku
+Swarm
+TecSAR-1
+TechEdSat
+TechSat-21
+Technology Experiment Satellite
+Technology for Autonomous Operational Survivability
+TeikyoSat-3
+Tele-X
+Telkom-1
+Telkom-2
+Telkom-3
+Telkom-3S
+Telkom-4
+Telstar 1
+Telstar 19V
+Telstar 2
+Telstar 301
+Telstar 302
+Telstar 303
+Telstar 4
+Telstar 401
+Telstar 402
+Thor 5
+Uranus Orbiter and Probe
+Uranus Pathfinder
+VENµS
+VERITAS
+VIPER
+VNREDSat-1
+VRSS-1
+VRSS-2
+VSS Unity VF-01
+VSS Unity VP-03
+ÑuSat
+Ørsted
+İMECE
+Hard X-ray Modulation Telescope
+HawkSat-1
+Hayabusa
+Hayabusa2
+Hayato
+Heat Capacity Mapping Mission
+Helios
+Hellas Sat 2
+Hera
+Hermes
+Herschel Space Observatory
+Heweliusz
+High Energy Astronomy Observatory 1
+High Energy Astronomy Observatory 3
+High Energy Transient Explorer 1
+Himawari 8
+Himawari 9
+Hinode
+Hinotori
+Hipparcos
+Hisaki
+Hispasat 1B
+Hispasat 1C
+Hispasat 1D
+Hispasat 30W-6
+Hispasat AG1
+JAWSAT
+JCSAT-1
+JCSAT-11
+JCSAT-110
+JCSAT-15
+JCSAT-16
+JCSAT-17
+JCSAT-1B
+JCSAT-2
+JCSAT-2A
+JCSAT-2B
+JCSAT-3
+JCSAT-3A
+JCSAT-4
+JCSAT-4A
+JCSAT-4B
+JCSAT-5A
+JCSAT-RA
+JEM-EUSO
+JPSS-2
+Perseus-M
+Petey
+PharmaSat
+Phi-Sat-1
+Phi-Sat-2
+Philae
+Phobos 1
+Phobos 2
+Phobos And Deimos & Mars Environment
+Phoenix
+Phootprint
+Rainbow-1
+Ralphie
+Ramaty High Energy Solar Spectroscopic Imager
+Ranger 1
+Ranger 2
+Ranger 3
+Ranger 4
+Ranger 5
+Ranger 6
+Ranger 7
+Ranger 8
+Ranger 9
+Weather System Follow-on Microwave
+Weber-OSCAR 18
+Libertad 1
+LightSail
+Nozomi
+NuSTAR
+Nusantara Satu
+O/OREOS
+O3b
+O3b mPOWER
+OCEANUS
+ODINUS
+OICETS
+OKEANOS
+OMOTENASHI
+OPS-SAT
+OPS 0855
+OPS 3762
+OPS 5111
+OPS 5112
+OPS 5113
+OPS 5114
+OPS 5117
+OPS 5118
+OPS 9794
+OPTOS
+OPTSAT-3000
+OPUSAT
+OREX
+OSCAR 1
+OSCAR 2
+OSCAR 3
+OSCAR 4
+OSCAR 44
+OSCAR 8
+OSIRIS-REx
+OSO 3
+OSO 7
+OSSI-1
+OSTM/Jason-2
+OV1-1
+OV1-10
+OV1-11
+OV1-12
+OV1-2
+OV1-3
+OV1-4
+OV1-5
+OV1-6
+OV1-7
+OV1-8
+OV1-86
+OV1-9
+OV2-1
+OV2-3
+OV2-5
+OV3-1
+OV3-2
+OV3-3
+OV3-4
+OV3-5
+Olympus-1
+Omid
+Opportunity
+Optus D3
+Orba
+Orbital Test Satellite
+Orbiting Astronomical Observatory 2
+Orbiting Binary Black Hole Investigation Satellite
+Orbiting Carbon Observatory
+Orbiting Carbon Observatory 2
+Orbiting Frog Otolith
+Origins Space Telescope
+Orion 3
+Pad Abort Test 2
+Pakistan Remote Sensing Satellite
+Pakistan Technology Evaluation Satellite
+Paksat-1
+Paksat-1R
+Palapa-C2
+Palapa-D
+Parasol
+RemoveDEBRIS
+Repair Satellite Prototype
+Resource Prospector
+Resourcesat-1
+Resourcesat-2
+Resourcesat-2A
+Resurs-DK No.1
+Resurs-P No.1
+Resurs-P No.2
+X-Ray Imaging and Spectroscopy Mission
+XEUS
+XMM-Newton
+XSS-10
+XTAR-EUR
+Xatcobeo
+Xuntian
+Yahsat 1A
+Yamal-300K
+Yamal-401
+Yamal-402
+Yamal-601
+Yamal -102
+Yamal 101
+Yamal 201
+Yamal 202
+Yamal 203
+Yamal 204
+Oceansat-1
+Oceansat-2
+Odin
+Ofek-16
+Ofeq-10
+Ofeq-11
+Ofeq-7
+Ofeq-9
+Planck
+Plankton, Aerosol, Cloud, ocean Ecosystem
+Pluto Kuiper Express
+Pléiades
+PnPSat-1
+Power and Propulsion Element
+PrOP-M
+Pragyan
+Pratham
+Prisma
+Progress 1
+Progress 10
+Progress 11
+Progress 12
+Progress 13
+Progress 14
+Progress 15
+Progress 16
+Progress 17
+Progress 18
+Progress 19
+Progress 2
+Progress 20
+Progress 21
+Progress 22
+Progress 23
+Progress 24
+Progress 25
+Progress 26
+Progress 27
+Progress 28
+Progress 29
+Progress 3
+Progress 30
+Progress 31
+Progress 32
+Progress 33
+Progress 34
+Progress 35
+Progress 36
+Progress 37
+Progress 38
+Progress 39
+Progress 4
+Progress 40
+Progress 41
+Progress 42
+Progress 5
+Progress 6
+Progress 7
+Progress 8
+Progress 9
+Progress DC-1
+Progress M-01M
+Progress M-02M
+Progress M-03M
+Progress M-04M
+Progress M-05M
+Progress M-06M
+Progress M-07M
+Progress M-08M
+Progress M-09M
+Progress M-1
+Progress M-10
+Progress M-10M
+Progress M-11
+Progress M-11M
+Progress M-12
+Progress M-12M
+Progress M-13
+Progress M-13M
+Progress M-14
+Progress M-14M
+Progress M-15
+Progress M-15M
+Progress M-16
+Progress M-16M
+Progress M-17
+Progress M-17M
+Progress M-18
+Progress M-18M
+Progress M-19
+Progress M-19M
+Progress M-2
+Progress M-20
+Progress M-20M
+Progress M-21
+Progress M-21M
+Progress M-22
+Progress M-22M
+Progress M-23
+Progress M-23M
+Progress M-24
+Progress M-24M
+Progress M-25
+Progress M-25M
+Progress M-26
+Progress M-26M
+Progress M-27
+Progress M-27M
+Progress M-28
+Progress M-28M
+Progress M-29
+Progress M-29M
+Progress M-3
+Progress M-30
+Progress M-31
+Progress M-32
+Progress M-33
+Progress M-34
+Progress M-35
+Progress M-36
+Progress M-37
+Progress M-38
+Progress M-39
+Progress M-4
+Progress M-40
+Progress M-41
+Progress M-42
+Progress M-43
+Progress M-44
+Progress M-45
+Progress M-46
+Progress M-47
+Progress M-48
+Progress M-49
+Progress M-5
+Progress M-50
+Progress M-51
+Progress M-52
+Progress M-53
+Progress M-54
+Progress M-55
+Progress M-56
+Progress M-57
+Progress M-58
+Progress M-59
+Progress M-6
+Progress M-60
+Progress M-61
+Progress M-62
+Progress M-63
+Progress M-64
+Progress M-65
+Progress M-66
+Progress M-67
+Progress M-7
+Progress M-8
+Progress M-9
+Progress M-MIM2
+Progress M-UM
+Progress M1-1
+Progress M1-10
+Progress M1-11
+Progress M1-2
+Progress M1-3
+Progress M1-4
+Progress M1-5
+Progress M1-6
+Progress M1-7
+Progress M1-8
+Progress M1-9
+Progress MS-01
+Progress MS-02
+Progress MS-03
+Progress MS-04
+Progress MS-05
+Progress MS-06
+Progress MS-07
+Progress MS-08
+Progress MS-09
+Progress MS-10
+Progress MS-11
+Progress MS-12
+Progress MS-13
+Progress MS-14
+Progress MS-15
+Progress MS-16
+Progress MS-17
+Progress MS-18
+Progress MS-19
+Progress MS-20
+Progress MS-21
+Project Echo
+Prospero
+Rosalind Franklin
+Rosetta
+Rossi X-ray Timing Explorer
+ST-1
+ST-2
+STARAD
+STARS-II
+STENTOR
+STEREO
+STEX
+STRaND-1
+STS-1
+STS-100
+STS-101
+STS-102
+STS-103
+STS-104
+STS-105
+STS-106
+STS-107
+STS-108
+STS-109
+STS-110
+STS-111
+STS-112
+STS-113
+STS-114
+STS-115
+STS-116
+STS-117
+STS-118
+STS-119
+STS-120
+STS-121
+STS-122
+STS-123
+STS-124
+STS-125
+STS-126
+STS-127
+STS-128
+STS-129
+STS-130
+STS-131
+STS-132
+STS-133
+STS-134
+STS-135
+STS-2
+STS-26
+STS-27
+STS-28
+STS-29
+STS-3
+STS-30
+STS-31
+STS-32
+STS-33
+STS-34
+STS-35
+STS-36
+STS-37
+STS-38
+STS-39
+STS-3xx
+STS-4
+STS-40
+STS-400
+STS-41
+STS-41-B
+STS-41-C
+STS-41-D
+STS-41-G
+STS-42
+STS-43
+STS-44
+STS-45
+STS-46
+STS-47
+STS-48
+STS-49
+STS-5
+STS-50
+STS-51
+STS-51-A
+STS-51-B
+STS-51-C
+STS-51-D
+STS-51-F
+STS-51-G
+STS-51-I
+STS-51-J
+STS-51-L
+STS-52
+STS-53
+STS-54
+STS-55
+STS-56
+STS-57
+STS-58
+STS-59
+STS-6
+STS-60
+STS-61
+STS-61-A
+STS-61-B
+STS-61-C
+STS-61-E
+STS-61-F
+STS-61-G
+STS-61-H
+STS-61-J
+STS-61-M
+STS-62
+STS-62-A
+STS-63
+STS-64
+STS-65
+STS-66
+STS-67
+STS-68
+STS-69
+STS-7
+STS-70
+STS-71
+STS-72
+STS-73
+STS-74
+STS-75
+STS-76
+STS-77
+STS-78
+STS-79
+STS-8
+STS-80
+STS-81
+STS-82
+STS-83
+STS-84
+STS-85
+STS-86
+STS-87
+STS-88
+STS-89
+STS-9
+STS-90
+STS-91
+STS-92
+STS-93
+STS-94
+STS-95
+STS-96
+STS-97
+STS-98
+STS-99
+STSat-1
+STSat-2A
+STSat-2B
+STSat-2C
+Sapphire
+Thaicom 5
+Thaicom 6
+Thaicom 8
+Trident
+Triton Hopper
+Tropical Rainfall Measuring Mission
+TurkSat-3USat
+Turkmenistan Memorial Capsule
+Ulysses
+UniBRITE-1
+UniCubeSat-GG
+UniSat-6
+Universitetsky-Tatyana-2
+UoSAT-1
+UoSAT-12
+UoSAT-2
+UoSAT-3
+UoSAT-4
+UoSAT-5
+Upper Atmosphere Research Satellite
+Vega 1
+Vega 2
+Vela 1A
+Vela 1B
+Vela 2A
+Vela 2B
+Vela 3A
+Vela 3B
+Vela 4A
+Vela 4B
+Vela 5A
+Venera-D
+Venera 1
+Venera 10
+Venera 11
+Venera 12
+Venera 13
+Venera 14
+Venera 15
+Venera 16
+Venera 2
+Venera 2MV-1 No.1
+Venera 2MV-1 No.2
+Venera 2MV-2 No.1
+Venera 3
+Venera 4
+Venera 5
+Venera 6
+Venera 7
+Venera 8
+Venera 9
+Venesat-1
+Venus Express
+Venus In Situ Atmospheric and Geochemical Explorer
+Venus In Situ Explorer
+Venus Spectral Rocket Experiment
+Vermont Lunar CubeSat
+VesselSat-1
+VesselSat-2
+Vesta
+ViaSat-1
+ViaSat-2
+Voskhod 1
+Voskhod 2
+Vostok 1
+Vostok 2
+Vostok 3 and 4
+Vostok 5
+Vostok 6
+Voyager 1
+Voyager 2
+WARP-01
+WE WISH
+WGS-11+
+WINDS
+WRESAT
+landing date
+launch date
+SATCAT
+crew member
+launch site
+mission duration
+number of orbits
+mission
+launch vehicle
+next mission
+previous mission
+spacecraft
+CMP EVA duration
+distance traveled
+lunar EVA time
+lunar orbit time
+lunar sample mass
+lunar surface time
+mass
+mission duration
+station EVA duration
+station visit duration
+booster
+CMP EVA duration
+command module
+crew
+crew size
+distance traveled
+first flight
+landing site
+landing vehicle
+last flight
+launch pad
+lunar EVA time
+lunar landing site
+lunar module
+lunar orbit time
+lunar rover
+lunar sample mass
+lunar surface time
+orbital inclination
+service module
+shuttle
+spacestation
+spacewalk begin
+spacewalk end
+station EVA duration
+station visit duration

@@ -1,0 +1,7 @@
+credit
+dec
+dist_ly
+dist_pc
+names
+ra
+size_v

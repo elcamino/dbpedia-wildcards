@@ -1,0 +1,10 @@
+department
+overseas department
+number of arrondissement
+number of canton
+number of district
+number of intercommunality
+number of settlement
+politic government department
+prefecture
+subprefecture

@@ -1,0 +1,718 @@
+Abacopteris
+Acrorumohra
+Acrorumohra hasseltii
+Acrostichum
+Acystopteris
+Adenophorus
+Adiantopsis
+Adiantum aethiopicum
+Adiantum alarconianum
+Adiantum aleuticum
+Adiantum bellum
+Adiantum capillus-veneris
+Adiantum caudatum
+Adiantum diaphanum
+Adiantum edgeworthii
+Adiantum fengianum
+Adiantum formosum
+Adiantum hispidulum
+Adiantum lunulatum
+Adiantum pedatum
+Adiantum peruvianum
+Adiantum philippense
+Adiantum polyphyllum
+Adiantum reniforme
+Adiantum silvaticum
+Adiantum tenerum
+Adiantum trapeziforme
+Adiantum venustum
+Adiantum viridimontanum
+Aglaomorpha
+Aglaomorpha novoguineensis
+Alethopteris
+Aleuritopteris
+Aleuritopteris squamosa
+Angiopteris
+Anogramma
+Anogramma ascensionis
+Anogramma leptophylla
+Antrophyum austroqueenslandicum
+Arachniodes
+Arachniodes squamulosa
+Araiostegia
+Argyrochosma
+Arthromeris
+Arthropteris beckleri
+Arthropteris tenella
+Asclepiodotus of Lesbos
+Aspidotis californica
+Aspidotis carlotta-halliae
+Aspidotis densa
+Asplenium aequibasis
+Asplenium anceps
+Asplenium antiquum
+Asplenium ascensionis
+Asplenium australasicum
+Asplenium azoricum
+Asplenium bifrons
+Asplenium bradleyi
+Asplenium carnarvonense
+Asplenium chihuahuense
+Asplenium congestum
+Asplenium daghestanicum
+Asplenium daucifolium
+Asplenium dimorphum
+Asplenium ecuadorense
+Asplenium flaccidum
+Asplenium goudeyi
+Asplenium hermannii-christii
+Asplenium listeri
+Asplenium majoricum
+Asplenium milnei
+Asplenium montanum
+Asplenium petrarchae
+Asplenium pinnatifidum
+Asplenium platyneuron
+Asplenium polyodon
+Asplenium pteridoides
+Asplenium resiliens
+Asplenium rhizophyllum
+Asplenium ruprechtii
+Asplenium ruta-muraria
+Asplenium schizotrichum
+Asplenium schweinfurthii
+Asplenium scolopendrium
+Asplenium septentrionale
+Asplenium serratum
+Asplenium surrogatum
+Asplenium trichomanes
+Asplenium tutwilerae
+Asplenium vespertinum
+Asplenium virens
+Asplenium × boydstoniae
+Asplenium × ebenoides
+Asplenium × gravesii
+Asplenium × kentuckiense
+Asplenium × trudellii
+Asplenium × wherryi
+Asterotheca
+Astrolepis cochisensis
+Athyrium distentifolium
+Athyrium flexile
+Athyrium medium
+Athyrium niponicum
+Athyrium yokoscense
+Helminthostachys
+Lellingeria
+Azolla caroliniana
+Azolla filiculoides
+Azolla mexicana
+Azolla pinnata
+Blechnum ambiguum
+Blechnum arcuatum
+Blechnum brasiliense
+Blechnum chambersii
+Blechnum colensoi
+Blechnum contiguum
+Blechnum dendrophilum
+Blechnum discolor
+Blechnum eburneum
+Blechnum floresii
+Blechnum fluviatile
+Blechnum fullagarii
+Blechnum geniculatum
+Blechnum howeanum
+Blechnum magellanicum
+Blechnum minus
+Blechnum monomorphum
+Blechnum novae-zelandiae
+Blechnum patersonii
+Blechnum penna-marina
+Blechnum petiolare
+Blechnum procerum
+Blechnum rimbachii
+Blechnum scaberulum
+Blechnum socialis
+Blechnum sodiroi
+Blechnum spicant
+Blechnum tabulare
+Blechnum wattsii
+Blotiella
+Bo Lacy
+Bolbitis
+Bolbitis riparia
+Bommeria
+Botrychiopsis
+Botrychium
+Botrychium ascendens
+Botrychium boreale
+Botrychium crenulatum
+Botrychium lunaria
+Botrychium minganense
+Botrychium montanum
+Botrychium paradoxum
+Botrychium pinnatum
+Botrychium pumicola
+Brachyllas
+Bracken
+Calamites
+Calciphilopteris
+Calochlaena
+Calochlaena dubia
+Calymmodon
+Calymmodon cucullatus
+Campyloneurum
+Campyloneurum oellgaardii
+Campyloneurum phyllitidis
+Caobangia
+Caobangia squamata
+Capuchon
+Carly Witwicky
+Grammitis
+Grammitis basalis
+Grammitis billardierei
+Grammitis diminuta
+Grammitis nudicarpa
+Grammitis recondita
+Grammitis stenophylla
+Grammitis wattsii
+Hymenasplenium cardiophyllum
+Hymenophyllum
+Hymenophyllum alveolatum
+Hymenophyllum australe
+Hymenophyllum brachypus
+Hymenophyllum contractile
+Hymenophyllum cristatum
+Hymenophyllum demissum
+Hymenophyllum flabellatum
+Hymenophyllum helicoideum
+Hymenophyllum howense
+Hymenophyllum megistocarpum
+Hymenophyllum nanum
+Hymenophyllum refrondescens
+Hymenophyllum sodiroi
+Hymenophyllum tenerum
+Hymenophyllum trifidum
+Hymenophyllum tunbrigense
+Hypodematium
+Hypolepis
+Hypolepis ambigua
+Hypolepis muelleri
+Ibyka
+Lomariopsis marginata
+Lophosoria
+Macrothelypteris torresiana
+Pyrrosia confluens
+Pyrrosia eleagnifolia
+Pyrrosia lingua
+Pyrrosia rupestris
+Melpomene
+Melpomene brevipes
+Monachosorum
+Neuropteris
+Oleandra
+Oleandra hainanensis
+Pecluma
+Pecluma pastazensis
+Pecopteris
+Pellaea
+Pellaea andromedifolia
+Pellaea atropurpurea
+Pellaea brachyptera
+Pellaea breweri
+Pellaea bridgesii
+Pellaea calomelanos
+Pellaea glabella
+Pellaea mucronata
+Pellaea paradoxa
+Pellaea rotundifolia
+Pellaea truncata
+Pentagramma triangularis
+Pohole
+Polybotrya
+Polybotrya andina
+Polyphlebium venosum
+Polypodiodes
+Polypodiodes formosana
+Polypodium abitaguae
+Polypodium argyrolepis
+Polypodium californicum
+Polypodium calirhiza
+Polypodium cambricum
+Polypodium chionolepis
+Polypodium glycyrrhiza
+Polypodium hesperium
+Polypodium latissimum
+Polypodium mindense
+Polypodium mixtum
+Polypodium piligerum
+Polypodium punctatum
+Polypodium pustulatum
+Polypodium quitense
+Polypodium rimbachii
+Polypodium scouleri
+Polypodium scutulatum
+Polypodium segregatum
+Polypodium vulgare
+Polypodium xalapense
+Polystichum acrostichoides
+Polystichum aculeatum
+Polystichum bonapartii
+Polystichum bulbiferum
+Polystichum californicum
+Polystichum dudleyi
+Polystichum imbricans
+Polystichum kruckebergii
+Polystichum lemmonii
+Polystichum lonchitis
+Polystichum mohrioides
+Polystichum moorei
+Polystichum munitum
+Polystichum proliferum
+Polystichum richardii
+Polystichum scopulinum
+Polystichum whiteleggei
+Sticherus cunninghamii
+Sticherus flabellatus
+Sticherus lobatus
+Thelypteris
+Thelypteris aculeata
+Thelypteris appressa
+Thelypteris bonapartii
+Thelypteris campii
+Thelypteris chimboracensis
+Thelypteris conformis
+Thelypteris correllii
+Thelypteris dodsonii
+Thelypteris elegantula
+Thelypteris euthythrix
+Thelypteris fluminalis
+Thelypteris macra
+Thelypteris nevadensis
+Thelypteris noveboracensis
+Thelypteris palustris
+Thelypteris pilosa
+Thelypteris puberula
+Thelypteris rosenstockii
+Thelypteris semilunata
+Thelypteris subtilis
+Vittaria
+Cephalomanes
+Cephalomanes bauerianum
+Ceradenia
+Ceradenia melanopus
+Ceradenia semiadnata
+Doodia
+Doodia caudata
+Doryopteris
+Drynaria
+Drynaria quercifolia
+Drynaria roosii
+Dryopteris affinis
+Dryopteris arguta
+Dryopteris campyloptera
+Dryopteris carthusiana
+Dryopteris clintoniana
+Dryopteris crinalis
+Dryopteris cristata
+Dryopteris cycadina
+Dryopteris erythrosora
+Dryopteris expansa
+Dryopteris filix-mas
+Dryopteris goldiana
+Dryopteris ludoviciana
+Dryopteris macropholis
+Dubthach Dóeltenga
+Gymnocarpium dryopteris
+Gymnocarpium robertianum
+Jean de Lescun
+Matonia
+Matteuccia orientalis
+Matteuccia struthiopteris
+Neocalamites
+Neocheiropteris
+Neocheiropteris palmatopedata
+Neomariopteris
+Nephrolepis biserrata
+Nephrolepis cordifolia
+Nephrolepis exaltata
+Nephrolepis obliterata
+Niphidium
+Niphidium crassifolium
+Osmunda angustifolia
+Osmunda banksiifolia
+Osmunda bromeliifolia
+Osmunda claytoniana
+Osmunda claytoniites
+Osmunda japonica
+Osmunda javanica
+Osmunda lancea
+Osmunda mildei
+Osmunda regalis
+Osmunda spectabilis
+Osmunda vachellii
+Osmundastrum
+Sceptridium dissectum
+Schizaea pusilla
+Schizaea rupestris
+Tietea singularis
+Dennstaedtia bipinnata
+Dennstaedtia davallioides
+Dennstaedtia punctilobula
+Deparia
+Deparia acrostichoides
+Fern Grotto
+Fernando Guanarteme
+Gaius Maecenas
+Leptochilus
+Leptochilus cantoniensis
+Leptolepia
+Leptopteris hymenophylloides
+Leptopteris moorei
+Leptopteris superba
+Leucotrichum
+Woodsia
+Woodsia alpina
+Woodsia ilvensis
+Woodsia indusiosa
+Woodsia obtusa
+Woodsia plummerae
+Woodwardia areolata
+Woodwardia radicans
+Woodwardia unigemmata
+Woodwardia virginica
+Coptodipteris
+Equisetum fluviatile
+Equisetum giganteum
+Equisetum laevigatum
+Equisetum myriochaetum
+Equisetum sylvaticum
+Equisetum telmateia
+Equisetum variegatum
+Gleichenia cryptocarpa
+Gleichenia dicarpa
+Gleichenia microphylla
+Gleichenia quadripartita
+Gleichenia rupestris
+Gleichenia squamulosa
+Gleicheniaceae
+Lindsaea trichomanoides
+Lygodium japonicum
+Lygodium microphyllum
+Marsilea crenata
+Marsilea drummondii
+Marsilea villosa
+Meg Muñoz
+Mickelia
+Microgramma
+Microgramma tuberosa
+Microlepia
+Microlepia strigosa
+Micropolypodium
+Micropolypodium aphelolepis
+Microsorum howense
+Microsorum punctatum
+Microsorum pustulatum
+Microsorum scandens
+Microsorum vieillardii
+Pilularia
+Pilularia minuta
+Sinopteris albofusca
+Sinopteris grevilleoides
+Sphenomeris chinensis
+Sphenophyllum
+Stauropteridaceae
+Stauropteridales
+Stenochlaena
+Stenochlaena hainanensis
+Stephanophyllites
+Zygophlebia
+Zygophlebia eminens
+Zygopteridaceae
+Zygopteridales
+Cheilanthes acrostica
+Cheilanthes austrotenuifolia
+Cheilanthes clevelandii
+Cheilanthes cooperae
+Cheilanthes covillei
+Cheilanthes distans
+Cheilanthes feei
+Cheilanthes gracillima
+Cheilanthes intertexta
+Cheilanthes newberryi
+Cheilanthes parryi
+Cheilanthes sieberi
+Cheilanthes villosa
+Cheilanthes viscida
+Christella cyatheoides
+Christella dentata
+Christensenia aesculifolia
+Cibotium barometz
+Cibotium cumingii
+Cibotium menziesii
+Cibotium regale
+Cibotium schiedei
+Cleonymus of Athens
+Cnemidaria
+Cnemidaria grandifolia
+Cyrtomium falcatum
+Cystoathyrium
+Cystodium sorbifolium
+Cystopteris
+Cystopteris alpina
+Cystopteris bulbifera
+Cystopteris diaphana
+Cystopteris dickieana
+Cystopteris fragilis
+Cystopteris montana
+Cystopteris protrusa
+Danaea kalevala
+Davallia bullata
+Davallia canariensis
+Davallia divaricata
+Davallia fejeensis
+Davallia mariesii
+Davallia tasmanii
+Davallia trichomanoides
+Diblemma
+Dicksonia
+Dicksonia antarctica
+Dicksonia fibrosa
+Dicksonia sellowiana
+Dicksonia squarrosa
+Dicksonia youngiae
+Dicranopteris
+Dictymia brownii
+Diplazium australe
+Diplazium dietrichianum
+Diplazium esculentum
+Diplazium melanochlamys
+Diplazium sibiricum
+Eupodium
+Eusporangiate fern
+Hugh le Despencer, 1st Baron le Despencer
+Jestrum piercing
+Monroe piercing
+Psaronius
+Psilotopsida
+Psilotum complanatum
+Pteridales
+Pteridium aquilinum
+Pteris comans
+Pteris cretica
+Pteris longifolia
+Pteris microptera
+Pteris tripartita
+Pteris umbrosa
+Ptisana purpurascens
+Ptisana salicina
+Salvinia
+Salvinia minima
+Salvinia molesta
+Salvinia natans
+Crepidomanes
+Cryptogramma
+Cryptogramma cascadensis
+Ctenitis
+Ctenopteris heterophylla
+Culcita
+Cyathea
+Cyathea abbottii
+Cyathea acanthophora
+Cyathea acrostichoides
+Cyathea acuminata
+Cyathea albidosquamata
+Cyathea albomarginata
+Cyathea alderwereltii
+Cyathea alleniae
+Cyathea alpicola
+Cyathea amboinensis
+Cyathea amintae
+Cyathea andersonii
+Cyathea aneitensis
+Cyathea annae
+Cyathea apiculata
+Cyathea apoensis
+Cyathea approximata
+Cyathea archboldii
+Cyathea ascendens
+Cyathea atropurpurea
+Cyathea australis
+Cyathea baileyana
+Cyathea balanocarpa
+Cyathea batjanensis
+Cyathea biformis
+Cyathea borbonica
+Cyathea borneensis
+Cyathea brevipinna
+Cyathea brooksii
+Cyathea bryophila
+Cyathea buennemeijerii
+Cyathea callosa
+Cyathea camerooniana
+Cyathea catillifera
+Cyathea caudata
+Cyathea chinensis
+Cyathea christii
+Cyathea cincinnata
+Cyathea cinerea
+Cyathea cooperi
+Cyathea corcovadensis
+Cyathea costalisora
+Cyathea costulisora
+Cyathea crassa
+Cyathea crinita
+Cyathea croftii
+Cyathea cucullifera
+Cyathea cunninghamii
+Cyathea dealbata
+Cyathea deckenii
+Cyathea decora
+Cyathea decrescens
+Cyathea dicksonioides
+Cyathea dimorpha
+Cyathea doctersii
+Cyathea edanoi
+Cyathea elmeri
+Cyathea elongata
+Cyathea erinacea
+Cyathea eriophora
+Cyathea everta
+Cyathea excavata
+Cyathea exilis
+Cyathea fadenii
+Cyathea fenicis
+Cyathea ferruginea
+Cyathea foersteri
+Cyathea fulgens
+Cyathea fuliginosa
+Cyathea geluensis
+Cyathea gigantea
+Cyathea glaberrima
+Cyathea glabra
+Cyathea glauca
+Cyathea glaziovii
+Cyathea gleichenioides
+Cyathea gregaria
+Cyathea grevilleana
+Cyathea halconensis
+Cyathea hancockii
+Cyathea havilandii
+Cyathea henryi
+Cyathea hooglandii
+Cyathea hookeri
+Cyathea hornei
+Cyathea horridula
+Cyathea hotteana
+Cyathea howeana
+Cyathea humilis
+Cyathea hunsteiniana
+Cyathea hymenodes
+Cyathea imbricata
+Cyathea imrayana
+Cyathea incana
+Cyathea incisoserrata
+Cyathea inquinans
+Cyathea insulana
+Cyathea javanica
+Cyathea junghuhniana
+Cyathea kanehirae
+Cyathea kermadecensis
+Cyathea khasyana
+Cyathea klossii
+Cyathea latipinnula
+Cyathea ledermannii
+Cyathea lepidoclada
+Cyathea lepifera
+Cyathea macarthurii
+Cyathea macgregorii
+Cyathea medullaris
+Cyathea metteniana
+Cyathea nigrolineata
+Cyathea propinqua
+Cyathea recommutata
+Cyathea robusta
+Cyathea semiamplectens
+Cyathea smithii
+Cyathea squamulata
+Cyathea walkerae
+Cyathea × boytelii
+Cyathea × dryopteroides
+Cyathea × fagildei
+Cyathea × marcescens
+Cyclodium meniscioides
+Cyclosorus interruptus
+Lastreopsis
+Lastreopsis nephrodioides
+Lastreopsis subrecedens
+Loxogramme dictyopteris
+Notholaena
+Notholaena californica
+Notholaena standleyi
+Selliguea
+Tmesipteris elongata
+Tmesipteris obliqua
+Tmesipteris ovata
+Tmesipteris parva
+Tmesipteris tannensis
+Tmesipteris truncata
+Todea papuana
+Hamatophyton
+Hamatophyton verticillatum
+Kaulinia
+Llavea
+Rumohra
+Rumohra adiantiformis
+Russia–Vietnam relations
+Tectaria
+Tectaria chimborazensis
+Tectaria cicutaria
+Tectaria gemmifera
+Tectaria morlae
+Tectaria quitensis
+Tectaria subrepanda
+Tectaria triloba
+Tectaria zeylanica
+Hecistopteris
+Histiopteris
+Phanerophlebiopsis
+Phanerophlebiopsis tsiangiana
+Phegopteris
+Phegopteris connectilis
+Phegopteris hexagonoptera
+Philtrum piercing
+Phlebodium aureum
+Phorcys
+Phymatosorus scolopendria
+Wattieza
+Promontory Falls
+Marattia howeana
+Onocleopsis
+Ophioderma
+Ophioglossum azoricum
+Ophioglossum lusitanicum
+Orthiopteris
+Paesia
+Paesia scaberula
+Xiphopteris ascensionense
+Oenotrichia
+Pityrogramma sulphurea
+Plagiogyria
+Plagiogyria assurgens
+Platycerium alcicorne
+Platycerium bifurcatum
+Platycerium coronarium
+Platycerium hillii
+Platyzoma
+Pneumatopteris pennigera
+Rhacophytales
+Rotafolia
+Rotafolia songziensis
+Saccoloma
+Saccoloma laxum
+Saccoloma squamosum
+Trichomanes angustatum
+Trichomanes melanopus
+Trichomanes paucisorum
+Trichomanes speciosum
+Trichomanes tenuissimum

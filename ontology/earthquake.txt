@@ -1,0 +1,1258 @@
+1033 Jordan Rift Valley earthquake
+1068 Near East earthquake
+1088 Tmogvi earthquake
+1117 Verona earthquake
+1138 Aleppo earthquake
+1139 Ganja earthquake
+1157 Hama earthquake
+115 Antioch earthquake
+1169 Sicily earthquake
+1170 Syria earthquake
+1185 East Midlands earthquake
+1202 Syria earthquake
+1222 Brescia earthquake
+1222 Cyprus earthquake
+1268 Cilicia earthquake
+1275 British earthquake
+1290 Chihli earthquake
+1293 Kamakura earthquake
+1303 Crete earthquake
+1303 Hongdong earthquake
+1343 Naples tsunami
+1348 Friuli earthquake
+1349 Apennine earthquakes
+1356 Basel earthquake
+1382 Dover Straits earthquake
+1420 Caldera earthquake
+1428 Catalonia earthquake
+1456 Central Italy earthquakes
+1461 L'Aquila earthquake
+1481 Rhodes earthquake
+1498 Meiō earthquake
+1505 Lo Mustang earthquake
+1509 Constantinople earthquake
+1511 Idrija earthquake
+1522 Almería earthquake
+1522 Vila Franca earthquake
+1531 Lisbon earthquake
+1555 Kashmir earthquake
+1555 Skopje earthquake
+1556 Shaanxi earthquake
+1570 Concepción earthquake
+1570 Ferrara earthquake
+1575 Valdivia earthquake
+1580 Dover Straits earthquake
+1585 Aleutian Islands earthquake
+1586 Lima–Callao earthquake
+1586 Tenshō earthquake
+1590 Neulengbach earthquake
+1604 Arica earthquake
+1604 Quanzhou earthquake
+1605 Guangdong earthquake
+1605 Keichō earthquake
+1611 Sanriku earthquake
+1615 Arica earthquake
+1621 Panama earthquake
+1622 North Guyuan earthquake
+1626 Girifalco earthquake
+1626 Lingqiu earthquake
+1627 Gargano earthquake
+1628 Camarines earthquake
+1629 Banda Sea earthquake
+1638 New Hampshire earthquake
+1639 Amatrice earthquake
+1641 Caracas earthquake
+1641 Tabriz earthquake
+1645 Luzon earthquake
+1647 Santiago earthquake
+1653 East Smyrna earthquake
+1654 Tianshui earthquake
+1657 Concepción earthquake
+1663 Charlevoix earthquake
+1667 Dubrovnik earthquake
+1667 Shamakhi earthquake
+1668 North Anatolia earthquake
+1668 Shandong earthquake
+1674 Ambon earthquake and megatsunami
+1677 Bōsō earthquake
+1679 Armenia earthquake
+1679 Sanhe-Pinggu earthquake
+1687 Peru earthquake
+1688 Sannio earthquake
+1688 Smyrna earthquake
+1692 Jamaica earthquake
+1692 Salta earthquake
+1693 Sicily earthquake
+1694 Irpinia–Basilicata earthquake
+1695 Linfen earthquake
+1699 Java earthquake
+1700 Cascadia earthquake
+1703 Apennine earthquakes
+1703 Genroku earthquake
+1706 Abruzzo earthquake
+1707 Hōei earthquake
+1709 Zhongwei earthquake
+1714 Bhutan earthquake
+1716 Algiers earthquake
+1717 Guatemala earthquake
+1718 Tongwei–Gansu earthquake
+1721 Tabriz earthquake
+1727 Tabriz earthquake
+1730 Valparaíso earthquake
+1732 Irpinia earthquake
+1732 Montreal earthquake
+1737 Kamchatka earthquake
+1737 Valdivia earthquake
+1738 Vrancea earthquake
+1739 Yinchuan–Pingluo earthquake
+1743 Salento earthquake
+1746 Lima–Callao earthquake
+1751 Concepción earthquake
+1751 Port-au-Prince earthquake
+1754 Cairo earthquake
+1755 Cape Ann earthquake
+1755 Lisbon earthquake
+1756 Düren earthquake
+1761 Lisbon earthquake
+1762 Arakan earthquake
+1763 Komárom earthquake
+1766 Cuba earthquake
+1766 Istanbul earthquake
+1766 Southeastern Caribbean earthquake
+1770 Port-au-Prince earthquake
+1771 Great Yaeyama Tsunami
+1773 Guatemala earthquake
+1778 Kashan earthquake
+1780 Tabriz earthquake
+1782 Mendoza earthquake
+1783 New Jersey earthquake
+1784 Erzincan earthquake
+1786 Kangding-Luding earthquake
+1787 Boricua earthquake
+1787 New Spain earthquake
+1790 Oran earthquake
+1792 Unzen earthquake and tsunami
+1797 Riobamba earthquake
+1797 Sumatra earthquake
+1799 Vendée earthquake
+1802 Vrancea earthquake
+1803 Garhwal earthquake
+1804 Almería earthquake
+1805 Molise earthquake
+1810 Crete earthquake
+1811–1812 New Madrid earthquakes
+1812 Caracas earthquake
+1812 San Juan Capistrano earthquake
+1812 Ventura earthquake
+1815 Bali earthquake
+1815 Pinglu earthquake
+1816 Guatemala earthquake
+1816 North Atlantic earthquake
+1819 Copiapó earthquake
+1819 Rann of Kutch earthquake
+1822 Aleppo earthquake
+1822 Valparaíso earthquake
+1825 Blida earthquake
+1829 Torrevieja earthquake
+1830 Cixian earthquake
+1833 Bihar–Nepal earthquake
+1833 Kunming earthquake
+1833 Shōnai earthquake
+1833 Sumatra earthquake
+1834 Java earthquake
+1835 Concepción earthquake
+1837 Valdivia earthquake
+1838 San Andreas earthquake
+1838 Vrancea earthquake
+1839 Ava earthquake
+1839 Martinique earthquake
+1840 Ahora earthquake
+1841 "Caída da Praia" earthquake
+1841 Kamchatka earthquake
+1842 Cap-Haïtien earthquake
+1843 Guadeloupe earthquake
+1843 Nias earthquake
+1843 Wanganui earthquake
+1844 Salta earthquake
+1847 Nagano earthquake
+1848 Marlborough earthquake
+1850 Xichang earthquake
+1852 Acapulco earthquake
+1852 Banda Sea earthquake
+1853 Shiraz earthquake
+1854 Nankai earthquake
+1854 Tōkai earthquake
+1855 Bursa earthquake
+1855 Edo earthquake
+1855 Wairarapa earthquake
+1856 Djijelli earthquakes
+1856 Heraklion earthquake
+1857 Basilicata earthquake
+1857 Fort Tejon earthquake
+1858 Hietsu earthquake
+1858 Prome earthquake
+1859 Erzurum earthquake
+1859 Shamakhi earthquake
+1861 Mendoza earthquake
+1861 Sumatra earthquake
+1863 Hawke's Bay earthquake
+1863 Jujuy earthquake
+1863 Manila earthquake
+1865 Memphis earthquake
+1867 Java earthquake
+1867 Keelung earthquake
+1867 Manhattan, Kansas earthquake
+1867 Virgin Islands earthquake and tsunami
+1868 Arica earthquake
+1868 Ecuador earthquakes
+1868 Hawaii earthquake
+1868 Hayward earthquake
+1869 Cachar earthquake
+1869 Christchurch earthquake
+1870 Batang earthquake
+1870 Charlevoix earthquake
+1871 Lāna`i earthquake
+1871 Orán earthquake
+1872 Amik earthquake
+1872 North Cascades earthquake
+1872 Owens Valley earthquake
+1873 Alpago earthquake
+1875 Cúcuta earthquake
+1877 Iquique earthquake
+1879 Gansu earthquake
+1879 Surigao earthquake
+1880 Luzon earthquakes
+1880 Zagreb earthquake
+1881 Chios earthquake
+1881 Nicobar Islands earthquake
+1882 Panama earthquake
+1883 Casamicciola earthquake
+1883 Çeşme earthquake
+1884 Andalusian earthquake
+1884 Colchester earthquake
+1885 Kashmir earthquake
+1886 Charleston earthquake
+1886 Peloponnese earthquake
+1887 Liguria earthquake
+1887 Sonora earthquake
+1887 Verny earthquake
+1888 North Canterbury earthquake
+1888 Río de la Plata earthquake
+1889 Chilik earthquake
+1889 Kumamoto earthquake
+1891 Mino–Owari earthquake
+1892 Laguna Salada earthquake
+1892 Recreo earthquake
+1892 Vacaville–Winters earthquakes
+1893 Quchan earthquake
+1894 Atalanti earthquakes
+1894 Istanbul earthquake
+1894 San Juan earthquake
+1894 Tokyo earthquake
+1895 Charleston earthquake
+1895 Quchan earthquake
+1896 Rikuu earthquake
+1896 Sanriku earthquake
+1897 Assam earthquake
+1897 Mindanao earthquakes
+1898 Balıkesir earthquake
+1898 Mare Island earthquake
+1898 Trilj earthquake
+1899 Aydın–Denizli earthquake
+1899 Ceram earthquake
+1899 San Jacinto earthquake
+1899 Yakutat Bay earthquakes
+1900 San Narciso earthquake
+1901 Black Sea earthquake
+1901 Cheviot earthquake
+1901 Richfield earthquake
+1902 Andijan earthquake
+1902 Guatemala earthquake
+1902 Turkestan earthquake
+1903 Manzikert earthquake
+1904 Cape Turnagain earthquake
+1904 Douliu earthquake
+1904 Kresna earthquakes
+1904 Samos earthquake
+1905 Bolnai earthquake
+1905 Kangra earthquake
+1905 Tsetserleg earthquake
+1906 Aleutian Islands earthquake
+1906 Ecuador–Colombia earthquake
+1906 Manasi earthquake
+1906 Meishan earthquake
+1906 San Francisco earthquake
+1906 Swansea earthquake
+1906 Valparaíso earthquake
+1907 Calabria earthquake
+1907 Kingston earthquake
+1907 Qaratog earthquake
+1907 Sumatra earthquake
+1908 Messina earthquake
+1909 Benavente earthquake
+1909 Borujerd earthquake
+1909 Provence earthquake
+1909 Wabash River earthquake
+1911 Guerrero earthquake
+1911 Kebin earthquake
+1911 Kikai Island earthquake
+1911 Michoacán earthquake
+1911 Sarez earthquake
+1912 Maymyo earthquake
+1912 Mürefte earthquake
+1913 Asmara earthquake
+1914 Burdur earthquake
+1914 East Cape earthquakes
+1914 Reno earthquakes
+1914 Senboku earthquake
+1915 Asmara earthquake
+1915 Avezzano earthquake
+1915 Imperial Valley earthquakes
+1915 Pleasant Valley earthquake
+1916 Irondale earthquake
+1916–17 Nantou earthquakes
+1917 Bali earthquake
+1917 Guatemala earthquakes
+1917 Samoa earthquake
+1918 Celebes Sea earthquake
+1918 San Fermín earthquake
+1918 San Jacinto earthquake
+1918 Shantou earthquake
+1918 Vancouver Island earthquake
+1920 Garfagnana earthquake
+1920 Gori earthquake
+1920 Haiyuan earthquake
+1920 Hualien earthquake
+1920 Mendoza earthquake
+1920 Xalapa earthquake
+1921 Massawa earthquake
+1921 Sevier Valley earthquake
+1922 Vallenar earthquake
+1923 Great Kantō earthquake
+1923 Renda earthquake
+1924 Pasinler earthquake
+1925 Charlevoix–Kamouraska earthquake
+1925 Dali earthquake
+1925 Montana earthquake
+1925 North Tajima earthquake
+1925 Santa Barbara earthquake
+1926 Kars earthquake
+1926 Padang Panjang earthquakes
+1927 Crimean earthquakes
+1927 Gulang earthquake
+1927 Jericho earthquake
+1927 Ljubinje earthquake
+1927 Lompoc earthquake
+1927 Mendoza earthquake
+1927 North Tango earthquake
+1928 Chachapoyas earthquake
+1928 Chirpan–Plovdiv earthquakes
+1928 Talca earthquake
+1929 Arthur's Pass earthquake
+1929 Cumaná earthquake
+1929 Grand Banks earthquake
+1929 Kopet Dag earthquake
+1929 Murchison earthquake
+1930 Bago earthquake
+1930 Dhubri earthquake
+1930 Irpinia earthquake
+1930 North Izu earthquake
+1930 Pyu earthquake
+1930 Salmas earthquake
+1930 Senigallia earthquake
+1931 Dogger Bank earthquake
+1931 Fuyun earthquake
+1931 Hawke's Bay earthquake
+1931 Myitkyina earthquake
+1931 Nicaragua earthquake
+1931 Oaxaca earthquake
+1931 Southwest Sumatra earthquake
+1931 Valentine earthquake
+1931 Zangezur earthquake
+1932 Cedar Mountain earthquake
+1932 Changma earthquake
+1932 Eureka earthquake
+1932 Ierissos earthquake
+1932 Jalisco earthquakes
+1933 Baffin Bay earthquake
+1933 Diexi earthquake
+1933 Long Beach earthquake
+1933 Sanriku earthquake
+1933 Sumatra earthquake
+1934 Hansel Valley earthquake
+1934 Nepal–Bihar earthquake
+1934 Nepal–India earthquake
+1934 Pahiatua earthquake
+1935 Digor earthquake
+1935 Erdek–Marmara Islands earthquake
+1935 Helena earthquake
+1935 Quetta earthquake
+1935 Shinchiku-Taichū earthquake
+1935 Sumatra earthquake
+1935 Timiskaming earthquake
+1936 Cansiglio earthquake
+1936 Miyagi earthquake
+1936 State Line earthquake
+1937 Heze earthquakes
+1937 Orizaba earthquake
+1938 Banda Sea earthquake
+1938 Kırşehir earthquake
+1939 Chillán earthquake
+1939 Erzincan earthquake
+1939 Oga earthquake
+1940 El Centro earthquake
+1940 Lima earthquake
+1940 New Hampshire earthquakes
+1940 Vrancea earthquake
+1941 Andaman Islands earthquake
+1941 Chungpu earthquake
+1941 Colima earthquake
+1941 Gloria Fault earthquake
+1941 Jabal Razih earthquake
+1941 Van–Erciş earthquake
+1942 Ecuador earthquake
+1942 Guatemala earthquake
+1942 Niksar–Erbaa earthquake
+1942 Peru earthquake
+1942 Wairarapa earthquakes
+1943 Adapazarı–Hendek earthquake
+1943 Alahan Panjang earthquakes
+1943 Central Java earthquake
+1943 Ovalle earthquake
+1943 Tosya–Ladik earthquake
+1943 Tottori earthquake
+1944 Bolu–Gerede earthquake
+1944 Cornwall–Massena earthquake
+1944 Gulf of Edremit–Ayvacik earthquake
+1944 San Juan earthquake
+1944 Tōnankai earthquake
+1945 Balochistan earthquake
+1945 Mikawa earthquake
+1946 Aleutian Islands earthquake
+1946 Ancash earthquake
+1946 Chatkal earthquake
+1946 Dominican Republic earthquake
+1946 Hsinhua earthquake
+1946 Nankai earthquake
+1946 Sagaing earthquakes
+1946 Valais earthquake
+1946 Vancouver Island earthquake
+1946 Varto–Hınıs earthquake
+1947 Assam earthquake
+1947 Satipo earthquake
+1947 Wisconsin earthquake
+1948 Ashgabat earthquake
+1948 Desert Hot Springs earthquake
+1948 Fukui earthquake
+1948 Lady Caycay earthquake
+1948 Litang earthquake
+1948 Salta earthquake
+1949 Ambato earthquake
+1949 Karlıova earthquake
+1949 Khait earthquake
+1949 Olympia earthquake
+1949 Queen Charlotte Islands earthquake
+1949 Tierra del Fuego earthquakes
+1950 Assam–Tibet earthquake
+1950 Calama earthquake
+1951 East Rift Valley earthquakes
+1951 Kurşunlu earthquake
+1952 Damxung earthquake
+1952 Hasankale earthquake
+1952 Kern County earthquake
+1952 San Juan earthquake
+1952 Severo-Kurilsk earthquake
+1952 Severo-Kurilsk tsunami
+1952 Tokachi earthquake
+1953 Concepción earthquake
+1953 Ionian earthquake
+1953 Paphos earthquake
+1953 Suva earthquake
+1953 Torud earthquake
+1953 Tumbes earthquake
+1953 Yenice–Gönen earthquake
+1954 Adelaide earthquake
+1954 Chlef earthquake
+1954 Rainbow Mountain-Fairview Peak-Dixie Valley earthquakes
+1954 Sofades earthquake
+1955 Alexandria earthquake
+1955 Lanao earthquake
+1955 Yuzha earthquake
+1955 Zheduotang earthquake
+1956 Amorgos earthquake
+1956 Anjar earthquake
+1956 Budapest earthquake
+1956 Chim earthquake
+1956 Nicaragua earthquake
+1956 Sagaing earthquake
+1957 Abant earthquake
+1957 Andreanof Islands earthquake
+1957 Fethiye earthquakes
+1957 Guerrero earthquake
+1957 Mongolia earthquake
+1957 San Francisco earthquake
+1958 Ecuador–Colombia earthquake
+1958 Huslia earthquake
+1958 Lituya Bay earthquake and megatsunami
+1959 Coatzacoalcos earthquake
+1959 Hebgen Lake earthquake
+1959 Hengchun earthquake
+1959 Kamchatka earthquake
+1960 Agadir earthquake
+1960 Concepción earthquakes
+1960 Valdivia earthquake
+1961 New South Wales earthquake
+1961 North Mino earthquake
+1962 Buin Zahra earthquake
+1962 Cache Valley earthquake
+1962 Irpinia earthquake
+1962 Makarska earthquakes
+1963 Kuril Islands earthquake
+1963 Marj earthquake
+1963 Skopje earthquake
+1963 Su-ao earthquake
+1964 Alaska earthquake
+1964 Baihe earthquake
+1964 Guerrero earthquake
+1964 Manyas earthquake
+1964 Niigata earthquake
+1964 Rosais earthquake
+1965 Ceram Sea earthquake
+1965 Oaxaca earthquake
+1965 Puget Sound earthquake
+1965 Rat Islands earthquake
+1965 San Salvador earthquake
+1965 Valparaíso earthquake and the El Cobre dam failures
+1966 Hualien earthquake
+1966 Peru earthquake
+1966 Tashkent earthquake
+1966 Toro earthquake
+1966 Varto earthquake
+1966 Xingtai earthquakes
+1967 Caracas earthquake
+1967 Koynanagar earthquake
+1967 Mudurnu earthquake
+1967 Neiva earthquake
+1968 Aegean Sea earthquake
+1968 Belice earthquake
+1968 Borrego Mountain earthquake
+1968 Casiguran earthquake
+1968 Dasht-e Bayaz and Ferdows earthquakes
+1968 Ebino earthquake
+1968 Hyūga-nada earthquake
+1968 Illinois earthquake
+1968 Inangahua earthquake
+1968 Meckering earthquake
+1968 Sulawesi earthquake
+1968 Tokachi earthquake
+1969 Alaşehir earthquake
+1969 Banja Luka earthquake
+1969 Bohai earthquake
+1969 Portugal earthquake
+1969 Santa Rosa earthquakes
+1969 Sardo earthquakes
+1969 Sharm El Sheikh earthquake
+1969 Sulawesi earthquake
+1969 Tulbagh earthquake
+1969 Yangjiang earthquake
+1970 Ancash earthquake
+1970 Colombia earthquake
+1970 Dagestan earthquake
+1970 Gediz earthquake
+1970 New Guinea earthquake
+1970 Peru–Ecuador earthquake
+1970 Tonghai earthquake
+1971 Aconcagua earthquake
+1971 Bingöl earthquake
+1971 San Fernando earthquake
+1971 Solomon Islands earthquakes
+1971 Tuscania earthquake
+1972 Nicaragua earthquake
+1972 Qir earthquake
+1972 Ruisui earthquake
+1973 Colima earthquake
+1973 Luhuo earthquake
+1973 Nemuro earthquake
+1973 Point Mugu earthquake
+1973 Ragay Gulf earthquake
+1973 Salta earthquake
+1973 Veracruz earthquake
+1974 Izu Peninsula earthquake
+1974 Lesser Antilles earthquake
+1974 Lima earthquake
+1974 Pattan earthquake
+1974 Zhaotong earthquake
+1975 Bagan earthquake
+1975 Haicheng earthquake
+1975 Hawaii earthquake
+1975 Kinnaur earthquake
+1975 Lice earthquake
+1975 Morris earthquake
+1975 Near Islands earthquake
+1975 North Atlantic earthquake
+1975 Oroville Earthquake
+1976 Bali earthquake
+1976 Friuli earthquake
+1976 Guatemala earthquake
+1976 Longling earthquake
+1976 Moro Gulf earthquake
+1976 Papua earthquake
+1976 Sabah earthquake
+1976 Songpan–Pingwu earthquake
+1976 Tangshan earthquake
+1976 Çaldıran–Muradiye earthquake
+1977 Bob–Tangol earthquake
+1977 Naghan earthquake
+1977 San Juan earthquake
+1977 Sumba earthquake
+1977 Tonga earthquake
+1977 Vrancea earthquake
+1978 Izu Ōshima earthquake
+1978 Miyagi earthquake
+1978 Oaxaca earthquake
+1978 Santa Barbara earthquake
+1978 Tabas earthquake
+1978 Thessaloniki earthquake
+1979 Bali earthquake
+1979 Coyote Lake earthquake
+1979 Ghaenat earthquakes
+1979 Imperial Valley earthquake
+1979 Montenegro earthquake
+1979 Petatlán earthquake
+1979 Saint Elias earthquake
+1979 Tumaco earthquake
+1979 Yapen earthquake
+1980 Azores Islands earthquake
+1980 El Asnam earthquake
+1980 Eureka earthquake
+1980 Honduras earthquake
+1980 Irpinia earthquake
+1980 Nepal earthquake
+1980 Oaxaca earthquake
+1981 Darel Valley earthquake
+1981 Dawu earthquake
+1981 Golbaf earthquake
+1981 Gulf of Corinth earthquakes
+1981 Irian Jaya earthquake
+1981 Playa Azul earthquake
+1981 Sirch earthquake
+1981 Westmorland earthquake
+1982 El Salvador earthquake
+1982 Flores earthquake
+1982 North Yemen earthquake
+1982 Ometepec earthquake
+1982 Urakawa earthquake
+1983 Biga earthquake
+1983 Borah Peak earthquake
+1983 Chagos Archipelago earthquake
+1983 Coalinga earthquake
+1983 Erzurum earthquake
+1983 Guinea earthquake
+1983 Heze earthquake
+1983 Hindu Kush earthquake
+1983 Kopaonik earthquake
+1983 Luzon earthquake
+1983 Popayán earthquake
+1983 Sea of Japan earthquake
+1984 Cachar earthquake
+1984 Llŷn Peninsula earthquake
+1984 Morgan Hill earthquake
+1984 Nagano earthquake
+1984 Northern Sumatra earthquake
+1984 San Pedro Basin earthquake
+1985 Algarrobo earthquake
+1985 Kayrakkum earthquake
+1985 Luquan earthquake
+1985 Mendoza earthquake
+1985 Mexico City earthquake
+1985 Nahanni earthquakes
+1985 Rapel Lake earthquake
+1985 Wuqia earthquake
+1986 Chalfant Valley earthquake
+1986 Kalamata earthquake
+1986 Malatya earthquake
+1986 North Palm Springs earthquake
+1986 San Salvador earthquake
+1986 Vrancea earthquake
+1987 Chiba earthquake
+1987 Ecuador earthquakes
+1987 Edgecumbe earthquake
+1987 Santiago de Chuco earthquake
+1987 Superstition Hills earthquakes
+1987 Whittier Narrows earthquake
+1988 Armenian earthquake
+1988 Lancang–Gengma earthquakes
+1988 Mindoro earthquake
+1988 Myanmar–India earthquake
+1988 Nepal earthquake
+1988 Saguenay earthquake
+1988 Tennant Creek earthquakes
+1989 Chenoua earthquake
+1989 Gissar earthquake
+1989 Loma Prieta earthquake
+1989 Malawi earthquake
+1989 Newcastle earthquake
+1989 Ungava earthquake
+1989 West Papua earthquake
+1990 Bishop's Castle earthquake
+1990 Bohol Sea earthquake
+1990 Carlentini earthquake
+1990 Gonghe earthquake
+1990 Luzon earthquake
+1990 Manjil–Rudbar earthquake
+1990 Panay earthquake
+1990 South Sudan earthquakes
+1990 Upland earthquake
+1990 Vrancea earthquakes
+1990–91 Alto Mayo earthquakes
+1991 Hindu Kush earthquake
+1991 Kalabahi earthquakes
+1991 Limon earthquake
+1991 Racha earthquake
+1991 Sierra Madre earthquake
+1991 Uttarkashi earthquake
+1992 Big Bear earthquake
+1992 Cairo earthquake
+1992 Cape Mendocino earthquakes
+1992 Erzincan earthquake
+1992 Flores earthquake and tsunami
+1992 Kohat earthquake
+1992 Landers earthquake
+1992 Murindó earthquake
+1992 Nicaragua earthquake
+1992 Roermond earthquake
+1992 St. George earthquake
+1992 Suusamyr earthquake
+1993 Finisterre earthquakes
+1993 Guam earthquake
+1993 Klamath Falls earthquakes
+1993 Kushiro earthquake
+1993 Latur earthquake
+1993 Okushiri earthquake
+1993 Scotts Mills earthquake
+1994 Bolivia earthquake
+1994 Java earthquake
+1994 Kuril Islands earthquake
+1994 Liwa earthquake
+1994 Mascara earthquake
+1994 Mindoro earthquake
+1994 Northridge earthquake
+1994 Páez River earthquake
+1994 Taiwan Strait earthquake
+1994 offshore Sanriku earthquake
+1995 Antofagasta earthquake
+1995 Chiapas earthquake
+1995 Colima–Jalisco earthquake
+1995 Dinar earthquake
+1995 Guerrero earthquake
+1995 Gulf of Aqaba earthquake
+1995 Kerinci earthquake
+1995 Marathon earthquake
+1995 Myanmar–China earthquake
+1995 Neftegorsk earthquake
+1995 Wuding earthquake
+1996 Baotou earthquake
+1996 Biak earthquake
+1996 Lijiang earthquake
+1996 Nazca earthquake
+1996 Ston–Slano earthquake
+1996 Sulawesi earthquake
+1997 Ardabil earthquake
+1997 Bojnurd earthquake
+1997 Cariaco earthquake
+1997 Chittagong earthquake
+1997 Harnai earthquake
+1997 Jabalpur earthquake
+1997 Jiashi earthquakes
+1997 Kamchatka earthquake
+1997 Manyi earthquake
+1997 Punitaqui earthquake
+1997 Qayen earthquake
+1997 Umbria and Marche earthquake
+1998 Adana–Ceyhan earthquake
+1998 Aiquile earthquake
+1998 Azores Islands earthquake
+1998 Bahía de Caráquez earthquake
+1998 Balleny Islands earthquake
+1998 Mionica earthquake
+1998 Ninglang earthquake
+1998 North Maluku earthquake
+1998 Papua New Guinea earthquake
+1998 Pymatuning earthquake
+1998 Zhangbei–Shangyi earthquake
+1999 Ambrym earthquake
+1999 Armenia, Colombia earthquake
+1999 Athens earthquake
+1999 Aïn Témouchent earthquake
+1999 Chamoli earthquake
+1999 Düzce earthquake
+1999 Hector Mine earthquake
+1999 Jiji earthquake
+1999 Luzon earthquake
+1999 Oaxaca earthquake
+1999 Sunda Strait earthquake
+1999 Tehuacán earthquake
+1999 İzmit earthquake
+19 August 2018 Lombok earthquake
+2000 Baku earthquake
+2000 Banggai Islands earthquake
+2000 Enggano earthquake
+2000 Iceland earthquakes
+2000 Kipawa earthquake
+2000 New Ireland earthquakes
+2000 Nicaragua earthquake
+2000 Tottori earthquake
+2000 Turkmenistan earthquake
+2000 Yountville earthquake
+2000 Yunnan earthquake
+2001 Geiyo earthquake
+2001 Gujarat earthquake
+2001 Kunlun earthquake
+2001 Nisqually earthquake
+2001 southern Peru earthquake
+2002 Afyon earthquake
+2002 Au Sable Forks earthquake
+2002 Baltistan earthquakes
+2002 Bou'in-Zahra earthquake
+2002 Burica earthquake
+2002 Denali earthquake
+2002 Hindu Kush earthquakes
+2002 Kalehe earthquake
+2002 Kosovo earthquake
+2002 Mindanao earthquake
+2002 Molise earthquakes
+2002 Morobe earthquake and landslide
+2002 Papua New Guinea earthquake
+2002 Port Vila earthquake
+2002 Stromboli tsunami
+2002 Sumatra earthquake
+2002 Taiwan earthquake
+2002 Tbilisi earthquake
+2003 Altai earthquake
+2003 Bachu earthquake
+2003 Bam earthquake
+2003 Bingöl earthquake
+2003 Boumerdès earthquake
+2003 Colima earthquake
+2003 Dayao earthquake
+2003 Dominican Republic earthquake
+2003 Fiordland earthquake
+2003 Miyagi earthquakes
+2003 Puerto Armuelles earthquake
+2003 San Simeon earthquake
+2003 Taungdwingyi earthquake
+2003 Tokachi earthquake
+2003 Zhaosu earthquake
+2004 Al Hoceima earthquake
+2004 Alor earthquake
+2004 Baladeh earthquake
+2004 Battagram earthquake
+2004 Chūetsu earthquake
+2004 Doğubayazıt earthquake
+2004 Indian Ocean earthquake and tsunami
+2004 Les Saintes earthquake
+2004 Tasman Sea earthquake
+2005 Fukuoka earthquake
+2005 Hindu Kush earthquake
+2005 Kashmir earthquake
+2005 Lake Tanganyika earthquake
+2005 Miyagi earthquake
+2005 Nias–Simeulue earthquake
+2005 Northern Peru earthquake
+2005 Qeshm earthquake
+2005 Ruichang earthquake
+2005 Tarapacá earthquake
+2005 Zarand earthquake
+2006 Borujerd earthquake
+2006 Greece earthquake
+2006 Gulf of Mexico earthquake
+2006 Hengchun earthquakes
+2006 Kamchatka earthquake
+2006 Kiholo Bay earthquake
+2006 Kuril Islands earthquake
+2006 Mendoza earthquake
+2006 Mozambique earthquake
+2006 Pangandaran earthquake and tsunami
+2006 Tajikistan earthquake
+2006 Tonga earthquake
+2006 Yanjin earthquake
+2006 Yogyakarta earthquake
+2007 Alum Rock earthquake
+2007 Aysén Fjord earthquakes
+2007 Chūetsu offshore earthquake
+2007 Gisborne earthquake
+2007 Kent earthquake
+2007 Kuril Islands earthquake
+2007 Martinique earthquake
+2007 Noto earthquake
+2007 Peru earthquake
+2007 Solomon Islands earthquake
+2007 Tocopilla earthquake
+2007–2008 Nazko earthquakes
+2008 Chechnya earthquake
+2008 Chino Hills earthquake
+2008 Damxung earthquake
+2008 Dodecanese earthquake
+2008 El Calvario earthquake
+2008 Iceland earthquake
+2008 Illinois earthquake
+2008 Iwate–Miyagi Nairiku earthquake
+2008 Kyrgyzstan earthquake
+2008 Lake Kivu earthquake
+2008 Market Rasen earthquake
+2008 Panzhihua earthquake
+2008 Peloponnese earthquake
+2008 Qeshm earthquake
+2008 Sichuan earthquake
+2008 Simeulue earthquake
+2008 Skåne County earthquake
+2008 Sulawesi earthquake
+2008 Wells earthquake
+2008 Yingjiang earthquakes
+2008 Ziarat earthquakes
+2009 Andaman Islands earthquake
+2009 Bhutan earthquake
+2009 Cinchona earthquake
+2009 Fiordland earthquake
+2009 Hualien earthquake
+2009 Karonga earthquakes
+2009 L'Aquila earthquake
+2009 Papua earthquakes
+2009 Samoa earthquake and tsunami
+2009 Shizuoka earthquake
+2009 Sumatra earthquakes
+2009 Swan Islands earthquake
+2009 Talaud Islands earthquake
+2009 Vanuatu earthquakes
+2009 West Java earthquake
+2009 Xinjiang earthquake
+2009 Yunnan earthquake
+2010 Afghanistan earthquake
+2010 Aguas Buenas earthquake
+2010 Baja California earthquake
+2010 Beni-Ilmane earthquakes
+2010 Canterbury earthquake
+2010 Central Canada earthquake
+2010 Chile earthquake
+2010 Damghan earthquake
+2010 Elazığ earthquake
+2010 Eureka earthquake
+2010 Haiti earthquake
+2010 Hosseinabad earthquake
+2010 Indiana earthquake
+2010 Kalgoorlie-Boulder earthquake
+2010 Kaohsiung earthquake
+2010 Mentawai earthquake and tsunami
+2010 Mindanao earthquakes
+2010 Moca earthquake
+2010 Oaxaca earthquake
+2010 Papua earthquake
+2010 Pichilemu earthquake
+2010 Pichilemu earthquakes
+2010 Salta earthquake
+2010 San Bruno pipeline explosion
+2010 Serbia earthquake
+2010 Solomon Islands earthquake
+2010 Yushu earthquake
+2011 Aceh Singkil Regency earthquakes
+2011 Christchurch earthquake
+2011 Colorado earthquake
+2011 Dalbandin earthquake
+2011 Fergana Valley earthquake
+2011 Guerrero earthquake
+2011 Kütahya earthquake
+2011 Lorca earthquake
+2011 Myanmar earthquake
+2011 Nagano earthquake
+2011 Oklahoma earthquake
+2011 Pakistan earthquake
+2011 Shizuoka earthquake
+2011 Sikkim earthquake
+2011 Tōhoku earthquake and tsunami
+2011 Van earthquakes
+2011 Virginia earthquake
+2011 Yunnan earthquake
+2011 Zumpango earthquake
+2012 Afghanistan earthquakes
+2012 Chiba earthquake
+2012 Constitución earthquake
+2012 Costa Rica earthquake
+2012 East Azerbaijan earthquakes
+2012 El Salvador earthquake
+2012 Gippsland earthquake
+2012 Guatemala earthquake
+2012 Guerrero–Oaxaca earthquake
+2012 Haida Gwaii earthquake
+2012 Indian Ocean earthquakes
+2012 Negros earthquake
+2012 Northern Italy earthquakes
+2012 Pernik earthquake
+2012 Samar earthquake
+2012 Sanriku earthquake
+2012 Shwebo earthquake
+2012 Yangzhou earthquake
+2012 Yiliang earthquakes
+2012 Zohan earthquake
+2013 Aceh earthquake
+2013 Balochistan earthquakes
+2013 Bohol earthquake
+2013 Borazjan earthquake
+2013 Bushehr earthquake
+2013 Craig, Alaska earthquake
+2013 Dingxi earthquakes
+2013 Laghman earthquake
+2013 Lake Grassmere earthquake
+2013 Lushan earthquake
+2013 Okhotsk Sea earthquake
+2013 Saravan earthquake
+2013 Seddon earthquake
+2013 Solomon Islands earthquake
+2013 Vallenar earthquake
+2014 Aegean Sea earthquake
+2014 Aleutian Islands earthquake
+2014 Ecuador earthquake
+2014 Eketahuna earthquake
+2014 Guerrero earthquake
+2014 Iquique earthquake
+2014 Jinggu earthquake
+2014 Kangding earthquake
+2014 La Habra earthquake
+2014 Ludian earthquake
+2014 Mae Lao earthquake
+2014 Mexico–Guatemala earthquake
+2014 Murmuri earthquake
+2014 Nagano earthquake
+2014 Orkney earthquake
+2014 Pakistan earthquake
+2014 Palma Bay earthquake
+2014 Peru earthquake
+2014 South Napa earthquake
+2014 Vrancea earthquake
+2014 Yingjiang earthquake
+2014 Yutian earthquake
+2015 Illapel earthquake
+2015 Islamabad earthquake
+2015 Lefkada earthquake
+2015 Ogasawara earthquake
+2015 Pishan earthquake
+2015 Sabah earthquake
+2015 South Kivu earthquake
+2015 Tajikistan earthquake
+2016 Aceh earthquake
+2016 Afghanistan earthquake
+2016 Alboran Sea earthquake
+2016 Chauk earthquake
+2016 Chiloé earthquake
+2016 Christchurch earthquake
+2016 Ecuador earthquake
+2016 Fukushima earthquake
+2016 Gyeongju earthquake
+2016 Imphal earthquake
+2016 Kaikōura earthquake
+2016 Kani earthquake
+2016 Kumamoto earthquakes
+2016 Oklahoma earthquake
+2016 Old Iliamna earthquake
+2016 Solomon Islands earthquakes
+2016 Sumatra earthquake
+2016 Tanzania earthquake
+2016 Te Araroa earthquake
+2016 Tottori earthquake
+2016 southern Taiwan earthquake
+2017 Aegean Sea earthquake
+2017 Batangas earthquakes
+2017 Botswana earthquake
+2017 Chiapas earthquake
+2017 Costa Rica earthquake
+2017 Iran–Iraq earthquake
+2017 Ischia earthquake
+2017 Java earthquake
+2017 Jinghe earthquake
+2017 Jiuzhaigou earthquake
+2017 Komandorski Islands earthquake
+2017 Lesbos earthquake
+2017 Leyte earthquake
+2017 North Korean nuclear test
+2017 Papua New Guinea earthquake
+2017 Pohang earthquake
+2017 Puebla earthquake
+2017 Surigao earthquake
+2017 Tripura earthquake
+2017 Uttarakhand earthquake
+2017 Valparaiso earthquake
+2018 Anchorage earthquake
+2018 East Java earthquake
+2018 Fiji earthquakes
+2018 Gulf of Alaska earthquake
+2018 Haiti earthquake
+2018 Hawaii earthquake
+2018 Hokkaido Eastern Iburi earthquake
+2018 Hualien earthquake
+2018 Ionian Sea earthquake
+2018 Molise earthquakes
+2018 Oaxaca earthquake
+2018 Osaka earthquake
+2018 Papua New Guinea earthquake
+2018 Peru earthquake
+2018 Sarpol-e Zahab earthquake
+2018 Southern Appalachian earthquake
+2018 Sulawesi earthquake and tsunami
+2018 Swan Islands earthquake
+2019 Albania earthquake
+2019 Ambon earthquake
+2019 Athens earthquake
+2019 Batanes earthquake
+2019 Coquimbo earthquake
+2019 Cotabato earthquakes
+2019 Davao del Sur earthquake
+2019 East Azerbaijan earthquake
+2019 Eastern Samar earthquake
+2019 Hualien earthquake
+2019 Istanbul earthquake
+2019 Kashmir earthquake
+2019 Lombok earthquake
+2019 Luzon earthquake
+2019 North Maluku earthquake
+2019 Peru earthquake
+2019 Ridgecrest earthquakes
+2019 Sichuan earthquake
+2019 Sunda Strait earthquake
+2019 Yamagata earthquake
+2019–20 Puerto Rico earthquakes
+2020 Aegean Sea earthquake
+2020 Bingöl earthquake
+2020 Caribbean earthquake
+2020 Central Idaho earthquake
+2020 Elazığ earthquake
+2020 Iran–Turkey earthquakes
+2020 Kashgar earthquake
+2020 Masbate earthquake
+2020 Monte Cristo Range earthquake
+2020 Oaxaca earthquake
+2020 Petrinja earthquake
+2020 Qiaojia earthquake
+2020 Salt Lake City earthquake
+2020 Sparta earthquake
+2020 Zagreb earthquake
+2021 Arkalochori earthquake
+2021 Assam earthquake
+2021 Bali earthquake
+2021 Balochistan earthquake
+2021 Chiba earthquake
+2021 Chignik earthquake
+2021 Dali earthquake
+2021 Davao del Sur earthquake
+2021 East Java earthquake
+2021 Flores earthquake
+2021 Fukushima earthquake
+2021 Guerrero earthquake
+2021 Haiti earthquake
+2021 Hormozgan earthquakes
+2021 Kermadec Islands earthquakes
+2021 Khövsgöl earthquake
+2021 Larissa earthquake
+2021 Lasithi earthquake
+2021 Loyalty Islands earthquake
+2021 Luxian earthquake
+2021 Maduo earthquake
+2021 Mala earthquake
+2021 Mansfield earthquake
+2021 Northern Peru earthquake
+2021 Rasht earthquake
+2021 Sisakht earthquake
+2021 South Sandwich Islands earthquakes
+2021 West Sulawesi earthquake
+2022 Bosnia and Herzegovina earthquake
+2022 Chilca earthquake
+2022 Fukushima earthquake
+2022 Guatemala earthquake
+2022 Hormozgan earthquakes
+2022 Luzon earthquake
+2022 Qinghai earthquake
+2022 Sumatra earthquake
+2022 Ya'an earthquake
+226 BC Rhodes earthquake
+262 Southwest Anatolia earthquake
+363 Galilee earthquake
+365 Crete earthquake
+426 BC Malian Gulf tsunami
+447 Constantinople earthquake
+464 BC Sparta earthquake
+479 BC Potidaea earthquake
+526 Antioch earthquake
+551 Beirut earthquake
+557 Constantinople earthquake
+5 August 2018 Lombok earthquake
+749 Galilee earthquake
+847 Damascus earthquake
+856 Damghan earthquake
+859 Syrian coast earthquake
+869 Jōgan earthquake
+893 Ardabil earthquake
+893 Dvin earthquake
+921 earthquake
+957 Caspian Sea earthquake
+AD 62 Pompeii earthquake
+April 1923 Kamchatka earthquake and tsunami
+April 2009 Afghanistan earthquake
+April 2010 Sumatra earthquake
+April 2011 Fukushima earthquake
+April 2011 Miyagi earthquake
+April 2014 Nicaragua earthquake
+April 2015 Nepal earthquake
+August 2016 Central Italy earthquake
+August 2018 Venezuela earthquake
+Interplate earthquake
+Lenin Peak disaster
+Great Hanshin earthquake
+Submarine earthquake
+Supershear earthquake
+Tauredunum event
+July 2008 Iwate earthquake
+July 2010 Iran earthquake
+July 2018 Lombok earthquake
+July 2019 Cotabato earthquake
+June 2011 Christchurch earthquake
+June 2013 Nantou earthquake
+June 2022 Afghanistan earthquake
+Osmussaar earthquake
+Deep-focus earthquake
+February 1923 Kamchatka earthquake
+February 1998 Afghanistan earthquake
+February 2001 El Salvador earthquake
+February 2004 Nabire earthquakes
+Galilee earthquake of 1837
+May 1998 Afghanistan earthquake
+May 2010 Northern Sumatra earthquake
+May 2015 Nepal earthquake
+Foreshock
+Glacial earthquake
+Kamchatka earthquakes
+Kantō earthquakes
+December 2015 Hindu Kush earthquake
+Effect of the 2004 Indian Ocean earthquake on Indonesia
+Effect of the 2004 Indian Ocean earthquake on Sri Lanka
+January 2001 El Salvador earthquake
+January 2017 Central Italy earthquakes
+January 2022 Afghanistan earthquakes
+Mount Tai earthquake
+Tōkai earthquakes
+Tōnankai earthquakes
+November 1960 Peru earthquake
+November 2004 Nabire earthquake
+November 2011 Myanmar earthquake
+September 2007 Sumatra earthquakes
+Guy-Greenbrier earthquake swarm
+Nankai earthquakes
+Nankai megathrust earthquakes
+Near East earthquakes of 1759
+Teletsunami
+Hilina Slump
+March 2007 Sumatra earthquakes
+March 2013 Nantou earthquake
+March 2021 Miyagi earthquake
+October 2009 Afghanistan earthquake
+October 2014 Nicaragua earthquake
+October 2015 Hindu Kush earthquake
+October 2016 Central Italy earthquakes
+Volcano tectonic earthquake

@@ -1,0 +1,416 @@
+3F8
+Abagovomab
+Abciximab
+Abituzumab
+Abrilumab
+Actoxumab
+Adalimumab
+Adecatumumab
+Aducanumab
+Afelimomab
+Alacizumab pegol
+Alemtuzumab
+Alirocumab
+Amatuximab
+Amivantamab
+Anatumomab mafenatox
+Andecaliximab
+Anifrolumab
+Anrukinzumab
+Ansuvimab
+Apolizumab
+Ascrinvacumab
+Aselizumab
+Atezolizumab
+Atoltivimab
+Atorolimumab
+Avelumab
+Fremanezumab
+Fresolimumab
+Frunevetmab
+Fulranumab
+Imgatuzumab
+Inclacumab
+Indatuximab ravtansine
+Indium
+Indium
+Indium
+Indium
+Indium
+Indium
+Intetumumab
+Iodine
+Ipilimumab
+Iratumumab
+Isatuximab
+Istiratumab
+Lemalesomab
+Lenvervimab
+Lenzilumab
+BIIB033
+Bamlanivimab
+Bapineuzumab
+Basiliximab
+Bavituximab
+Bebtelovimab
+Bectumomab
+Belantamab mafodotin
+Belimumab
+Benralizumab
+Bentracimab
+Bermekimab
+Bertilimumab
+Besilesomab
+Bevacizumab
+Bezlotoxumab
+Bimagrumab
+Bimekizumab
+Bivatuzumab
+Bivatuzumab mertansine
+Bleselumab
+Blinatumomab
+Blosozumab
+Bococizumab
+Brazikumab
+Brentuximab vedotin
+Briakinumab
+Brodalumab
+Brolucizumab
+Brontictuzumab
+Burosumab
+CBR96-doxorubicin immunoconjugate
+CR6261
+Camidanlumab tesirine
+Camrelizumab
+Canakinumab
+Cantuzumab mertansine
+Cantuzumab ravtansine
+Caplacizumab
+Carlumab
+Carotuximab
+Gatipotuzumab
+Gavilimomab
+Gemtuzumab ozogamicin
+Ianalumab
+Ibalizumab
+Ibritumomab tiuxetan
+Lampalizumab
+Lanadelumab
+Landogrozumab
+Lokivetmab
+Loncastuximab tesirine
+Lorvotuzumab mertansine
+Maftivimab
+Mirikizumab
+Mitumomab
+Muromonab-CD3
+Parsatuzumab
+Pascolizumab
+Pateclizumab
+Stamulumab
+Suptavumab
+Talizumab
+Tanezumab
+Taplitumomab paptox
+Tarextumab
+Tenatumomab
+Teneliximab
+Teplizumab
+Teprotumumab
+Mepolizumab
+Modotuximab
+Mogamulizumab
+Monalizumab
+Olaratumab
+Oleclumab
+Olokizumab
+Pembrolizumab
+Pemtumomab
+Polatuzumab vedotin
+Ponezumab
+Quilizumab
+Rilotumumab
+Rinucumab
+Sarilumab
+Satralizumab
+Sotrovimab
+TOL101
+Tabalumab
+Tadocizumab
+Tafasitamab
+Theralizumab
+Toralizumab
+Tositumomab
+Tovetumab
+Ublituximab
+Visilizumab
+Vitaxin
+Vobarilizumab
+Yttrium
+Yttrium
+Zalutumumab
+Zanolimumab
+Cedelizumab
+Cemiplimab
+Certolizumab pegol
+Cetuximab
+Domagrozumab
+Donanemab
+Dostarlimab
+Drozitumab
+Duligotuzumab
+Dupilumab
+Durvalumab
+Dusigitumab
+Indusatumab vedotin
+Inebilizumab
+Infliximab
+Inolimomab
+Inotuzumab ozogamicin
+Matuzumab
+Milatuzumab
+Nemolizumab
+Nerelimomab
+Nesvacumab
+Nimotuzumab
+Nirsevimab
+Nivolumab
+Otelixizumab
+Otilimab
+Otlertuzumab
+Refanezumab
+Regavirumab
+Regdanvimab
+Rovalpituzumab tesirine
+Rovelizumab
+Samalizumab
+Secukinumab
+Tigatuzumab
+Tildrakizumab
+Tralokinumab
+Trastuzumab
+Trastuzumab deruxtecan
+Trastuzumab emtansine
+Tregalizumab
+Tremelimumab
+Trevogrumab
+Demcizumab
+Denintuzumab mafodotin
+Denosumab
+Depatuxizumab mafodotin
+Detumomab
+Faralimomab
+Faricimab
+Farletuzumab
+Fasinumab
+Felvizumab
+Fezakinumab
+Ficlatuzumab
+Figitumumab
+Futuximab
+GSK2831781
+Galcanezumab
+Galiximab
+Ganitumab
+Gantenerumab
+Golimumab
+Lerdelimumab
+Leronlimab
+Letolizumab
+Lexatumumab
+Mavrilimumab
+Metelimumab
+Naptumomab estafenatox
+Narnatumab
+Natalizumab
+Vandortuzumab vedotin
+Vantictumab
+Vanucizumab
+Vapaliximab
+Varlilumab
+Vatelizumab
+Catumaxomab
+Cofetuzumab pelidotin
+Conatumumab
+Eldelumab
+Elotuzumab
+Elsilimomab
+Emactuzumab
+Emapalumab
+Emibetuzumab
+Emicizumab
+Enavatuzumab
+Enfortumab vedotin
+Enoblituzumab
+Enoticumab
+Ensituximab
+Epratuzumab
+Eptinezumab
+Erenumab
+Erlizumab
+Gevokizumab
+Girentuximab
+Glembatumumab vedotin
+Icrucumab
+Idarucizumab
+Ieramilimab
+Imalumab
+Lebrikizumab
+Lecanemab
+Lintuzumab
+Lirentelimab
+Lirilumab
+Lulizumab pegol
+Lumiliximab
+Lumretuzumab
+Pidilizumab
+Pinatuzumab vedotin
+Sevirumab
+Sibrotuzumab
+Sifalimumab
+Siltuximab
+Simtuzumab
+Sintilimab
+Siplizumab
+Sirukumab
+Spartalizumab
+Zolbetuximab
+Zolimomab aritox
+Cirmtuzumab
+Citatuzumab bogatox
+Cixutumumab
+Clazakizumab
+Clenoliximab
+Dacetuzumab
+Daclizumab
+Dalotuzumab
+Daratumumab
+Dinutuximab
+Diridavumab
+Duvortuxizumab
+Ecromeximab
+Eculizumab
+Edobacomab
+Edrecolomab
+Efalizumab
+Efungumab
+Ertumaxomab
+Etaracizumab
+Etrolizumab
+Evinacumab
+Evolocumab
+Exbivirumab
+Flanvotumab
+Fletikumab
+Flotetuzumab
+Fontolizumab
+Foralumab
+Foravirumab
+Keliximab
+Minretumomab
+Morolimumab
+Mosunetuzumab
+Motavizumab
+Racotumomab
+Radretumab
+Rafivirumab
+Ranibizumab
+Ravulizumab
+Raxibacumab
+Crenezumab
+Crizanlizumab
+Crotedumab
+Labetuzumab
+Lucatumumab
+MDX-1097
+Maslimomab
+Oxelumab
+Ozanezumab
+Ozoralizumab
+Seribantumab
+Tislelizumab
+Tisotumab vedotin
+Tocilizumab
+Guselkumab
+Moxetumomab pasudotox
+Nacolomab tafenatox
+Namilumab
+Naxitamab
+Nebacumab
+Necitumumab
+Roledumab
+Ruplizumab
+Sofituzumab vedotin
+Solanezumab
+Solitomab
+Sutimlimab
+Suvizumab
+Suvratoxumab
+Technetium
+Technetium
+Technetium
+Technetium
+Technetium
+Technetium
+Teclistamab
+Tefibazumab
+Telimomab aritox
+Urelumab
+Urtoxazumab
+Ustekinumab
+Vadastuximab talirine
+Itolizumab
+Ixekizumab
+Patritumab
+Perakizumab
+Pertuzumab
+Pexelizumab
+Ralpancizumab
+Ramucirumab
+Libivirumab
+Lifastuzumab vedotin
+Ligelizumab
+Lilotomab
+Mapatumumab
+Margetuximab
+Omalizumab
+Onartuzumab
+Ontuxizumab
+Opicinumab
+Oportuzumab monatox
+Oregovomab
+Orticumab
+Pagibaximab
+Palivizumab
+Pamrevlumab
+Panitumumab
+Panobacumab
+Relatlimab
+Reslizumab
+Risankizumab
+Rituximab
+Robatumumab
+Obiltoxaximab
+Obinutuzumab
+Ocaratuzumab
+Ocrelizumab
+Odesivimab
+Odulimomab
+Ofatumumab
+Placulumab
+Plozalizumab
+Priliximab
+Pritumumab
+Romosozumab
+Rontalizumab
+Rosmantuzumab
+Sacituzumab govitecan
+Tezepelumab
+Tucotuzumab celmoleukin
+Tuvirumab
+Ulocuplumab
+Vedolizumab
+Veltuzumab
+Vepalimomab
+Volociximab
+Vorsetuzumab mafodotin

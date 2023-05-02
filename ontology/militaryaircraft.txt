@@ -1,0 +1,2 @@
+number of bombs
+number of rockets

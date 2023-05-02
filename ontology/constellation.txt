@@ -1,0 +1,162 @@
+A-train
+Andromeda
+Antinous
+Antlia
+Apus
+Aquarius
+Aquila
+Ara
+Argo Navis
+Aries
+Auriga
+Frederici Honores
+Iridium satellite constellation
+Legends – voices of rock
+Leo
+Leo Minor
+BRITE
+Boötes
+Caelum
+Camelopardalis
+Cancer
+Cancer Minor
+Canes Venatici
+Canis Major
+Canis Minor
+Capricornus
+Carina
+Cassiopeia
+Gemini
+Hydrus
+Lochium Funis
+Lockheed L-749 Constellation
+Musca
+Musca Borealis
+Puppis
+Pyxis
+Strela
+Subclavian steal syndrome
+Taurus
+Taurus Poniatovii
+Mensa
+Pegasus
+Polophylax
+Quadrans Muralis
+SAOCOM
+TWA Flight 513
+Virgo
+Centaurus
+Cepheus
+Cerberus
+Cetus
+Chamaeleon
+Dorado
+Draco
+Indus
+Sceptrum Brandenburgicum
+Sceptrum et Manus Iustitiae
+Scorpius
+Sculptor
+Scutum
+Scutum
+Triangulum
+Triangulum Australe
+Triangulum Minus
+Delphinus
+Felis
+Gallus
+Lepus
+Wiener Gruppe
+Columba
+Columbine II
+Coma Berenices
+Corona Australis
+Corona Borealis
+Corvus
+Crater
+Equuleus
+Eridanus
+Former constellations
+Fornax
+Globalstar
+Globus Aerostaticus
+Lupus
+Lynx
+Lyra
+Microscopium
+Pictor
+Serpens
+Sextans
+Shaken baby syndrome
+Sirius
+Space Based Space Surveillance
+Stauffer syndrome
+Chronic radiation syndrome
+Circinus
+Circumpolar constellation
+Cluster
+Dysuria
+E-CORCE
+Edison Demonstration of Smallsat Networks
+Essaim
+European Data Relay System
+Five Chariots
+Flock-1
+Ke Kā o Makali‘i
+Milstar
+Monoceros
+Mons Maenalus
+Psalterium Georgii
+UK-DMC 3
+Crux
+Custos Messium
+Cygnus
+Lacerta
+Machina Electrica
+Manaiakalani
+Sentinel-3
+Grus
+Horologium
+Jordanus
+Solarium
+Teen Ta Tseang Keun
+Telescopium
+Telescopium Herschelii
+Ursa Major
+Ursa Minor
+Heiheionakeiki
+Hercules
+Pavo
+Perseus
+Phoenix
+Ramus Pomifer
+Rangifer
+Libra
+Marfanoid
+O3b
+Ophiuchus
+Orion
+Pan Am Flight 121
+Reticulum
+River Tigris
+Robur Carolinum
+Noctua
+Norma
+Octans
+Ocular ischemic syndrome
+Officina Typographica
+Pisces
+Piscis Austrinus
+Postperfusion syndrome
+Sagitta
+Sagitta
+Sagittarius
+Tucana
+Turdus Solitarius
+Vela
+Volans
+Vulpecula
+declination
+neighbour constellations
+associateStar
+number of stars

@@ -1,0 +1,868 @@
+A. K. Huntington
+Abel Buell
+Abram Moriarty
+Adam K. Bert
+Adrian Hooke
+Adrian Lombard
+Agustín de Betancourt
+Al Gross
+Al Ljutic
+Alan Garnett Davenport
+Alan Harris
+Alan Muir Wood
+Albert Fink
+Aleksandr Aleksandrovich Blagonravov
+Aleksandr Ivanovich Blagonravov
+Alex Moulton
+Alexander Allan
+Alexander Binnie
+Alexander Gibb
+Alexander Kennedy
+Alexander Lippisch
+Alexander McDonnell
+Alexander Parkes
+Alexander Ross
+Alexander Sergeyevich Yakovlev
+Alexander Siemens
+Alfred Giles
+Alfred Lichtenstein
+Alfred Moore
+Alfred Pippard
+Alfred Vail
+Alice Perry
+Allan Quartermaine
+Alois Senefelder
+Andreas Pavel
+Andrei Tupolev
+Andrew Earl Weatherly
+Andrew Viterbi
+Andrew Vivian
+András Mechwart
+André Rebouças
+Angus Fulton
+Angus Paton
+Anthony George Lyster
+Anthony Hunt
+Anton Eichleiter
+Anton Flettner
+Anton Freissler
+Archibald Sturrock
+Arnold Alexander Hall
+Arnold Beck
+Arnold Neustadter
+Artem Mikoyan
+Arthur Dorman
+Arthur Duckham
+Arthur Dudley Dobson
+Arthur Hartley
+Arthur James Hillman
+Arthur Peppercorn
+Arthur Rubbra
+Arthur Scherbius
+Arthur Woolf
+Asa Binns
+Ashraf Habibullah
+Ashwani Gupta
+August Dietz
+Auguste Lumière
+Franz Pitzinger
+Frederic Nathan
+Frederic R. Harris
+Frederick Arthur Whitaker
+Frederick Attock
+Frederick Bramwell
+Frederick Bremer
+Frederick Esling
+Frederick Graff
+Frederick Handley Page
+Frederick Hawksworth
+Frederick Kawerau
+Frederick Page
+Frederick W. Lanchester
+Frederick Walter Simms
+Fritz Leonhardt
+Fritz Pfleumer
+Helmut Kroiss
+Henri Tresca
+Henry Cronin
+Henry Dircks
+Henry Edward Cusack
+Henry Fowler
+Henry M. Goodkind
+Henry Miller Shreve
+Henry Millicer
+Henry Norris
+Henry Royce
+Henry Trengrouse
+Henry Ward Poole
+Iosif Șilimon
+Isaac Shoenberg
+Isambard Kingdom Brunel
+Isham Randolph
+Johann Georg Bodmer
+Johann Rihosek
+John A. Roebling II
+John Alexander Brodie
+John Allan Hill
+John Aspinall
+John B. Hogg
+John Baker, Baron Baker
+John Barber
+John Barton
+John Clarke Hawkshaw
+John Coode
+John Duncan Watson
+John E. Foxworth Jr.
+John Edward Thornycroft
+John F. McIntosh
+John Farey Jr.
+John Flint Kidder
+John Fozard
+John Frederick Bateman
+John Grantham
+John H. Dialogue
+John Harry Grainger
+John Harvey
+John Hawkshaw
+John Heathcoat
+John Hinchley
+John Holmes Jellett
+John Hore
+John Horlock
+John Isaac Thornycroft
+John Kerr Tiffany
+John La Roche
+John Lambie
+John Loudon McAdam
+John Muratore
+John N. Luff
+John O'Sullivan
+John Oldham
+John Penn
+John Perry
+John Ramsbottom
+John Rennie the Younger
+John Robert Boker Jr.
+John Roberts
+John Robinson McClean
+John Rylands
+John Seaward
+John Tjaarda
+John Vernon Bartlett
+John Wall
+John Wallis Titt
+John Walter Scott
+John Wesley Hyatt
+John Wolfe Barry
+Leffert L. Buck
+Leo August
+Leon Vincent Rapkin
+Leonard Kapiloff
+Barak Norman
+Barry Clarke
+Beatrice Hicks
+Beatrice Shilling
+Beauchamp Tower
+Benjamin Baker
+Benjamin Connor
+Benjamin Wright
+Bennet Woodcroft
+Benoît Fourneyron
+Bern Dibner
+Bernardo Quintana Arrioja
+Bertram Kelly
+Bertram W. H. Poole
+Beverly Sedgwick King
+Bindon Blood Stoney
+Bob Daimond
+Boris Lisunov
+Bradford Leslie
+Brian Clancy
+Brian Harper
+Brodie Henderson
+Bruce Day
+Bruno Sacco
+C. Belmont Faries
+C. Maxwell Stanley
+Callcott Reilly
+Calvin Waters Christian
+Canvass White
+Capel Lofft Holden
+Carl Benz
+Carl Roman Abt
+Carroll Chase
+Carson Morrison
+George Ambler Wilson
+George Balfour
+George Barclay Bruce
+George Benedict Sloane
+George Berkley
+George Brittain
+George Buchanan
+George Buchanan
+George Carter
+George Christian Darbyshire
+George Cornwell
+George Fleming
+George Furness
+George Harold Brown
+George Herman Babcock
+George Hughes
+George Humphreys
+George Ivatt
+George Johnston
+George Julius
+George Lanchester
+George Matthew McNaughton
+George Mueller
+George Parker Bidder
+George Robert Stephenson
+George Safford Parker
+George Thomas Clark
+George Tosh
+George Townsend Turner
+George Turnbull
+George Ward Linn
+George Wendell Brett
+George Whale
+George Whitehouse
+Granville Bradshaw
+Hyman Herman
+Ian Firth
+Ian Liddell
+Ian MacDonald Campbell
+Iann Barron
+Louis Henry Barkhausen
+Louis Lumière
+Louise Boyd Dale
+Maciej Stachowiak
+Mitchell Burnside Clapp
+Patrick Godfrey
+Stanley Bryan Ashbrook
+Stanley Hooker
+Stanley J. Luft
+Stanley Portal Hyatt
+Stuart Davies
+Takehisa Yaegashi
+Tatsuo Hasegawa
+Mohamed Dadkhah
+Olgierd Zienkiewicz
+Oliver Bulleid
+Peirson Frank
+Richard H. Thompson
+Richard March Hoe
+Richard Parry-Jones
+Richard Schwartz
+Richard Tangye
+Richard Tyler
+S. D. Holden
+S. Kellogg Stryker
+Saul Newbury
+Shinichiro Sakurai
+Shinroku Momose
+Tadao Baba
+Tony Ridley
+Victor E. Engstrom
+Viktor Makeyev
+Viktor Markelj
+Vincent Graves Greene
+Vincent Hugo Bendix
+Vitaly Lagutenko
+Vladimir K. Zworykin
+Vladimir Petlyakov
+Vladimir Shukhov
+William Lloyd
+William Madocks
+William Matthews
+William Maw
+William McWhirter
+William Menelaus
+William P. Reid
+William Penn Brown
+William Pool
+William Reynolds Ricketts
+William Snell Chauncy
+William Stanley
+William Stroudley
+William Thorold
+William Thwaites
+William Unwin
+William Willcocks
+William Woodbury Hicks
+Wilson Markle
+Wilson Worsdell
+Ysrael Seinuk
+Yukihiko Yaguchi
+Cecil Kimber
+Cesare Pallavicino
+Charles Anthony Deane
+Charles Benjamin Redrup
+Charles Beyer
+Charles Blacker Vignoles
+Charles Bowen Cooke
+Charles Butters
+Charles C. Cratsenberg
+Charles Clifford
+Charles Corbett Powell Wilson
+Charles Duryea
+Charles Esterly Severn
+Charles Fairburn
+Charles Foster Richards
+Charles Fox
+Charles Francis Jenkins
+Charles Goodyear
+Charles H. Zimmerman
+Charles Haviland Mekeel
+Charles Hawksley
+Charles Hershfield
+Charles Hutton Gregory
+Charles J. Starnes
+Charles James Phillips
+Charles L. Towle
+Charles Langbridge Morgan
+Charles Lawrance
+Charles Macintosh
+Charles Martin Hall
+Charles P. de Volpi
+Charles Richard Fairey
+Charles Richardson
+Don R. Berlin
+Donald N. Frey
+Donald Reeve
+Donna Riley
+Dorothy B. Blaney
+Doug Rickard
+Douglas Fox
+Douglas Galton
+Douglas Pask
+Douglas Wood
+Dugald Drummond
+Günter Wendt
+H. Kempton Dyson
+H. L. Lindquist
+Jean-Rodolphe Perronet
+Jean Maritz
+Jean de Hautefeuille
+Joseph Treffry
+Joseph Vollmer
+Joseph Whitworth
+Joshua Field
+Joshua Thomas Noble Anderson
+Josiah Vavasseur
+Josias Jessop
+José Bozzano
+José Hernández-Rebollar
+Juan Sobrino
+Julius H. Kroehl
+Matthew Holmes
+Matthew Stirling
+Matus Bisnovat
+Maurice Brennan
+Maurice Fitzmaurice
+Maurice Koechlin
+Mike Glover
+Mikhail Gurevich
+Mikhail Mil
+Mikhail Pogosyan
+Mikhail Yangel
+Miksa Déri
+Nicola Romeo
+Nicolas-Joseph Cugnot
+Nigel Gresley
+Nikolai Polikarpov
+Nikolay Benardos
+Nils Ericson
+Oskar Barnack
+Reginald Coates
+Reginald Mountain
+Roy Chadwick
+Roy Chaplin
+Roy Fedden
+Sam Thorburn
+Samuel Finley Brown Morse
+Samuel Morey
+Samuel W. Alderson
+Samuel Waite Johnson
+Shigeyuki Hori
+Tim Ibell
+Delf Norona
+Demetrius Comino
+Demola Aladekomo
+Fazlur Rahman Khan
+Felix Wankel
+Ferdinand P. Beer
+Ferdinand Porsche
+Félix Candela
+Félix Trombe
+Khanh D. Pham
+Kozo Watanabe
+Kurt Hohenemser
+Kurt Tank
+Károly Zipernowsky
+Leopold Halliday Savile
+Leslie Clark
+Leslie E. Robertson
+Lester George Brookman
+Maurizio Milan
+Michael Dickson
+Michael Horne
+Michael Joseph Owens
+Michael Loam
+Michael Martin
+Nathan M. Newmark
+Nathaniel Barnaby
+Valdemar Poulsen
+Valencia Koomson
+Valentin Bliznyuk
+Valentin Glushko
+Vannoccio Biringuccio
+Varro Eugene Tyler
+Vasily Bakalov
+Walter Dornberger
+Walter Hancock
+Walter J. Conrath
+Walter R. McCoy
+Walter Stone Scott
+Wanda Austin
+Washington Roebling
+Wifredo Ricart
+Col. Charles S. Hamilton
+Colin Clinton
+Conde McCullough
+Conrad Lau
+Constantin Perskyi
+Eli Whitney
+Elias Howe
+Eliphalet Remington
+Elisha Otis
+Elizabeth Hausler
+Ellery Denison
+Elliott Perry
+Ellis S. Chesbrough
+Elsie Eaves
+Emilio Diena
+Enzo Diena
+Enzo Siviero
+Erico Spinadel
+Erik F. Hurt
+Ernest Anthony Kehr
+Francis Bell
+Francis Trevithick
+Francis Webb
+Francis Wentworth-Sheilds
+Frank Atwood Huntington
+Frank Crown
+Frank Halford
+Frank McDowell Leavitt
+Frank Newby
+Frank Parkinson
+Frank Twyman
+Franklin Richard Bruns Jr.
+Franz Kruckenberg
+George de Bothezat
+Georgy Beriev
+Giovanni Battista Calvi
+Giovanni Giorgi
+Glenn Odekirk
+Gordon H. Torrey
+Gordon Higginson
+Gordon Lewis
+Ichiro Suzuki
+Igor Afrikantov
+Ilija Arnautović
+Jörg Schlaich
+K. K. Aggarwal
+Kolbjørn Saether
+Konstantin Chelpan
+Laurens Hammond
+Lawrence Larson
+Lynne S. Warm-Griffiths
+Mario Salvadori
+Marjan Pipenbaher
+Martin Atock
+Martin Klein
+Michael Stroukoff
+Michel Virlogeux
+Michèle Dix
+Pier Luigi Nervi
+Pierre-Émile Martin
+Siegfried Marcus
+Siemens S45
+Simon Lake
+Sir John Carden, 6th Baronet
+Sir John Fowler, 1st Baronet
+Sir John Thornycroft, 1st Baronet
+Stephen Harriman Long
+Stephen Mitchell Dixon
+Sydney H. Ball
+Syed Mainul Hossain
+Tom Tjaarda
+Tony Fitzpatrick
+Charlotte Tebay
+Chester Greenwood
+Chewang Norphel
+Chih-Ming Ho
+Chris Huggett
+Chris Wise
+Christian Edward Detmold
+Clarence W. Hennan
+Claude Chappe
+Clement Wilks
+Clifford Milburn Holland
+Clifford Washington Kissinger
+Clyde Jennings
+Clément Ader
+Cyril Lovesey
+Dagobert Müller von Thomamühl
+Daniel C. Jackling
+Daniel Deronda Berolzheimer
+Daniel Gooch
+Daniel Kinnear Clark
+Daniel W. Dobberpuhl
+David Anderson
+David Beauchamp
+David Crosthwait
+David D. Caldwell
+David Green
+David Gwilym Morris Roberts
+David Harvey
+David Jones
+David Knowles
+David Louis Lidman
+David Mowat Watson
+Earle Dickson
+Edith Margaret Faulstich
+Edmund Hambly
+Edmund Happold
+Eduardo Barrón
+Eduardo Torroja
+Edward B. Ellington
+Edward Boker Sterling
+Edward Bury
+Edward Dobson
+Edward Edwin Glanville
+Edward Gordon Perry Jr
+Edward Haven Mason
+Edward J. Wasp
+Edward John Dent
+Edward Kleinschmidt
+Edward Orpen Moriarty
+Edward Snell
+Edward Spring Knapp
+Edward Thompson
+Edward Woods
+Edwin Müller
+Edwin R. Fellows
+Egide Walschaerts
+Ernest Lemon
+Ernest Malinowski
+Ernst Max Cohn
+Estevan Antonio Fuertes
+Ethel Bergstresser McCoy
+Eugene Klein
+Eugene N. Costales
+Eugene Polley
+Eugene Stoner
+Eugène Freyssinet
+Eveleen Mary Weldon Severn
+Everett C. Erle
+Ezra Danolds Cole
+Fabrizio de Miranda
+Filippo Negroli
+Hubert Shirley-Smith
+Hugh C. Barr
+Hugh Massey Clark
+Hugh McLellan Southgate
+Hugh Ralston Crawford
+Hugh Smellie
+Humphrey Gainsborough
+Jack R. Janney
+Jack Zunz
+Jacob Ellehammer
+Jacques Minkus
+James Abernethy
+James Anthony Gaffney
+James Armstrong
+James Arthur Banks
+James Benjamin Seymour
+James Brunlees
+James Cudworth
+James Green
+James Hardress de Warrenne Waller
+James Henry Greathead
+James Johnson
+James Kennedy
+Jerome Babe
+Jiro Horikoshi
+Jiro Tanaka
+Joachim Giæver
+Joaquim Cardozo
+Job Abbott
+Joe Bertony
+Joe Grand
+Joe Kindregan
+Keith Foulger
+Kelly Johnson
+Mortimer L. Neinken
+Morton Dean Joyce
+Rachel Davidson
+Rachel Skinner
+Ray J. Ceresa
+Ray Wedgwood
+Raymond Henry Weill
+U. N. Gunasekera
+Creighton C. Hart
+Kaj Riska
+Lucien Berthelot
+Lucien Chauvière
+Ludwig Obry
+Ludwig Schunk
+Luigi Colani
+Luis Huergo
+Man-Chung Tang
+Manfred Dobin
+Marvin Camras
+Mary Ann Aspinwall Owens
+Massey Bromley
+Norton Harding Van Sicklen
+Ove Arup
+Owen Williams
+Semyon Kosberg
+Semyon Lavochkin
+Sergei Nikitich Kovalev
+Sergey Ilyushin
+Sergey Zhuk
+Siva S. Banda
+Timothy Hackworth
+Wilem Frischmann
+Wilfred Shepherd-Barron
+Wilhelm Bauer
+Wilhelm Fenner
+Wilhelm Tranow
+Wilhelm von der Emde
+Willard Otis Wylie
+William Armstrong, 1st Baron Armstrong
+William Bald
+William Barton Worthington
+William Barton Wright
+William Bouch
+William Bryson
+William C. Gotshall
+William Carlos Stone
+William Chadwell Mylne
+William Cubitt
+William Davidson
+William Elsdon
+William F. Baker
+William F. Friedman
+William Francis
+William Froude
+William George Nicholson Geddes
+William Glanville
+William Gordon Harris
+William H. Morton
+William Halcrow
+William Hazledine
+William Henry Barlow
+William Henry Ellis
+William Henry Preece
+William Henry White
+William Herbert Miller Jr.
+William Hogarth Tower
+William Husband
+William J. Wilgus
+William Kelly Wallace
+Winthrop Smillie Boggs
+Wladimir Talanczuk
+Gregory B. Salisbury
+Guilford Lindsey Molesworth
+Guillermo González Camarena
+Hani Azer
+Hanif Kara
+Holland Archer Davis
+Horacio Anasagasti
+Hossein Rezai
+Howard Grubb
+Howard Taylor
+Hubert Gautier
+James Mansergh
+James Manson
+James McConnell
+James Meadows Rendel
+James Moore
+James Morris Gale
+James Richard Haskell
+James Rumsey
+James Samuel
+James Simpson
+James Starr
+James Stirling
+James Stirling
+James Walker
+James Wimshurst
+Jonathan Davidson
+Jonathan Hornblower
+Jorge Reynolds Pombo
+Josef Melan
+Joseph Armstrong
+Joseph Britton Leavy
+Joseph Clement
+Joseph Colaco
+Joseph Dwyer
+Joseph F. Ware Jr.
+Joseph Hamilton Beattie
+Joseph Locke
+Joseph Lstiburek
+Joseph M. Clary
+Joseph Quick
+Joseph Salim Peress
+Joseph Smith
+Karl Ljungberg
+Karl Probst
+Karlheinz Krauth
+Kirby Laing
+Lloyd B. Gatchell
+Nabih Youssef
+Naganori Ito
+Namas Chandra
+Roger G. Weill
+Roger Gaskell Hetherington
+Roger Hetherington
+Roger Sainsbury
+Roland Bond
+Rune Elmqvist
+Russell Dumas
+Ryoichi Nakagawa
+Soichi Ichida
+Solomon Glass
+Susan Marshall McDonald
+Thomas Bouch
+Thomas Brown Jordan
+Thomas C. Gillmer
+Thomas Codrington
+Thomas Hancock
+Thomas Hawksley
+Thomas Heywood
+Thomas Higinbotham
+Thomas Kierans
+Thomas Longridge Gooch
+Thomas Savery
+Thomas Simpson
+Thomas Stewart
+Thomas Telford
+Thomas William Worsdell
+Émiland Gauthey
+Émile Baudot
+Östen Mäkitalo
+Hans Ledwinka
+Hans Multhopp
+Hardy Cross
+Harold Gourley
+Harold Harding
+Harrison Hayter
+Harry Edward Jones
+Harry Pollitt
+Harry Ricardo
+Harry Wainwright
+Harry Weiss
+Haruhiko Tanahashi
+Heinz Bonatz
+Herbert E. Ives
+Herbert J. Bloch
+Herbert Manzoni
+Herbert Reah Harper
+Herman Frasch
+Hiram Edmund Deats
+Hiram M. Chittenden
+Hiroshi Inose
+Ivan Mikoyan
+J. Frank Duryea
+J. P. Knight
+J. R. W. Purves
+Patrick Stirling
+Paul Boucherot
+Paul Gottlieb Nipkow
+Paul Grundy
+Paul Hilmar Jensen
+Paul MacCready
+Pavel Sukhoi
+Pavel Yablochkov
+Peter Arthur Cox
+Peter Campbell
+Peter Carl Goldmark
+Peter F. B. Alsop
+Peter Hobbs
+Peter Kogge
+Peter Nicholson
+Peter Paul Labertouche
+Peter Rice
+Peter Schreyer
+Peter Thomas Dunican
+Peter W. Barlow
+Philip Drinker
+Philip G. Hodge
+Philip Mathias Wolsieffer
+Philip Silver
+Philipp Forchheimer
+Philippe Dupuis
+Ralph Andrews Barry
+Ralph Dodd
+Ralph Freeman
+Ralph Hooper
+Lidia Brito
+Marc Laberte
+Marcel Bich
+Marco Antonio Cuevas
+Renatus Harris
+René Lorin
+Robert A. Siegel
+Robert Absalom Thom
+Robert Bald
+Robert Bosch
+Robert Edgeworth-Johnstone
+Robert Elliott-Cooper
+Robert Esnault-Pelterie
+Robert Granville Stone
+Robert H. Scanlan
+Robert H. Widmer
+Robert Hadfield
+Robert Hoe
+Robert Laurenson Dashiell Davidson
+Robert Lickley
+Robert Ludvigovich Bartini
+Robert Mallet
+Robert McKittrick
+Robert Parker Parrott
+Robert Rawlinson
+Robert Riddles
+Robert Sinclair
+Robert Stirling
+Robert Urie
+Robert Watson
+Robert Whitehead
+Robert Whitworth
+Robert Wynne-Edwards
+Nobuaki Katayama
+Nolan B. Aughenbaugh
+Norman Rowntree
+Povl Ahm
+Prescott Holden Thorp
+Prosper L'Orange
+Rex Pierson
+Richard Altwasser
+Richard Birdsall Rogers
+Richard Clarkson
+Ron Jarvis
+Ronald F. Probstein
+Roque Ruaño
+Rostislav Alexeyev
+Santiago Calatrava
+Sarah Buck
+Terry Miller
+Ulises Armand Sanabria
+Veikko Muronen
+Vernon Robertson
+W. E. W. Petter
+W. Hamilton Barnum
+W. Wilson Hulme II
+Wenceslas Cobergher

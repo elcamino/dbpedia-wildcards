@@ -1,0 +1,750 @@
+A. C. Gibbs
+A. R. McCabe
+A. Victor Donahey
+Aaron Ogden
+Aaron T. Bliss
+Abbas Fallahi Babajan
+Abdul Jabbar Taqwa
+Abdul Karim Brahui
+Abdul Qadir Alam
+Abdulfatah Ahmed
+Abdulkadir Shehu
+Abdullahi Adamu
+Abdullahi Mohammed
+Abolghasem Wafi Yazdi
+Abram M. Scott
+Abubakar Barde
+Abubakar Saleh Michika
+Abubakar Salihu
+Achike Udenwa
+Ada Itúrrez de Cappellini
+Adetoye Oyetola Sode
+Adolfo Sigwald
+Adolph Olson Eberhart
+Agustín Viesca
+Ahmad Sani Yerima
+Ahmad Yusuf Nuristani
+Ahmadu Hussaini
+Ahmadullah Alizai
+Ahmed Muhammad Daku
+Ajalli
+Akbar Nikzad
+Akinlabi Olasunkanmi
+Albert B. White
+Albert McIntire
+Albert Sleeper
+Alberto Maynez
+Alejandro Gertz Manero
+Alex J. Groesbeck
+Alexander Cameron Hunt
+Alfredo Avelín
+Alfredo Palacios
+Alfredo Ramírez Bedolla
+Alfredo del Mazo Vélez
+Ali Alilu
+Aliyu Kama
+Aliyu Magatakarda Wamakko
+Aliyu Modibbo Umar
+Allison Madueke
+Alonso de Pacheco y Herédia
+Alonso de Ribera
+Alonzo B. Cornell
+Ambrogio Spinola
+Ambrosio O'Higgins, 1st Marquess of Osorno
+Amen Edore Oyakhire
+Américo Villarreal Anaya
+Ancízar López López
+Andrew Cohen
+Andrew E. Lee
+Andrew George
+Anil Baijal
+Anne Boquet
+Anthony Como
+Anthony Ochefu
+Anthony Ukpo
+Anthony van Diemen
+Antonio Echevarría García
+Antonio María Martínez
+Antonio Narciso de Santa María
+Antonio de Quintanilla
+Archibald Roane
+Armando Calidonio
+Arthur Lloyd Thomas
+Arturo Colombi
+Attahiru Bafarawa
+Aurelio Umali
+Austin Blair
+Fred M. Warner
+Fred P. Cone
+Fredis Refunjol
+Freeman Freeman-Thomas, 1st Marquess of Willingdon
+Fulgencio García de Solís
+Helvio Guozden
+Henry Arthur Blake
+Henry Carter Stuart
+Henry D. Hatfield
+Henry Francis Bryan
+Henry H. Crapo
+Henry Holt
+Henry M. Pindell
+Henry P. Baldwin
+Henry Pybus Bell-Irving
+Henry W. Keyes
+Ipoola Alani Akinrinade
+Iqbal Singh
+Ira T. Fiss
+Iraj Masjedi
+Isa Mohammed
+Isaac Halstead Williamson
+Isaac Weaver Jr.
+John A. Treutlen
+John Albion Andrew
+John Austin Wharton
+John Burke
+John Coode
+John Geddes
+John Hammill
+John Haynes
+John Hope, 7th Earl of Hopetoun
+John Humphrey
+John Isaac Guion
+John J. Cornwell
+John Long Routt
+John Lyde Wilson
+John M. Dalton
+John McCuish
+John S. Barry
+John Shaw Rennie
+John Taylor Gilman
+John Weber
+John Webster
+John Wood
+Jolly Nyame
+Jonas Galusha
+Lee M. Russell
+Lemuel Grant
+Len Small
+León Aillaud
+Bahlul Hoseini
+Bala Mande
+Bartolomé de Argüelles
+Ben Mboi
+Ben W. Olcott
+Bengt Holgersson
+Benito Armiñán
+Benjamin G. Humphreys
+Benjamin Ogle
+Benjamin S. Paulen
+Benjamin Smith
+Benjamin Tasker Sr.
+Bennet C. Riley
+Bernardino de Ceballos
+Bernardo Bas
+Bernardo López de Mendizábal
+Blasco Núñez Vela
+Bob Holden
+Boni Haruna
+Boris Zolotaryov
+Bruce Magnuson
+Bryant Butler Brooks
+Burton M. Cross
+C. Ben Ross
+Cadwalader Evans
+Carel Reyniersz
+Carlos Chasseing
+Carlos Manuel Merino Campos
+Carlos de Grand Pré
+Carlos de la Madrid Virgen
+Carroll Gartin
+George Akume
+George Docking
+George Fenwick
+George Foxcroft
+George Franklin Drew
+George Latimer
+George N. Dale
+George Pardee
+George Stoneman
+George White
+Héctor Osuna Jaime
+I. L. Patterson
+Ibrahim Aliyu
+Ibrahim Alkali
+Ibrahim Bunu
+Ibrahim Mahmud Alfa
+Ibrahim Taiwo
+Lai Mohammed
+Laidy Gómez
+Lloyd Stowell Shapley
+Lope García de Castro
+Louis Lincoln Emmerson
+Madison S. Perry
+Muqtada al-Sadr
+Musa Khan Ahmadzai
+Mustafa Shokay
+Mustapha Ismail
+Parviz Fattah
+Pat Morris Neff
+Stanley C. Wilson
+Sunday Ajibade Adenihun
+Sunday Tuoyo
+Tarisa Watanagase
+Tatsuya Hori
+Teodoro A. Dehesa Méndez
+Mendi & Keith Obadike
+Merritt C. Mechem
+Mohammad Akram Khpalwāk
+Mohammad Asim Asim
+Mohammad Halim Fidai
+Mohammed Abba Gana
+Mohammed Abdullahi Abubakar
+Mohammed Danjuma Goje
+Mohammed Inuwa Wushishi
+Mohammed Islam Mohammadi
+Mohammed Ndatsu Umaru
+Mohammed Taqi Morvarid
+Okoh Town
+Olayinka Sule
+Ole H. Olson
+Oliver Ames
+Pedro Antonio Fernández de Castro, 10th Count of Lemos
+Pedro Cebrián, 5th Count of Fuenclara
+Pedro Menéndez Márquez
+Pedro Nuño Colón de Portugal, 6th Duke of Veragua
+Pedro Porter Casanate
+Pedro Vázquez Colmenares
+Pedro de Ampudia
+Pedro de Aranda y Avellaneda
+Pedro de Peralta
+Pedro de Toledo, 1st Marquis of Mancera
+Pedro del Barrio Junco y Espriella
+Pendleton Murrah
+Richard J. Hughes
+Richard Luyt
+Richard M. Bishop
+Richard Pierpoint
+Sayed Anwar Rahmati
+Theodore Thurston Geer
+Theophilus Bamigboye
+Uchter Knox, 5th Earl of Ranfurly
+Virginia Etiaba
+William Lee D. Ewing
+William M. O. Dawson
+William Michael Crose
+William O'Brien
+William Richardson Davie
+William Sherman Jennings
+William Smallwood
+William Stone
+William Tailer
+William W. Stickney
+William Wanton
+Willie Blount
+Willy Lasut
+Wilson Lumpkin
+Wilson Shannon
+Wilter Palma
+Yves Dassonville
+Zalmai Wesa
+Zenas Ferry Moody
+Charles Alan Pownall
+Charles C. Smith
+Charles H. Sheldon
+Charles Manley Smith
+Charles N. Herreid
+Charles Porter
+Charles Ugwuh
+Charles W. Gates
+Charley Eugene Johns
+Domingo Jironza Petriz de Cruzate
+Domingo Terán de los Ríos
+Donald Charles Cameron
+Donald Grant Nutter
+Doug Turner
+Duilio Brunello
+Göran Tunhammar
+Günther Platter
+Joseph Toole
+Joseph W. Fifer
+Joshua Anaja
+Joshua Dariye
+Joshua Madaki
+Joshua Obademi
+Josiah Begole
+Josias Lyndon
+José Antonio Gali Fayad
+José Antonio Pareja
+José Antonio Roméu
+José Antonio de Mendoza, 3rd Marquis of Villagarcía
+José C. Uriburu
+José Carlos Martínez
+José Darío Argüello
+José Fernando de Abascal y Sousa
+José Francisco Ruiz
+José Ignacio Peralta
+José Irigoyen
+José Joaquín de Arrillaga
+José María Callava
+José Marín de Velasco
+José Masot
+José Ramón Amieva
+José Sisto
+Juan Andrés de Ustariz
+Juan Antonio Garretón
+Juan Bautista de Anza
+Juan Carlos Reyes
+Juan Domingo de Bustamante
+Juan Durán de Miranda
+Juan Fernández de Olivera
+Juan Flores de Sierra
+Juan Francisco Treviño
+Juan Ignacio Flores Mogollon
+Juan Ignacio Pérez
+Juan Ignacio de la Carrera Yturgoyen
+Juan José de Estrada
+Juan Lavalle
+Juan Luis de Camarena
+Juan Manso de Contreras
+Juan Martín de Veramendi
+Juan María Vicencio de Ripperdá
+Juan Menéndez Márquez
+Juan Márquez Cabrera
+Juan Valdez
+Juan de Samaniego y Xaca
+Juan Álvarez de Eulate y Ladrón de Cegama
+Judi Dutcher
+Julio Menchaca
+Julius Caldeen Gunter
+Mateo Antonio de Mendoza
+Mateo de Toro Zambrano, 1st Count of La Conquista
+Matthew Cradock
+Matthias Vincent
+Matías de Armona
+Miguel A. Ferrer Deheza
+Miguel Marini
+Miguel Márquez Márquez
+Nehemiah Blakiston
+Neil Lucas
+Nerissa Corazon Soon-Ruiz
+Nguyễn Nhữ Soạn
+Nicolai Esmit
+Nicolás Gutiérrez
+Nicolás Ponce de León II
+Oscar Baylón Chacón
+Oswald West
+Roy Cortina
+Roy E. Furman
+Ruan Yuan
+Rubén Marín
+Rubén Pellanda
+Rufai Garba
+Rufus Bullock
+Sam Lumpkin
+Sam Mbakwe
+Sam V. Stewart
+Sam Walsh
+Samaila Bature Chamah
+Samuel A. Foot
+Samuel Ashe
+Samuel Atukum
+Samuel García
+Samuel Rinnah Van Sant
+Samuel Stevens Jr.
+Seema Jowenda
+Shehu Kangiwa
+Shen Baozhen
+Tim Buck
+Delia Bisutti
+Dennis J. Roberts
+Dennis Murphree
+Fasal al Gaood
+Fausto Vallejo
+Felipe de Barri
+Felipe de Sotelo Osorio
+Fernando Chacón
+Fernando Gutiérrez Barrios
+Fernando Pérez de Almazán
+Fernando Rivera y Moncada
+Fernando Torres de Portugal y Mesía
+Fernando de Argüello
+Fernando de la Concha
+Fidelis Oyakhilome
+Félix González Canto
+Félix Martínez de Torrelaguna
+G. Ram Reddy
+Gabriel Moore
+Gabriel de Avilés, 4th Marquis of Avilés
+Garba Ali Mohammed
+Garcia Álvarez de Figueroa
+Gaspar Domingo de Mendoza
+Gonzalo Fernández de Córdoba
+Keramuddin Keram
+Kim Sigler
+Leslie Morris
+Mauricio Kuri
+Mauricio Vila Dosal
+Meysam Latifi
+Michael Aondoakaa
+Myron H. Clark
+Mónica Troadello
+Narciso Agúndez Montaño
+Nasry Asfura
+Nathaniel Blakiston
+Nathaniel Boileau
+Nathaniel Elwick
+Nathaniel Higginson
+Nathaniel Waena
+Walter Dale Miller
+Cornelis Speelman
+Cornelis van der Lijn
+Cornelius Clarkson Watts
+Eligio Esquivel Méndez
+Elisha M. Pease
+Elmer Kilroy
+Emmanuelle Mignon
+Emory Washburn
+Enrique de Olavide y Michelena
+Erasmo Seguín
+Francis Howard, 5th Baron Howard of Effingham
+Francis P. Fleming
+Francis Willoughby
+Francisco Ameliach
+Francisco Bahamonde de Lugo
+Francisco Collell
+Francisco Cuervo y Valdés
+Francisco Domínguez Servién
+Francisco García Larios
+Francisco Manuel de Silva Nieto
+Francisco Marcó del Pont
+Francisco San Maxent
+Francisco Torralbo
+Francisco de Aguirre
+Francisco de Ayeta
+Francisco de Córcoles y Martínez
+Francisco de Santillán y Argote
+Francisco de la Mora y Ceballos
+Frank Ajobena
+Frank Eke
+Frank Farrar
+Frank L. Hagaman
+Frank M. Byrne
+Gerardus Beekman
+Gerardus Wynkoop II
+Gervasio Cruzat y Góngora
+Gholam Hosein Shiri Aliabad
+Ghorbanali Saadat
+Ghulam Qawis Abubaker
+Gideon Wanton
+Gordon Samuels
+Ida Bagus Mantra
+Ida Bagus Oka
+Idris Waziri
+Ignacio Lorenzo de Armas
+Igor Konashenkov
+Igwe Aja-Nwachukwu
+Justo Boneo y Morales
+Justo Páez Molina
+Jørgen Iversen Dyppel
+Lawal Kaita
+Lawan Gwadabe
+Lawrence Onoja
+Layda Sansores
+Lee E. Emerson
+Lincoln Almond
+Linda Morgan
+Luis de Guzmán y Figueroa
+Luis de Rojas y Borja
+Luis de Unzaga
+Luke Chijiuba Ochulor
+Luo Bingzhang
+Lê Lương Minh
+Mahnaz Bahmani
+Majid Khodabakhsh
+Maria Jocelyn Bernos
+Maria Norrfalk
+Marianne Samuelsson
+Mariano Osorio
+Mariano Valera
+Marie Bashir
+Mario Agodino
+Marjorie Jackson-Nelson
+Mark Douglas Olson
+Martin Elechi
+Martin L. Davey
+Martin Sennet Conner
+Mehdi Isazadeh
+Meldrim Thomson Jr.
+Michel Mathieu
+Mieko Yoshimura
+Pierluigi Oliverio
+Seyyed Mohammadi Ali Mosavi
+Shakur Akbarnejad
+Silas A. Holcomb
+Simeon Eben Baldwin
+Sioux K. Grigsby
+Sir Henry Moore, 1st Baronet
+Speedy Atkins
+Tomás Felipe de Winthuisen
+Tomé Domínguez de Mendoza
+Ángel Aguirre Rivero
+Chase Osborn
+Chris Abutu Garuba
+Chukwuemeka Ezeife
+Clarence E. Case
+Claudia Ledesma Abdala
+Cletus Komena Emein
+Cliff Finch
+Clyde M. Reed
+D. C. Pavate
+Dan Edward Garvey
+Dan Suleiman
+Daniel Akintonde
+Daniel Coxe
+Daniel Martin
+Daniel Rose
+Datti Abubakar
+David Lowry Swain
+David R. Porter
+David Rose
+David de Kretser
+Diego López de Zúñiga, 4th Count of Nieva
+Diego Silang
+Diego de Peñalosa
+Diego de Quiroga y Losada
+Diego de Vargas
+Diego de Velasco
+Ebrahim Rezaei Babadi
+Edgar Palacios Rodriguez
+Edmund Montague
+Eduardo Bours
+Eduardo Fellner
+Eduardo Manuitt Carpio
+Eduardo Nonato Joson
+Edward Curtis Smith
+Edward E. Beidleman
+Edward Stanley Kellogg
+Edward Telfair
+Edward W. Cooch
+Edward W. Hoch
+Edward Winter
+Edwin Ongchuan
+Egidio Torre Cantú
+Eko Maulana Ali
+Ekwulobia
+El Tari
+Ernest Olawunmi Adelaye
+Ernie Preate
+Esmaeil Jabbarzadeh
+Estanislao López
+Esteban Villegas Villarreal
+Eugenio Elorduy Walther
+Ezequiel Cabeza De Baca
+Ezra A. Burrell
+Facundo Melgares
+Hugo Cóccaro
+Humayun Azizi
+Jack M. Campbell
+Jacob B. Jackson
+Jacob Buehler Snider
+Jacob Holgate
+Jacob Leisler
+Jalil Jafari
+James Brice
+James Burchill Richardson
+James Engle
+James Gunn
+James H. Duff
+James Harrison
+James Iredell Jr.
+James Kalau
+Javier Usabiaga Arroyo
+Jerry Singson
+Jesús Aguilarte
+Jim Nwobodo
+Joaquín Codallos
+Joaquín del Pino
+Joaquín del Real Alencaster
+Joe Kalu-Igboama
+Kenneth Johansson
+Mir Asadollah Madani
+Mir Ebrahim Seyyed Hatami
+Mir Ghesmat Mosavi Asl
+Montfort Browne
+Morgan Lewis
+Mortimer R. Proctor
+Moses Alexander
+Moses Majekodunmi
+Moses Robinson
+Rafael Pacchiano Alamán
+Ragnvald Nestos
+Rahmatullah Rahmat
+Rasheed Shekoni
+Raymond Stone
+Raúl Bercovich Rodriguez
+Salvador Jara Guerrero
+Cristóbal Vaca de Castro
+Cristóbal de la Cerda y Sotomayor
+Cushman Kellogg Davis
+Cuspius Fadus
+Labaran Maku
+Lao Chongguang
+Latta Malette Autrey
+Laureano de Torres y Ayala
+Luciano Benjamín Menéndez
+Luciano García
+Lucius Robinson
+Luis Beder Herrera
+Maamoon Sami Rasheed al-Alwani
+Mamman Bello Ali
+Manuel María de Salcedo
+Manuel Pardo
+Manuel Victoria
+Manuel de Amat y Junyent
+Manuel de Cendoya
+Manuel de Montiano
+Manuel de Sandoval
+Martín de Alarcón
+Marvin Griffin
+María Teresa Jiménez Esquivel
+Pablo Morillo
+Pablo Vicente de Solá
+Sergey Gerasimovich Mitin
+Wilhelm Iwan
+William A. MacCorkle
+William A. Robertson
+William Alfred Buckingham
+William Bligh
+William C. Bouck
+William C. Grimes
+William D. Bloxham
+William Deane
+William E. Glasscock
+William Fraser
+William Gaston
+William Grason
+William H. McMaster
+William H. Murray
+William H. Wharton
+William Hawkins
+William J. Bulow
+Wiyogo Atmodarminto
+Gregorio de Salinas Varona
+Gregory Agboneni
+Guillermo Padrés Elías
+Gulston Addison
+Gurdon Saltonstall
+Guy Brasfield Park
+Habiba Sarābi
+Habibu Idris Shuaibu
+Habu Daura
+Hakim Taniwal
+Hamid Seyyed Mahdavi Aghdam
+Horace Austin
+Horace White
+Horatio Sharpe
+James Plimsoll
+James Ramsay
+James Turner
+James W. Henderson
+Jamshid Ansari
+Jorge Carlos Hurtado Valdez
+Jorge Carlos Ramírez Marín
+Jorge Sapag
+Jorge Tibiriçá Piratininga
+Joris Andringa
+Jose Alvarez
+Jose Chacón Medina Salazar y Villaseñor
+Jose Riano
+Joseph Alston
+Joseph B. Johnson
+Joseph C. Yates
+Joseph Collett
+Joseph Cua
+Joseph Dudley
+Joseph H. Williams
+Joseph McMinn
+Joseph Oni
+Lito Osmeña
+Movayyed Hoseini Sadr
+Mu'azu Babangida Aliyu
+Muhammad Zainul Majdi
+Mukhtar Ramalan Yero
+Najeeb Jung
+Nanka
+Rodrigo de Quiroga
+Rodrigo del Junco
+Rogelio Espina
+Rogelio Ortega Martínez
+Roger B. Wilson
+Rohollah Beighi Eilanlu
+Rolland Hatfield
+Ryan Luis Singson
+Ted Schwinden
+Thomas Bibb
+Thomas Brown
+Thomas Carlin
+Thomas Chambers
+Thomas Cushing
+Thomas Gorges
+Thomas Hinckley
+Thomas Sim Lee
+Thomas Stretch
+Thomas Veazey
+Thomas Welles
+Thomas Wiggin
+Usman Faruk
+Usman Jibrin
+Vahid Jalalzadeh
+Harold J. Arthur
+Harris Eghagha
+Harrison Reed
+Hassan Danaeifar
+Hassan Kazemi Qomi
+Hassan Muhammed Lawal
+Hayatullah Hayat
+Herman G. Kump
+Hernando de Miranda
+Hernando de Ugarte y la Concha
+Hiram G. Andrews
+J. H. Hutchinson
+J. Hugo Aronson
+Patrick Tonyn
+Paul Brigham
+Paul Evanko
+Paul Obi
+Paul Omu
+Percival W. Clement
+Peyton Randolph
+Phillip Ayeni
+Raja Nawaf Farhan al-Mahalawi
+Ralph Lawrence Carr
+Mara Lezama Espinosa
+Marah Halim Harahap
+Nri-Igbo
+Néstor Ahuad
+Onslow Stearns
+Rip Van Dam
+Robert Brent
+Robert D. Carey
+Robert D. Holmes
+Robert Francis Withers Allston
+Roberto Basualdo
+Roberto Borge Angulo
+Roberto Huerta
+Roberto Iglesias
+Xicoténcatl Leyva Mortera
+Reza Abdollahi
+Ricardo Gallardo Cardona
+Richard Barnes Mason
+Richard Benyon of Madras
+Richard C. Dillon
+Roméo LeBlanc
+Ronald Blanco La Cruz
+Ross S. Sterling
+Saak Karapetyan
+Saidu Ayodele Balogun
+Santiago Llaver
+Terry Young
+Tunde Ogbeha
+Tunji Olurin
+Umaru Argungu

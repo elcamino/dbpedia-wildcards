@@ -1,0 +1,9 @@
+Daily Vaccinations Per Million
+Daily Vaccinations Raw
+People Fully Vaccinated
+People Vaccinated
+People Vaccinated Per Hundred
+Source Name
+Source Website
+Total Vaccinations
+Total Vaccinations Per Hundred

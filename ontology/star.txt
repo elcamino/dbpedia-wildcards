@@ -1,0 +1,6055 @@
+100 Aquarii
+101 Aquarii
+101 Piscium
+101 Virginis
+102 Herculis
+103 Aquarii
+104 Aquarii
+104 Herculis
+104 Tauri
+106 Aquarii
+106 Herculis
+107 Aquarii
+107 Piscium
+108 Aquarii
+109 Herculis
+109 Piscium
+109 Tauri
+109 Virginis
+10 Andromedae
+10 Aquarii
+10 Aquilae
+10 Arietis
+10 Boötis
+10 Canis Majoris
+10 Canum Venaticorum
+10 Delphini
+10 Draconis
+10 Lacertae
+10 Leonis Minoris
+10 Persei
+10 Serpentis
+10 Tauri
+10 Trianguli
+10 Ursae Majoris
+10 Vulpeculae
+110 Herculis
+110 Virginis
+111 Herculis
+111 Tauri
+114 Tauri
+116 Squadron
+119 Squadron
+119 Tauri
+11 Andromedae
+11 Aquarii
+11 Aquilae
+11 Arietis
+11 Boötis
+11 Camelopardalis
+11 Canis Majoris
+11 Canis Minoris
+11 Cephei
+11 Comae Berenices
+11 Lacertae
+11 Leonis Minoris
+11 Librae
+11 Orionis
+11 Persei
+11 Puppis
+11 Sagittae
+11 Serpentis
+11 Trianguli
+11 Ursae Minoris
+126 Tauri
+12 Andromedae
+12 Aquarii
+12 Aquilae
+12 Aurigae
+12 Boötis
+12 Camelopardalis
+12 Cancri
+12 Canis Majoris
+12 Comae Berenices
+12 Hydrae
+12 Lacertae
+12 Lyncis
+12 Ophiuchi
+12 Pegasi
+12 Persei
+12 Scorpii
+12 Trianguli
+12 Vulpeculae
+132 Tauri
+133 Squadron
+134 Tauri
+136 Tauri
+139 Tauri
+13 Andromedae
+13 Boötis
+13 Cancri
+13 Ceti
+13 Comae Berenices
+13 Delphini
+13 Monocerotis
+13 Sagittae
+13 Scorpii
+13 Trianguli
+13 Vulpeculae
+140 Squadron
+14 Andromedae
+14 Aquarii
+14 Aquilae
+14 Arietis
+14 Aurigae
+14 Boötis
+14 Camelopardalis
+14 Cancri
+14 Canis Minoris
+14 Ceti
+14 Comae Berenices
+14 Eridani
+14 Herculis
+14 Lacertae
+14 Persei
+14 Sagittae
+14 Sagittarii
+14 Trianguli
+14 Vulpeculae
+15 Andromedae
+15 Aquarii
+15 Aquilae
+15 Arietis
+15 Boötis
+15 Camelopardalis
+15 Cancri
+15 Canis Majoris
+15 Cygni
+15 Delphini
+15 Draconis
+15 Eridani
+15 Lacertae
+15 Leonis Minoris
+15 Lyncis
+15 Orionis
+15 Sagittae
+15 Sagittarii
+15 Trianguli
+15 Ursae Majoris
+15 Vulpeculae
+16 Aquarii
+16 Arietis
+16 Aurigae
+16 Camelopardalis
+16 Cephei
+16 Comae Berenices
+16 Cygni
+16 Delphini
+16 Lacertae
+16 Librae
+16 Lyncis
+16 Lyrae
+16 Persei
+16 Puppis
+16 Sagittarii
+16 Serpentis
+16 Virginis
+16 Vulpeculae
+171 G. Puppis
+17 Aquarii
+17 Camelopardalis
+17 Canis Majoris
+17 Comae Berenices
+17 Crateris
+17 Cygni
+17 Delphini
+17 Eridani
+17 Leporis
+17 Lyrae
+17 Monocerotis
+17 Persei
+17 Sagittarii
+17 Vulpeculae
+18 Andromedae
+18 Aquarii
+18 Aquilae
+18 Aurigae
+18 Boötis
+18 Camelopardalis
+18 Delphini
+18 Draconis
+18 Monocerotis
+18 Sagittarii
+18 Scorpii
+18 Tauri
+18 Ursae Majoris
+18 Vulpeculae
+1930 Curuçá River event
+19 Aquarii
+19 Aquilae
+19 Arietis
+19 Aurigae
+19 Canum Venaticorum
+19 Cephei
+19 Draconis
+19 Leonis Minoris
+19 Lyncis
+19 Lyrae
+19 Monocerotis
+19 Puppis
+19 Tauri
+19 Vulpeculae
+1E161348-5055
+1E 161348-5055
+1RXS J160929.1−210524
+1SWASP J140747.93-394542.6
+1 Aquarii
+1 Arietis
+1 Aurigae
+1 Boötis
+1 Camelopardalis
+1 Cancri
+1 Canis Minoris
+1 Cassiopeiae
+1 Centauri
+1 Ceti
+1 Delphini
+1 Geminorum
+1 Lacertae
+1 Lupi
+1 Lyncis
+1 Pegasi
+1 Persei
+1 Puppis
+1 Sagittarii
+1 Scorpii
+1 Serpentis
+1 Trianguli
+1 Vulpeculae
+2000 New Ireland earthquakes
+2012 Indian Ocean earthquakes
+201 Squadron
+20 Aquarii
+20 Aquilae
+20 Arietis
+20 Boötis
+20 Camelopardalis
+20 Cancri
+20 Canum Venaticorum
+20 Ceti
+20 Cygni
+20 Leonis Minoris
+20 Monocerotis
+20 Ophiuchi
+20 Persei
+20 Puppis
+20 Vulpeculae
+21 Aquarii
+21 Aquilae
+21 Arietis
+21 Camelopardalis
+21 Cancri
+21 Canum Venaticorum
+21 Comae Berenices
+21 Leonis Minoris
+21 Lyncis
+21 Persei
+21 Sagittarii
+21 Tauri
+21 Vulpeculae
+22 Andromedae
+22 Aquilae
+22 Aurigae
+22 Boötis
+22 Camelopardalis
+22 Cygni
+22 Orionis
+22 Scorpii
+22 Tauri
+22 Vulpeculae
+23 Andromedae
+23 Aquilae
+23 Arietis
+23 Camelopardalis
+23 Comae Berenices
+23 Cygni
+23 Librae
+23 Orionis
+23 Ursae Majoris
+23 Vulpeculae
+24 Aquarii
+24 Aquilae
+24 Boötis
+24 Camelopardalis
+24 Cancri
+24 Canum Venaticorum
+24 Capricorni
+24 Cephei
+24 Comae Berenices
+24 Lyncis
+24 Persei
+24 Scorpii
+24 Sextantis
+24 Ursae Majoris
+24 Vulpeculae
+253 Squadron
+25 Aquarii
+25 Arietis
+25 Cancri
+25 Canum Venaticorum
+25 Orionis
+25 Scorpii
+25 Serpentis
+25 Vulpeculae
+26 Andromedae
+26 Aquarii
+26 Aquilae
+26 Arietis
+26 Aurigae
+26 Boötis
+26 Camelopardalis
+26 Canis Majoris
+26 Cygni
+26 Draconis
+26 Hydrae
+26 Ursae Majoris
+26 Vulpeculae
+27 Aquilae
+27 Arietis
+27 Cancri
+27 Canis Majoris
+27 Cygni
+27 Hydrae
+27 Lyncis
+27 Monocerotis
+27 Piscium
+27 Vulpeculae
+28 Andromedae
+28 Aquarii
+28 Aquilae
+28 Aurigae
+28 Camelopardalis
+28 Cancri
+28 Cygni
+28 Monocerotis
+28 Vulpeculae
+29 Aquarii
+29 Arietis
+29 Camelopardalis
+29 Cancri
+29 Cygni
+29 Herculis
+29 Orionis
+29 Persei
+29 Vulpeculae
+2M1207
+2M1510
+2MASSJ22282889-431026
+2MASS 0036+1821
+2MASS 1237+6526
+2MASS 1507-1627
+2MASS 1507−1627
+2MASS J00361617+1821104
+2MASS J01225093−2439505
+2MASS J02431371-2453298
+2MASS J02431371−2453298
+2MASS J03480772−6022270
+2MASS J03552337+1133437
+2MASS J04070752+1546457
+2MASS J04151954-0935066
+2MASS J04151954−0935066
+2MASS J04414489+2301513
+2MASS J0523-1403
+2MASS J0523−1403
+2MASS J05325346+8246465
+2MASS J09373487+2931409
+2MASS J09393548−2448279
+2MASS J10475385+2124234
+2MASS J11011926–7732383 AB
+2MASS J11145133-2618235
+2MASS J11145133−2618235
+2MASS J11193254–1137466 AB
+2MASS J11263991−5003550
+2MASS J12195156+3128497
+2MASS J15031961+2525196
+2MASS J154043.42-510135.7
+2MASS J15404342−5101357
+2MASS J18082002−5104378
+2MASS J18352154–3123385
+2MASS J18450079–1409036
+2MASS J21392676+0220226
+2MASS J22282889–4310262
+2M 1237+6526
+2M 1938+4603
+2 Andromedae
+2 Aurigae
+2 Boötis
+2 Camelopardalis
+2 Centauri
+2 Ceti
+2 Cygni
+2 Equulei
+2 Lacertae
+2 Lupi
+2 Lyncis
+2 Pegasi
+2 Persei
+2 Piscis Austrini
+2 Scorpii
+2 Sextantis
+2 Ursae Minoris
+2 Vulpeculae
+30 Aquarii
+30 Arietis
+30 Camelopardalis
+30 Cygni
+30 Geminorum
+30 Herculis
+30 Leonis Minoris
+30 Monocerotis
+30 Ophiuchi
+30 Persei
+30 Piscium
+30 Vulpeculae
+31 Aquilae
+31 Arietis
+31 Boötis
+31 Camelopardalis
+31 Comae Berenices
+31 Crateris
+31 Cygni
+31 Leonis
+31 Lyncis
+31 Orionis
+31 Pegasi
+31 Persei
+31 Vulpeculae
+32 Andromedae
+32 Aquarii
+32 Boötis
+32 Cygni
+32 Ophiuchi
+32 Orionis
+32 Pegasi
+32 Persei
+32 Tauri
+32 Vulpeculae
+33 Arietis
+33 Boötis
+33 Cygni
+33 Pegasi
+33 Piscium
+33 Vulpeculae
+34 Boötis
+34 Cancri
+34 Pegasi
+34 Persei
+35 Aquarii
+35 Aquilae
+35 Arietis
+35 Cancri
+35 Comae Berenices
+35 Cygni
+35 Pegasi
+35 Piscium
+35 Vulpeculae
+36 Andromedae
+36 Aquarii
+36 Aquilae
+36 Arietis
+36 Aurigae
+36 Camelopardalis
+36 Cancri
+36 Capricorni
+36 Comae Berenices
+36 Draconis
+36 Lyncis
+36 Ophiuchi
+36 Persei
+36 Serpentis
+36 Tauri
+36 Ursae Majoris
+37 Aquarii
+37 Aquilae
+37 Camelopardalis
+37 Cancri
+37 Comae Berenices
+37 Geminorum
+37 Leonis Minoris
+37 Librae
+37 Tauri
+38 Aquarii
+38 Arietis
+38 Aurigae
+38 Boötis
+38 Cancri
+38 Geminorum
+38 Leonis Minoris
+38 Lyncis
+38 Virginis
+39 Andromedae
+39 Aquarii
+39 Arietis
+39 Aurigae
+39 Boötis
+39 Cancri
+39 Cygni
+39 Draconis
+39 Eridani
+39 Leonis
+39 Tauri
+3C 58
+3XMM J004232.1+411314
+3 Andromedae
+3 Aquarii
+3 Boötis
+3 Camelopardalis
+3 Cancri
+3 Cassiopeiae
+3 Centauri
+3 Ceti
+3 Corvi
+3 Equulei
+3 Geminorum
+3 Monocerotis
+3 Persei
+3 Piscis Austrini
+3 Puppis
+3 Serpentis
+3 Vulpeculae
+40 Aquarii
+40 Arietis
+40 Aurigae
+40 Boötis
+40 Camelopardalis
+40 Cancri
+40 Eridani
+40 Leonis
+40 Persei
+41 Andromedae
+41 Aquarii
+41 Arietis
+41 Aurigae
+41 Capricorni
+41 Comae Berenices
+41 Cygni
+41 G. Arae
+41 Leonis Minoris
+41 Lyncis
+41 Ophiuchi
+41 Tauri
+41 Ursae Majoris
+42 Aquarii
+42 Aquilae
+42 Aurigae
+42 Camelopardalis
+42 Cancri
+42 Capricorni
+42 Cassiopeiae
+42 Draconis
+42 Herculis
+42 Leonis Minoris
+42 Librae
+42 Orionis
+42 Persei
+43 Aurigae
+43 Camelopardalis
+43 Persei
+43 Sagittarii
+44 Andromedae
+44 Aquarii
+44 Boötis
+44 Eridani
+44 Ophiuchi
+45 Andromedae
+45 Aquarii
+45 Aquilae
+45 Aurigae
+45 Boötis
+45 Cancri
+45 Draconis
+45 Eridani
+45 Herculis
+45 Ophiuchi
+46 Aquilae
+46 Boötis
+46 Cancri
+46 Capricorni
+46 Ceti
+46 Leonis Minoris
+47 Andromedae
+47 Aquarii
+47 Arietis
+47 Aurigae
+47 Boötis
+47 Capricorni
+47 Cygni
+47 Ophiuchi
+47 Tauri
+47 Ursae Majoris
+48 Cassiopeiae
+48 Librae
+48 Persei
+49 Andromedae
+49 Aquarii
+49 Arietis
+49 Aurigae
+49 Camelopardalis
+49 Cancri
+49 Cassiopeiae
+49 Ceti
+49 Librae
+49 Orionis
+49 Persei
+4U 0142+61
+4U 0614+091
+4U 1700-37
+4 Andromedae
+4 Aquarii
+4 Aquilae
+4 Arietis
+4 Camelopardalis
+4 Cancri
+4 Canum Venaticorum
+4 Cassiopeiae
+4 Centauri
+4 Cygni
+4 Equulei
+4 Lacertae
+4 Persei
+4 Sagittarii
+4 Scorpii
+4 Ursae Majoris
+4 Ursae Minoris
+4 Vulpeculae
+50 Aquarii
+50 Arietis
+50 Boötis
+50 Cancri
+50 Cassiopeiae
+50 Persei
+51 Andromedae
+51 Aquarii
+51 Aquilae
+51 Arietis
+51 Aurigae
+51 Eridani
+51 Hydrae
+51 Ophiuchi
+51 Orionis
+51 Pegasi
+52 Arietis
+52 Cygni
+52 Herculis
+52 Hydrae
+52 Persei
+52 Sagittarii
+53 Aquarii
+53 Arietis
+53 Aurigae
+53 Camelopardalis
+53 Cancri
+53 Eridani
+53 Ophiuchi
+53 Persei
+53 Piscium
+53 Virginis
+54 Aquarii
+54 Arietis
+54 Aurigae
+54 Cancri
+54 Ceti
+54 Eridani
+54 Leonis
+54 Persei
+54 Piscium
+55 Andromedae
+55 Arietis
+55 Cancri
+55 Cygni
+55 Pegasi
+55 Persei
+55 Ursae Majoris
+56 Andromedae
+56 Aquarii
+56 Aquilae
+56 Arietis
+56 Ceti
+56 Cygni
+56 Orionis
+56 Pegasi
+56 Persei
+56 Sagittarii
+56 Ursae Majoris
+57 Aquilae
+57 Cancri
+57 Cygni
+57 Pegasi
+57 Persei
+58 Andromedae
+58 Aquarii
+58 Aquilae
+58 Eridani
+58 Hydrae
+58 Leonis
+58 Ophiuchi
+58 Persei
+59 Andromedae
+59 Arietis
+59 Aurigae
+59 Cygni
+59 Leonis
+59 Persei
+59 Sagittarii
+59 Serpentis
+59 Virginis
+5 Andromedae
+5 Aquarii
+5 Aquilae
+5 Aurigae
+5 Camelopardalis
+5 Cancri
+5 Canum Venaticorum
+5 Lacertae
+5 Persei
+5 Serpentis
+5 Tauri
+5 Trianguli
+5 Ursae Minoris
+5 Vulpeculae
+60 Andromedae
+60 Aquarii
+60 Arietis
+60 Aurigae
+60 Cancri
+60 Herculis
+60 Leonis
+60 Sagittarii
+60 Serpentis
+61 Aquarii
+61 Cancri
+61 Cygni
+61 Leonis
+61 Ursae Majoris
+61 Virginis
+62 Andromedae
+62 Aquilae
+62 Arietis
+62 Aurigae
+62 Sagittarii
+63 Andromedae
+63 Aurigae
+63 Ceti
+63 Cygni
+63 Ophiuchi
+64 Andromedae
+64 Aquarii
+64 Aquilae
+64 Arietis
+64 Aurigae
+64 Draconis
+64 Eridani
+64 Piscium
+64 Serpentis
+65 Andromedae
+65 Aquarii
+65 Arietis
+65 Aurigae
+65 Ursae Majoris
+66 Andromedae
+66 Aquarii
+66 Aquilae
+66 Arietis
+66 Aurigae
+66 Cancri
+66 Eridani
+66 Ophiuchi
+66 Tauri
+67 Aquarii
+67 Cancri
+67 Ophiuchi
+68 Aquarii
+68 Aquilae
+68 Cancri
+68 Cygni
+68 Draconis
+68 Herculis
+68 Ophiuchi
+69 Aquilae
+69 Ceti
+69 Herculis
+69 Orionis
+69 Virginis
+6 Andromedae
+6 Aurigae
+6 Boötis
+6 Canis Minoris
+6 Canum Venaticorum
+6 Cassiopeiae
+6 Ceti
+6 Corvi
+6 Draconis
+6 Equulei
+6 Geminorum
+6 Hydrae
+6 Lacertae
+6 Lyncis
+6 Persei
+6 Sagittarii
+6 Serpentis
+70 Aquarii
+70 Aquilae
+70 Cancri
+70 Ophiuchi
+70 Pegasi
+70 Virginis
+71 Aquilae
+71 Cygni
+71 Ophiuchi
+71 Tauri
+72 Aquarii
+72 Cygni
+72 Herculis
+72 Leonis
+72 Ophiuchi
+72 Pegasi
+74 Aquarii
+74 Cygni
+74 Ophiuchi
+74 Orionis
+74 Virginis
+75 Aquarii
+75 Cancri
+75 Ceti
+75 Cygni
+75 Tauri
+77 Aquarii
+77 Ceti
+78 Aquarii
+78 Cancri
+78 Pegasi
+78 Ursae Majoris
+78 Virginis
+79 Cancri
+79 Ceti
+7 Andromedae
+7 Aquarii
+7 Aquilae
+7 Arietis
+7 Boötis
+7 Camelopardalis
+7 Cancri
+7 Cephei
+7 Ceti
+7 Comae Berenices
+7 Draconis
+7 Persei
+7 Piscium
+7 Sagittarii
+7 Trianguli
+7 Vulpeculae
+80 Cancri
+81 Aquarii
+81 Cancri
+81 Ceti
+81 Geminorum
+82 Aquarii
+82 Cancri
+82 G. Eridani
+83 Aquarii
+83 Cancri
+83 Leonis
+83 Ursae Majoris
+84 Aquarii
+84 Ceti
+85 Aquarii
+85 Ceti
+85 Pegasi
+86 Aquarii
+87 Aquarii
+87 Leonis
+88 Aquarii
+88 Leonis
+88 Tauri
+89 Aquarii
+89 Herculis
+89 Leonis
+89 Virginis
+8 Andromedae
+8 Aquarii
+8 Aquilae
+8 Camelopardalis
+8 Cancri
+8 Cygni
+8 Draconis
+8 Persei
+8 Vulpeculae
+90 Tauri
+91 Aquarii
+93 Herculis
+93 Leonis
+94 Aquarii
+94 Ceti
+94 Piscium
+96 Aquarii
+97 Aquarii
+98 Aquarii
+98 Herculis
+99 Aquarii
+99 Herculis
+9 Andromedae
+9 Aquarii
+9 Aurigae
+9 Boötis
+9 Cephei
+9 Ceti
+9 Cygni
+9 Equulei
+9 Hydrae
+9 Lacertae
+9 Pegasi
+9 Persei
+9 Puppis
+9 Sagittarii
+9 Vulpeculae
+A-type main-sequence star
+A0620-00
+AA Tauri
+AB7
+AB8
+AB Andromedae
+AB Aurigae
+AB Boötis
+AB Doradus
+AB Pictoris
+AC 54 1646-56
+AC Andromedae
+AC Herculis
+ADS 1359
+ADS 16402
+ADS 48
+ADS 7251
+ADS 9731
+AD Andromedae
+AD Leonis
+AD Phoenicis
+AE Andromedae
+AE Aquarii
+AE Aurigae
+AE Phoenicis
+AE Pictoris
+AFGL 2298
+AFGL 2591
+AF Andromedae
+AG Carinae
+AG Draconis
+AG Pegasi
+AG Virginis
+AH Scorpii
+AH Velorum
+AI Phoenicis
+AI Velorum
+AK Leporis
+AK Pictoris
+AK Pyxidis
+AK Scorpii
+AM Canum Venaticorum
+AM Herculis
+AN Ursae Majoris
+AO Cassiopeiae
+AO Mensae
+AO Serpentis
+AP Columbae
+AR Andromedae
+AR Aurigae
+AR Cassiopeiae
+AR Scorpii
+ASASSN-15lh
+ASASSN-V J213939.3-702817.4
+AS 314
+AS Leonis Minoris
+AT Microscopii
+AU Microscopii
+AV Microscopii
+AW Canum Venaticorum
+AX Circini
+AZ Cancri
+AZ Canis Minoris
+AZ Phoenicis
+A Centauri
+A Forest Apart
+Abell 12
+Abell 2065
+Abell 31
+Abell 33
+Abell 36
+Abell 7
+Abell 70
+Abell 78
+Academy of Light
+Achernar
+Acheronaster
+Acrux
+Aftermath
+Ahmad Albar
+Ahmed Zaki
+Al Parker
+Alan Hughes
+Alberich
+Albert Means
+Albireo
+Alcor
+Alcyone
+Aldebaran
+Aldebaran b
+Alekos Alexiadis
+Alexander Fu Sheng
+Alexey Kudrya
+Alexy van Kimmenade
+Algol
+Alnilam
+Alnitak
+Alpha1 Capricorni
+Alpha2 Capricorni
+Alpha Andromedae
+Alpha Antliae
+Alpha Apodis
+Alpha Aquarii
+Alpha Arae
+Alpha Caeli
+Alpha Camelopardalis
+Alpha Cancri
+Alpha Capricorni
+Alpha Cassiopeiae
+Alpha Centauri
+Alpha Cephei
+Alpha Ceti
+Alpha Chamaeleontis
+Alpha Circini
+Alpha Columbae
+Alpha Comae Berenices
+Alpha Coronae Australis
+Alpha Coronae Borealis
+Alpha Corvi
+Alpha Crateris
+Alpha Crucis
+Alpha Delphini
+Alpha Doradus
+Alpha Equulei
+Alpha Fornacis
+Alpha Gruis
+Alpha Herculis
+Alpha Horologii
+Alpha Hydri
+Alpha Indi
+Alpha Lacertae
+Alpha Leporis
+Alpha Librae
+Alpha Lupi
+Alpha Lyncis
+Alpha Mensae
+Alpha Microscopii
+Alpha Monocerotis
+Alpha Muscae
+Alpha Octantis
+Alpha Ophiuchi
+Alpha Pavonis
+Alpha Pegasi
+Alpha Persei
+Alpha Phoenicis
+Alpha Pictoris
+Alpha Piscium
+Alpha Pyxidis
+Alpha Reticuli
+Alpha Sagittae
+Alpha Sagittarii
+Alpha Sculptoris
+Alpha Scuti
+Alpha Serpentis
+Alpha Sextantis
+Alpha Telescopii
+Alpha Trianguli
+Alpha Trianguli Australis
+Alpha Tucanae
+Alpha Ursae Majoris
+Alpha Volantis
+Alpha Vulpeculae
+Alphard
+Alpha² Canum Venaticorum variable
+Alpos
+Alruba
+Altair
+Altair in fiction
+Altarf
+Alvaldi
+Alvíss
+Amala
+Amphiodia habilis
+Amphiodia pulchella
+Amphipholis squamata
+Amphiura callida
+Amphiura chiajei
+Amphiura filiformis
+An Elephant Called Slowly
+Andris Liepa
+Andvari
+Angus MacAskill
+Ann May
+Anna Larrucea
+Anna May Wong
+Annice Sidwells
+Antares
+Antecedent variable
+Antero Vipunen
+Anthaster valvulatus
+Anthony Alonzo
+Antonis Migiakis
+Antti Autti
+Apasmara
+Apep
+Aquila X-1
+Arctic cookie star
+Arcturus
+Argus Panoptes
+Ascapart
+Aspirated consonant
+Asterina phylactica
+Astroboa nuda
+Astrometis
+Astropecten aranciacus
+Astropecten armatus
+Astropecten articulatus
+Astropecten bispinosus
+Astropecten irregularis
+Astropecten jonstoni
+Astropecten platyacanthus
+Astropecten polyacanthus
+Astropecten scoparius
+Astropecten spinulosus
+Astrosarkus idipi
+Atlas
+Fred Kitchen
+Free parameter
+Frosty Leo Nebula
+Furuhjelm 46
+Hen 2-437
+Hen 2-47
+Henize 2-428
+Henize 206
+Henricia sanguinolenta
+Henry G. Schermers
+Henry Hite
+Interplanetary dust cloud
+Iota1 Cygni
+Iota1 Librae
+Iota1 Muscae
+Iota1 Normae
+Iota1 Scorpii
+Iota2 Cygni
+Iota2 Fornacis
+Iota2 Muscae
+Iota2 Normae
+Iota2 Scorpii
+Iota Andromedae
+Iota Antliae
+Iota Apodis
+Iota Aquarii
+Iota Aquilae
+Iota Arae
+Iota Arietis
+Iota Aurigae
+Iota Boötis
+Iota Cancri
+Iota Canis Majoris
+Iota Capricorni
+Iota Carinae
+Iota Cassiopeiae
+Iota Centauri
+Iota Cephei
+Iota Ceti
+Iota Chamaeleontis
+Iota Coronae Borealis
+Iota Crateris
+Iota Crucis
+Iota Delphini
+Iota Draconis
+Iota Eridani
+Iota Geminorum
+Iota Gruis
+Iota Herculis
+Iota Horologii
+Iota Hydrae
+Iota Leonis
+Iota Leporis
+Iota Lupi
+Iota Lyrae
+Iota Mensae
+Iota Microscopii
+Iota Octantis
+Iota Ophiuchi
+Iota Orionis
+Iota Pegasi
+Iota Persei
+Iota Phoenicis
+Iota Pictoris
+Iota Piscis Austrini
+Iota Piscium
+Iota Reticuli
+Iota Sagittarii
+Iota Sculptoris
+Iota Serpentis
+Iota Tauri
+Iota Telescopii
+Iota Trianguli
+Iota Trianguli Australis
+Iota Tucanae
+Iota Ursae Majoris
+Iota Virginis
+Iota Volantis
+Iris Nebula
+Irregular variable
+Ispolin
+John Wiethe
+Johnny Duncan
+Lego Star Wars: Droid Tales
+Lemon Slice Nebula
+Lenore Ulric
+Ayako Nishikawa
+B(e) star
+B-type main-sequence star
+BAT99-7
+BAT99-98
+BB Doradus
+BB Phoenicis
+BC Canis Minoris
+BC Cygni
+BD+00 316
+BD+02 2056
+BD+03 2562
+BD+14 4559
+BD+14°4559
+BD+17°3248
+BD+20 2457
+BD+20°2457
+BD+20°307
+BD+40°4210
+BD+40° 4210
+BD+43 3654
+BD+43° 3654
+BD+48 740
+BD+60 2522
+BD+60°2522
+BD-07 436
+BD-10°3166
+BD-11 4672
+BD-17°63
+BD +17° 3248
+BD Camelopardalis
+BD Phoenicis
+BD−08°2823
+BD−10°3166
+BD−17 63
+BD−22 5866
+BE Camelopardalis
+BF Antliae
+BF Orionis
+BG Canis Minoris
+BG Crucis
+BG Geminorum
+BG Indi
+BHR 71
+BH Crucis
+BH Virginis
+BI 253
+BI Cygni
+BK Camelopardalis
+BL Boötis
+BL Crucis
+BL Herculis
+BL Herculis variable
+BL Telescopii
+BM Andromedae
+BN Camelopardalis
+BO Carinae
+BO Microscopii
+BPM 37093
+BP Boötis
+BP Circini
+BP Crucis
+BP Tauri
+BQ Octantis
+BT Monocerotis
+BU Canis Minoris
+BU Crucis
+BV Centauri
+BW Vulpeculae
+BX Andromedae
+BX Boötis
+BX Circini
+BY Draconis
+BZ Ursae Majoris
+B Centauri
+B Persei
+Bai Guang
+Barnard's Loop
+Barnard's Star
+Barnard 147
+Barosaurus
+Barry Cox
+Bat star
+Baugi
+Becklin–Neugebauer Object
+Beethoven Burst
+Before John Was a Jazz Giant: A Song of John Coltrane
+Bellatrix
+Ben Fagan
+Bergelmir
+Bert Lytell
+Berting Labra
+Beta1 Sagittarii
+Beta2 Sagittarii
+Beta Andromedae
+Beta Apodis
+Beta Aquarii
+Beta Aquilae
+Beta Arae
+Beta Arietis
+Beta Aurigae
+Beta Boötis
+Beta Caeli
+Beta Camelopardalis
+Beta Cancri
+Beta Canis Majoris
+Beta Canis Minoris
+Beta Canum Venaticorum
+Beta Capricorni
+Beta Carinae
+Beta Cassiopeiae
+Beta Centauri
+Beta Cephei
+Beta Ceti
+Beta Chamaeleontis
+Beta Circini
+Beta Columbae
+Beta Comae Berenices
+Beta Coronae Australis
+Beta Coronae Borealis
+Beta Corvi
+Beta Crateris
+Beta Crucis
+Beta Delphini
+Beta Doradus
+Beta Draconis
+Beta Equulei
+Beta Eridani
+Beta Fornacis
+Beta Gruis
+Beta Herculis
+Beta Horologii
+Beta Hydrae
+Beta Hydri
+Beta Indi
+Beta Lacertae
+Beta Leonis Minoris
+Beta Leporis
+Beta Librae
+Beta Lupi
+Beta Lyrae
+Beta Mensae
+Beta Microscopii
+Beta Monocerotis
+Beta Muscae
+Beta Octantis
+Beta Ophiuchi
+Beta Pavonis
+Beta Pegasi
+Beta Phoenicis
+Beta Pictoris
+Beta Piscis Austrini
+Beta Piscium
+Beta Pyxidis
+Beta Reticuli
+Beta Sagittae
+Beta Scorpii
+Beta Sculptoris
+Beta Scuti
+Beta Serpentis
+Beta Sextantis
+Beta Tauri
+Beta Trianguli
+Beta Trianguli Australis
+Beta Tucanae
+Beta Ursae Majoris
+Beta Ursae Minoris
+Beta Virginis
+Beta Volantis
+Betelgeuse
+Bill Burrud
+Binary pulsar
+Black Dwarf
+Black Star of Africa
+Black Widow Pulsar
+Blue giant
+Blue straggler
+Blunderbore
+Bob Gambold
+Bob Lenarduzzi
+Bob Teague
+Bobby Patterson
+Bogle
+Boneshaker
+Boomerang Nebula
+Bothriaster primigenius
+Brahala
+Brokkr
+Brooke Hogan
+Brân the Blessed
+Buck Jones
+Buffalo Bill Museum
+Bursting Pulsar
+Bölþorn
+C3 Centauri
+CC Andromedae
+CD-38 2551
+CD-44 170
+CD-73°375
+CD Crucis
+CE Gruis
+CFBDSIR J145829+101343
+CFBDS J005910.90-011401.3
+CFBDS J005910.90–011401.3
+CG Cygni
+CHXR 73
+CH Crucis
+CH Cygni
+CIT 6
+CI Tauri
+CK Carinae
+CK Vulpeculae
+CL Draconis
+CM Draconis
+CN Andromedae
+CN star
+COROT-1
+COROT-2
+COROT-3
+COROT-3b
+COROT-4
+COROT-5
+COROT-6
+COROT-7
+CPD−57°2874
+CPD−57° 2874
+CP Boötis
+CP Lacertae
+CP Puppis
+CQ Camelopardalis
+CQ Tauri
+CS Camelopardalis
+CT Chamaeleontis
+CT Serpentis
+CU Virginis
+CVSO 30
+CV Serpentis
+CW Leonis
+CXOU J061705.3+222127
+CXOU J164710.2−455216
+CX Canis Majoris
+C Carinae
+C Puppis
+C Ursae Majoris
+Cacus
+Cad Bane
+Calabash Nebula
+California Nebula
+Calvera
+Canopus
+Capella
+Carbon star
+Carina Nebula
+Castor
+Categorical variable
+Geisy Arruda
+Geminga
+General Tom Thumb
+George H. Chirgwin
+Grayson Hajash
+Great Annihilator
+Hymir
+Hypergiant
+Hypothetical star
+IC 1295
+IC 2149
+IC 2220
+IC 2448
+IC 289
+IC 348
+IC 349
+IC 405
+IC 418
+IC 434
+IC 4406
+IC 444
+IC 447
+IC 4592
+IC 4703
+IC 5146
+IC 5148
+IGR J17091-3624
+II Lupi
+II Pegasi
+IK Pegasi
+IK Tauri
+IM Normae
+IM Pegasi
+IPTF14hls
+IPTF 14atg
+IQ Aurigae
+IRAS 00500+6713
+IRAS 04509-6922
+IRAS 05280–6910
+IRAS 08544−4431
+IRAS 16293−2422
+IRAS 17163-3907
+IRAS 17163−3907
+IRAS 17423-1755
+IRAS 18162−2048
+IRAS 18357–0604
+IRAS 19475+3119
+IRAS 23304+6147
+IRC+10420
+IRC-10414
+IRC +10216
+IRC +10420
+IRC -10414
+IRS 8*
+IU Aurigae
+IX Carinae
+IZ Aquarii
+I Carinae
+Lalande 21185
+Lambda1 Fornacis
+Lambda1 Phoenicis
+Lambda1 Sculptoris
+Lambda1 Tucanae
+Lambda2 Fornacis
+Lambda2 Sculptoris
+Lambda2 Tucanae
+Lambda Andromedae
+Lambda Aquarii
+Lambda Aquilae
+Lambda Arae
+Lambda Arietis
+Lambda Aurigae
+Lambda Boötis
+Lambda Boötis star
+Lambda Caeli
+Lambda Cancri
+Lambda Canis Majoris
+Lambda Capricorni
+Lambda Cassiopeiae
+Lambda Centauri
+Lambda Cephei
+Lambda Ceti
+Lambda Chamaeleontis
+Lambda Columbae
+Lambda Coronae Australis
+Lambda Coronae Borealis
+Lambda Crateris
+Lambda Crucis
+Lambda Cygni
+Lambda Doradus
+Lambda Draconis
+Lambda Eridani
+Lambda Geminorum
+Lambda Gruis
+Lambda Herculis
+Lambda Horologii
+Lambda Hydrae
+Lambda Leonis
+Lambda Leporis
+Lambda Librae
+Lambda Lupi
+Lambda Lyrae
+Lambda Mensae
+Lambda Muscae
+Lambda Normae
+Lambda Octantis
+Lambda Ophiuchi
+Lambda Pavonis
+Lambda Pegasi
+Lambda Persei
+Lambda Pictoris
+Lambda Piscis Austrini
+Lambda Piscium
+Lambda Pyxidis
+Lambda Sagittarii
+Lambda Scorpii
+Lambda Serpentis
+Lambda Tauri
+Lambda Telescopii
+Lambda Ursae Majoris
+Lambda Ursae Minoris
+Lambda Velorum
+Lambda Virginis
+LoTr 5
+Local variable
+Logi
+Lolly
+Long Dong Silver
+Loop counter
+Losi
+Louis Moilanen
+Louise Groody
+Magnetar
+Magnitude of completeness
+Mitchell Guist
+Mizar
+Munyonyo Commonwealth Resort
+Parvulastra exigua
+Pascal White
+Patiriella mortenseni
+Patiriella regularis
+Pulsar wind nebula
+Punch Gunalan
+QR Andromedae
+QS Aquilae
+QS Telescopii
+QS Virginis
+QU Normae
+QU Vulpeculae
+QV Andromedae
+QV Normae
+QV Telescopii
+QW Puppis
+QX Andromedae
+QX Normae
+QY Puppis
+QZ Aurigae
+QZ Carinae
+QZ Puppis
+Q Carinae
+Q Centauri
+Q Cygni
+Q Scorpii
+Q star
+Qatar-1
+Qatar-2
+Qatar-3
+Qatar-4
+Qatar-8
+Star Wars: Bounty Hunter
+Star Wars: Knights of the Old Republic
+Star Wars: Lethal Alliance
+Star Wars: The Vintage Collection
+Star Wars Databank
+Star Wars Episode I: Jedi Power Battles
+Star Wars Galaxies
+Star Wars Galaxies: The Ruins of Dantooine
+Star Wars Insider
+Star Wars Racer Revenge
+Star of Life
+Static variable
+Statue of Zeus at Olympia
+Struve 1694
+Struve 2398
+Stéphane Froidevaux
+Subdwarf
+Subdwarf O star
+Subgiant
+Sun
+Sunflower seastar
+Sunset Carson
+Tamangori
+Tang Jiuhong
+Tau1 Aquarii
+Tau1 Arietis
+Tau1 Capricorni
+Tau1 Eridani
+Tau1 Gruis
+Tau1 Hydrae
+Tau1 Lupi
+Tau1 Serpentis
+Tau2 Aquarii
+Tau2 Arietis
+Tau2 Capricorni
+Tau2 Eridani
+Tau2 Gruis
+Tau2 Hydrae
+Tau2 Lupi
+Tau2 Serpentis
+Tau3 Eridani
+Tau3 Gruis
+Tau3 Serpentis
+Tau4 Eridani
+Tau4 Serpentis
+Tau5 Eridani
+Tau5 Serpentis
+Tau6 Eridani
+Tau6 Serpentis
+Tau7 Eridani
+Tau7 Serpentis
+Tau8 Eridani
+Tau8 Serpentis
+Tau9 Eridani
+Tau Andromedae
+Tau Aquilae
+Tau Aurigae
+Tau Boötis
+Tau Cancri
+Tau Canis Majoris
+Tau Cassiopeiae
+Tau Centauri
+Tau Ceti
+Tau Coronae Borealis
+Tau Cygni
+Tau Draconis
+Tau Geminorum
+Tau Herculis
+Tau Leonis
+Tau Librae
+Tau Octantis
+Tau Ophiuchi
+Tau Orionis
+Tau Pegasi
+Tau Persei
+Tau Piscis Austrini
+Tau Piscium
+Tau Puppis
+Tau Sagittarii
+Tau Scorpii
+Tau Sculptoris
+Tau Tauri
+Tau Ursae Majoris
+Tau Virginis
+Temple Gardens Mineral Spa Resort
+Terrestrial gamma-ray flash
+Melnick 34
+Melnick 42
+Member variable
+Mercator 1569 world map
+Merope
+Mervyn Cardoza
+Messier 78
+Mohammad Haroon
+Monachaster
+Neutron star
+Pease 1
+Penhill Giant
+Pola Raksa
+Polaris
+Pole star
+Pollux
+Queenie Leighton
+R136a1
+R136a2
+R136a3
+R136b
+R136c
+R145
+R71
+R85
+R99
+Ricky Hui
+Rigel
+Ring Nebula
+S-type star
+S0–102
+S2
+S55
+S62
+SAO 206462
+SCR 1845−6357
+SCR J1546−5534
+SDSS J001820.5−093939.2
+SDSS J0106-1000
+SDSS J090745.0+024507
+SDSS J102915+172927
+SDSS J1229+1122
+SDSS J1240+6710
+SDSS J141624.08+134826.7
+SDSS J143317.78+101123.3
+SGR 0501+4516
+SGR 0525-66
+SGR 0525−66
+SGR 1627-41
+SGR 1627−41
+SGR 1806-20
+SGR 1806−20
+SGR 1900+14
+SGR 1935+2154
+SGR J1550-5418
+SGR J1745-2900
+SGR J1745−2900
+SIMP J013656.5+093347
+SIPS 1259-4336
+SMC 018136
+SMSS J031300.36-670839.3
+SMSS J031300.36−670839.3
+SN 1006
+SN 1054
+SN 1572
+SN 185
+SN 1885A
+SN 1917A
+SN 1939C
+SN 1961i
+SN 1972e
+SN 1979C
+SN 1986G
+SN 1987A
+SN 1993J
+SN 1994D
+SN 1994I
+SN 1998S
+SN 1998aq
+SN 1998bw
+SN 1999ec
+SN 1999eu
+SN 2002cx
+SN 2003B
+SN 2003H
+SN 2003fg
+SN 2003gd
+SN 2004dj
+SN 2004gt
+SN 2005E
+SN 2005bc
+SN 2005cs
+SN 2005df
+SN 2005gj
+SN 2005gl
+SN 2006X
+SN 2006jc
+SN 2007uy
+SN 2008D
+SN 2008ax
+SN 2008ha
+SN 2009gj
+SN 2010lt
+SN 2011by
+SN 2011dh
+SN 2011fe
+SN 2014J
+SN 386
+SN Refsdal
+SN UDS10Wil
+SP77 46-44
+SSSPM J1549-3544
+SSTGFLS J222557+601148
+SS 433
+SS Cygni
+Saturn Nebula
+Sayaka Aoki
+Shorty Rossi
+Source function
+South
+Stevi Ritchie
+Stingray Nebula
+Stoney Cooper
+Storm
+TIC 168789840
+TOI-178
+TOI-561
+TOI-755
+TOI 1338
+TOI 700
+TRAPPIST-1
+TT Aquilae
+TT Corvi
+TT Cygni
+TU Andromedae
+TU Corvi
+TU Mensae
+TU Muscae
+TU Ursae Majoris
+TVLM513-46546
+TVLM 513-46546
+TV Corvi
+TV Geminorum
+TV Pictoris
+TW Andromedae
+TW Horologii
+TW Hydrae
+TW Pictoris
+TW Piscis Austrini
+TX Camelopardalis
+TX Piscium
+TX Ursae Majoris
+TYC 8998-760-1
+TYC 9486-927-1
+TY Coronae Australis
+TY Coronae Borealis
+TY Pyxidis
+TZ Cassiopeiae
+TZ Mensae
+T Andromedae
+T Antliae
+T Aurigae
+T Boötis
+T Carinae
+T Centauri
+T Cephei
+T Ceti
+T Coronae Australis
+T Coronae Borealis
+T Crucis
+T Cygni
+T Leporis
+T Microscopii
+T Normae
+T Persei
+T Pyxidis
+T Scorpii
+T Tauri
+T Ursae Minoris
+T Vulpeculae
+TaQuita Thorns
+Tabby's Star
+Theta1 Crucis
+Theta1 Microscopii
+Theta1 Orionis A
+Theta1 Orionis B
+Theta1 Orionis C
+Theta1 Orionis D
+Theta1 Orionis E
+Theta1 Sagittarii
+Theta2 Crucis
+Theta2 Microscopii
+Theta2 Orionis
+Theta2 Sagittarii
+Theta Andromedae
+Theta Antliae
+Theta Apodis
+Theta Aquarii
+Theta Aquilae
+Theta Arae
+Theta Arietis
+Theta Aurigae
+Theta Boötis
+Theta Cancri
+Theta Canis Majoris
+Theta Capricorni
+Theta Carinae
+Theta Cassiopeiae
+Theta Centauri
+Theta Cephei
+Theta Ceti
+Theta Chamaeleontis
+Theta Circini
+Theta Columbae
+Theta Coronae Australis
+Theta Coronae Borealis
+Theta Crateris
+Theta Cygni
+Theta Delphini
+Theta Doradus
+Theta Draconis
+Theta Eridani
+Theta Geminorum
+Theta Gruis
+Theta Herculis
+Theta Hydrae
+Theta Hydri
+Theta Indi
+Theta Leonis
+Theta Leporis
+Theta Librae
+Theta Lupi
+Theta Lyrae
+Theta Mensae
+Theta Muscae
+Theta Normae
+Theta Octantis
+Theta Ophiuchi
+Theta Pavonis
+Theta Pegasi
+Theta Persei
+Theta Pictoris
+Theta Piscis Austrini
+Theta Piscium
+Theta Pyxidis
+Theta Reticuli
+Theta Sagittae
+Theta Scorpii
+Theta Sculptoris
+Theta Serpentis
+Theta Tauri
+Theta Trianguli Australis
+Theta Tucanae
+Theta Ursae Majoris
+Theta Ursae Minoris
+Theta Virginis
+Theta Volantis
+US 708
+UScoCTIO 108
+UU Aurigae
+UV Piscium
+UW Canis Majoris
+UX Antliae
+UX Arietis
+UX Lyncis
+UX Tauri
+UX Ursae Majoris
+UY Scuti
+UY Volantis
+UZ Fornacis
+UZ Pyxidis
+U Andromedae
+U Antliae
+U Aquarii
+U Aquilae
+U Camelopardalis
+U Carinae
+U Equulei
+U Geminorum
+U Hydrae
+U Lacertae
+U Microscopii
+U Monocerotis
+U Orionis
+U Sagittae
+U Scorpii
+U Vulpeculae
+Ueno Daibutsu
+Violetta Villas
+Yoo Seung-jun
+Yorktown High School
+Young Jedi Knights
+Yūga Yamato
+ZTF J0139+5245
+ZTF J153932.16+502738.8
+ZZ Boötis
+Z Andromedae
+Z Apodis
+Z Camelopardalis
+Z Canis Majoris
+Z Chamaeleontis
+Z Ursae Minoris
+Zach King
+Zakaria Abdulla
+Zella Russell
+Zeta1 Antliae
+Zeta1 Lyrae
+Zeta1 Muscae
+Zeta1 Scorpii
+Zeta2 Antliae
+Zeta2 Lyrae
+Zeta2 Muscae
+Zeta2 Scorpii
+Zeta Andromedae
+Zeta Apodis
+Zeta Aquarii
+Zeta Aquilae
+Zeta Arae
+Zeta Arietis
+Zeta Aurigae
+Zeta Boötis
+Zeta Caeli
+Zeta Canis Majoris
+Zeta Canis Minoris
+Zeta Capricorni
+Zeta Cassiopeiae
+Zeta Centauri
+Zeta Cephei
+Zeta Ceti
+Zeta Chamaeleontis
+Zeta Circini
+Zeta Coronae Australis
+Zeta Coronae Borealis
+Zeta Corvi
+Zeta Crateris
+Zeta Crucis
+Zeta Cygni
+Zeta Delphini
+Zeta Doradus
+Zeta Draconis
+Zeta Equulei
+Zeta Eridani
+Zeta Fornacis
+Zeta Geminorum
+Zeta Gruis
+Zeta Herculis
+Zeta Horologii
+Zeta Hydrae
+Zeta Hydri
+Zeta Indi
+Zeta Leonis
+Zeta Leporis
+Zeta Lupi
+Zeta Mensae
+Zeta Microscopii
+Zeta Monocerotis
+Zeta Normae
+Zeta Octantis
+Zeta Ophiuchi
+Zeta Pavonis
+Zeta Pegasi
+Zeta Persei
+Zeta Phoenicis
+Zeta Pictoris
+Zeta Piscis Austrini
+Zeta Piscium
+Zeta Puppis
+Zeta Pyxidis
+Zeta Reticuli
+Zeta Sagittae
+Zeta Sagittarii
+Zeta Sculptoris
+Zeta Scuti
+Zeta Serpentis
+Zeta Tauri
+Zeta Telescopii
+Zeta Trianguli Australis
+Zeta Tucanae
+Zeta Ursae Minoris
+Zeta Virginis
+Zeta Volantis
+Zhan Shichai
+Secrets of the Jedi
+Finger of God
+Yoda: Dark Rendezvous
+Covariate
+Cayrel's Star
+Celaeno
+Centaurus X-3
+Ceramaster patagonicus
+ChaHα8
+Cha 110913−773444
+Chamaeleon complex
+Charles Fremont West
+Charles Terront
+Dodda Aladha Mara
+Don Holleder
+Don Scott
+Dorothea Ostrelska
+Dorothy Gulliver
+Double Helix Nebula
+Double periodic variable
+Doug Armstrong
+Dragonfish nebula
+Duality
+Duck Dodgers
+Dumbbell Nebula
+Durinn
+Gymir
+H1504+65
+HAT-P-11
+HAT-P-12
+HAT-P-13
+HAT-P-15
+HAT-P-16
+HAT-P-17
+HAT-P-18
+HAT-P-19
+HAT-P-20
+HAT-P-21
+HAT-P-23
+HAT-P-24
+HAT-P-25
+HAT-P-26
+HAT-P-27
+HAT-P-28
+HAT-P-29
+HAT-P-3
+HAT-P-30
+HAT-P-33
+HAT-P-4
+HAT-P-41
+HAT-P-5
+HAT-P-6
+HAT-P-65
+HAT-P-7
+HAT-P-8
+HAT-P-9
+HATS-3
+HDE 316285
+HD 1
+HD 100307
+HD 100453
+HD 100546
+HD 100655
+HD 100777
+HD 100825
+HD 101570
+HD 101584
+HD 10180
+HD 101930
+HD 102117
+HD 102195
+HD 102272
+HD 102350
+HD 102365
+HD 102776
+HD 102839
+HD 10307
+HD 103079
+HD 103197
+HD 1032
+HD 103774
+HD 104067
+HD 104237
+HD 104304
+HD 104985
+HD 105382
+HD 10550
+HD 106112
+HD 106252
+HD 106315
+HD 10647
+HD 106515
+HD 106760
+HD 106906
+HD 107146
+HD 107148
+HD 107914
+HD 10800
+HD 108063
+HD 108147
+HD 108236
+HD 108541
+HD 108863
+HD 108874
+HD 108874 b
+HD 108874 c
+HD 109271
+HD 109749
+HD 110073
+HD 11025
+HD 110432
+HD 110458
+HD 110956
+HD 111031
+HD 111031 b
+HD 111232
+HD 111395
+HD 111456
+HD 111597
+HD 111915
+HD 111968
+HD 112014
+HD 112028
+HD 112410
+HD 113337
+HD 113538
+HD 113703
+HD 113766
+HD 114386
+HD 114533
+HD 114613
+HD 114729
+HD 114762
+HD 114762 b
+HD 114783
+HD 114837
+HD 115004
+HD 11506
+HD 115211
+HD 115310
+HD 115337
+HD 115404
+HD 115600
+HD 116029
+HD 116243
+HD 117207
+HD 117440
+HD 117618
+HD 117939
+HD 118203
+HD 1185
+HD 118508
+HD 118889
+HD 119124
+HD 11964
+HD 119921
+HD 120084
+HD 120213
+HD 12039
+HD 12055
+HD 120987
+HD 121056
+HD 121228
+HD 12139
+HD 121474
+HD 121504
+HD 122430
+HD 122563
+HD 122862
+HD 123569
+HD 123657
+HD 1237
+HD 124639
+HD 12467
+HD 125040
+HD 125072
+HD 125248
+HD 125288
+HD 125351
+HD 125442
+HD 125595
+HD 125612
+HD 125628
+HD 125658
+HD 125823
+HD 126009
+HD 126053
+HD 126128
+HD 126141
+HD 126200
+HD 126271
+HD 12661
+HD 126614
+HD 127304
+HD 127726
+HD 128093
+HD 128198
+HD 128311
+HD 128333
+HD 128429
+HD 129116
+HD 129132
+HD 129357
+HD 129445
+HD 129445 b
+HD 129456
+HD 129685
+HD 130084
+HD 130144
+HD 130322
+HD 130458
+HD 130603
+HD 130917
+HD 130948
+HD 131040
+HD 131399
+HD 131473
+HD 131496
+HD 131551
+HD 131664
+HD 13189
+HD 132029
+HD 132406
+HD 132563
+HD 133002
+HD 133131
+HD 133600
+HD 133683
+HD 133981
+HD 134060
+HD 134064
+HD 134335
+HD 134439/HD 134440
+HD 134606
+HD 134687
+HD 135438
+HD 135530
+HD 135944
+HD 136118
+HD 136118 b
+HD 136138
+HD 137058
+HD 137388
+HD 137509
+HD 138573
+HD 138867
+HD 139139
+HD 13931
+HD 139319
+HD 139357
+HD 139664
+HD 140283
+HD 140913
+HD 141399
+HD 141569
+HD 141846
+HD 141937
+HD 142
+HD 142022
+HD 142245
+HD 142250
+HD 142415
+HD 142527
+HD 143009
+HD 143183
+HD 143346
+HD 143361
+HD 143436
+HD 143699
+HD 143787
+HD 14412
+HD 145377
+HD 145457
+HD 1461
+HD 14622
+HD 146389
+HD 146624
+HD 147018
+HD 147506
+HD 147513
+HD 148156
+HD 148427
+HD 149026
+HD 149143
+HD 149382
+HD 149837
+HD 149989
+HD 150136
+HD 150193
+HD 150248
+HD 150576
+HD 150706
+HD 15082
+HD 15115
+HD 151566
+HD 151613
+HD 151932
+HD 151967
+HD 152010
+HD 152079
+HD 152079 b
+HD 152082
+HD 152408
+HD 153053
+HD 153201
+HD 153221
+HD 153261
+HD 153370
+HD 153791
+HD 153950
+HD 154088
+HD 154345
+HD 154577
+HD 154672
+HD 154857
+HD 155035
+HD 15524
+HD 155358
+HD 155448
+HD 15558
+HD 156091
+HD 156279
+HD 156331
+HD 156411
+HD 156668
+HD 156768
+HD 156846
+HD 157661
+HD 157662
+HD 157753
+HD 157819
+HD 158220
+HD 158259
+HD 158476
+HD 158614
+HD 158633
+HD 15920
+HD 159868
+HD 16004
+HD 16028
+HD 160342
+HD 160529
+HD 1606
+HD 16175
+HD 161840
+HD 161988
+HD 162020
+HD 162826
+HD 163145
+HD 163376
+HD 163840
+HD 164427
+HD 164509
+HD 164595
+HD 164604
+HD 164712
+HD 164922
+HD 165185
+HD 165189
+HD 165259
+HD 165493
+HD 165516
+HD 165590
+HD 165634
+HD 166
+HD 166006
+HD 166066
+HD 166724
+HD 167042
+HD 167257
+HD 16754
+HD 16760
+HD 167665
+HD 167818
+HD 167965
+HD 168009
+HD 168443
+HD 168607
+HD 168625
+HD 168746
+HD 1690
+HD 169142
+HD 169405
+HD 16955
+HD 169830
+HD 170069
+HD 170469
+HD 170657
+HD 17092
+HD 171028
+HD 171238
+HD 171301
+HD 17156
+HD 171819
+HD 171978
+HD 172044
+HD 172051
+HD 172555
+HD 172910
+HD 173416
+HD 173417
+HD 173780
+HD 173791
+HD 173936
+HD 174179
+HD 174387
+HD 174569
+HD 175167
+HD 175289
+HD 175443
+HD 175535
+HD 175541
+HD 175740
+HD 176051
+HD 176527
+HD 176693
+HD 176871
+HD 177808
+HD 177809
+HD 177830
+HD 178233
+HD 178911
+HD 179070
+HD 179079
+HD 17925
+HD 179791
+HD 179821
+HD 179886
+HD 179949
+HD 180262
+HD 180314
+HD 180450
+HD 180555
+HD 180902
+HD 181068
+HD 181342
+HD 181433
+HD 181720
+HD 182475
+HD 182509
+HD 182681
+HD 183143
+HD 183144
+HD 183263
+HD 185018
+HD 185269
+HD 185435
+HD 186302
+HD 187085
+HD 187123
+HD 187734
+HD 187923
+HD 188015
+HD 188385
+HD 188405
+HD 188753
+HD 189245
+HD 189276
+HD 189567
+HD 18970
+HD 189733
+HD 189831
+HD 190007
+HD 190056
+HD 190228
+HD 190647
+HD 190984
+HD 191104
+HD 191760
+HD 191806
+HD 191829
+HD 191939
+HD 191984
+HD 192263
+HD 192310
+HD 192685
+HD 192699
+HD 19275
+HD 193307
+HD 193322
+HD 193373
+HD 193472
+HD 193556
+HD 193664
+HD 193721
+HD 194012
+HD 194244
+HD 194612
+HD 19467 B
+HD 194953
+HD 195019
+HD 195564
+HD 196050
+HD 196761
+HD 196775
+HD 196885
+HD 197027
+HD 197036
+HD 197037
+HD 19789
+HD 198404
+HD 199223
+HD 199442
+HD 199942
+HD 20003
+HD 200044
+HD 200375
+HD 200661
+HD 200964
+HD 20104
+HD 201298
+HD 201507
+HD 202206
+HD 202259
+HD 202628
+HD 202951
+HD 203030
+HD 203473
+HD 20367
+HD 203842
+HD 203857
+HD 2039
+HD 203949
+HD 204313
+HD 204521
+HD 20468
+HD 205739
+HD 205765
+HD 205877
+HD 206267
+HD 20644
+HD 207129
+HD 20781
+HD 20782
+HD 207832
+HD 208177
+HD 208487
+HD 208527
+HD 20868
+HD 208741
+HD 209458
+HD 210277
+HD 210434
+HD 210702
+HD 21071
+HD 211073
+HD 211392
+HD 211415
+HD 211575
+HD 212301
+HD 212771
+HD 21278
+HD 213240
+HD 213429
+HD 21389
+HD 214448
+HD 21447
+HD 214810
+HD 215114
+HD 215152
+HD 215456
+HD 215497
+HD 216446
+HD 216718
+HD 216770
+HD 217107
+HD 217382
+HD 21749
+HD 217786
+HD 218061
+HD 218566
+HD 219077
+HD 219134
+HD 219279
+HD 219617
+HD 219623
+HD 219659
+HD 219828
+HD 220035
+HD 220074
+HD 220105
+HD 220466
+HD 220689
+HD 220773
+HD 221148
+HD 221246
+HD 221287
+HD 221420
+HD 221525
+HD 221776
+HD 222093
+HD 222095
+HD 222109
+HD 222155
+HD 222399
+HD 222582
+HD 222806
+HD 222925
+HD 223229
+HD 223311
+HD 224635
+HD 224693
+HD 224801
+HD 225218
+HD 22663
+HD 22676
+HD 22781
+HD 23079
+HD 23089
+HD 23127
+HD 231701
+HD 23277
+HD 23319
+HD 233731
+HD 23474
+HD 23514
+HD 23596
+HD 23753
+HD 240210
+HD 240237
+HD 24040
+HD 240429/240430
+HD 24071
+HD 24160
+HD 2421
+HD 24479
+HD 24480
+HD 24496
+HD 2454
+HD 25171
+HD 25291
+HD 256
+HD 259431
+HD 260655
+HD 2638
+HD 26764
+HD 268835
+HD 269810
+HD 27022
+HD 27245
+HD 27274
+HD 27631
+HD 2767
+HD 27894
+HD 27894 b
+HD 28185
+HD 28246
+HD 28254
+HD 283572
+HD 28375
+HD 283750
+HD 28454
+HD 28527
+HD 28700
+HD 290327
+HD 2942
+HD 29559
+HD 29573
+HD 29587
+HD 29697
+HD 3
+HD 30080
+HD 30177
+HD 30442
+HD 30453
+HD 30479
+HD 30562
+HD 30963
+HD 31093
+HD 316285
+HD 3167
+HD 31975
+HD 32034
+HD 32188
+HD 32309
+HD 3240
+HD 32450
+HD 32453
+HD 32515
+HD 32518
+HD 326823
+HD 330075
+HD 33203
+HD 3322
+HD 33266
+HD 33283
+HD 3346
+HD 33463
+HD 33519
+HD 33564
+HD 33579
+HD 33636
+HD 33875
+HD 34266
+HD 3443
+HD 34445
+HD 34557
+HD 34626
+HD 34790
+HD 34868
+HD 34880
+HD 34968
+HD 34989
+HD 35184
+HD 35519
+HD 35520
+HD 35619
+HD 35759
+HD 35984
+HD 36041
+HD 36112
+HD 36678
+HD 36780
+HD 36848
+HD 36960
+HD 37017
+HD 37124
+HD 37519
+HD 37605
+HD 37646
+HD 37756
+HD 37811
+HD 37974
+HD 38282
+HD 38283
+HD 38529
+HD 38858
+HD 39194
+HD 39225
+HD 39901
+HD 40307
+HD 40409
+HD 40657
+HD 40873
+HD 40979
+HD 41004
+HD 4113
+HD 41162
+HD 41248
+HD 41534
+HD 41742/41700
+HD 4203
+HD 4208
+HD 42540
+HD 42618
+HD 42818
+HD 42936
+HD 4308
+HD 4313
+HD 43197
+HD 43587
+HD 43691
+HD 43848
+HD 4391
+HD 44120
+HD 44131
+HD 44219
+HD 44594
+HD 44780
+HD 45184
+HD 45350
+HD 45364
+HD 45652
+HD 4628
+HD 46375
+HD 46568
+HD 46588
+HD 46815
+HD 47186
+HD 4732
+HD 47366
+HD 4747
+HD 47475
+HD 47500
+HD 47536
+HD 47667
+HD 4778
+HD 48099
+HD 48265
+HD 49268
+HD 49674
+HD 49798
+HD 49878
+HD 49933
+HD 49947
+HD 49976
+HD 50002
+HD 50064
+HD 50235
+HD 50281
+HD 50499
+HD 50554
+HD 51799
+HD 52265
+HD 53143
+HD 5319
+HD 53367
+HD 53501
+HD 53705/53706/53680
+HD 53811
+HD 5388
+HD 54893
+HD 55151
+HD 5608
+HD 56405
+HD 56456
+HD 56577
+HD 56618
+HD 56925
+HD 57197
+HD 57821
+HD 5789/5788
+HD 59612
+HD 59686
+HD 5980
+HD 59890
+HD 6
+HD 60150
+HD 60532
+HD 60803
+HD 60863
+HD 61005
+HD 6114
+HD 61248
+HD 61330
+HD 61563
+HD 61772
+HD 61831
+HD 63032
+HD 63399
+HD 63454
+HD 63513
+HD 63584
+HD 63744
+HD 63765
+HD 63922
+HD 64307
+HD 6434
+HD 64440
+HD 64484
+HD 64740
+HD 64760
+HD 65216
+HD 65750
+HD 65810
+HD 66141
+HD 66428
+HD 66920
+HD 6718
+HD 68375
+HD 68402
+HD 68601
+HD 68988
+HD 69142
+HD 69830
+HD 69863
+HD 70060
+HD 70514
+HD 70555
+HD 70573
+HD 70642
+HD 70930
+HD 71334
+HD 71863
+HD 7199
+HD 72108
+HD 72337
+HD 72561
+HD 72659
+HD 72922
+HD 72945
+HD 73256
+HD 73267
+HD 73389
+HD 73390
+HD 73468
+HD 73526
+HD 73534
+HD 73634
+HD 73882
+HD 74156
+HD 74180
+HD 74272
+HD 74389
+HD 74423
+HD 74438
+HD 7449
+HD 74772
+HD 75063
+HD 75171
+HD 75289
+HD 75710
+HD 75898
+HD 76143
+HD 76151
+HD 76236
+HD 76270
+HD 76653
+HD 76700
+HD 76728
+HD 76805
+HD 77258
+HD 77338
+HD 77370
+HD 77887
+HD 77912
+HD 78004
+HD 7853
+HD 7924
+HD 79447
+HD 79498
+HD 79917
+HD 79940
+HD 80194
+HD 80230
+HD 80606 and HD 80607
+HD 81040
+HD 81101
+HD 81799
+HD 81817
+HD 82205
+HD 82514
+HD 82741
+HD 82785
+HD 82886
+HD 82943
+HD 83058
+HD 83095
+HD 83183
+HD 83332
+HD 83380
+HD 83443
+HD 83446
+HD 83944
+HD 83953
+HD 84117
+HD 84810
+HD 8535
+HD 85390
+HD 85512
+HD 85622
+HD 85725
+HD 8574
+HD 85859
+HD 85951
+HD 86081
+HD 86226
+HD 86226 b
+HD 86264
+HD 86267
+HD 8673
+HD 87643
+HD 87822
+HD 87883
+HD 88133
+HD 88206
+HD 88218
+HD 88366
+HD 88522
+HD 88809
+HD 88836
+HD 88955
+HD 88981
+HD 89307
+HD 895
+HD 89571
+HD 89744
+HD 89890
+HD 89998
+HD 90089
+HD 90132
+HD 90156
+HD 90264
+HD 90853
+HD 91190
+HD 91312
+HD 91324
+HD 91496
+HD 91942
+HD 92036
+HD 92063
+HD 92209
+HD 92397
+HD 92449
+HD 92589
+HD 92788
+HD 92845
+HD 92945
+HD 93083
+HD 93129
+HD 93129A
+HD 93194
+HD 93205
+HD 93250
+HD 93385
+HD 93403
+HD 93521
+HD 93607
+HD 93833
+HD 93905
+HD 9446
+HD 94510
+HD 95086
+HD 95109
+HD 95370
+HD 9578
+HD 95808
+HD 96146
+HD 96167
+HD 96566
+HD 96700
+HD 96819
+HD 96919
+HD 97048
+HD 97413
+HD 97658
+HD 98176
+HD 98219
+HD 98618
+HD 98649
+HD 98800
+HD 99109
+HD 99706
+HD 9986
+HD 99922
+HE 0107-5240
+HE 0437-5439
+HE 1327-2326
+HE 1523-0901
+HH 34
+HIP 100963
+HIP 11915
+HIP 11952
+HIP 12961
+HIP 13044
+HIP 14810
+HIP 41378
+HIP 5158
+HIP 56948
+HIP 57050
+HIP 57274
+HIP 70849
+HIP 79098
+HIP 79431
+HIP 85605
+HK Aquarii
+HK Tauri
+HLX-1
+HL Tau 76
+HL Tauri
+Induction variable
+Indus worm
+Innes' star
+Interacting binary star
+Intergalactic dust
+Intergalactic star
+Jean Mode
+Jeannine Garside
+Jeff Stryker
+Jeffrey Hudson
+Jen Selter
+Josephine Siao
+Juniperus chinensis 'Shimpaku'
+Matthew Kressel
+Matthew d'Arcy
+Miho Fukuhara
+Mike Brant
+Nectriaster monacanthus
+Negative temperature
+Nellie Wallace
+Nemesis
+Neon-burning process
+Neslihan Demir
+Nicolas Ferry
+Nikolai Karachentsov
+Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G ED-IF
+Nikon AF-S Zoom-Nikkor 17-35mm f/2.8D ED-IF
+Nikon D3000
+Nikon D3100
+Nikon D3200
+Nikon D3300
+Nikon D40
+Nikon D5000
+Nikon D5100
+Nikon D5200
+Nikon D5300
+Nikon D5500
+Nikon D60
+Nikon Df
+Nilüfer Örer
+Nina Roberts
+Rebekka Mathew
+Red Rectangle Nebula
+Red Spider Nebula
+Red giant
+Redbird
+Redcap
+Reference noise
+Regenerator
+Reggie Barnes
+Regulus
+Roy Welmaker
+Ruben DJ
+Ruby Myers
+Rudy Hartono
+Rudy Jahchan
+Scholz's Star
+Scott Sherrin
+Sea ice concentration
+Security parameter
+Shapley 1
+Shell star
+Sher 25
+The Cavendish Hotel
+The Courtship of Princess Leia
+The Crystal Star
+The Dark Redemption
+Thuban
+Thunderdell
+Thymus caespititius
+Tian Bingyi
+Trans-Canada Air Lines Flight 810
+Transient
+Nuisance variable
+Star Wars Tales Volume 1
+Del Pratt
+Delta1 Canis Minoris
+Delta1 Chamaeleontis
+Delta1 Gruis
+Delta1 Lyrae
+Delta1 Tauri
+Delta1 Telescopii
+Delta2 Canis Minoris
+Delta2 Chamaeleontis
+Delta2 Gruis
+Delta2 Lyrae
+Delta2 Tauri
+Delta2 Telescopii
+Delta3 Canis Minoris
+Delta3 Tauri
+Delta Andromedae
+Delta Antliae
+Delta Apodis
+Delta Aquarii
+Delta Aquilae
+Delta Arae
+Delta Arietis
+Delta Aurigae
+Delta Bessborough
+Delta Boötis
+Delta Caeli
+Delta Cancri
+Delta Canis Majoris
+Delta Capricorni
+Delta Cassiopeiae
+Delta Centauri
+Delta Cephei
+Delta Ceti
+Delta Circini
+Delta Columbae
+Delta Coronae Australis
+Delta Coronae Borealis
+Delta Corvi
+Delta Crateris
+Delta Crucis
+Delta Cygni
+Delta Delphini
+Delta Doradus
+Delta Draconis
+Delta Equulei
+Delta Eridani
+Delta Fornacis
+Delta Geminorum
+Delta Herculis
+Delta Horologii
+Delta Hydrae
+Delta Hydri
+Delta Indi
+Delta Leonis
+Delta Leporis
+Delta Librae
+Delta Lupi
+Delta Mensae
+Delta Microscopii
+Delta Monocerotis
+Delta Muscae
+Delta Normae
+Delta Octantis
+Delta Ophiuchi
+Delta Pavonis
+Delta Persei
+Delta Phoenicis
+Delta Pictoris
+Delta Piscis Austrini
+Delta Piscium
+Delta Pyxidis
+Delta Reticuli
+Delta Sagittae
+Delta Sagittarii
+Delta Scorpii
+Delta Sculptoris
+Delta Scuti
+Delta Scuti variable
+Delta Serpentis
+Delta Sextantis
+Delta Trianguli
+Delta Trianguli Australis
+Delta Tucanae
+Delta Ursae Majoris
+Delta Ursae Minoris
+Delta Velorum
+Delta Virginis
+Delta Volantis
+Dendrosenecio keniensis
+Deneb
+Denebola
+Fastachee
+Faye Blackstone
+Feige 55
+Fernand Raynaud
+G-type main-sequence star
+GCIRS 16SW
+GCIRS 7
+GCRT J1745−3009
+GD 165
+GD 356
+GD 358
+GD 362
+GD 40
+GD 61
+GD 66
+GG Carinae
+GG Tauri
+GI Monocerotis
+GJ 1005
+GJ 1128
+GJ 1151
+GJ 1245
+GJ 3379
+GJ 3737
+GJ 3991
+GJ 526
+GJ 9827
+GK Persei
+GK Tauri
+GL Virginis
+GP Andromedae
+GP Comae Berenices
+GQ Lupi
+GQ Muscae
+GRB 000131
+GRB 011211
+GRB 020813
+GRB 030329
+GRB 031203
+GRB 050509B
+GRB 050709
+GRB 051221A
+GRB 060218
+GRB 060614
+GRB 060729
+GRB 070125
+GRB 070714B
+GRB 080319B
+GRB 080913
+GRB 080916C
+GRB 090423
+GRB 090429B
+GRB 100621A
+GRB 111209A
+GRB 130427A
+GRB 830801
+GRB 970228
+GRB 970508
+GRB 971214
+GRB 980425
+GRB 990123
+GRO J0422+32
+GRO J1655-40
+GRO J1719-24
+GRS 1915+105
+GRW +70 8247
+GR Andromedae
+GSC 02620-00648
+GSC 02652-01324
+GSC 03089-00929
+GSC 03549-02811
+GSC 03949-00967
+GS 2000+25
+GU Piscium
+GV Tauri
+GW Orionis
+GX 339-4
+GX Velorum
+GY Andromedae
+GZ Velorum
+G 117-B15A
+G 161-71
+G 185-32
+G 196-3
+G 240-72
+G 29-38
+G 9-38
+G 99-47
+G Centauri
+G Scorpii
+Gacrux
+Gamma1 Caeli
+Gamma1 Fornacis
+Gamma1 Normae
+Gamma1 Octantis
+Gamma2 Fornacis
+Gamma2 Normae
+Gamma2 Octantis
+Gamma2 Sagittarii
+Gamma3 Octantis
+Gamma Andromedae
+Gamma Apodis
+Gamma Aquarii
+Gamma Aquilae
+Gamma Arae
+Gamma Arietis
+Gamma Boötis
+Gamma Camelopardalis
+Gamma Cancri
+Gamma Canis Majoris
+Gamma Canis Minoris
+Gamma Capricorni
+Gamma Cassiopeiae
+Gamma Centauri
+Gamma Cephei
+Gamma Ceti
+Gamma Chamaeleontis
+Gamma Circini
+Gamma Columbae
+Gamma Comae Berenices
+Gamma Coronae Australis
+Gamma Coronae Borealis
+Gamma Corvi
+Gamma Crateris
+Gamma Crucis
+Gamma Cygni
+Gamma Delphini
+Gamma Doradus
+Gamma Draconis
+Gamma Equulei
+Gamma Eridani
+Gamma Geminorum
+Gamma Gruis
+Gamma Herculis
+Gamma Horologii
+Gamma Hydrae
+Gamma Hydri
+Gamma Leonis
+Gamma Leporis
+Gamma Librae
+Gamma Lupi
+Gamma Lyrae
+Gamma Mensae
+Gamma Microscopii
+Gamma Monocerotis
+Gamma Muscae
+Gamma Ophiuchi
+Gamma Pavonis
+Gamma Pegasi
+Gamma Persei
+Gamma Phoenicis
+Gamma Pictoris
+Gamma Piscis Austrini
+Gamma Piscium
+Gamma Pyxidis
+Gamma Reticuli
+Gamma Sagittae
+Gamma Sagittarii
+Gamma Sculptoris
+Gamma Scuti
+Gamma Serpentis
+Gamma Sextantis
+Gamma Tauri
+Gamma Trianguli
+Gamma Trianguli Australis
+Gamma Tucanae
+Gamma Ursae Majoris
+Gamma Ursae Minoris
+Gamma Velorum
+Gamma Virginis
+Gamma Volantis
+Gangr
+Garanti Bank
+Gogmagog
+Gomez's Hamburger
+Gomophia egyptiaca
+Kepler's Supernova
+Kepler-10
+Kepler-102
+Kepler-107
+Kepler-11
+Kepler-12
+Kepler-1229
+Kepler-13
+Kepler-138
+Kepler-14
+Kepler-15
+Kepler-1520
+Kepler-16
+Kepler-160
+Kepler-1625
+Kepler-1638
+Kepler-1649
+Kepler-17
+Kepler-18
+Kepler-182
+Kepler-186
+Kepler-19
+Kepler-20
+Kepler-22
+Kepler-223
+Kepler-23
+Kepler-24
+Kepler-25
+Kepler-26
+Kepler-27
+Kepler-28
+Kepler-29
+Kepler-296
+Kepler-30
+Kepler-31
+Kepler-32
+Kepler-33
+Kepler-34
+Kepler-35
+Kepler-36
+Kepler-37
+Kepler-371
+Kepler-38
+Kepler-39
+Kepler-4
+Kepler-40
+Kepler-41
+Kepler-411
+Kepler-419
+Kepler-42
+Kepler-421
+Kepler-43
+Kepler-432
+Kepler-438
+Kepler-44
+Kepler-442
+Kepler-444
+Kepler-45
+Kepler-452
+Kepler-46
+Kepler-47
+Kepler-5
+Kepler-51
+Kepler-56
+Kepler-6
+Kepler-61
+Kepler-62
+Kepler-63
+Kepler-635
+Kepler-65
+Kepler-66
+Kepler-67
+Kepler-68
+Kepler-68d
+Kepler-69
+Kepler-7
+Kepler-70
+Kepler-71
+Kepler-737
+Kepler-76b
+Kepler-78
+Kepler-8
+Kepler-80
+Kepler-84
+Kepler-86
+Kepler-88
+Kepler-89
+Kepler-9
+Kepler-90
+Kepler object of interest
+Khem Veasna
+Kinect Star Wars
+King Goldemar
+Kristina Fröjmark
+Kronberger 61
+Kruger 60
+Kua Fu
+Leopoldo Fregoli
+Leptasterias pusilla
+Max Ryan
+May Collins
+Maya Berović
+McNeil's Nebula
+Meal powder
+Mz 1
+Mz 3
+Mária Mednyánszky
+N44
+N6946-BH1
+NGC 1276
+NGC 1333
+NGC 1360
+NGC 1435
+NGC 1501
+NGC 1514
+NGC 1535
+NGC 1555
+NGC 156
+NGC 1579
+NGC 158
+NGC 162
+NGC 1624-2
+NGC 1788
+NGC 18
+NGC 1901
+NGC 1988
+NGC 1990
+NGC 1999
+NGC 2022
+NGC 2023
+NGC 2170
+NGC 2174
+NGC 2242
+NGC 2261
+NGC 2346
+NGC 2359
+NGC 2363-V1
+NGC 2371-2
+NGC 2423-3
+NGC 2438
+NGC 2440
+NGC 2452
+NGC 246
+NGC 248
+NGC 249
+NGC 2626
+NGC 2818
+NGC 2867
+NGC 2899
+NGC 302
+NGC 308
+NGC 310
+NGC 316
+NGC 3195
+NGC 3242
+NGC 3576
+NGC 3603
+NGC 3603-A1
+NGC 3603-B
+NGC 3603-C
+NGC 3918
+NGC 40
+NGC 405
+NGC 4214
+NGC 4349-127
+NGC 4361
+NGC 46
+NGC 464
+NGC 506
+NGC 5189
+NGC 5307
+NGC 5315
+NGC 5882
+NGC 6002
+NGC 6153
+NGC 6188
+NGC 6210
+NGC 625
+NGC 6302
+NGC 6309
+NGC 6334
+NGC 6357
+NGC 6559
+NGC 6565
+NGC 6572
+NGC 6578
+NGC 6729
+NGC 6751
+NGC 6781
+NGC 6790
+NGC 6818
+NGC 6820 and NGC 6823
+NGC 6822-WR 12
+NGC 6826
+NGC 6881
+NGC 6884
+NGC 6886
+NGC 6905
+NGC 7008
+NGC 7026
+NGC 7048
+NGC 7129
+NGC 7354
+NGC 7522
+NGC 7635
+NGC 7662
+NGC 7822
+NGC 8
+NGC 82
+NGC 84
+NGC 91
+NGTS-1
+NGTS-3
+NML Cygni
+NN Serpentis
+NO Apodis
+NO Aurigae
+NQ Vulpeculae
+NR Canis Majoris
+NR Vulpeculae
+NSVS 14256825
+NSV 1436
+Nara Leão
+Nardoa
+Nardoa rosea
+Nat M. Wills
+Nataša Bekvalac
+Van Maanen 2
+Var 83
+Variable star
+Warida
+Whip Wilson
+Wormwood
+Wray 17-96
+Catherine Healy
+CoRoT-1
+CoRoT-15b
+CoRoT-16
+CoRoT-2
+CoRoT-3
+CoRoT-4
+CoRoT-5
+CoRoT-6
+CoRoT-7
+Coatlicue
+Colbrand
+Colin O'Daly
+Collapsar
+Colonel Heeza Liar
+Combots
+Common sunstar
+Commonwealth Star
+Confounding
+Constance Talmadge
+Cooey 60
+Cor Caroli
+Cormac Rowe
+Cormoran
+Cornelius Magrath
+Coronal mass ejection
+Cosmic dust
+Cotton Candy Nebula
+Crab Pulsar
+Electra
+Electromagnetic pulse
+Elias 2-27
+Emanuela Galliussi
+Emission nebula
+Emma O'Driscoll
+Enda McEvoy
+Engraved Hourglass Nebula
+Enno Doedes Star
+Epsilon1 Arae
+Epsilon2 Arae
+Epsilon Andromedae
+Epsilon Antliae
+Epsilon Apodis
+Epsilon Aquarii
+Epsilon Aquilae
+Epsilon Arietis
+Epsilon Aurigae
+Epsilon Boötis
+Epsilon Cancri
+Epsilon Canis Majoris
+Epsilon Canis Minoris
+Epsilon Capricorni
+Epsilon Carinae
+Epsilon Cassiopeiae
+Epsilon Centauri
+Epsilon Cephei
+Epsilon Ceti
+Epsilon Chamaeleontis
+Epsilon Circini
+Epsilon Columbae
+Epsilon Coronae Australis
+Epsilon Coronae Borealis
+Epsilon Corvi
+Epsilon Crateris
+Epsilon Crucis
+Epsilon Cygni
+Epsilon Delphini
+Epsilon Doradus
+Epsilon Draconis
+Epsilon Equulei
+Epsilon Eridani
+Epsilon Fornacis
+Epsilon Geminorum
+Epsilon Gruis
+Epsilon Herculis
+Epsilon Hydrae
+Epsilon Hydri
+Epsilon Indi
+Epsilon Leonis
+Epsilon Leporis
+Epsilon Librae
+Epsilon Lupi
+Epsilon Lyrae
+Epsilon Mensae
+Epsilon Microscopii
+Epsilon Monocerotis
+Epsilon Muscae
+Epsilon Normae
+Epsilon Octantis
+Epsilon Ophiuchi
+Epsilon Pavonis
+Epsilon Pegasi
+Epsilon Persei
+Epsilon Phoenicis
+Epsilon Piscis Austrini
+Epsilon Piscium
+Epsilon Pyxidis
+Epsilon Reticuli
+Epsilon Sagittae
+Epsilon Sagittarii
+Epsilon Scorpii
+Epsilon Sculptoris
+Epsilon Scuti
+Epsilon Serpentis
+Epsilon Sextantis
+Epsilon Tauri
+Epsilon Telescopii
+Epsilon Trianguli
+Epsilon Trianguli Australis
+Epsilon Tucanae
+Epsilon Ursae Majoris
+Epsilon Ursae Minoris
+Epsilon Virginis
+Epsilon Volantis
+Fornjót
+Fox Fur Nebula
+Francis Fulford
+Francis Joseph Flynn
+Frank Cappelli
+Frank Synott
+Frank Towers
+Geryon
+Ghost Nebula
+Giant sea star
+Giant star
+Giantess
+Gilling
+Glenda Hatchett
+Glenn Unger
+Gliese 1
+Gliese 1002
+Gliese 105
+Gliese 1061
+Gliese 1062
+Gliese 1132
+Gliese 1214
+Gliese 146
+Gliese 163
+Gliese 167
+Gliese 176
+Gliese 179
+Gliese 180
+Gliese 205
+Gliese 208
+Gliese 22
+Gliese 221
+Gliese 229
+Gliese 251
+Gliese 268
+Gliese 282
+Gliese 299
+Gliese 317
+Gliese 318
+Gliese 328
+Gliese 3293
+Gliese 3323
+Gliese 3470
+Gliese 3512
+Gliese 357
+Gliese 3634
+Gliese 367
+Gliese 3685
+Gliese 393
+Gliese 402
+Gliese 408
+Gliese 412
+Gliese 42
+Gliese 433
+Gliese 436
+Gliese 445
+Gliese 486
+Gliese 49
+Gliese 514
+Gliese 521
+Gliese 526
+Gliese 54
+Gliese 555
+Gliese 569
+Gliese 570
+Gliese 581
+Gliese 588
+Gliese 623
+Gliese 625
+Gliese 638
+Gliese 649
+Gliese 667
+Gliese 673
+Gliese 674
+Gliese 676
+Gliese 682
+Gliese 686
+Gliese 687
+Gliese 69
+Gliese 693
+Gliese 710
+Gliese 752
+Gliese 754
+Gliese 758
+Gliese 758 B
+Gliese 777
+Gliese 784
+Gliese 806
+Gliese 809
+Gliese 829
+Gliese 832
+Gliese 849
+Gliese 86
+Gliese 876
+Gliese 877
+Gliese 880
+Gliese 908
+Global variable
+Glorieta de Bilbao
+Gordon Lockbaum
+Gorgonocephalus arcticus
+Grace McDaniels
+Ilona Staller
+Im
+Jóhann K. Pétursson
+Józef Boruwłaski
+K-type main-sequence star
+K.M. Hussain
+K2-138
+K2-18
+K2-187
+K2-19
+K2-229
+K2-239
+K2-24
+K2-28
+K2-3
+K2-315
+K2-32
+K2-33
+K2-58
+K2-72
+KELT-1
+KELT-10
+KELT-2A
+KELT-3
+KELT-6
+KH 15D
+KIC 10001893
+KIC 11026764
+KIC 12557548
+KIC 8462852
+KIC 9832227
+KK Andromedae
+KOI-256
+KOI-5
+KOI-74
+KOI-81
+Kappa1 Apodis
+Kappa1 Ceti
+Kappa1 Coronae Australis
+Kappa1 Lupi
+Kappa1 Sagittarii
+Kappa1 Sculptoris
+Kappa2 Apodis
+Kappa2 Ceti
+Kappa2 Coronae Australis
+Kappa2 Lupi
+Kappa2 Sagittarii
+Kappa2 Sculptoris
+Kappa Andromedae
+Kappa Aquarii
+Kappa Aquilae
+Kappa Arae
+Kappa Arietis
+Kappa Aurigae
+Kappa Boötis
+Kappa Cancri
+Kappa Canis Majoris
+Kappa Capricorni
+Kappa Cassiopeiae
+Kappa Centauri
+Kappa Cephei
+Kappa Chamaeleontis
+Kappa Columbae
+Kappa Coronae Australis
+Kappa Coronae Borealis
+Kappa Crateris
+Kappa Crucis
+Kappa Cygni
+Kappa Delphini
+Kappa Draconis
+Kappa Eridani
+Kappa Fornacis
+Kappa Geminorum
+Kappa Gruis
+Kappa Herculis
+Kappa Hydrae
+Kappa Leonis
+Kappa Leporis
+Kappa Librae
+Kappa Lyrae
+Kappa Mensae
+Kappa Normae
+Kappa Octantis
+Kappa Ophiuchi
+Kappa Pavonis
+Kappa Pegasi
+Kappa Persei
+Kappa Phoenicis
+Kappa Pictoris
+Kappa Piscium
+Kappa Pyxidis
+Kappa Reticuli
+Kappa Scorpii
+Kappa Serpentis
+Kappa Tauri
+Kappa Telescopii
+Kappa Trianguli Australis
+Kappa Tucanae
+Kappa Ursae Majoris
+Kappa Velorum
+Kappa Virginis
+Kappa Volantis
+Kapteyn's Star
+Kolob
+Kong Duen-yee
+Korie Robertson
+Lavinia Warren
+Le Bernardin
+Lead star
+Limiting magnitude
+Linckia guildingi
+Linckia laevigata
+Liriel Domiciano
+Lupus-TR-3
+Luyten's Star
+Luyten 726-8
+Lyubov Orlova
+Maia
+Maja Nikolić
+Maria Babanova
+Maria Nalbandian
+Marie Osborne Yeats
+Marie Slater
+Mariko Shiga
+Mariyam Khalif
+Mark Lester
+Marta Ribera
+Martijn Kajuiter
+Medusa Nebula
+Meissa
+Meliá Cohiba Hotel
+Michael Ryan
+Pink Five
+Pipe Nebula
+Sh2-1
+Sh2-101
+Sh2-106
+Sh2-2
+Sh2-54
+Sha Po Lang
+Shahid Iqbal
+Sidus Ludoviciana
+Sigma1 Cancri
+Sigma1 Gruis
+Sigma1 Ursae Majoris
+Sigma2 Cancri
+Sigma2 Gruis
+Sigma2 Ursae Majoris
+Sigma3 Cancri
+Sigma Andromedae
+Sigma Aquarii
+Sigma Aquilae
+Sigma Arae
+Sigma Arietis
+Sigma Aurigae
+Sigma Boötis
+Sigma Canis Majoris
+Sigma Capricorni
+Sigma Cassiopeiae
+Sigma Centauri
+Sigma Ceti
+Sigma Columbae
+Sigma Coronae Borealis
+Sigma Cygni
+Sigma Draconis
+Sigma Geminorum
+Sigma Herculis
+Sigma Hydrae
+Sigma Leonis
+Sigma Librae
+Sigma Lupi
+Sigma Octantis
+Sigma Ophiuchi
+Sigma Orionis
+Sigma Pegasi
+Sigma Persei
+Sigma Piscium
+Sigma Puppis
+Sigma Sagittarii
+Sigma Scorpii
+Sigma Sculptoris
+Sigma Serpentis
+Sigma Tauri
+Sigma Virginis
+Singleton variable
+Sirius
+Southern Crab Nebula
+Southern Owl Nebula
+Spica
+Stegnaster inflatus
+Stegnaster wesseli
+Stein 2051
+Stephen Strimpell
+Stephenson 2-18
+Syed Shahid Hamid
+Symbiotic star
+Tokihiko Okada
+Tom Kilbey
+Tom Petithomme
+Tom Slick
+Tomasz Mędrzak
+Tommy Asinga
+Yang Zi
+Yellow hypergiant
+Yellow supergiant
+Yetta Zwerling
+Zhang Yishan
+Zoya Fyodorova
+Água de Beber
+Charlie Tolar
+Chen Kuan-tai
+Chi1 Hydrae
+Chi1 Orionis
+Chi1 Sagittarii
+Chi2 Hydrae
+Chi2 Orionis
+Chi3 Sagittarii
+Chi Andromedae
+Chi Aquarii
+Chi Aquilae
+Chi Aurigae
+Chi Boötis
+Chi Cancri
+Chi Capricorni
+Chi Carinae
+Chi Cassiopeiae
+Chi Centauri
+Chi Ceti
+Chi Cygni
+Chi Draconis
+Chi Eridani
+Chi Geminorum
+Chi Herculis
+Chi Leonis
+Chi Lupi
+Chi Octantis
+Chi Ophiuchi
+Chi Pegasi
+Chi Piscium
+Chi Puppis
+Chi Scorpii
+Chi Serpentis
+Chi Tauri
+Chi Ursae Majoris
+Chi Virginis
+Children of the Jedi
+Cincinnati Crescents
+Circinus X-1
+Circumpolar star
+Circumstellar dust
+Classical Cepheid variable
+Cleo Ridgely
+Clíona Ní Chíosain
+D-Black
+DD Microscopii
+DENIS-P J020529.0−115925
+DENIS-P J1058.7-1548
+DENIS-P J1058.7−1548
+DENIS-P J1228.2−1547
+DENIS 0255−4700
+DENIS J081730.0-615520
+DENIS J081730.0−615520
+DENIS J082303.1−491201
+DENIS J1048−3956
+DEN 1048-3956
+DG Canum Venaticorum
+DG Tauri B
+DH Cephei
+DH Tauri
+DI Chamaeleontis
+DI Herculis
+DI Lacertae
+DK Lacertae
+DL Crucis
+DL Tauri
+DM Geminorum
+DM Lyrae
+DN Geminorum
+DN Orionis
+DP Leonis
+DQ Herculis
+DS Andromedae
+DS Crucis
+DS Tucanae
+DT Virginis
+DU Crucis
+DU Lyncis
+DV Aquarii
+DX Andromedae
+DX Cancri
+DY Centauri
+DY Pegasi
+DY Persei
+D Carinae
+D Centauri
+Daniel Cajanus
+Darine Hamze
+Dark Doodad Nebula
+Dark Empire
+Dark Horse
+Dark Resurrection
+Dark star
+Darksaber
+David Thompson
+Davidaster discoideus
+Death Troopers
+Dinichthys
+Diomedes of Thrace
+Dustin the Turkey
+Dvalinn
+Dwarf nova
+Dwayne Washington
+Dynamic risk measure
+Dáin II Ironfoot
+Dúrnir
+EBLM J0555-57
+EC 20058-5234
+EE Pegasi
+EF Eridani
+EG Andromedae
+EK Trianguli Australis
+EL Aquilae
+EO Aurigae
+EPIC 203771098
+EPIC 204278916
+EPIC 204376071
+EP Aquarii
+EQ Pegasi
+EQ Tauri
+EQ Virginis
+ER Vulpeculae
+ESO 439-26
+ET Andromedae
+ET Virginis
+EU Andromedae
+EU Tauri
+EV Carinae
+EV Lacertae
+EW Aquarii
+EX Hydrae
+EX Lupi
+EZ Aquarii
+EZ Canis Majoris
+E Centauri
+Echinaster spinulosus
+Egerton Grey Country House Hotel
+Egg Nebula
+Eggthér
+Eileen Naughton
+Eitri
+Ernest L. Massad
+Es ist für uns eine Zeit angekommen
+Eskimo Nebula
+Eta1 Coronae Australis
+Eta1 Doradus
+Eta1 Hydri
+Eta1 Pictoris
+Eta2 Coronae Australis
+Eta2 Doradus
+Eta2 Hydri
+Eta2 Pictoris
+Eta Andromedae
+Eta Antliae
+Eta Apodis
+Eta Aquarii
+Eta Aquilae
+Eta Arae
+Eta Arietis
+Eta Aurigae
+Eta Boötis
+Eta Cancri
+Eta Canis Majoris
+Eta Canis Minoris
+Eta Capricorni
+Eta Carinae
+Eta Cassiopeiae
+Eta Centauri
+Eta Cephei
+Eta Ceti
+Eta Chamaeleontis
+Eta Circini
+Eta Columbae
+Eta Coronae Borealis
+Eta Corvi
+Eta Crateris
+Eta Crucis
+Eta Cygni
+Eta Delphini
+Eta Draconis
+Eta Eridani
+Eta Geminorum
+Eta Gruis
+Eta Herculis
+Eta Horologii
+Eta Hydrae
+Eta Indi
+Eta Leonis
+Eta Leporis
+Eta Lupi
+Eta Lyrae
+Eta Mensae
+Eta Microscopii
+Eta Muscae
+Eta Normae
+Eta Octantis
+Eta Ophiuchi
+Eta Orionis
+Eta Pavonis
+Eta Pegasi
+Eta Persei
+Eta Phoenicis
+Eta Piscis Austrini
+Eta Piscium
+Eta Pyxidis
+Eta Reticuli
+Eta Sagittae
+Eta Sagittarii
+Eta Scorpii
+Eta Sculptoris
+Eta Scuti
+Eta Serpentis
+Eta Telescopii
+Eta Trianguli Australis
+Eta Tucanae
+Eta Ursae Majoris
+Eta Ursae Minoris
+Eta Virginis
+Eta Volantis
+Ethelmary Oakland
+Eu Sei Que Vou Te Amar
+Eugene O'Brien
+Evoplosoma
+Exotic star
+Extreme helium star
+F-type main-sequence star
+F10
+FAM control of induction motor
+FF Andromedae
+FF Aquilae
+FG Sagittae
+FG Virginis
+FH Serpentis
+FK Comae Berenices
+FL Lyrae
+FM Circini
+FN Canis Majoris
+FO Aquarii
+FS Canis Majoris
+FS Canis Majoris variable
+FU Orionis
+FU Orionis star
+FU Tauri
+F Centauri
+F Eridani
+F Hydrae
+Financial ratio
+Firbolg
+Flare star
+Fleming 1
+Fomalhaut
+Fomalhaut C
+Foo Kok Keong
+Ford 4F27E transmission
+Hulse–Taylor binary
+Humbaba
+Hurtaly
+J Centauri
+Jack-in-Irons
+Jack o' Legs
+Jacqueline Logan
+Jaroslava Schallerová
+Jase Robertson
+Jay Handlan
+Jayachitra
+Jet Set Zero
+Jide Obi
+Jim Germany
+Jimmy Edwards
+Kee-wakw
+Kei Pilz
+Kelu-1
+Keni Liptzin
+Millisecond pulsar
+Mimi Faust
+Mimosa
+Minnie Warren
+Mintaka
+Mira
+Mira B
+Monte Hale
+Monte Rawlins
+Protoreaster nodosus
+Proxima Centauri
+Przybylski's Star
+Pseudanthenea grayi
+Pseudoreaster obtusangulus
+Psi1 Aurigae
+Psi1 Cancri
+Psi1 Draconis
+Psi1 Lupi
+Psi1 Piscium
+Psi2 Aquarii
+Psi2 Aurigae
+Psi2 Cancri
+Psi2 Draconis
+Psi2 Lupi
+Psi2 Orionis
+Psi2 Piscium
+Psi3 Aquarii
+Psi3 Aurigae
+Psi3 Piscium
+Psi4 Aurigae
+Psi5 Aurigae
+Psi6 Aurigae
+Psi7 Aurigae
+Psi8 Aurigae
+Psi9 Aurigae
+Psi Andromedae
+Psi Aquilae
+Psi Boötis
+Psi Capricorni
+Psi Cassiopeiae
+Psi Centauri
+Psi Crateris
+Psi Cygni
+Psi Eridani
+Psi Hydrae
+Psi Leonis
+Psi Octantis
+Psi Ophiuchi
+Psi Pegasi
+Psi Persei
+Psi Phoenicis
+Psi Sagittarii
+Psi Scorpii
+Psi Serpentis
+Psi Tauri
+Psi Ursae Majoris
+Psi Velorum
+Psi Virginis
+RCW 120
+RCW 49
+RCW 79
+RCW 88
+RIK-210
+ROXs 12
+RRAT J1819-1458
+RR Caeli
+RR Centauri
+RR Coronae Borealis
+RR Lyncis
+RR Lyrae
+RR Pictoris
+RR Telescopii
+RR Ursae Minoris
+RSGC1-F01
+RSGC1-F02
+RS Canum Venaticorum
+RS Canum Venaticorum variable
+RS Coronae Borealis
+RS Ophiuchi
+RS Persei
+RS Puppis
+RS Telescopii
+RT Andromedae
+RT Aurigae
+RT Carinae
+RT Normae
+RT Trianguli Australis
+RU Andromedae
+RU Camelopardalis
+RU Lupi
+RU Ursae Minoris
+RV Andromedae
+RV Caeli
+RV Corvi
+RV Tauri
+RW Aurigae
+RW Cephei
+RW Cygni
+RW Tauri
+RW Ursae Minoris
+RX Andromedae
+RX J0720.4-3125
+RX J0720.4−3125
+RX J0806.3+1527
+RX J0822-4300
+RX J0822−4300
+RX J1856.5-3754
+RX J1856.5−3754
+RX Leporis
+RX Telescopii
+RY Sagittarii
+RY Tauri
+RZ Gruis
+RZ Leonis Minoris
+RZ Normae
+RZ Piscium
+RZ Pyxidis
+R Andromedae
+R Apodis
+R Aquarii
+R Aquilae
+R Arae
+R Aurigae
+R Boötis
+R Cancri
+R Canis Majoris
+R Canum Venaticorum
+R Capricorni
+R Carinae
+R Cassiopeiae
+R Centauri
+R Coronae Australis
+R Coronae Borealis
+R Coronae Borealis variable
+R Corvi
+R Crucis
+R Cygni
+R Doradus
+R Equulei
+R Fornacis
+R Geminorum
+R Horologii
+R Hydrae
+R Leonis
+R Leonis Minoris
+R Leporis
+R Lyrae
+R Microscopii
+R Monocerotis
+R Muscae
+R Normae
+R Octantis
+R Pictoris
+R Puppis
+R Reticuli
+R Sagittae
+R Sculptoris
+R Scuti
+R Serpentis
+R Trianguli Australis
+R Ursae Minoris
+R Virginis
+R Volantis
+Radio-quiet neutron star
+Rafet El Roman
+Rannva Joensen
+Rao
+Rate of evolution
+Raymart Santiago
+Raymond Cho
+Saiph
+Sakurai's Object
+Sam Chapman
+The Hive
+Tyche
+Tycho G
+Type Ia supernova
+UDF 2457
+UGPS J0521+3640
+UGPS J072227.51-054031.2
+UGPS J072227.51−054031.2
+ULAS J003402.77−005206.7
+ULAS J133553.45+113005.2
+Cyclops
+Jack Sherry
+Crescent Nebula
+Cristina Montt
+Crucible
+Cryoconite
+Crystal Robinson
+Culcita schmideliana
+Current
+Cygnus OB2-12
+Cygnus OB2-8A
+Cygnus X-1
+Cygnus X-3
+KPD 1930+2752
+KQ Puppis
+KQ Velorum
+KS Persei
+KSw 71
+KT Eridani
+KT Lupi
+KU Hydrae
+KW Sagittarii
+KX Andromedae
+KY Cygni
+KZ Andromedae
+K 1-2
+K Carinae
+K Centauri
+K Puppis
+Kagome crest
+L1014
+L1157
+L1551 IRS 5
+L2 Puppis
+LB-1
+LBN 114.55+00.22
+LBV 1806−20
+LGGS J004431.71+415629.1
+LHA 120-S 79
+LHS 1140
+LHS 1723
+LHS 2090
+LHS 2520
+LHS 288
+LHS 292
+LHS 2924
+LHS 3003
+LHS 3844
+LHS 6343
+LH 41-1042
+LH 54-425
+LL Andromedae
+LL Pegasi
+LMC195-1
+LN Andromedae
+LO Pegasi
+LP 145-141
+LP 40-365
+LP 658-2
+LP 71-82
+LP 816-60
+LP 944-20
+LP Andromedae
+LP Aquarii
+LQ Andromedae
+LQ Hydrae
+LRLL 54361
+LSPM J0207+3331
+LSR J1835+3259
+LSS 4067
+LS 5039
+LS Canis Majoris
+LS IV-14 116
+LS I +61 303
+LTT 1445
+LTT 3780
+LTT 9779
+LV Vulpeculae
+LY Aurigae
+L 1159-16
+L 168-9
+L 97-12
+L 98-59
+L Carinae
+La Superba
+Lacaille 8760
+Lacaille 9352
+Lash LaRue
+Late-type star
+Luhman 16
+M1-92
+M2-9
+M31-RV
+M33-013406.63
+M33 X-7
+M82 X-2
+MACHO 176.18833.411
+MACS J1149 Lensed Star 1
+MAXI J1659-152
+MN18
+MOA-2007-BLG-192L
+MOA-2007-BLG-197Lb
+MOA-2007-BLG-400L
+MOA-2008-BLG-310L
+MOA-2009-BLG-387L
+MOA-2010-BLG-477L
+MT Pegasi
+MWC 349
+MWC 480
+MX Puppis
+MY Apodis
+MY Camelopardalis
+MY Cephei
+MZ Puppis
+M 1-42
+M Carinae
+M Centauri
+Mabel Berra
+Mamba South gas field
+Manav Gohil
+Manilla Powers
+Mary Ellis
+Nova Cassiopeiae 2021
+Nova Herculis 2021
+Nova Ophiuchi 1993
+Nova Sagittarii 1898
+November 2011 Myanmar earthquake
+Owl Nebula
+PA-99-N2
+PDS 110
+PDS 70
+PG 1047+003
+PG 1159-035
+PG 1159 star
+PH2
+PMMR 62
+PP Carinae
+PS1-10adi
+PSR B0329+54
+PSR B0943+10
+PSR B0950+08
+PSR B1257+12
+PSR B1259-63/LS 2883
+PSR B1259−63/LS 2883
+PSR B1509-58
+PSR B1509−58
+PSR B1620−26
+PSR B1828-11
+PSR B1829−10
+PSR B1919+21
+PSR B1937+21
+PSR J0002+6216
+PSR J0108-1431
+PSR J0108−1431
+PSR J0337+1715
+PSR J0348+0432
+PSR J0357+3205
+PSR J0437-4715
+PSR J0437−4715
+PSR J0523−7125
+PSR J0537-6910
+PSR J0537−6910
+PSR J0538+2817
+PSR J0540-6919
+PSR J0540−6919
+PSR J0659+1414
+PSR J0737−3039
+PSR J0738-4042
+PSR J0738−4042
+PSR J0740+6620
+PSR J0855-4644
+PSR J0901–4046
+PSR J0952–0607
+PSR J1141−6545
+PSR J1311–3430
+PSR J1544+4937
+PSR J1614–2230
+PSR J1614−2230
+PSR J1719−1438
+PSR J1748-2446ad
+PSR J1748−2446ad
+PSR J1856+0245
+PSR J1903+0327
+PSR J1951+1123
+PSR J2007+2722
+PSR J2124-3358
+PSR J2124−3358
+PSR J2144-3933
+PSR J2144−3933
+PT Puppis
+PU Aurigae
+PU Puppis
+PV Cephei
+PV Telescopii
+PV Telescopii variable
+PX Andromedae
+PZ Cassiopeiae
+PZ Telescopii
+P Cygni
+P Eridani
+P Velorum
+Seneb
+Sith Apprentice
+Slack variable
+Sleep spindle
+Slow irregular variable
+Slowly pulsating B-type star
+Tinka Milinović
+Tishma
+Titanichthys
+Titta Ruffo
+Tityos
+William Courtenay
+William Gaxton
+Winnecke 4
+Wolf 1061
+Wolf 359
+Wolf 424
+Wolf 489
+Wolf–Rayet nebula
+NGC 33
+Omen
+Union
+Star Wars Tales Volume 2
+Green star
+Groombridge 1618
+Groombridge 1830
+Groombridge 34
+Guest star
+Guide star
+Guido Deiro
+Gum 15
+Gum Nebula
+HM Sagittae
+HN Andromedae
+HN Pegasi
+HOPS 383
+HO Telescopii
+HP Lyrae
+HR 1614
+HR 178
+HR 1884
+HR 2096
+HR 2131
+HR 244
+HR 2554
+HR 273
+HR 297
+HR 3082
+HR 3159
+HR 3220
+HR 3384
+HR 3407
+HR 3643
+HR 3724
+HR 3750
+HR 3803
+HR 3830
+HR 3831
+HR 4049
+HR 4072
+HR 4098
+HR 4102
+HR 4138
+HR 4177
+HR 4180
+HR 4339
+HR 4458
+HR 4699
+HR 4729
+HR 4796
+HR 4887
+HR 511
+HR 5110
+HR 515
+HR 5171
+HR 5256
+HR 5401
+HR 5553
+HR 5955
+HR 6135
+HR 6384
+HR 6594
+HR 6801
+HR 6806
+HR 6819
+HR 6875
+HR 6902
+HR 7135
+HR 7355
+HR 7484
+HR 7578
+HR 7703
+HR 7955
+HR 8442
+HR 858
+HR 8799
+HR 8832
+HR 9038
+HR Carinae
+HR Delphini
+HR Lyrae
+HS Hydrae
+HU Aquarii
+HU Delphini
+HU Tauri
+HVS 7
+HV 11417
+HV 11423
+HV 2112
+HV 888
+HW Virginis
+HY Velorum
+H Centauri
+H Scorpii
+H Velorum
+Hacelia attenuata
+Halityle regularis
+Hamal
+Hank Gathers
+Horsehead Nebula
+How Insensitive
+Hræsvelgr
+Hrímnir
+Jane Lee
+Janice Logan
+Jones-Emberson 1
+Jonnie Boer
+Joselito
+Katarina Zivkovic
+Little Dumbbell Nebula
+Little Ghost Nebula
+LkCa 15
+Mr. Bill
+Mr. Lee Grant
+Mu1 Cancri
+Mu1 Chamaeleontis
+Mu1 Gruis
+Mu1 Octantis
+Mu1 Scorpii
+Mu2 Cancri
+Mu2 Chamaeleontis
+Mu2 Gruis
+Mu2 Octantis
+Mu2 Scorpii
+Mu Andromedae
+Mu Aquarii
+Mu Aquilae
+Mu Arae
+Mu Arietis
+Mu Aurigae
+Mu Boötis
+Mu Canis Majoris
+Mu Capricorni
+Mu Cassiopeiae
+Mu Centauri
+Mu Cephei
+Mu Ceti
+Mu Columbae
+Mu Coronae Australis
+Mu Coronae Borealis
+Mu Crucis
+Mu Cygni
+Mu Draconis
+Mu Eridani
+Mu Fornacis
+Mu Geminorum
+Mu Herculis
+Mu Horologii
+Mu Hydrae
+Mu Leonis
+Mu Leporis
+Mu Librae
+Mu Lupi
+Mu Lyrae
+Mu Mensae
+Mu Muscae
+Mu Normae
+Mu Ophiuchi
+Mu Orionis
+Mu Pegasi
+Mu Persei
+Mu Phoenicis
+Mu Pictoris
+Mu Piscis Austrini
+Mu Piscium
+Mu Sagittarii
+Mu Sculptoris
+Mu Serpentis
+Mu Tauri
+Mu Telescopii
+Mu Ursae Majoris
+Mu Velorum
+Mu Virginis
+Mulch Diggums
+Mumtaz Shanti
+NS Puppis
+NU Pavonis
+NV Puppis
+NW Puppis
+NY Virginis
+N 180B
+N Carinae
+N Centauri
+N Scorpii
+Nadia Almada
+Nahim Khadi
+National emblem of Turkey
+Natsuki Mizu
+Nautical star
+Nazril Irham
+Necklace Nebula
+Rohit Roy
+Roi Vinzon
+Snake Nebula
+Sneden's Star
+Snooks Dowd
+Soap Bubble Nebula
+Sofitel Frankfurt Opera
+Sok Sreymom
+Swift J1745-26
+Technetium star
+TeeKay-421
+Teegarden's Star
+Teegarden's star
+Teide 1
+The New Rebellion
+Thomas Dilward
+Thomas Weldon Atherston
+Thorne–Żytkow object
+Upsilon1 Cancri
+Upsilon1 Cassiopeiae
+Upsilon1 Centauri
+Upsilon1 Eridani
+Upsilon1 Hydrae
+Upsilon2 Cancri
+Upsilon2 Cassiopeiae
+Upsilon2 Centauri
+Upsilon2 Eridani
+Upsilon2 Hydrae
+Upsilon3 Eridani
+Upsilon4 Eridani
+Upsilon Andromedae
+Upsilon Aquarii
+Upsilon Aquilae
+Upsilon Aurigae
+Upsilon Boötis
+Upsilon Capricorni
+Upsilon Carinae
+Upsilon Ceti
+Upsilon Coronae Borealis
+Upsilon Cygni
+Upsilon Draconis
+Upsilon Geminorum
+Upsilon Gruis
+Upsilon Herculis
+Upsilon Leonis
+Upsilon Librae
+Upsilon Lupi
+Upsilon Octantis
+Upsilon Ophiuchi
+Upsilon Orionis
+Upsilon Pegasi
+Upsilon Piscis Austrini
+Upsilon Piscium
+Upsilon Sagittarii
+Upsilon Scorpii
+Upsilon Serpentis
+Upsilon Tauri
+Upsilon Ursae Majoris
+Upsilon Virginis
+Uropetala carovei
+Ursell function
+Uschi Digard
+Uwe Kröger
+V1005 Orionis
+V1017 Sagittarii
+V1054 Ophiuchi
+V1057 Cygni
+V1059 Sagittarii
+V1073 Scorpii
+V1094 Scorpii
+V1191 Cygni
+V1280 Scorpii
+V1291 Aquilae
+V1298 Tauri
+V1309 Scorpii
+V1315 Aquilae
+V1331 Cygni
+V1339 Aquilae
+V1369 Centauri
+V1370 Aquilae
+V1400 Centauri
+V1401 Aquilae
+V1429 Aquilae
+V1472 Aquilae
+V1494 Aquilae
+V1500 Cygni
+V1668 Cygni
+V1794 Cygni
+V1936 Aquilae
+V1974 Cygni
+V337 Carinae
+V339 Delphini
+V343 Carinae
+V344 Carinae
+V345 Carinae
+V346 Centauri
+V352 Aurigae
+V354 Cephei
+V357 Carinae
+V357 Muscae
+V368 Aquilae
+V372 Carinae
+V373 Cassiopeiae
+V373 Scuti
+V376 Carinae
+V378 Normae
+V380 Orionis
+V381 Cephei
+V382 Carinae
+V382 Velorum
+V385 Andromedae
+V3903 Sagittarii
+V391 Pegasi
+V392 Persei
+V394 Aurigae
+V399 Carinae
+V4024 Sagittarii
+V4046 Sagittarii
+V404 Cygni
+V407 Lupi
+V415 Muscae
+V4199 Sagittarii
+V419 Cephei
+V420 Aurigae
+V424 Lacertae
+V429 Geminorum
+V4332 Sagittarii
+V433 Aurigae
+V4381 Sagittarii
+V445 Puppis
+V446 Herculis
+V448 Carinae
+V450 Aquilae
+V455 Andromedae
+V4641 Sagittarii
+V4650 Sagittarii
+V471 Tauri
+V473 Lyrae
+V4743 Sagittarii
+V476 Cygni
+V4998 Sagittarii
+V500 Aquilae
+V509 Cassiopeiae
+V518 Carinae
+V520 Carinae
+V520 Persei
+V528 Carinae
+V529 Andromedae
+V529 Orionis
+V533 Carinae
+V533 Herculis
+V538 Aurigae
+V538 Carinae
+V539 Arae
+V5668 Sagittarii
+V5856 Sagittarii
+V598 Puppis
+V602 Carinae
+V603 Aquilae
+V604 Aquilae
+V605 Aquilae
+V606 Aquilae
+V630 Sagittarii
+V636 Scorpii
+V669 Cassiopeiae
+V691 Coronae Australis
+V705 Cassiopeiae
+V718 Persei
+V723 Monocerotis
+V725 Sagittarii
+V728 Scorpii
+V744 Centauri
+V752 Centauri
+V763 Centauri
+V803 Centauri
+V810 Centauri
+V830 Tauri
+V831 Centauri
+V838 Herculis
+V838 Monocerotis
+V841 Ophiuchi
+V842 Centauri
+V849 Ophiuchi
+V883 Orionis
+V906 Carinae
+V915 Scorpii
+V923 Aquilae
+V957 Scorpii
+VB 10
+VFTS 102
+VFTS 352
+VFTS 682
+VHS 1256-1257
+VHS J1256–1257
+VVV-WIT-07
+VV Cephei
+VV Corvi
+VV Orionis
+VW Cephei
+VW Hydri
+VW Leonis Minoris
+VX Sagittarii
+VY Canis Majoris
+VY Pyxidis
+VZ Arietis
+VZ Camelopardalis
+VZ Piscium
+V Antliae
+V Aquilae
+V Centauri
+V Cephei
+V Coronae Australis
+V Coronae Borealis
+V Crucis
+V Hydrae
+V Persei
+V Puppis
+V Sagittae
+Ótr
+Þjazi
+Þrívaldi
+Þrúðgelmir
+Đàm Vĩnh Hưng
+Coppernin
+Hans Peter Matthiae
+Harlene Bautista
+Harold Hardwick
+Harpo
+Harry Welchman
+Helena Antonia
+Helium-weak star
+Helium star
+Helix Nebula
+Heptagram
+Hesperus
+Hills mechanism
+Ivri Lider
+Iði
+J. F. Foulkes
+J0815+4729
+J1124+4535
+J1144–4308
+Patrick Murphy
+Perla gas field
+Peter van Uhm
+Phi1 Cancri
+Phi1 Ceti
+Phi1 Hydrae
+Phi1 Lupi
+Phi1 Orionis
+Phi1 Pavonis
+Phi2 Cancri
+Phi2 Ceti
+Phi2 Hydrae
+Phi2 Lupi
+Phi2 Orionis
+Phi2 Pavonis
+Phi3 Ceti
+Phi3 Hydrae
+Phi4 Ceti
+Phi Andromedae
+Phi Aquarii
+Phi Aquilae
+Phi Aurigae
+Phi Boötis
+Phi Capricorni
+Phi Cassiopeiae
+Phi Centauri
+Phi Cygni
+Phi Draconis
+Phi Eridani
+Phi Fornacis
+Phi Geminorum
+Phi Gruis
+Phi Herculis
+Phi Leonis
+Phi Octantis
+Phi Ophiuchi
+Phi Pegasi
+Phi Persei
+Phi Phoenicis
+Phi Piscium
+Phi Sagittarii
+Phi Serpentis
+Phi Tauri
+Phi Ursae Majoris
+Phi Velorum
+Phi Virginis
+Phosphorus
+Photometric-standard star
+Photosphere
+Pi1 Columbae
+Pi1 Cygni
+Pi1 Gruis
+Pi1 Octantis
+Pi1 Orionis
+Pi1 Pegasi
+Pi1 Ursae Majoris
+Pi1 Ursae Minoris
+Pi2 Columbae
+Pi2 Cygni
+Pi2 Gruis
+Pi2 Octantis
+Pi2 Orionis
+Pi2 Pegasi
+Pi2 Ursae Minoris
+Pi3 Orionis
+Pi4 Orionis
+Pi5 Orionis
+Pi6 Orionis
+Pi Andromedae
+Pi Aquarii
+Pi Aquilae
+Pi Arae
+Pi Arietis
+Pi Aurigae
+Pi Boötis
+Pi Canis Majoris
+Pi Capricorni
+Pi Cassiopeiae
+Pi Centauri
+Pi Cephei
+Pi Ceti
+Pi Chamaeleontis
+Pi Coronae Borealis
+Pi Draconis
+Pi Eridani
+Pi Fornacis
+Pi Geminorum
+Pi Herculis
+Pi Hydrae
+Pi Leonis
+Pi Lupi
+Pi Mensae
+Pi Orionis
+Pi Pavonis
+Pi Persei
+Pi Piscis Austrini
+Pi Piscium
+Pi Puppis
+Pi Sagittarii
+Pi Scorpii
+Pi Sculptoris
+Pi Serpentis
+Pi Tauri
+Pi Tucanae
+Pi Ursae Majoris
+Pi Virginis
+Water Lily Nebula
+Bihu Loukon
+Flaming Teeth
+Zeta2 Coronae Borealis
+Upsilon2 Ceti
+Ogre mage
+Tzuk
+Lilián del Río
+Nu1 Boötis
+Nu1 Canis Majoris
+Nu1 Columbae
+Nu1 Coronae Borealis
+Nu1 Lupi
+Nu1 Lyrae
+Nu1 Sagittarii
+Nu2 Arae
+Nu2 Boötis
+Nu2 Canis Majoris
+Nu2 Columbae
+Nu2 Coronae Borealis
+Nu2 Lupi
+Nu2 Lyrae
+Nu2 Sagittarii
+Nu3 Canis Majoris
+Nu Andromedae
+Nu Aquarii
+Nu Aquilae
+Nu Arietis
+Nu Aurigae
+Nu Caeli
+Nu Cancri
+Nu Capricorni
+Nu Cassiopeiae
+Nu Centauri
+Nu Cephei
+Nu Ceti
+Nu Chamaeleontis
+Nu Cygni
+Nu Doradus
+Nu Draconis
+Nu Eridani
+Nu Fornacis
+Nu Geminorum
+Nu Gruis
+Nu Herculis
+Nu Horologii
+Nu Hydrae
+Nu Hydri
+Nu Leonis
+Nu Leporis
+Nu Mensae
+Nu Microscopii
+Nu Octantis
+Nu Ophiuchi
+Nu Orionis
+Nu Pavonis
+Nu Pegasi
+Nu Persei
+Nu Phoenicis
+Nu Pictoris
+Nu Piscium
+Nu Puppis
+Nu Scorpii
+Nu Serpentis
+Nu Tauri
+Nu Telescopii
+Nu Tucanae
+Nu Ursae Majoris
+Nu Virginis
+Nuclear electromagnetic pulse
+Nuclear timescale
+O-type main-sequence star
+O-type star
+OAO 1657-415
+OB star
+OGLE-2003-BLG-235L
+OGLE-2005-BLG-071L
+OGLE-2005-BLG-169L
+OGLE-2005-BLG-390L
+OGLE-2006-BLG-109L
+OGLE-LMC-CEP0227
+OGLE-TR-10
+OGLE-TR-111
+OGLE-TR-113
+OGLE-TR-122
+OGLE-TR-123
+OGLE-TR-132
+OGLE-TR-182
+OGLE-TR-211
+OGLE-TR-56
+OGLE2-TR-L9
+OH/IR star
+OP Andromedae
+OS Andromedae
+OTS 44
+OU Andromedae
+OU Geminorum
+OU Puppis
+OY Carinae
+Omega1 Aquarii
+Omega1 Aquilae
+Omega1 Cancri
+Omega1 Cygni
+Omega1 Scorpii
+Omega1 Tauri
+Omega2 Aquarii
+Omega2 Aquilae
+Omega2 Cancri
+Omega2 Cygni
+Omega2 Scorpii
+Omega2 Tauri
+Omega Andromedae
+Omega Aurigae
+Omega Boötis
+Omega Canis Majoris
+Omega Capricorni
+Omega Carinae
+Omega Cassiopeiae
+Omega Draconis
+Omega Eridani
+Omega Fornacis
+Omega Geminorum
+Omega Herculis
+Omega Hydrae
+Omega Leonis
+Omega Lupi
+Omega Octantis
+Omega Ophiuchi
+Omega Orionis
+Omega Persei
+Omega Piscium
+Omega Sagittarii
+Omega Serpentis
+Omega Ursae Majoris
+Omega Virginis
+Omicron1 Cancri
+Omicron1 Canis Majoris
+Omicron1 Centauri
+Omicron1 Eridani
+Omicron1 Orionis
+Omicron2 Cancri
+Omicron2 Canis Majoris
+Omicron2 Centauri
+Omicron2 Orionis
+Omicron Andromedae
+Omicron Aquarii
+Omicron Aquilae
+Omicron Arietis
+Omicron Aurigae
+Omicron Boötis
+Omicron Capricorni
+Omicron Cassiopeiae
+Omicron Cephei
+Omicron Columbae
+Omicron Coronae Borealis
+Omicron Draconis
+Omicron Geminorum
+Omicron Gruis
+Omicron Herculis
+Omicron Hydrae
+Omicron Leonis
+Omicron Lupi
+Omicron Ophiuchi
+Omicron Pegasi
+Omicron Persei
+Omicron Piscium
+Omicron Puppis
+Omicron Sagittarii
+Omicron Scorpii
+Omicron Serpentis
+Omicron Tauri
+Omicron Ursae Majoris
+Omicron Velorum
+Omicron Virginis
+Oph-IRS 48
+Oph 162225-240515
+Ophiactis savignyi
+Ophiocoma
+Ophiocoma echinata
+Ophiocoma scolopendrina
+Ophiocomina
+Ophionereis reticulata
+Ophionotus victoriae
+Ophiopsila
+Ophiopsila aranea
+Ophiothrix fragilis
+Ophiozonella depressa
+Ophiura albida
+Ophiura ophiura
+Optical pulsar
+Orange knobby star
+Oreanda Hotel
+Orion Nebula
+Orion variable
+Ornithogalum arabicum
+Pampero
+Relativistic star
+X1 Centauri
+X2 Centauri
+XO-1
+XO-2
+XO-3
+XO-4
+XO-5
+XTE J1118+480
+XTE J1550–564
+XTE J1650-500
+XTE J1739-285
+XX Persei
+XX Pyxidis
+XX Tauri
+XX Trianguli
+XY Ursae Majoris
+XZ Andromedae
+XZ Tauri
+X Caeli
+X Cancri
+X Carinae
+X Crucis
+X Persei
+X Sagittarii
+X Trianguli Australis
+Xi1 Canis Majoris
+Xi1 Capricorni
+Xi1 Centauri
+Xi1 Ceti
+Xi1 Lupi
+Xi1 Sagittarii
+Xi2 Canis Majoris
+Xi2 Capricorni
+Xi2 Centauri
+Xi2 Ceti
+Xi2 Lupi
+Xi2 Sagittarii
+Xi Andromedae
+Xi Aquarii
+Xi Aquilae
+Xi Arietis
+Xi Aurigae
+Xi Boötis
+Xi Cancri
+Xi Cassiopeiae
+Xi Cephei
+Xi Columbae
+Xi Coronae Borealis
+Xi Cygni
+Xi Draconis
+Xi Eridani
+Xi Geminorum
+Xi Gruis
+Xi Herculis
+Xi Hydrae
+Xi Leonis
+Xi Mensae
+Xi Octantis
+Xi Ophiuchi
+Xi Orionis
+Xi Pavonis
+Xi Pegasi
+Xi Persei
+Xi Phoenicis
+Xi Piscium
+Xi Puppis
+Xi Scorpii
+Xi Sculptoris
+Xi Serpentis
+Xi Tauri
+Xi Telescopii
+Xi Ursae Majoris
+Xi Virginis
+YBP 1194
+YZ Canis Minoris
+YZ Cassiopeiae
+YZ Ceti
+YZ Reticuli
+Y Carinae
+Y Centauri
+Y Lyncis
+Y Sagittarii
+Y Sextantis
+Y Tauri
+Jaggy MacBee
+Y Andromedae
+Rho2 Herculis
+Star Wars Tales Volume 3
+No Parking on the Dance Floor
+Noeleen Batley
+Non-local variable
+North America Nebula
+Pisaster brevispinus
+Pismis 24-1
+Pistol Star
+Plaskett's Star
+Plectaster decanus
+Pleione
+Poraster superbus
+Pre-main-sequence star
+Precious Hipolito
+Problematic
+Procyon
+Prognostic variable
+Protea angolensis
+Rhene Imperial
+Rho1 Arae
+Rho1 Arietis
+Rho1 Cephei
+Rho1 Eridani
+Rho1 Sagittarii
+Rho2 Arae
+Rho2 Arietis
+Rho2 Cancri
+Rho2 Cephei
+Rho2 Eridani
+Rho2 Sagittarii
+Rho3 Arietis
+Rho3 Eridani
+Rho Andromedae
+Rho Aquarii
+Rho Aquilae
+Rho Aurigae
+Rho Boötis
+Rho Capricorni
+Rho Cassiopeiae
+Rho Centauri
+Rho Ceti
+Rho Coronae Borealis
+Rho Cygni
+Rho Draconis
+Rho Geminorum
+Rho Gruis
+Rho Herculis
+Rho Hydrae
+Rho Indi
+Rho Leonis
+Rho Lupi
+Rho Octantis
+Rho Ophiuchi
+Rho Ophiuchi cloud complex
+Rho Orionis
+Rho Pavonis
+Rho Pegasi
+Rho Persei
+Rho Phoenicis
+Rho Piscium
+Rho Puppis
+Rho Scorpii
+Rho Serpentis
+Rho Tauri
+Rho Telescopii
+Rho Tucanae
+Rho Ursae Majoris
+Rho Virginis
+Romano's Star
+Rory Carville
+Rosa Morena
+Rosaura Revueltas
+Ross 128
+Ross 154
+Ross 248
+Ross 47
+Ross 548
+Ross 614
+Ross 640
+Ross 695
+Ross Lewis
+Rotating ellipsoidal variable
+SS Ursae Minoris
+SS Virginis
+ST Camelopardalis
+SU Andromedae
+SU Aurigae
+SU Ursae Majoris
+SV Centauri
+SV Vulpeculae
+SWEEPS-10
+SWEEPS J175853.92−291120.6
+SWIFT J1756.9-2508
+SWIFT J1756.9−2508
+SW Andromedae
+SW Lyncis
+SX Centauri
+SX Corvi
+SX Leonis Minoris
+SX Phoenicis
+SX Phoenicis variable
+SY Equulei
+SY Muscae
+SZ Crateris
+SZ Lyncis
+SZ Piscium
+SZ Tauri
+S 155
+S Antliae
+S Apodis
+S Arae
+S Boötis
+S Canis Minoris
+S Carinae
+S Cassiopeiae
+S Coronae Australis
+S Coronae Borealis
+S Crucis
+S Doradus
+S Microscopii
+S Monocerotis
+S Muscae
+S Normae
+S Ori 70
+S Orionis
+S Pegasi
+S Persei
+S Pictoris
+S Sagittae
+S Scuti
+S Trianguli Australis
+S Ursae Minoris
+S Virginis
+S Vulpeculae
+Sadie Robertson
+Sadr Region
+Saeed Mohammad Khan
+Sagitta
+Sagittarius A
+Sagittarius A*
+Sanduleak -69 202
+Sanduleak -69° 202
+Sang A Im-Propp
+Santa Biondo
+Tessa Kosta
+Tessie Agana
+Teutobochus
+TheForce.Net
+Truly Shattuck
+Trumpler 27-1
+HD 24072
+LBV 1806-20
+Conviction
+Upsilon1 Ceti
+Gliese 229 B
+Zord
+Midget professional wrestling
+The Way It Feels
+Tuiren
+Ultan Cooke
+Undefined variable
+Uninitialized variable
+Units of measurement
+Unreferenced variable
+Vega
+Vela Pulsar
+Vela X-1
+Vera Kholodnaya
+Väinö Myllyrinne
+Víðblindi
+Vörnir
+W33A
+W40 IRS 1A South
+W43A
+W49B
+W75N(B)-VLA2
+WASP-1
+WASP-10
+WASP-103
+WASP-11/HAT-P-10
+WASP-12
+WASP-121
+WASP-13
+WASP-14
+WASP-15
+WASP-159
+WASP-16
+WASP-17
+WASP-18
+WASP-19
+WASP-2
+WASP-21
+WASP-24
+WASP-25
+WASP-26
+WASP-29
+WASP-3
+WASP-32
+WASP-34
+WASP-35
+WASP-36
+WASP-37
+WASP-4
+WASP-41
+WASP-42
+WASP-43
+WASP-44
+WASP-45
+WASP-46
+WASP-47
+WASP-48
+WASP-49
+WASP-5
+WASP-50
+WASP-52
+WASP-54
+WASP-55
+WASP-56
+WASP-57
+WASP-58
+WASP-59
+WASP-6
+WASP-60
+WASP-61
+WASP-62
+WASP-64
+WASP-66
+WASP-67
+WASP-69
+WASP-7
+WASP-72
+WASP-75
+WASP-76
+WASP-78
+WASP-8
+WASP-80
+WASP-88
+WASP-90
+WASP-95
+WASP-96
+WD 0137-349
+WD 0137−349
+WD 0145+234
+WD 0343+247
+WD 0346+246
+WD 0806−661
+WD 1145+017
+WD 1337+705
+WD 1856+534
+WD 2359−434
+WD J0651+2844
+WD J0914+1914
+WD J1953−1019
+WD J2356−209
+WHL0137-LS
+WISEA 1101+5400
+WISEPA J031325.96+780744.2
+WISEPA J041022.71+150248.5
+WISEPA J173835.53+273258.9
+WISEPA J174124.26+255319.5
+WISEPA J184124.74+700038.0
+WISEPA J195246.66+724000.8
+WISEPC J205628.90+145953.3
+WISEP J190648.47+401106.8
+WISE 0146+4234
+WISE 0350−5658
+WISE 0359−5401
+WISE 0458+6434
+WISE 0535−7500
+WISE 0607+2429
+WISE 0647-6232
+WISE 0647−6232
+WISE 0713−2917
+WISE 0734−7157
+WISE 0855−0714
+WISE 1217+1626
+WISE 1405+5534
+WISE 1506+7027
+WISE 1534–1043
+WISE 1541−2250
+WISE 1639-6847
+WISE 1639−6847
+WISE 1800+0134
+WISE 1828+2650
+WISE 2150–7520 AB
+WISE 2220−3628
+WISE J0005+3737
+WISE J000517.48+373720.5
+WISE J004945.61+215120.0
+WISE J0254+0223
+WISE J031624.35+430709.1
+WISE J0521+1025
+WISE J080822.18-644357.3
+WISE J1147−2040
+WISE J2000+3629
+WISE J2030+0749
+WISE J2209+2711
+WOH G17
+WOH G64
+WOH S279
+WOH S281
+WR 1
+WR 102
+WR 102c
+WR 102ea
+WR 102ka
+WR 104
+WR 111
+WR 114
+WR 12
+WR 120
+WR 121-16
+WR 124
+WR 128
+WR 133
+WR 134
+WR 135
+WR 136
+WR 137
+WR 138a
+WR 140
+WR 142
+WR 147
+WR 148
+WR 150
+WR 156
+WR 2
+WR 20a
+WR 21a
+WR 22
+WR 24
+WR 25
+WR 3
+WR 30a
+WR 31a
+WR 42e
+WR 46
+WR 69
+WR 7
+WR 86
+WR 9
+WR 93b
+WWDD-LD
+WW Aurigae
+WX Coronae Australis
+WX Pyxidis
+WY Sagittae
+WZ Andromedae
+WZ Cassiopeiae
+WZ Cephei
+WZ Sagittae
+W Andromedae
+W Aquilae
+W Canis Majoris
+W Cephei
+W Coronae Borealis
+W Corvi
+W Crucis
+W Cygni
+W Hydrae
+W Mensae
+W Orionis
+W Sagittarii
+W Serpentis
+W Ursae Majoris
+W Ursae Minoris
+W Virginis
+Westbrook Nebula
+Westerhout 49-2
+Westerlund 1-20
+Westerlund 1-237
+Westerlund 1-243
+Westerlund 1-26
+Westerlund 1-75
+19 Camelopardalis
+Sothis
+Star Wars Tales Volume 5
+C2 Centauri
+Star Wars Tales Volume 6
+Zeta1 Coronae Borealis
+Xi-1 Sagittarii
+11 Cancri
+Voadkyn
+C1 Centauri
+Gliese 868
+G 12-30
+Star Wars: Republic Commando: Order 66
+Star Wars Tales: Free Comic Book Day Edition
+L 43-72
+‘Uj ibn Anaq
+2MASSI J0937347+293142
+Nova Centauri 2013
+Fomorian
+Rho1 Herculis
+Star Wars Tales Volume 4
+brown dwarf

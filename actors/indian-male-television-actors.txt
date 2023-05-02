@@ -1,0 +1,964 @@
+A. K. Hangal
+A. R. Srinivasan
+Aadesh Bandekar
+Aadesh Chaudhary
+Aakash Talwar
+Aamir Ali
+Aamir Bashir
+Aanjjan Srivastav
+Aarav Chowdhary
+Aarav Singh
+Aashay Mishra
+Aashish Kaul
+Abeer Singh Godhwani
+Abhay Shukla
+Abhijeet Sawant
+Abhilash Thapliyal
+Abhimanyu Singh
+Abhinav Kapoor
+Abhinav Shukla
+Abhiram Bhadkamkar
+Abhishek Avasthi
+Abhishek Bajaj
+Abhishek Chatterjee
+Abhishek Gupta
+Abhishek Malik
+Abir Goswami
+Adi Irani
+Adil Hussain
+Aditya Kapadia
+Aditya Redij
+Aditya Singh Rajput
+Aditya Srivastava
+Adnan Khan
+Aham Sharma
+Ajay Chaudhary
+Ajay Mishra
+Ajay Nagrath
+Ajay Rathnam
+Ajaz Khan
+Ajit Vachani
+Ajith Kollam
+Akashdeep Saigal
+Akhil Mishra
+Akhilendra Mishra
+Akshat Chopra
+Akshay Dogra
+Akshay Sethi
+Akshit Sukhija
+Alam Khan
+Ali Asgar
+Ali Merchant
+Alihassan Turabi
+Alok Nath
+Aly Goni
+Aman Verma
+Amar Talwar
+Amar Upadhyay
+Amarjeet Shukla
+Amey Wagh
+Amit Behl
+Amit Bhargav
+Amit Bhatt
+Amit Dolawat
+Amit Sadh
+Amit Tandon
+Amit Varma
+Amitabh Bachchan
+Amol Palekar
+Amol Parashar
+Anand
+Anand Abhyankar
+Anand Goradia
+Anandha Kannan
+Anant V Joshi
+Aneesh Ravi
+Angad Bedi
+Angad Hasija
+Anil Dhawan
+Anil Kapoor
+Anil Murali
+Aniruddh Dave
+Aniruddh Singh
+Anirudh Agarwal
+Anjul Nigam
+Ankit Arora
+Ankit Bathla
+Ankit Bhardwaj
+Ankit Gera
+Ankit Gupta
+Ankit Narang
+Ankit Raj
+Ankit Siwach
+Anoop Menon
+Anshul Pandey
+Anshumaan Pushkar
+Anshuman Vichare
+Anuj Saxena
+Anuj Sharma
+Anup Soni
+Anupam Shyam
+Anurag Sharma
+Anvesh Michael
+Aparshakti Khurana
+Apurva Agnihotri
+Aravind Akash
+Arhaan Behll
+Arjun
+Arjun Bijlani
+Arjun Chakraborty
+Arpit Ranka
+Arun Bakshi
+Arun Bali
+Arun Govil
+Arun Sagar
+Arvind Deshpande
+Aryan Pandit
+Aryan Prajapati
+Ashiesh Roy
+Ashish Sharma
+Ashish Vidyarthi
+Ashok Lokhande
+Ashok Saraf
+Ashraful Haque
+Ashu Sharma
+Ashutosh Gowariker
+Ashutosh Rana
+Atul Kinagi
+Avinash Mishra
+Avinash Mukherjee
+Avinesh Rekhi
+Avishek Karthik
+Avtar Gill
+Hema Sundar
+Hemant Mishra
+Hemant Pandey
+Hiten Tejwani
+Hitesh Bharadwaj
+Inder Kumar
+Inderpal Singh
+Indraneil Sengupta
+Indrans
+Iqbal Azad
+Irrfan Khan
+Irshad Ali
+Ishaq Bux
+Joemon Joshy
+Ayaz Ahmed
+Ayaz Khan
+Ayub Khan
+Ayush Anand
+Ayushmann Khurrana
+Babu Namboothiri
+Badekkila Pradeep
+Bakhtiyaar Irani
+Bal Karve
+Bank Janardhan
+Basant Bhatt
+Baseer Ali
+Benjamin Gilani
+Bhanu Uday
+Bhanujeet Sudan
+Bharat Chawda
+Bharat Ganeshpure
+Bharat Kapoor
+Bharath Bopanna
+Bhavya Gandhi
+Bhupinder Singh
+Bhushan Pradhan
+Bhuvnesh Mann
+Bibhu Bhattacharya
+Biju Kuttan
+Biju Menon
+Biju Sopanam
+Biplab Chatterjee
+Boban Alummoodan
+Bobby Kottarakkara
+Bosskey
+Bunty Singh
+C. R. Simha
+Captain Raju
+Gaurav Chakrabarty
+Gaurav Chopra
+Gaurav Gera
+Gaurav Kapur
+Gaurav Khanna
+Gaurav Nanda
+Gaurav S Bajaj
+Gaurav Tiwari
+Gaurav Wadhwa
+Gautam Gulati
+Gautam Rode
+Gautam Sharma
+Gavie Chahal
+Geetha Salam
+George Maryan
+Laksh Lalwani
+Lalit Parimoo
+Lalit Prabhakar
+Lalit Tiwari
+Lambu Nagesh
+Lohithaswa
+Madhu
+Mahavir Shah
+Mahesh
+Mahesh Shetty
+Mahesh Thakur
+Mishal Raheja
+Mishkat Varma
+Mithra
+Murali
+Murali Sharma
+Mushtaq Khan
+Parmeet Sethi
+Parth Samthaan
+Parzaan Dastur
+Pulkit Samrat
+Puneet Issar
+Puneeth Rajkumar
+Puneett Chouksey
+Puru Chibber
+Pushkar Goggiaa
+Pushkar Jog
+Pushkaraj Chirputkar
+Subbaraya Sarma
+Subhalekha Sudhakar
+Subhasish Mukherjee
+Suchendra Prasad
+Sudeep Sahir
+Sudeepa
+Sudesh Berry
+Sudhanshu Pandey
+Sudheesh
+Sudhir Dalvi
+Sudhir Joshi
+Sudigali Sudheer
+Sujan Mukhopadhyay
+Sukumaran
+Sumedh Mudgalkar
+Sumeet Raghavan
+Sumeet Sachdev
+Sumeet Vyas
+Sumit Bhardwaj
+Sumit Kaul
+Sumit Vats
+Suneel Puranik
+Suniel Shetty
+Sunil Barve
+Sunil Grover
+Sunil Lahri
+Sunny Singh
+Suraj Sharma
+Suraj Venjaramoodu
+Surendra Pal
+Suresh Chatwal
+Suresh Krishna
+Surjit Saha
+Tanuj Virwani
+Tapasvi Mehta
+Tarun Khanna
+Tathagata Mukherjee
+Mohammad Nazim
+Mohammed Iqbal Khan
+Mohan Bhandari
+Mohan Gokhale
+Mohan Joshi
+Mohan Kapur
+Mohan Raman
+Mohan Sharma
+Mohit Abrol
+Mohit Chauhan
+Mohit Daga
+Mohit Malhotra
+Mohit Malik
+Mohit Raina
+Mohit Sehgal
+Mohnish Bahl
+Mohsin Khan
+Pawan Chopra
+Pawan Shankar
+Pawan Tiwari
+Pearl V Puri
+R. Madhavan
+R. N. Sudarshan
+S. K. Misro
+S. M. Zaheer
+S. P. Sreekumar
+Sarvadaman D. Banerjee
+Sarwar Ahuja
+Satish Shah
+Satyadev Dubey
+Satyajit Sharma
+Saurabh Dubey
+Saurabh Pandey
+Saurabh Shukla
+Savi Sidhu
+Sayak Chakraborty
+Shimoga Venkatesh
+Shishir Sharma
+Shiv Kumar Subramaniam
+Shiv Panditt
+Shivaji Satam
+Shivin Narang
+Shoaib Ibrahim
+Shravan
+Shravan Reddy
+Shresth Kumar
+Shrivallabh Vyas
+Shubhashish Jha
+Shyam Pathak
+Somraj Maity
+Sourabh Raaj Jain
+T. P. Madhavan
+T. S. B. K. Moulee
+T. V. Varadarajan
+Thilakan
+Ujjwal Rana
+Vicky Batra
+Victor Banerjee
+Vietnam Veedu Sundaram
+Vijay Arora
+Vijay Gokhale
+Vijay Kashyap
+Vijay Menon
+Vijay Patkar
+Vijay Prakash
+Vijay Suriya
+Vijayakumar
+Vijayendra Ghatge
+Vijayendra Kumeria
+Viju Khote
+Vikalp Mehta
+Vikas Anand
+Vikas Bhalla
+Vikas Grover
+Vikas Kumar
+Vikas Manaktala
+Vikas Sethi
+Vikram Chatterjee
+Vikram Gokhale
+Vikram Sakhalkar
+Vikram Singh Chauhan
+Vikramjeet Virk
+Vikrant Massey
+Vin Rana
+Vinay Apte
+Vinay Pathak
+Vinay Rohrra
+Vindu Dara Singh
+Vineet Kumar
+Vineet Raina
+Vinod Kapoor
+Vinod Khanna
+Vinod Kovoor
+Vinod Nagpal
+Vipul Gupta
+Vipul Roy
+Vir Das
+Viraf Patel
+Virendra Razdan
+Virendra Saxena
+Vishal Aditya Singh
+Vishal Gandhi
+Vishal Jethwa
+Vishal Karwal
+Vishal Kotian
+Vishal Malhotra
+Vishal O Sharma
+Vishal Singh
+Vishal Singh
+Vishal Vashishtha
+Vishesh Bansal
+Vishnu Unnikrishnan
+Vishnuvardhan
+Vishwajeet Pradhan
+Vivaan Arora
+Vivan Bhatena
+Vivek Mashru
+Vivek Shauq
+Yuvraj Thakur
+Zafar Karachiwala
+Zain Imam
+Zakir Hussain
+Zayed Khan
+Cezanne Khan
+Chaitanya Choudhry
+Chandan Kumar
+Chandan Roy
+Chandraprakash Dwivedi
+Chandrashekhar
+Indrasish Roy
+Jeetu Kamal
+Jehangir Vakil
+Master Manjunath
+Mihir Mishra
+Milind Gawali
+Milind Gunaji
+Nedumudi Venu
+Neel Motwani
+Neeraj Kabi
+Neil Bhoopalam
+Nikhil Khurana
+Nikitin Dheer
+Nimai Bali
+Ninad Kamat
+Nirbhay Wadhwa
+Nirmal Pandey
+Nishad Vaidya
+Nishant Shokeen
+Nithin Jake Joseph
+Nitin Chauhaan
+Nitin Sahrawat
+Nitish Bharadwaj
+Nivaan Sen
+Nizhalgal Ravi
+Ottapalam Pappan
+Rehaan Roy
+Rrahul Sudhir
+Rubel Das
+Samar Jai Singh
+Samay Shah
+Sameer Dharmadhikari
+Sameer Iqbal Patel
+Sameer Rajda
+Sameer Sharma
+Samir Choughule
+Samridh Bawa
+Sehban Azim
+Shankar
+Shankar Nag
+Shantanu Maheshwari
+Shanthanu Bhagyaraj
+Sharad Kapoor
+Sharad Kelkar
+Sharad Malhotra
+Sharad Talwalkar
+Sharat Saxena
+Sharath Lohithaswa
+Shardul Pandit
+Sharib Hashmi
+Shashank Vyas
+Shavez Khan
+Shiju Abdul Rasheed
+Shiladitya Patranabis
+Deepak Deulkar
+Deepak Shirke
+Deepak Wadhwa
+Deepraj Rana
+Delhi Ganesh
+Dev Joshi
+Dev Kharoud
+Devan
+Farhad Shahnawaz
+Farhan Khan
+Farooq Sheikh
+Feroz Khan
+G. K. Pillai
+G. M. Kumar
+G. S. Pradeep
+Gagan Malik
+Gajendra Chauhan
+Ganesh
+Ganesh Venkatraman
+Ganeshkar
+Gashmeer Mahajani
+Goga Kapoor
+Ketan Karande
+Khalid Siddiqui
+Khushwant Walia
+Kottayam Nazeer
+Koushik Roy
+Krishna
+Krishna
+Krishna Bharadwaj
+Krishna Kumar
+Krishnudu
+Krushna Abhishek
+Kulbhushan Kharbanda
+Kumar Gaurav
+Kunaal Roy Kapur
+Kunal Bakshi
+Kunal Goswami
+Kunal Jaisingh
+Kunal Karan Kapoor
+Kunal Nayyar
+Kunal Vijaykar
+Kunchan
+Kunwar Amar
+Kurush Deboo
+Kushal Chakraborty
+Kushal Punjabi
+Kushal Tandon
+Kuthiravattam Pappu
+Mayank Anand
+Mayur Verma
+Mazhar Khan
+Mazher Sayed
+N. F. Varghese
+N. L. Balakrishnan
+Narendra Jha
+Narendra Prasad
+Naseer Sankranthi
+Srinagara Kitty
+Srinath
+Srinish Aravind
+Srinivasa Murthy
+Srujan Lokesh
+Ssumier Pasricha
+Vaquar Shaikh
+Varkala Sathyan
+Varun Kapoor
+Varun Toorkey
+Vatsal Sheth
+Erick Avari
+Ghanashyam Nayak
+Gireesh Sahdev
+Girish Jain
+Gopal K. Singh
+Gopi Bhalla
+Govind Namdev
+Govind Padmasoorya
+K. B. Ganesh Kumar
+K. K. Raina
+K. Natraj
+K. P. A. C. Azeez
+K. T. S. Padannayil
+K. Viswanath
+KK Goswami
+Kamlesh Oza
+Kanan Malhotra
+Kanwaljit Singh
+Kanwar Dhillon
+Kapil Nirmal
+Kapil Singh Lalwani
+Karam Rajpal
+Karan Grover
+Karan Jotwani
+Karan Kundrra
+Karan Mehra
+Karan Patel
+Karan Razdan
+Karan Sharma
+Karan Singh Grover
+Karan Soni
+Karan Suchak
+Karan Tacker
+Karan Wahi
+Karanvir Bohra
+Karanvir Sharma
+Kochu Preman
+Kollam Thulasi
+Lavanya Bhardwaj
+Laxman Singh Rajput
+Luke Kenny
+Makarand Deshpande
+Malhar Pandya
+Meer Ali
+Meghanathan
+Meherzan Mazda
+Mehul Nisar
+Shafi Inamdar
+Shagun Pandey
+Shah Rukh Khan
+Shahbaz Khan
+Shaheer Sheikh
+Shahnawaz Pradhan
+Shail Chaturvedi
+Shailesh Datar
+Shailesh Lodha
+Shaji Choudhary
+Shakti Anand
+Shakti Arora
+Shakti Singh
+Shaleen Malhotra
+Shammi Kapoor
+Shanawas
+Shane Nigam
+Sid Makkar
+Siddhaanth Vir Surryavanshi
+Siddhant Karnick
+Siddharth Arora
+Siddharth Menon
+Siddharth Nigam
+Siddharth Sagar
+Siddique
+Sidharth Shukla
+Sihi Kahi Chandru
+Sikandar Kharbanda
+Spadikam George
+Sreenath
+Sreeram Ramachandran
+Syed Badr-ul Hasan Khan Bahadur
+Tom Alter
+Yash
+Yash Dasgupta
+Yash Gera
+Yash Mistry
+Yash Pandit
+Yash Sinha
+Yash Tonk
+Yatin Karyekar
+Yogendra Tikku
+Zuber K. Khan
+Chetan Hansraj
+Chetan Pandit
+Chikkanna
+Chinna
+Chirag Jani
+Chirag Vohra
+Chithra Lakshmanan
+Daji Bhatawadekar
+Dakssh Ajit Singh
+Dalip Tahil
+Danish Sait
+Danny Denzongpa
+Dara Singh
+Darshan Jariwala
+Darshan Pandya
+Dayanand Shetty
+Deven Verma
+Dharmajan Bolgatty
+Dharmesh Tiwari
+Dheeraj Dhoopar
+Dheeraj Sarna
+Dhruv Bhandari
+Dhruv Sehgal
+Dhruvan
+Dibyendu Bhattacharya
+Dileep Raj
+Dilip Dhawan
+Dinesh Gopalsamy
+Dinesh Kaushik
+Dinesh Phadnis
+Dinyar Contractor
+Edavela Babu
+Eijaz Khan
+Fahad Ali
+Fahmaan Khan
+Faisal Khan
+Faisal Khan
+Faisal Malik
+Faisal Raza Khan
+Firdous Bamji
+Firoz Irani
+Hussain Kuwajerwala
+Jaffar Idukki
+Jagadeesh Prathap Bandari
+Jagadish Kumar
+Jagannatha Varma
+Jagannathan
+Jagat Rawat
+Jagathy Sreekumar
+Jai Kalra
+Jason Shah
+Jass Bhatia
+Jatin Kanakia
+Javed Khan
+Javed Khan Amrohi
+Jay Bhanushali
+Jayant Savarkar
+Jayaraj Warrier
+Jijo Punnoose
+Jiten Lalwani
+Jitendra Joshi
+Jitesh Singh Deo
+Keerikkadan Jose
+Keith Sequeira
+Mimicry Dayanand
+Raaghav Chanana
+Rafi Malik
+Ragesh Asthana
+Raghav Juyal
+Raghavan
+Raghubir Yadav
+Raghunatha Reddy
+Rahil Azam
+Rahul Bhat
+Rahul Kumar
+Rahul Nath
+Rahul Rajasekharan
+Rahul Salanke
+Rahul Sharma
+Ranjeet
+Raqesh Bapat
+Ravi Baswani
+Ravi Bhatia
+Ravi Deep
+Ravi Dubey
+Ravi Jhankal
+Ravi Kishan
+Ravi Krishna
+Ravi Vallathol
+Ravikanth
+Ravikumar
+Ravishankar Gowda
+Razak Khan
+Sajan Surya
+Sajid Khan
+Sajid Khan
+Salil Acharya
+Salim Kumar
+Kabir Sadanand
+Kalabhavan Haneef
+Kalasala Babu
+Kali Prasad Mukherjee
+Lucky Ali
+M. B. Padmakumar
+M. G. Soman
+M. K. Raina
+M. N. Nambiar
+M. R. Gopakumar
+M. S. Bhaskar
+M. S. Thripunithura
+Mamik Singh
+Mamukkoya
+Manan Joshi
+Manas Shah
+Manasvi Vashist
+Manav Gohil
+Manav Vij
+Mandar Chandwadkar
+Mandya Ramesh
+Mani C. Kappan
+Manikandan Pattambi
+Manikuttan
+Maninder Singh
+Manish Chaudhari
+Manish Gandhi
+Manish Goel
+Manish Goplani
+Manish Naggdev
+Manish Nawani
+Manish Paul
+Manish Raisinghan
+Manish Wadhwa
+Manit Joura
+Maniyanpilla Raju
+Manmohan Tiwari
+Manohar Singh
+Manoj Bajpayee
+Manoj Bakshi
+Manoj Chandila
+Manoj Guinness
+Manoj Joshi
+Manoj K. Jayan
+Manoj Pahwa
+Mantra
+Master Anand
+Paaras Madaan
+Sivaji Raja
+Sivannarayana Naripeddi
+Tini Tom
+Tinnu Anand
+Gufi Paintal
+Guinness Pakru
+Gunjan Bhardwaj
+Gurmeet Choudhary
+Gurpreet Singh
+Gurunandan
+Haidar Ali
+Honey Bafna
+Hrishikesh Pandey
+Jamnadas Majethia
+Janardhanan
+Jose
+Jose Prakash
+Joseph Paneagaden
+Karmveer Choudhary
+Karthik Jayaram
+Kaushal Manda
+Kavi Kumar Azad
+Kavin Dave
+Kavithalayaa Krishnan
+Kinshuk Mahajan
+Kiran Kumar
+Kiran Srinivas
+Kishor Kadam
+Kishore Bhanushali
+Kishore Nandlaskar
+Mrunal Jain
+Mudit Nayar
+Mukesh
+Mukesh Khanna
+Mukesh Rawal
+Mukesh Rishi
+Mulraj Rajda
+Mundur Krishnankutty
+Nadirshah
+Nagendra Babu
+Nakuul Mehta
+Naman Shaw
+Namik Paul
+Namit Khanna
+Namit Shah
+Nandhu
+Nandish Sandhu
+Naved Aslam
+Naveen Saini
+Navin Nischol
+Navtej Hundal
+Nawab Shah
+Rohan Shah
+Rohit Bakshi
+Rohit Bhardwaj
+Rohit Khandelwal
+Rohit Khurana
+Rohit Phalke
+Rohit Purohit
+Rohit Roy
+Rohit Suchanti
+Rushad Rana
+Ruslaan Mumtaz
+Sohit Soni
+Sushant Singh
+Sushil Parashar
+Suvrat Joshi
+Suyyash Rai
+Swapnil Joshi
+Tej Sapru
+Utpal Das
+V.I.P.
+V. K. Sreeraman
+V. S. Raghavan
+Haradhan Bandopadhyay
+Hareesh Peradi
+Harish Patel
+Harish Raj
+Harsh Chhaya
+Harsh Khurana
+Harsh Rajput
+Harsh Vashisht
+Harshad Arora
+Harshad Chopda
+Hasan Zaidi
+Himanshu Rai
+Himanshu Soni
+Himesh Choudhary
+Pavan Malhotra
+Raj Singh Arora
+Raja Chaudhary
+Raja Ravindra
+Rajasenan
+Rajat Tokas
+Rajbeer Singh
+Rajeev Khandelwal
+Rajeev Mehta
+Rajeev Paul
+Rajeev Siddhartha
+Rajeev Verma
+Rajendra Gupta
+Rajesh Hebbar
+Rajesh Jais
+Rajesh Khanna
+Rajesh Khera
+Rajesh Puri
+Rajesh Tailang
+Raju Shrestha
+Rajveer Singh
+Rakesh Bedi
+Rakesh Deewana
+Rakesh Pandey
+Ram Awana
+Ram Kapoor
+Ramesh Bhatkar
+Ramesh Deo
+Ramesh Pisharody
+Ramjagan
+Ranganath
+Wasim Mushtaq
+Om Puri
+Orko Sinha
+Pankaj Berry
+Pankaj Dheer
+Pankaj Kapur
+Pankaj Tripathi
+Pankit Thakker
+Parag Tyagi
+Paras Kalnawat
+Paresh Ganatra
+Parichay Sharma
+Parikshit Sahni
+Rishabh Shukla
+Rishi Kaushik
+Rishi Khurana
+Rithvik Dhanjani
+Rituraj Mohanty
+Rituraj Singh
+Ritvik Arora
+Ritwick Chakraborty
+Ritwik Bhowmik
+Rizabawa
+Yaar Kannan
+Yagya Bhasin
+Noel Sean
+Piyush Mishra
+Piyush Ranade
+Piyush Sahdev
+Poojappura Ravi
+Pooran Kiri
+Prabal Panjabi
+Pradeep Kondiparthi
+Pradeep Patwardhan
+Prajin
+Prakash Belawadi
+Prakash Raj
+Pramod Moutho
+Pranav Sachdev
+Praneet Bhat
+Pranshu Kaushal
+Prasad Babu
+Prasad Barve
+Prashant Narayanan
+Prashant Ranyal
+Prateek Baid
+Prathapachandran
+Praveen Tej
+Pravisht Mishra
+Prem Prakash
+Prem Prakash Modi
+Priyank Tatariya
+Ribbhu Mehra
+Romesh Sharma
+Romiit Raaj
+Ronit Roy
+Ronson Vincent
+Sachin Khedekar
+Sachin Khurana
+Sachin Nayak
+Sachin Shroff
+Sadiq
+Sagar
+Sahil Anand
+Sahil Vaid
+Sai Ketan Rao
+Sai Kiran
+Sai Kumar
+Sai Prashanth
+Saif Ali Khan
+Sailesh Gulabani
+Sandeep Baswana
+Sandeep Rajora
+Sandesh Gour
+Sandit Tiwari
+Sanjay Batra
+Sanjay Gagnani
+Sanjay Khan
+Sanjay Mishra
+Sanjay Mone
+Sanjay Shejwal
+Sanjeet Bedi
+Sanjeev Pandey
+Sanjeev Seth
+Sanju Sivram
+Santhanam
+Santhosh
+Santhosh Keezhattoor
+Thakur Anoop Singh
+Thalaivasal Vijay
+Thalapathy Dinesh
+Tushar Dalvi
+Venkat Subha
+Venmani Haridas
+Venu Nagavally
+Vrajesh Hirjee
+Vrishasen Dabholkar

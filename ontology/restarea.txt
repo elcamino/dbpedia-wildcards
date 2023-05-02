@@ -1,0 +1,3 @@
+filling station
+number of parking lots for cars
+number of parking lots for trucks

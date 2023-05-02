@@ -1,0 +1,38 @@
+2.01
+2.02
+2.03
+Boeing X-20 Dyna-Soar
+Buran
+Falke
+Enceladus Explorer
+SpaceLiner
+Space Shuttle Atlantis
+Space Shuttle Challenger
+Space Shuttle Columbia
+Space Shuttle Discovery
+Space Shuttle Endeavour
+Space Shuttle Enterprise
+Space Shuttle Independence
+Space Shuttle Pathfinder
+Dark Ages Radio Explorer
+Ptichka
+Laplace-P
+Hopper
+OK-GLI
+Tupolev OOS
+first flight end date
+first flight start date
+last flight end date
+last flight start date
+Venus orbiter mission
+crews
+missions
+distance
+total time person has spent in space
+contract award
+first flight
+iss dockings
+last flight
+mir dockings
+satellites deployed
+shuttle

@@ -1,0 +1,135 @@
+202-CoV
+ABNCoV2
+AG0302-COVID‑19
+AKS-452
+ARCT-021
+ARCT-154
+Abdala
+AdCLD-CoV19
+Adenovirus vaccine
+Anthrax vaccine adsorbed
+Anthrax vaccines
+ImmunityBio COVID-19 vaccine
+BBV154
+BCG vaccine
+Bangavax
+BriLife
+Brucellosis vaccine
+CAd3-ZEBOV
+COH04S1
+COVAX-19
+COVI-VAC
+COVIran Barekat
+CYT006-AngQb
+HybriCell
+INNA-051
+IVX-411
+QazCovid-in
+Meningococcal vaccine
+Moderna COVID-19 vaccine
+Modified vaccinia Ankara
+Polio vaccine
+S-268019
+SCB-2019
+SCTV01C
+ZF2001
+Cervarix
+HGC019
+Influenza vaccine
+Inovio COVID-19 vaccine
+MigVax-101
+NmVac4-A/C/Y/W-135
+Rubella vaccine
+Tick-borne encephalitis vaccine
+DelNS1-2019-nCoV-RBD-OPT
+Dengue vaccine
+GRAd-COV2
+GX-19
+GamEvac-Combi
+Gardasil
+MeNZB
+NDV-HXP-S
+Valneva COVID-19 vaccine
+Varicella vaccine
+Walvax COVID-19 vaccine
+CoVLP
+Convidecia
+Corbevax
+CoronaVac
+Covaxin
+CoviVac
+EpiVacCorona
+Epstein–Barr virus vaccine
+KD-414
+Malaria vaccine
+Measles vaccine
+Sinopharm BIBP COVID-19 vaccine
+Sinopharm CNBG COVID-19 vaccine
+Sinopharm WIBP COVID-19 vaccine
+Sputnik Light
+Sputnik V COVID-19 vaccine
+Stemirna COVID-19 vaccine
+Yellow fever vaccine
+Zoster vaccine
+ZyCoV-D
+Chinese Academy of Medical Sciences COVID-19 vaccine
+Cholera vaccine
+Diphtheria vaccine
+Ebola vaccine
+EuCorVac-19
+FAKHRAVAC
+Janssen COVID-19 vaccine
+Japanese encephalitis vaccine
+Minhai COVID-19 vaccine
+RTS,S
+RVSV-ZEBOV vaccine
+Rabies vaccine
+Razi Cov Pars
+ReCOV
+Ty21a
+Typhoid vaccine
+Typhus vaccine
+UB-612
+LYB001
+Lactobacillus vaccine
+MRNA-1283
+MRNA-5671
+MVC COVID-19 vaccine
+Novavax COVID-19 vaccine
+Oxford–AstraZeneca COVID-19 vaccine
+PTX-COVID19-B
+Skycovione
+Smallpox vaccine
+HPV vaccine
+Live attenuated influenza vaccine
+Mumps vaccine
+Nanocovax
+Soberana 02
+Soberana Plus
+Tecemotide
+V-01
+V451 vaccine
+VBI-2902
+Vabiotech COVID-19 vaccine
+Hepatitis A vaccine
+Hepatitis B vaccine
+Hepatitis C vaccine
+Hib vaccine
+Pertussis vaccine
+Pfizer–BioNTech COVID-19 vaccine
+Pandemrix
+Noora
+Plague vaccine
+Pneumococcal conjugate vaccine
+Pneumococcal polysaccharide vaccine
+Pneumococcal vaccine
+Prostvac
+Rotavirus vaccine
+Sanofi–GSK COVID-19 vaccine
+Sanofi–Translate Bio COVID-19 vaccine
+Tetanus vaccine
+Turkovac
+Vaxart COVID-19 vaccine
+Vi capsular polysaccharide vaccine
+West China Hospital COVID-19 vaccine
+vaccination

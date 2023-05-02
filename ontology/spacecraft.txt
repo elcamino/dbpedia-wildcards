@@ -1,0 +1,103 @@
+ADE 651
+ALEPH experiment
+ANTARES
+ARIANNA Experiment
+AURIGA
+Advanced Microwave Sounding Unit
+Askaryan Radio Array
+Astrid
+Bhangmeter
+CLEO
+CUSB
+Hydrogen sensor
+Magnetic detector
+Pulsed discharge ionization detector
+Superconducting nanowire single-photon detector
+Modular Neutron Array
+Neutron monitor
+Polish mine detector
+SND Experiment
+Soudan 1
+Soudan 2
+Straw chamber
+Straw tracker
+TAMA 300
+Thermal conductivity detector
+ZEUS
+H1
+Infrared detector
+Infrared point sensor
+Interferometric gravitational wave detector
+Nitrogen–phosphorus detector
+Scanning multichannel microwave radiometer
+Time projection chamber
+Transition edge sensor
+Fennec
+GEO600
+Gargamelle
+Gas electron multiplier
+Golay cell
+Kinetic inductance detector
+NASA categories of evidence
+ND experiment
+NEVOD
+Coastal Zone Color Scanner
+Compton telescope
+Electrolytic detector
+Mario Schenberg
+Microstrip detector
+Microwave radiometer
+Spark chamber
+Speeded up robust features
+Cherenkov detector
+Clinical Practice Research Datalink
+Cloud chamber
+Daly detector
+Differential refractometer
+Einstein Telescope
+Explosimeter
+FirstDefender
+MicroMegas detector
+Crystal Ball
+LUCID
+LYRA
+LZ experiment
+Large Area Neutron Detector
+PLUTO detector
+POLDER
+Self Powered Neutron Detector
+Hot wire barretter
+Kirsch operator
+Kismet
+Helium and Lead Observatory
+Hessian affine region detector
+Pakistan Remote Sensing Satellite
+Principal curvature-based region detector
+STACEE
+CLAS detector
+spacecraft
+apoapsis
+cargo fuel
+cargo gas
+cargo water
+docked time
+dry cargo
+free flight time
+periapsis
+total cargo
+total mass
+cargo fuel
+cargo gas
+cargo water
+crew
+decay
+docked time
+dry cargo
+free flight time
+inclination
+launch
+regime
+rocket
+target space station station
+total cargo
+total mass

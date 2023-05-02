@@ -1,0 +1,6 @@
+diameter
+height
+length
+mass
+weight
+width

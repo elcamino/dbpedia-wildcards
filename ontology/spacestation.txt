@@ -1,0 +1,41 @@
+Aurora Space Station
+Axiom Orbital Segment
+International Space Station
+B330
+BA 2100
+Bigelow Commercial Space Station
+Sundancer
+Tiangong-1
+Tiangong-2
+Tiangong-3
+Tiangong space station
+Galaxy
+Columbus Man-Tended Free Flyer
+Kosmos 1686
+Kosmos 557
+Lunar Gateway
+Space Station Freedom
+DOS-2
+Mir
+Mir-2
+Salyut 1
+Salyut 2
+Salyut 3
+Salyut 4
+Salyut 5
+Salyut 6
+Salyut 7
+Manned Orbiting Laboratory
+Skylab
+Skylab B
+Skylab II
+Russian Orbital Service Station
+Orbital Piloted Assembly and Experiment Complex
+Orbital Reef
+Orbital Technologies Commercial Space Station
+Pakistan Mission Control Centre
+Priroda
+NSSDC ID
+volume
+spacestation
+target space station station

@@ -1,0 +1,9 @@
+conveyor system
+escalator
+travellator
+diameter
+height
+length
+mass
+weight
+width

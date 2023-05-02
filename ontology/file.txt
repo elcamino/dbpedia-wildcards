@@ -1,0 +1,5 @@
+The extension of this file
+The URL at which this file can be downloaded
+gallery item
+Has KML data associated with it
+media item

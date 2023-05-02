@@ -1,0 +1,5 @@
+is route stop
+route activity
+line
+route next stop
+route previous stop

@@ -1,0 +1,259 @@
+Acidianus
+Acidianus infernus
+Acidianus sulfidivorans
+Acidilobales
+Acidilobus aceticus
+Acidilobus saccharovorans
+Acidiplasma
+Aciduliprofundum
+Aciduliprofundum boonei
+Aeropyrum pernix
+Aigarchaeota
+Archaeal Richmond Mine acidophilic nanoorganisms
+Archaeoglobaceae
+Archaeoglobus
+Archaeoglobus profundus
+Atmospheric methane
+Caldisphaeraceae
+Caldivirga
+Caldococcus
+Geogemma
+Geoglobus
+Hyperthermus
+Lokiarchaeota
+Parvarchaeota
+Pyrobaculum
+Pyrobaculum aerophilum
+Pyrococcus
+Pyrococcus abyssi
+Pyrococcus furiosus
+Pyrococcus horikoshii
+Pyrococcus woesei
+Pyrodictium
+Pyrodictium abyssi
+Pyrolobus
+Pyrolobus fumarii
+Staphylothermus
+Stygiolobus
+Sulfolobus
+Sulfolobus acidocaldarius
+Sulfolobus metallicus
+Sulfolobus solfataricus
+Sulfolobus tokodaii
+Sulfophobococcus
+Strain 121
+Thermocladium
+Thermococcaceae
+Thermococcales
+Thermococci
+Thermococcus
+Thermococcus alcaliphilus
+Thermococcus barophilus
+Thermococcus celer
+Thermococcus chitonophagus
+Thermococcus gammatolerans
+Thermococcus hydrothermalis
+Thermococcus kodakarensis
+Thermococcus litoralis
+Thermococcus peptonophilus
+Thermococcus profundus
+Thermococcus stetteri
+Thermofilum
+Thermoplasma
+Thermoplasma acidophilum
+Thermoplasma volcanium
+Thermoplasmata
+Thermoplasmataceae
+Thermoplasmatales
+Thermoproteaceae
+Thermoproteus
+Thermosphaera
+Cenarchaeaceae
+Cenarchaeales
+Cenarchaeum
+Cenarchaeum symbiosum
+Nitrosopumilaceae
+Nitrosopumilales
+Nitrosopumilus
+Nitrososphaera
+Nitrososphaera gargensis
+Nitrososphaerota
+Deep-Sea Hydrothermal Vent Euryarchaeota 2
+Desulfurococcus
+Ferroglobus
+Ferroplasma
+Ferroplasma acidiphilum
+Ferroplasmaceae
+Metallosphaera
+Metallosphaera hakonensis
+Metallosphaera sedula
+Methanimicrococcus
+Methanobrevibacter curvatus
+Methanobrevibacter cuticularis
+Methanobrevibacter filiformis
+Methanobrevibacter gottschalkii
+Methanobrevibacter oralis
+Methanobrevibacter smithii
+Methanobrevibacter thaueri
+Methanobrevibacter woesei
+Methanobrevibacter wolinii
+Methanocalculus
+Methanocalculus halotolerans
+Methanocaldococcaceae
+Methanocaldococcus
+Methanocaldococcus jannaschii
+Methanocaldococcus sp. FS406-22
+Methanocella
+Methanocella paludicola
+Methanococcaceae
+Methanococcales
+Methanococci
+Methanococcoides
+Methanococcoides burtonii
+Methanococcoides methylutens
+Methanococcus
+Methanococcus maripaludis
+Methanocorpusculaceae
+Methanocorpusculum
+Methanoculleus
+Methanoculleus hydrogenitrophicus
+Methanoculleus submarinus
+Methanofollis
+Methanogenium
+Methanogenium boonei
+Methanogenium frigidum
+Methanogenium marinum
+Methanohalobium
+Methanohalophilus
+Methanohalophilus mahii
+Methanolacinia
+Methanolobus
+Methanolobus profundi
+Methanolobus tindarius
+Methanomethylovorans
+Methanomethylovorans hollandica
+Methanomethylovorans thermophila
+Methanomicrobiaceae
+Methanomicrobiales
+Methanomicrobium
+Methanoplanus
+Methanoplanus endosymbiosus
+Methanopyraceae
+Methanopyrales
+Methanopyri
+Methanopyrus
+Methanoregula
+Methanosaeta
+Methanosaeta concilii
+Methanosaetaceae
+Methanosalsum
+Methanosarcina
+Methanosarcina acetivorans
+Methanosarcina barkeri
+Methanosarcina thermophila
+Methanosarcinaceae
+Methanosphaera stadtmaniae
+Methanospirillaceae
+Methanospirillum
+Methanothermobacter marburgensis
+Methanothermococcus
+Methanothermococcus okinawensis
+Methanothermus fervidus
+Methanothermus sociabilis
+Methanothrix
+Methanothrix soehngenii
+Methanotorris
+Eocyte hypothesis
+Ignicoccus
+Ignisphaera
+Korarchaeota
+Picrophilaceae
+Picrophilus
+Picrophilus oshimae
+Picrophilus torridus
+Salinirubellus salinus
+Hadesarchaea
+Haladaptatus
+Haladaptatus paucihalophilus
+Halalkalicoccus
+Halapricum
+Halarchaeum
+Haloalcalophilium
+Haloarchaea
+Haloarchaeobius
+Haloarcula
+Haloarcula marismortui
+Haloarcula quadrata
+Haloarculaceae
+Halobacteriaceae
+Halobacteriales
+Halobacterium
+Halobacterium noricense
+Halobacterium salinarum
+Halobaculum
+Halobaculum gomorrense
+Halobellus
+Halobiforma
+Halobiforma haloterrestris
+Halococcaceae
+Halococcus
+Halococcus dombrowskii
+Halococcus hamelinensis
+Halococcus qingdaonensis
+Halococcus salifodinae
+Haloferacaceae
+Haloferacales
+Haloferax
+Haloferax larsenii
+Haloferax lucentense
+Haloferax volcanii
+Halogeometricum
+Halomarina
+Halomicrobium
+Halopiger
+Haloplanus
+Haloplanus natans
+Haloplanus salinarium
+Haloquadratum
+Haloquadratum walsbyi
+Halorhabdus
+Halorhabdus tiamatea
+Halorhabdus utahensis
+Halorientalis
+Halorubraceae
+Halorubrum
+Halorubrum alkaliphilum
+Halorubrum californiense
+Halorubrum coriense
+Halorubrum distributum
+Halorubrum ezzemoulense
+Halorubrum orientale
+Halosarcina
+Halosimplex
+Halostagnicola
+Halostagnicola larsenii
+Halostella
+Haloterrigena
+Haloterrigena turkmenica
+Halovivax
+Nanoarchaeum equitans
+Nanohaloarchaea
+Natrialba
+Natrinema
+Natrinema hispanicum
+Natrinema limicola
+Natrinema longum
+Natrinema saccharevitans
+Natrinema thermotolerans
+Natrinema versiforme
+Natronobacterium
+Natronococcus
+Natronolimnobius
+Natronomonas
+Natronorubrum
+Palaeococcus
+Palaeococcus ferrophilus
+Palaeococcus helgesonii
+Saccharolobus shibatae
+Vulcanisaeta
+Crenarchaeota

@@ -1,0 +1,6 @@
+number sold
+end year of sales
+model
+start year of sales
+US sales
+sales

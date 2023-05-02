@@ -1,0 +1,769 @@
+4 VD 14,5/12-1 SRW
+AMC V8 engine
+AMC straight-4 engine
+AMC straight-6 engine
+Alfa Romeo 12-cylinder engine
+Alfa Romeo 8-cylinder F1 engine
+Alfa Romeo Boxer engine
+Alfa Romeo Indy V8 engine
+Alfa Romeo JTS engine
+Alfa Romeo Tipo 1035
+Alfa Romeo Twin Cam engine
+Alfa Romeo Twin Spark engine
+Alfa Romeo V6 engine
+Aston Martin RB6 engine
+Aston Martin V12 engine
+Audi/Bentley 90° twin-turbocharged V8 racing engine
+Audi DTM V8 engine
+Audi RC8 2.0 TFSI engine
+Austin D-Series engine
+Austin London Taxicab
+Auto Union Grand Prix racing engine
+Fully Integrated Robotised Engine
+Holden V8 engine
+Holden straight-six motor
+Iron Duke engine
+Isuzu 6H engine
+Isuzu V12 F1 engine
+Isuzu V engine
+Leyland L60
+BL O-series engine
+BMC A-series engine
+BMC B-series engine
+BMC C-Series engine
+BMC E-series engine
+BMW B37
+BMW B38
+BMW B47
+BMW B48
+BMW B57
+BMW B58
+BMW E41 / P80 engine
+BMW Goldfisch V16
+BMW M10
+BMW M12
+BMW M20
+BMW M21
+BMW M2B15
+BMW M30
+BMW M328
+BMW M335
+BMW M337
+BMW M40
+BMW M41
+BMW M42
+BMW M43
+BMW M44
+BMW M47
+BMW M50
+BMW M51
+BMW M52
+BMW M54
+BMW M57
+BMW M60
+BMW M62
+BMW M67
+BMW M70
+BMW M73
+BMW M78
+BMW M88
+BMW N20
+BMW N26
+BMW N40
+BMW N42
+BMW N43
+BMW N45
+BMW N46
+BMW N47
+BMW N52
+BMW N53
+BMW N54
+BMW N55
+BMW N57
+BMW N62
+BMW N63
+BMW N73
+BMW N74
+BMW OHV V8 engine
+BMW P48 Turbo engine
+BMW P60B40
+BMW P66
+BMW S14
+BMW S38
+BMW S65
+BMW S85
+BRM 4-cylinder engine
+BRM P75
+BRM V8 engine
+British Racing Motors V16
+Bugatti V12 engine
+Bugatti W16 engine
+Bugatti straight-8 Grand Prix racing engine
+Buick/Menard V6 Indy engine
+Buick Indy V6 engine
+Buick Straight-6 engine
+Buick Straight-8 engine
+Buick V6 engine
+Buick V8 engine
+Cadillac High Technology engine
+Cadillac V16 engine
+Cadillac V8 engine
+Cadillac twin-turbo V8
+Caparo T1 engine
+General Motors 122 engine
+General Motors 54° V6 engine
+General Motors 60° V6 engine
+General Motors Atlas engine
+Hyundai A engine
+Hyundai Alpha engine
+Hyundai Beta engine
+Hyundai D engine
+Hyundai Delta engine
+Hyundai Epsilon engine
+Hyundai Gamma engine
+Hyundai Kappa engine
+Hyundai Lambda engine
+Hyundai Mu engine
+Hyundai Nu engine
+Hyundai Omega engine
+Hyundai R engine
+Hyundai S engine
+Hyundai Sigma engine
+Hyundai Sirius engine
+Hyundai Smartstream engine
+Hyundai Tau engine
+Hyundai Theta engine
+Hyundai U engine
+IKCO EF engines
+Lamborghini LE3512
+Lamborghini V10
+Lamborghini V12
+Lamborghini V8
+Lancia Flat-4 engine
+Lancia V4 engine
+Lancia V6 engine
+Land Rover engines
+Lotus-Ford Twin Cam
+Lotus 900 series
+Mitsubishi 2G1 engine
+Mitsubishi 3A9 engine
+Mitsubishi 3B2 engine
+Mitsubishi 3G8 engine
+Mitsubishi 4A3 engine
+Mitsubishi 4A9 engine
+Mitsubishi 4B1 engine
+Mitsubishi 4B4 engine
+Mitsubishi 4G9 engine
+Mitsubishi 4J1 engine
+Mitsubishi 4M4 engine
+Mitsubishi 4N1 engine
+Mitsubishi 6A1 engine
+Mitsubishi 6B3 engine
+Mitsubishi 6G7 engine
+Mitsubishi 8A8 engine
+Mitsubishi Astron engine
+Mitsubishi KE engine
+Mitsubishi ME21/24 engine
+Mitsubishi Neptune engine
+Mitsubishi Orion engine
+Mitsubishi Sirius engine
+Mitsubishi Vulcan engine
+Mustang
+Subaru 1235
+Subaru CB engine
+Subaru EA engine
+Subaru EJ engine
+Subaru EN engine
+Subaru FA engine
+Subaru FB engine
+Subaru six-cylinder engines
+Tata Revotron engine
+Menard V12 engine
+Mercedes-Benz 500I engine
+Mercedes-Benz DTM V8 engine
+Mercedes-Benz FO engine
+Mercedes-Benz IC108 engine
+Mercedes-Benz M02 engine
+Mercedes-Benz M03 engine
+Mercedes-Benz M04 engine
+Mercedes-Benz M06 engine
+Mercedes-Benz M07 engine
+Mercedes-Benz M08 engine
+Mercedes-Benz M09 engine
+Mercedes-Benz M100 engine
+Mercedes-Benz M102 engine
+Mercedes-Benz M103 engine
+Mercedes-Benz M104 engine
+Mercedes-Benz M106 engine
+Mercedes-Benz M10 engine
+Mercedes-Benz M110 engine
+Mercedes-Benz M111 engine
+Mercedes-Benz M112 engine
+Mercedes-Benz M113 engine
+Mercedes-Benz M114 engine
+Mercedes-Benz M115 engine
+Mercedes-Benz M116 engine
+Mercedes-Benz M117 engine
+Mercedes-Benz M118 engine
+Mercedes-Benz M119 engine
+Mercedes-Benz M11 engine
+Mercedes-Benz M120 engine
+Mercedes-Benz M121 engine
+Mercedes-Benz M123 engine
+Mercedes-Benz M124 engine
+Mercedes-Benz M133 engine
+Mercedes-Benz M136 engine
+Mercedes-Benz M137 engine
+Mercedes-Benz M139 engine
+Mercedes-Benz M142 engine
+Mercedes-Benz M143 engine
+Mercedes-Benz M150 engine
+Mercedes-Benz M152 engine
+Mercedes-Benz M153 engine
+Mercedes-Benz M156 engine
+Mercedes-Benz M15 engine
+Mercedes-Benz M160 engine
+Mercedes-Benz M166 engine
+Mercedes-Benz M176/M177/M178 engine
+Mercedes-Benz M180 engine
+Mercedes-Benz M186 engine
+Mercedes-Benz M18 engine
+Mercedes-Benz M194 engine
+Mercedes-Benz M196 engine
+Mercedes-Benz M19 engine
+Mercedes-Benz M200 engine
+Mercedes-Benz M21 engine
+Mercedes-Benz M22 engine
+Mercedes-Benz M23 engine
+Mercedes-Benz M24 engine
+Mercedes-Benz M256 engine
+Mercedes-Benz M260/M264 engine
+Mercedes-Benz M270/M274 engine
+Mercedes-Benz M271 engine
+Mercedes-Benz M272 engine
+Mercedes-Benz M273 engine
+Mercedes-Benz M275 engine
+Mercedes-Benz M276 engine
+Mercedes-Benz M278 engine
+Mercedes-Benz M279 engine
+Mercedes-Benz M281 engine
+Mercedes-Benz M282 engine
+Mercedes-Benz M291 engine
+Mercedes-Benz M297 engine
+Mercedes-Benz M30 engine
+Mercedes-Benz MB503 engine
+Mercedes-Benz MB507 engine
+Mercedes-Benz MB517 engine
+Mercedes-Benz OM352 engine
+Mercedes-Benz OM457 engine
+Mercedes-Benz OM601 engine
+Mercedes-Benz OM602 engine
+Mercedes-Benz OM603 engine
+Mercedes-Benz OM604 engine
+Mercedes-Benz OM605 engine
+Mercedes-Benz OM606 engine
+Mercedes-Benz OM608 engine
+Mercedes-Benz OM611 engine
+Mercedes-Benz OM612 engine
+Mercedes-Benz OM613 engine
+Mercedes-Benz OM615 engine
+Mercedes-Benz OM616 engine
+Mercedes-Benz OM617 engine
+Mercedes-Benz OM621 engine
+Mercedes-Benz OM628 engine
+Mercedes-Benz OM629 engine
+Mercedes-Benz OM636 engine
+Mercedes-Benz OM639 engine
+Mercedes-Benz OM640 engine
+Mercedes-Benz OM642 engine
+Mercedes-Benz OM646 engine
+Mercedes-Benz OM647 engine
+Mercedes-Benz OM648 engine
+Mercedes-Benz OM651 engine
+Mercedes-Benz OM654 engine
+Mercedes-Benz OM656 engine
+Mercedes-Benz OM660 engine
+Mercedes-Benz OM668 engine
+Mercedes-Benz OM 138
+Mercedes-Benz supercharged Grand Prix racing engine
+Mercedes V6 Hybrid Formula One engine
+Model N Engine
+Oldsmobile Aurora Indy V8 engine
+Oldsmobile Diesel engine
+Oldsmobile V8 engine
+Paxman VP185
+Paxman Valenta
+Paxman Ventura
+Polyspheric
+Pontiac 301 Turbo
+Quad 4 engine
+SAIC Kavachi engine
+SDEC R engine
+TVR Speed Eight engine
+TVR Speed Six engine
+Toyota AD engine
+Toyota AR engine
+Toyota AZ engine
+Toyota A engine
+Toyota B engine
+Toyota CD engine
+Toyota C engine
+Toyota Dynamic Force engine
+Toyota E engine
+Toyota FZ engine
+Toyota F engine
+Toyota G16E engine
+Toyota GD engine
+Toyota GZ engine
+Toyota G engine
+Toyota H8909 engine
+Toyota HD engine
+Toyota HZ engine
+Toyota H engine
+Toyota Indy V8
+Toyota JZ engine
+Toyota KD engine
+Toyota KR engine
+Toyota KZ engine
+Toyota K engine
+Toyota L engine
+Toyota MZ engine
+Toyota M engine
+Toyota NR engine
+Toyota NZ engine
+Toyota PZ engine
+Toyota P engine
+Toyota R32V/R36V engine
+Toyota RI4AG engine
+Toyota RV10 engine
+Toyota RV8 engine
+Toyota RVX engine
+Toyota RZ engine
+Toyota R engine
+Toyota SZ engine
+Toyota S engine
+Toyota TR engine
+Toyota TZ engine
+Toyota T engine
+Toyota Type A engine
+Toyota UR engine
+Toyota UZ engine
+Toyota U engine
+Toyota VD engine
+Toyota VZ engine
+Toyota V engine
+Toyota WW engine
+Toyota W engine
+Toyota Y engine
+Toyota ZR engine
+Toyota ZZ engine
+Viper engine
+Willys Go Devil engine
+Willys Hurricane engine
+Douvrin engine
+Ducati Bipantah engine
+Ducati Superquadro engine
+Duesenberg Straight-8 engine
+Duramax V8 engine
+Ingenium engine family
+International Harvester IDI
+Jeep Tornado engine
+Nissan A engine
+Nissan BD engine
+Nissan CA engine
+Nissan CD engine
+Nissan CG engine
+Nissan CR engine
+Nissan C engine
+Nissan D engine
+Nissan EM motor
+Nissan E engine
+Nissan FD engine
+Nissan FJ engine
+Nissan GA engine
+Nissan HR engine
+Nissan H engine
+Nissan J engine
+Nissan KA engine
+Nissan KR engine
+Nissan L engine
+Nissan MA engine
+Nissan MR engine
+Nissan NA engine
+Nissan NR20A engine
+Nissan P engine
+Nissan QD engine
+Nissan QG engine
+Nissan QR engine
+Nissan RB engine
+Nissan RD engine
+Nissan S20 engine
+Nissan SD engine
+Nissan SR engine
+Nissan TB engine
+Nissan TD engine
+Nissan VEJ30 engine
+Nissan VE engine
+Nissan VG engine
+Nissan VH engine
+Nissan VK engine
+Nissan VQ engine
+Nissan VRH engine
+Nissan VRT35
+Nissan VR engine
+Nissan VVL engine
+Nissan W64 engine
+Nissan YD engine
+Nissan Y engine
+Nissan ZD engine
+Nissan Z engine
+Rover G series
+Rover K-series engine
+Rover KV6 engine
+Rover L-series engine
+Rover T-series engine
+Rover V8 engine
+Scuderia Ferrari 60°-180° V12/flat-12 F1 engine
+Detroit Diesel 110
+Detroit Diesel Series 149
+Detroit Diesel Series 50
+Detroit Diesel Series 60
+Detroit Diesel Series 71
+Detroit Diesel Series 92
+Detroit Diesel V8 engine
+Detroit diesel 6051 quad-71
+Ferrari 268/282C/308C engine
+Ferrari Colombo engine
+Ferrari Dino engine
+Ferrari F116/F133 engine
+Ferrari F136 engine
+Ferrari F140 engine
+Ferrari F154 engine
+Ferrari F160 engine
+Ferrari Indy V8 engine
+Ferrari Jano engine
+Ferrari Lampredi engine
+Ferrari Tipo F163 engine
+Ferrari V10 engine
+Ferrari V6 F1 engine
+Ferrari V8 F1 engine
+Ferrari flat-12 engine
+Ferrari turbocharged V6 F1 engine
+Ferrari turbocharged V6 F1 engine
+Fiat 100 series engine
+Fiat 124 series engine
+Fiat 128 SOHC engine
+Fiat E.torQ engine
+Fiat Fiasa engine
+Fiat Global Small Engine
+Fiat JTD engine
+Fiat Pratola Serra modular engines
+Fiat S.76 engine
+Fiat Twin Cam engine
+GMC V6 engine
+GMC V8 engine
+GMC straight-6 engine
+GM E-Turbo engine
+GM Ecotec Diesel
+GM Ecotec engine
+GM Family 0 engine
+GM Family 1 engine
+GM Family II engine
+GM Family Z engine
+GM High Feature engine
+GM High Value engine
+GM L3B engine
+GM Medium Diesel engine
+GM Medium Gasoline Engine
+GM small gasoline engine
+Kharkiv model V-2
+Mazda B engine
+Mazda C engine
+Mazda E engine
+Mazda FE-DOHC engine
+Mazda F engine
+Mazda G engine
+Mazda J engine
+Mazda K engine
+Mazda L engine
+Mazda MZR engine
+Mazda OHV engine
+Mazda Wankel engine
+Mazda Z engine
+Mazda diesel engines
+McLaren M630 engine
+McLaren M838T engine
+McLaren M840T engine
+NASCAR engine
+World Gasoline Engine
+Wärtsilä-Sulzer RTA96-C
+Caterpillar C13
+Caterpillar C175
+Caterpillar C27
+Caterpillar C280
+Caterpillar C32
+Commer TS3
+Cosworth CR
+Cosworth DFV
+Cosworth GBA
+Cosworth GMA
+Cosworth GPV8
+Cosworth JD / VJ engine
+Cosworth TJ / CA engine
+English Electric diesel engines
+Ilmor-Chevrolet 265-A engine
+Koenigsegg TFG
+Lincoln-Zephyr V12 engine
+Lincoln L-head V12 engine
+Lincoln Y-block V8 engine
+List of PSA engines
+Mecachrome V634 engine
+Mecachrome V8108 GP2 V8
+Simca Poissy engine
+Sprint Car engine
+Stellantis Hurricane engine
+Zytek ZA1348
+Zytek ZG348
+Zytek ZJ458
+Zytek ZRS03
+Chevrolet 153 4-cylinder engine
+Chevrolet 2300 engine
+Chevrolet Gemini small-block engine
+Chevrolet Indy V6
+Chevrolet Indy V8
+Chevrolet Inline-4 engine
+Chevrolet L72
+Chevrolet L78
+Chevrolet LT-1
+Chevrolet Stovebolt engine
+Chevrolet Turbo-Air 6 engine
+Chevrolet Turbo-Thrift engine
+Chevrolet big-block engine
+Chevrolet small-block engine
+Chrysler 1.8, 2.0 & 2.4 engine
+Chrysler 2.2 & 2.5 engine
+Chrysler 3.3 & 3.8 engine
+Chrysler A57 multibank
+Chrysler A engine
+Chrysler B engine
+Chrysler Hemi-6 Engine
+Chrysler Hemi engine
+Chrysler LA engine
+Chrysler LH engine
+Chrysler Pentastar engine
+Chrysler PowerTech engine
+Chrysler SOHC V6 engine
+Chrysler Slant-6 engine
+Chrysler flathead engine
+Circle L engine
+D-400 engine
+DMAX V6 engine
+Daewoo S-TEC engine
+Daihatsu H-series engine
+Daihatsu J-series engine
+Daimler Double-Six sleeve-valve V12
+Daimler M836 engine
+Daimler M9456 engine
+Daimler Straight-Eight engines
+Daimler V8 engines
+Datsun sidevalve engine
+EMD 1010
+EMD 567
+EMD 645
+EMD 710
+Elan 6L8 engine
+FCA Global Medium Engine
+Ford-Cosworth EC / ED engine
+Ford-Cosworth HB engine
+Ford-Cosworth Indy V8 engine
+Ford 335 engine
+Ford 385 engine
+Ford 4.4 Turbo Diesel
+Ford AJD-V6/PSA DT17
+Ford Barra engine
+Ford Boss 302 engine
+Ford Boss engine
+Ford CHT engine
+Ford CVH engine
+Ford Cologne V6 engine
+Ford Cyclone engine
+Ford DLD engine
+Ford Duratec V6 engine
+Ford Duratec engine
+Ford Duratorq engine
+Ford EcoBlue engine
+Ford EcoBoost engine
+Ford Ecotorq engine
+Ford Endura-D engine
+Ford Essex V4 engine
+Ford FE engine
+Ford GAA engine
+Ford GT90 engine
+Ford Godzilla engine
+Ford HSC engine
+Ford I4 DOHC engine
+Ford Indy V8 engine
+Ford Kent engine
+Ford MEL engine
+Ford Model T engine
+Ford Modular engine
+Ford Pinto engine
+Ford Power Stroke engine
+Ford SHO V6 engine
+Ford SHO V8 engine
+Ford Sidevalve engine
+Ford Sigma engine
+Ford Super Duty engine
+Ford Taunus V4 engine
+Ford Vulcan engine
+Ford Y-block engine
+Ford Zephyr engine
+Ford Zeta engine
+Ford Zetec engine
+Ford flathead V8 engine
+Ford small block engine
+Ford straight-six engine
+Jaguar AJ-V6 engine
+Jaguar AJ-V8 engine
+Jaguar AJ6 engine
+Jaguar V12 engine
+Jaguar XK engine
+List of VM Motori engines
+List of Volvo Trucks engines
+Motor 250/400
+Proton CamPro engine
+Cummins B Series engine
+Cummins C Series engine
+Cummins L-series engine
+Cummins M-series engine
+MWM AKD 112 Z
+Maserati 4-cylinder engine
+Maserati 6-cylinder engine
+Northstar engine series
+PSA-Renault X-Type engine
+PSA ES/L engine
+PSA EW/DW engine
+PSA TU engine
+PSA XUD engine
+PSA XU engine
+Skyactiv
+HWA AFR Turbo engine
+Honda A engine
+Honda B20A engine
+Honda B engine
+Honda C engine
+Honda E engine
+Honda F20C engine
+Honda F engine
+Honda HR-414E/HR-420E engine
+Honda HR09E/HR10EG engine
+Honda H engine
+Honda Indy V6
+Honda Indy V8 engine
+Honda J engine
+Honda K engine
+Honda L engine
+Honda N engine
+Honda RA16 engine
+Honda R engine
+Honda V10 engine
+Honda V12 engine
+Honda V8 F1 engine
+Honda turbocharged Indy V8 engine
+Mugen MF308
+Navistar DT engine
+Navistar T444E engine
+Navistar VT engine
+Rolls-Royce C range engines
+Rolls-Royce Meteor
+Rolls-Royce Meteorite
+Rolls-Royce–Bentley L-series V8 engine
+Sofim 8140 engine
+Suzuki FB series engine
+Suzuki F engine
+Suzuki G engine
+Suzuki H engine
+Suzuki K engine
+Suzuki LC10 engine
+Suzuki M engine
+Suzuki R engine
+V6 PRV engine
+V9X engine
+VR5 engine
+VR6 engine
+Hart 1030 engine
+Hart 1035 engine
+Hart 415T engine
+Hart 830 engine
+Perkins 4.236
+Peugeot V10
+Wasserboxer
+Opel OHV engine
+Opel cam-in-head engine
+Opel straight-6 engine
+Renault Billancourt engine
+Renault CH-Type engine
+Renault D-Type engine
+Renault E-Tech Series
+Renault EF-Type engine
+Renault F-Type engine
+Renault G-Type engine
+Renault K-Type engine
+Renault R-Type engine
+Renault RS engine
+Yamaha F1 engine
+Pontiac Trophy 4 engine
+Pontiac V8 engine
+Pontiac straight-6 engine
+Pontiac straight-8 engine
+Porsche 3512
+Porsche Indy V8 engine
+Porsche Type 360 Cisitalia Grand Prix engine
+Porsche V10 engine
+Porsche V8 engine
+Porsche flat-six engine
+Porsche flat-twelve engine
+Powertec RPA
+Saab B engine
+Saab H engine
+Saab V8
+Tritec engine
+Triumph I6
+Triumph V8
+Triumph slant-four engine
+Vauxhall Slant-4 engine
+Volkswagen-Audi V8 engine
+Volkswagen D24TIC engine
+Volkswagen D24T engine
+Volkswagen D24 engine
+Volkswagen EA211 engine
+Volkswagen G60 engine
+Volkswagen Group W-12 engine
+Volkswagen air-cooled engine
+Volvo B18 engine
+Volvo B30 engine
+Volvo B36 engine
+Volvo B4B engine
+Volvo B8444S engine
+Volvo D5 engine
+Volvo Engine Architecture
+Volvo Modular engine
+Volvo Redblock Engine
+Volvo SI6 engine
+Weslake V12 engine
+automobile engine
+power output
+acceleration
+CO2 emission
+cylinder bore
+diameter
+displacement
+height
+length
+piston stroke
+power output
+top speed
+torque output
+weight
+width
+rocket engine
